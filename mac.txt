@@ -1,7 +1,15 @@
 no sandboxing - Posting keyboard or mouse events to another app - https://developer.apple.com/library/archive/documentation/Security/Conceptual/AppSandboxDesignGuide/DesigningYourSandbox/DesigningYourSandbox.html
-
+https://stackoverflow.com/questions/27484330/simulate-keypress-using-swift
 https://forums.developer.apple.com/thread/103992
 https://forums.developer.apple.com/thread/28605
 
 
 Just confirmed on macOS 10.12.4 and Xcode 8.3: you can distribute Safari App Extensions outside the Mac App Store! - https://stackoverflow.com/questions/39927598/can-you-distribute-a-safari-app-extension-outside-the-mac-app-store
+
+
+
+https://stackoverflow.com/questions/9409011/c-qt-cross-platform-library-for-simulating-keyboard-input-sendkeys-send-ke?noredirect=1&lq=1
+
+https://stackoverflow.com/questions/2379867/simulating-key-press-events-in-mac-os-x
+
+https://chrome.google.com/webstore/detail/epluribus-your-civic-id/kpbhhcpjebfejedbkdljaplhfhdphfbn
