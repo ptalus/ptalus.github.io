@@ -13,3 +13,8 @@ https://stackoverflow.com/questions/9409011/c-qt-cross-platform-library-for-simu
 https://stackoverflow.com/questions/2379867/simulating-key-press-events-in-mac-os-x
 
 https://chrome.google.com/webstore/detail/epluribus-your-civic-id/kpbhhcpjebfejedbkdljaplhfhdphfbn
+
+
+sudo ntpdate -u time.apple.com
+
+http://ec2-13-57-227-196.us-west-1.compute.amazonaws.com/
