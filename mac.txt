@@ -18,3 +18,10 @@ https://chrome.google.com/webstore/detail/epluribus-your-civic-id/kpbhhcpjebfeje
 sudo ntpdate -u time.apple.com
 
 http://ec2-13-57-227-196.us-west-1.compute.amazonaws.com/
+
+react-native run-ios --simulator="iPhone 4s"
+
+xcrun simctl list devices
+git clone https://github.com/unumid/UnumID_RN.git
+
+https://i.diawi.com/wD3GNV
