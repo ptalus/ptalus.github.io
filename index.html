@@ -4,6 +4,8 @@
 	<title>Test page to embed the widget</title>
 </head>
 <body bgcolor="#00ff00">
+	<h1>testing page petition</h1>
+    <br />
 	<h1>testing page before</h1>
 	<h1>testing page before</h1>
 	<h1>testing page before</h1>
@@ -23,12 +25,34 @@
 	<h1>testing page before</h1>
 	<h1>testing page before</h1>
 	<h1>testing page before</h1>
-	<h1>testing page before</h1>
+    <!--
     <script id="epluribus_widget" src="https://epluribus.io/widget-standalone-new-test/embed.js" async="false" defer>
+        -->
 </script>
 <script defer>
 //	var epluribus_widget_params = {repid:17};
 </script>
+	<script src="/node_modules/iframe-resizer/js/iframeResizer.min.js"></script>
+		<div id="secureourdemocracy">
+				<style>
+					#petition {
+	                    width: 0px;
+	                    min-width: 100%;
+	                    border-width:0;
+					}
+				</style>
+				<iframe id="petition" src="https://epluribus.io/petition" scrolling="no"></iframe>
+				<script>
+	                window.onload = function () {
+	                    iFrameResize({ log: true, heightCalculationMethod: 'lowestElement', checkOrigin: false, 			resizedCallback: () => {
+						if (window.jQuery) {
+							// cause parallax to recalculate dimensions
+							window.jQuery(window).trigger('resize.px.parallax')
+						}
+					} }, '#petition')
+	                }
+				</script>
+			</div>
 	<h1>testing page after</h1>
 	<h1>testing page after</h1>
 	<h1>testing page after</h1>
