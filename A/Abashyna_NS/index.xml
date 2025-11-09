@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абашина Наталія</title>
+  <id>/A/Abashyna_NS/index.xml</id>
+  <updated>2025-11-09T13:33:35Z</updated>
+  <link href="/A/Abashyna_NS/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>В.П. Петров про взаємодію античної цивілізації з варварським світом</title>
+    <id>/A/Abashyna_NS/VP_Petrov_pro_vzaiemodiiu_antychnoi_tsyvilizatsii_z_varvarskym_svitom.xml</id>
+    <link href="/A/Abashyna_NS/VP_Petrov_pro_vzaiemodiiu_antychnoi_tsyvilizatsii_z_varvarskym_svitom.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>В.П. Петров про поняття «археологічна культура»</title>
+    <id>/A/Abashyna_NS/VP_Petrov_pro_poniattia_arkheolohichna_kultura.xml</id>
+    <link href="/A/Abashyna_NS/VP_Petrov_pro_poniattia_arkheolohichna_kultura.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Вивчення етногенезу слов'ян в працях В.П. Петрова</title>
+    <id>/A/Abashyna_NS/Vyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova.xml</id>
+    <link href="/A/Abashyna_NS/Vyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Давні слов'яни. Археологія та історія</title>
+    <id>/A/Abashyna_NS/Davni_sloviany_Arkheolohiia_ta_istoriia.xml</id>
+    <link href="/A/Abashyna_NS/Davni_sloviany_Arkheolohiia_ta_istoriia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Докирилівський напис на пряслиці з ранньослов’янського поселення Обухів II</title>
+    <id>/A/Abashyna_NS/Dokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II.xml</id>
+    <link href="/A/Abashyna_NS/Dokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Історія цивілізації. Україна. Том 1: Від кіммерійців до Русі (Х ст. до н.е. – ІХ ст.)</title>
+    <id>/A/Abashyna_NS/Istoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st.xml</id>
+    <link href="/A/Abashyna_NS/Istoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Кераміка пізньозарубинецького поселення Обухів III</title>
+    <id>/A/Abashyna_NS/Keramika_piznozarubynetskoho_poselennia_Obukhiv_III.xml</id>
+    <link href="/A/Abashyna_NS/Keramika_piznozarubynetskoho_poselennia_Obukhiv_III.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Ліана Василівна Вакуленко — дослідниця старожитностей України</title>
+    <id>/A/Abashyna_NS/Liana_Vasylivna_Vakulenko__doslidnytsia_starozhytnostei_Ukrainy.xml</id>
+    <link href="/A/Abashyna_NS/Liana_Vasylivna_Vakulenko__doslidnytsia_starozhytnostei_Ukrainy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Нові пам'ятки I тисячоліття н.е. в Київському Подніпров'ї</title>
+    <id>/A/Abashyna_NS/Novi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi.xml</id>
+    <link href="/A/Abashyna_NS/Novi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Пам’ятки черняхівської культури Полтавської області</title>
+    <id>/A/Abashyna_NS/Pamiatky_cherniakhivskoi_kultury_Poltavskoi_oblasti.xml</id>
+    <link href="/A/Abashyna_NS/Pamiatky_cherniakhivskoi_kultury_Poltavskoi_oblasti.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Першопочатки досліджень полів поховань в Україні</title>
+    <id>/A/Abashyna_NS/Pershopochatky_doslidzhen_poliv_pokhovan_v_Ukraini.xml</id>
+    <link href="/A/Abashyna_NS/Pershopochatky_doslidzhen_poliv_pokhovan_v_Ukraini.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Ранньослов'янське поселення Обухів VII на Стугні</title>
+    <id>/A/Abashyna_NS/Rannoslovianske_poselennia_Obukhiv_VII_na_Stuhni.xml</id>
+    <link href="/A/Abashyna_NS/Rannoslovianske_poselennia_Obukhiv_VII_na_Stuhni.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

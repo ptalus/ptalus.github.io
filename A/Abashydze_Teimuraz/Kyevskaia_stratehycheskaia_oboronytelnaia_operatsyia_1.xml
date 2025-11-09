@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Киевская стратегическая оборонительная операция 7 июля – 26 сентября 1941 года: Часть 1. Трагедия под Уманью (рос.)</title>
+  <id>/A/Abashydze_Teimuraz/Kyevskaia_stratehycheskaia_oboronytelnaia_operatsyia_1.xml</id>
+  <updated>2025-11-09T13:33:33Z</updated>
+  <link href="/A/Abashydze_Teimuraz/Kyevskaia_stratehycheskaia_oboronytelnaia_operatsyia_1.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Киевская стратегическая оборонительная операция 7 июля – 26 сентября 1941 года: Часть 1. Трагедия под Уманью (рос.)</title>
+    <id>https://chtyvo.org.ua/authors/Abashydze_Teimuraz/Kyevskaia_stratehycheskaia_oboronytelnaia_operatsyia_1/</id>
+    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abashydze_Teimuraz/Kyevskaia_stratehycheskaia_oboronytelnaia_operatsyia_1/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abashydze_Teimuraz/Kyevskaia_stratehycheskaia_oboronytelnaia_operatsyia_1.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbashydze_Teimuraz%2FKyevskaia_stratehycheskaia_oboronytelnaia_operatsyia_1.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+  </entry>
+</feed>

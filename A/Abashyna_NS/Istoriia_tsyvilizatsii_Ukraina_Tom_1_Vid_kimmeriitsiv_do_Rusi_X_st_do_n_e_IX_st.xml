@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Історія цивілізації. Україна. Том 1: Від кіммерійців до Русі (Х ст. до н.е. – ІХ ст.)</title>
+  <id>/A/Abashyna_NS/Istoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st.xml</id>
+  <updated>2025-11-09T13:33:40Z</updated>
+  <link href="/A/Abashyna_NS/Istoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Історія цивілізації. Україна. Том 1: Від кіммерійців до Русі (Х ст. до н.е. – ІХ ст.)</title>
+    <id>https://chtyvo.org.ua/authors/Abashyna_NS/Istoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st/</id>
+    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Istoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Istoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Istoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbashyna_NS%2FIstoriia_tsyvilizatsii_Ukraina_Tom_1_Vid_kimmeriitsiv_do_Rusi_X_st_do_n_e_IX_st.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+  </entry>
+</feed>

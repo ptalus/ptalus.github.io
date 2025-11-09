@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора «Архіви України»</title>
+  <id>/A/Arkhivy_Ukrainy/index.xml</id>
+  <updated>2025-11-09T13:33:05Z</updated>
+  <link href="/A/Arkhivy_Ukrainy/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>1994, №1-6 (235)</title>
+    <id>/A/Arkhivy_Ukrainy/1994_N1-6_235.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/1994_N1-6_235.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>1995, №1-3 (236)</title>
+    <id>/A/Arkhivy_Ukrainy/1995_N1-3_236.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/1995_N1-3_236.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>1995, №4-6 (237)</title>
+    <id>/A/Arkhivy_Ukrainy/1995_N4-6_237.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/1995_N4-6_237.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>1996, №1-3 (238)</title>
+    <id>/A/Arkhivy_Ukrainy/1996_N1-3_238.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/1996_N1-3_238.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>1996, №4-6 (239)</title>
+    <id>/A/Arkhivy_Ukrainy/1996_N4-6_239.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/1996_N4-6_239.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>1997, №1-6 (240)</title>
+    <id>/A/Arkhivy_Ukrainy/1997_N1-6_240.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/1997_N1-6_240.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>1998, №1-6 (241)</title>
+    <id>/A/Arkhivy_Ukrainy/1998_N1-6_241.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/1998_N1-6_241.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>1999, №1-6 (242)</title>
+    <id>/A/Arkhivy_Ukrainy/1999_N1-6_242.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/1999_N1-6_242.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>2001, №1-2 (245)</title>
+    <id>/A/Arkhivy_Ukrainy/2001_N1-2_245.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/2001_N1-2_245.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>2001, №3 (246)</title>
+    <id>/A/Arkhivy_Ukrainy/2001_N3_246.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/2001_N3_246.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>2001, №4-5 (247)</title>
+    <id>/A/Arkhivy_Ukrainy/2001_N4-5_247.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/2001_N4-5_247.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>2001, №6 (248)</title>
+    <id>/A/Arkhivy_Ukrainy/2001_N6_248.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/2001_N6_248.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книжка 4 (15)</title>
+  <id>/A/Arkhivna_sprava/Knyzhka_4_15.xml</id>
+  <updated>2025-11-09T13:33:18Z</updated>
+  <link href="/A/Arkhivna_sprava/Knyzhka_4_15.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Книжка 4 (15)</title>
+    <id>https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_4_15/</id>
+    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_4_15/" rel="alternate" type="text/html"/>
+  </entry>
+</feed>

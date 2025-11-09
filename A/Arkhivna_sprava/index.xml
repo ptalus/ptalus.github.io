@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора «Архівна справа»</title>
+  <id>/A/Arkhivna_sprava/index.xml</id>
+  <updated>2025-11-09T13:33:14Z</updated>
+  <link href="/A/Arkhivna_sprava/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Книжка 1</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_1.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_1.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 11</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_11.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_11.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 2-3</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_2-3.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_2-3.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 4</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_4.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_4.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 4 (15)</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_4_15.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_4_15.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 4-5 (19-20)</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_4-5_19-20.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_4-5_19-20.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 5-6</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_5-6.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_5-6.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 7</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_7.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_7.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 8</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_8.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_8.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Книжка 9-10</title>
+    <id>/A/Arkhivna_sprava/Knyzhka_9-10.xml</id>
+    <link href="/A/Arkhivna_sprava/Knyzhka_9-10.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

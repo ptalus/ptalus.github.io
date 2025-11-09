@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Випуск 5</title>
+  <id>/A/Arkheolohichni_studii/Vypusk_5.xml</id>
+  <updated>2025-11-09T13:33:04Z</updated>
+  <link href="/A/Arkheolohichni_studii/Vypusk_5.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Випуск 5</title>
+    <id>https://chtyvo.org.ua/authors/Arkheolohichni_studii/Vypusk_5/</id>
+    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Arkheolohichni_studii/Vypusk_5/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Arkheolohichni_studii/Vypusk_5.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron3.chtyvo.org.ua%2FArkheolohichni_studii%2FVypusk_5.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+  </entry>
+</feed>
