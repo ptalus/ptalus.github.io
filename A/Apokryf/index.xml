@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора «Апокриф»</title>
+  <id>/A/Apokryf/index.xml</id>
+  <updated>2025-11-09T12:45:45Z</updated>
+  <link href="/A/Apokryf/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>2014, №1 (1)</title>
+    <id>/A/Apokryf/2014_N1_1.xml</id>
+    <link href="/A/Apokryf/2014_N1_1.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>2014, №2 (2)</title>
+    <id>/A/Apokryf/2014_N2_2.xml</id>
+    <link href="/A/Apokryf/2014_N2_2.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>2015, №1 (3)</title>
+    <id>/A/Apokryf/2015_N1_3.xml</id>
+    <link href="/A/Apokryf/2015_N1_3.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>2015, №2 (4)</title>
+    <id>/A/Apokryf/2015_N2_4.xml</id>
+    <link href="/A/Apokryf/2015_N2_4.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>2016, №3 (5)</title>
+    <id>/A/Apokryf/2016_N3_5.xml</id>
+    <link href="/A/Apokryf/2016_N3_5.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>
