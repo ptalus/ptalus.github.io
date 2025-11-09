@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Археологічні студії» » Випуск 3</title>
   <id>/A/Arkheolohichni_studii/Vypusk_3.xml</id>
-  <updated>2025-11-09T14:28:31Z</updated>
+  <updated>2025-11-09T14:38:51Z</updated>
   <link href="/A/Arkheolohichni_studii/Vypusk_3.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Археологічні студії» » Випуск 3</title>
@@ -10,6 +10,7 @@
     <summary>Археологічні студії / Інститут археології НАН України, Буковинський центрархеологічних досліджень при Чернівецькому національному університеті ім. Ю.Федьковича. - Київ-Чернівці: ТОВ “Видавництво “Наші книги”, 2008. - Вип. 3.-300 с.ISBN978-966-482-017-9У збірнику вміщені статті з актуальних питань археології, антропології, стародавньої та середньовічної історії. Більшість публікацій містять нові матеріали, які вводяться в науковий обіг вперше. Розглядаються проблеми історії матеріальної та духовної культури населення Східної Європи від найдавніших часів до середньовіччя. Для археологів, істориків, музейних працівників, краєзнавців, учителів історії, викладачів і студентів історичних факультетів вищих навчальних закладів,</summary>
     <link href="https://chtyvo.org.ua/content/covers/037713f241ca274fd6538eacbdc38ebc.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkheolohichni_studii/Vypusk_3/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Arkheolohichni_studii/Vypusk_3.djvu" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
     <link href="https://chtyvo.org.ua/authors/Arkheolohichni_studii/Vypusk_3.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
     <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron3.chtyvo.org.ua%2FArkheolohichni_studii%2FVypusk_3.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>

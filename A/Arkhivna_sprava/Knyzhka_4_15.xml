@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Архівна справа» » Книжка 4 (15)</title>
   <id>/A/Arkhivna_sprava/Knyzhka_4_15.xml</id>
-  <updated>2025-11-09T14:28:45Z</updated>
+  <updated>2025-11-09T14:39:31Z</updated>
   <link href="/A/Arkhivna_sprava/Knyzhka_4_15.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Архівна справа» » Книжка 4 (15)</title>
     <id>https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_4_15/</id>
     <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_4_15/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_4_15.djvu" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>
