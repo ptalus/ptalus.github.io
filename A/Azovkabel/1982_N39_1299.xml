@@ -2,13 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Азовкабель» » 1982, №39 (1299)</title>
   <id>/A/Azovkabel/1982_N39_1299.xml</id>
-  <updated>2025-11-09T13:53:16Z</updated>
+  <updated>2025-11-09T14:03:15Z</updated>
   <link href="/A/Azovkabel/1982_N39_1299.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Азовкабель» » 1982, №39 (1299)</title>
     <id>https://chtyvo.org.ua/authors/Azovkabel/1982_N39_1299/</id>
     <link href="https://chtyvo.org.ua/content/covers/306baf64c9398e83f214b4e421d7b0f7.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Azovkabel/1982_N39_1299/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Azovkabel/1982_N39_1299.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

@@ -2,13 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Археологічний літопис Лівобережної України» » 1997, №1-2</title>
   <id>/A/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/1997_N1-2.xml</id>
-  <updated>2025-11-09T13:53:34Z</updated>
+  <updated>2025-11-09T14:03:33Z</updated>
   <link href="/A/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/1997_N1-2.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Археологічний літопис Лівобережної України» » 1997, №1-2</title>
     <id>https://chtyvo.org.ua/authors/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/1997_N1-2/</id>
     <link href="https://chtyvo.org.ua/content/covers/074166ac9b55e204a8ec307625dd83d0.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/1997_N1-2/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/1997_N1-2.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

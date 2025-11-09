@@ -2,12 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Апокриф» » 2014, №2 (2)</title>
   <id>/A/Apokryf/2014_N2_2.xml</id>
-  <updated>2025-11-09T13:53:24Z</updated>
+  <updated>2025-11-09T14:03:23Z</updated>
   <link href="/A/Apokryf/2014_N2_2.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Апокриф» » 2014, №2 (2)</title>
     <id>https://chtyvo.org.ua/authors/Apokryf/2014_N2_2/</id>
     <link href="https://chtyvo.org.ua/authors/Apokryf/2014_N2_2/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Apokryf/2014_N2_2.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

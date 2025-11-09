@@ -2,13 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Архівна справа» » Книжка 8</title>
   <id>/A/Arkhivna_sprava/Knyzhka_8.xml</id>
-  <updated>2025-11-09T13:54:39Z</updated>
+  <updated>2025-11-09T14:04:37Z</updated>
   <link href="/A/Arkhivna_sprava/Knyzhka_8.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Архівна справа» » Книжка 8</title>
     <id>https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_8/</id>
     <link href="https://chtyvo.org.ua/content/covers/2a821f72ff639b08995ddaceb6c14fac.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_8/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_8.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>
