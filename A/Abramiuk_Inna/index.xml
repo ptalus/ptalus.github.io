@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абрамюк Інна</title>
+  <id>/A/Abramiuk_Inna/index.xml</id>
+  <updated>2025-11-09T15:06:42Z</updated>
+  <link href="/A/Abramiuk_Inna/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Особливості архітектури однородинного житла Луцька поч. XX ст.</title>
+    <id>/A/Abramiuk_Inna/Osoblyvosti_arkhitektury_odnorodynnoho_zhytla_Lutska_poch_XX_st.xml</id>
+    <link href="/A/Abramiuk_Inna/Osoblyvosti_arkhitektury_odnorodynnoho_zhytla_Lutska_poch_XX_st.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

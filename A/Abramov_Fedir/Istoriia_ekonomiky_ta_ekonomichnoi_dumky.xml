@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Федір Абрамов » Історія економіки та економічної думки</title>
+  <id>/A/Abramov_Fedir/Istoriia_ekonomiky_ta_ekonomichnoi_dumky.xml</id>
+  <updated>2025-11-09T15:06:31Z</updated>
+  <link href="/A/Abramov_Fedir/Istoriia_ekonomiky_ta_ekonomichnoi_dumky.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Федір Абрамов » Історія економіки та економічної думки</title>
+    <id>https://chtyvo.org.ua/authors/Abramov_Fedir/Istoriia_ekonomiky_ta_ekonomichnoi_dumky/</id>
+    <summary>Історія економіки та економічної думки: навч. посіб. / за ред. проф. С.І.Архієреєва, доц. Н.Б.Решетняк – Х.: НТУ «ХПІ», 2010. – 336 с.У навчальному посібнику розкривається історія економіки й економічної думки світу й України із древніх часів до наших днів, що викладається в тісному зв'язку з характеристикою епох, типів економіки й економічних ідей і концепцій. Показано внесок українських учених у скарбницю світової економічної науки. До кожної теми додається методичне забезпечення: цитати з першоджерел, питання для самоконтролю, план семінару, теми рефератів і усних повідомлень, тести. У завершення додаються питання до іспиту і термінологічний словник. Посібник підготовлений у відповідності в нормативною програмою «Історія економіки й економічної думки» для студентів економічних спеціальностей.Призначено для студентів економічних спеціальностей усіх напрямків.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/04705e3d5e7b961f2a19dfe47af382a5.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Fedir/Istoriia_ekonomiky_ta_ekonomichnoi_dumky/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Fedir/Istoriia_ekonomiky_ta_ekonomichnoi_dumky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FShypilova_Mariia%2FIstoriia_ekonomiky_ta_ekonomichnoi_dumky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

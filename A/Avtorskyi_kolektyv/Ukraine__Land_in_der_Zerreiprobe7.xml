@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Авторський колектив » «Ukraine – Land in der Zerreißprobe?» (нім.)</title>
+  <id>/A/Avtorskyi_kolektyv/Ukraine__Land_in_der_Zerreiprobe7.xml</id>
+  <updated>2025-11-09T15:08:18Z</updated>
+  <link href="/A/Avtorskyi_kolektyv/Ukraine__Land_in_der_Zerreiprobe7.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Авторський колектив » «Ukraine – Land in der Zerreißprobe?» (нім.)</title>
+    <id>https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Ukraine__Land_in_der_Zerreiprobe7/</id>
+    <summary>Подіумна дискусія в рамках проєкту &quot;Оснабрюцькі миротворчі бесіди&quot; між мером Києва Віталієм Кличком, президентом Європарламенту Гансом-Гертом Петтерінгом, журналістом Райнгардом Лаутербахом і публікою щодо України в 2014-5 роках, що відбулася за модераії професора Оснабрюцького університету Райнгольда Мокроша  в м. Оснабрюк (Федеративна Республіка Німеччина) 26 березня 2015 року.Опубліковано в:Osnabrücker Jahrbuch Frieden und Wissenschaft. - №23 (2016): Themenschwerpunkt: Krisen Europas - Ukraine, Nahen Ost, Migration. - S. 15-40.</summary>
+    <link href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Ukraine__Land_in_der_Zerreiprobe7/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Ukraine__Land_in_der_Zerreiprobe7.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvtorskyi_kolektyv%2FUkraine__Land_in_der_Zerreiprobe7.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

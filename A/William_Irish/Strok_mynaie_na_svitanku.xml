@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Вільям Айріш » Строк минає на світанку</title>
+  <id>/A/William_Irish/Strok_mynaie_na_svitanku.xml</id>
+  <updated>2025-11-09T15:11:17Z</updated>
+  <link href="/A/William_Irish/Strok_mynaie_na_svitanku.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Вільям Айріш » Строк минає на світанку</title>
+    <id>https://chtyvo.org.ua/authors/William_Irish/Strok_mynaie_na_svitanku/</id>
+    <summary>К.: Молодь, 1968.З англійської переклав Володимир Митрофанов.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/ad68b8a2a3d81f9c476bc9fce09bad97.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/William_Irish/Strok_mynaie_na_svitanku/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/William_Irish/Strok_mynaie_na_svitanku.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

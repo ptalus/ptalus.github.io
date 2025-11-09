@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Азовцева Софія</title>
+  <id>/A/Azovtseva_Sofiia/index.xml</id>
+  <updated>2025-11-09T15:11:00Z</updated>
+  <link href="/A/Azovtseva_Sofiia/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Євангельські сюжети у бароковому проповідницькому дискурсі (Кирило Транквіліон Ставровецький та Антоній Радивиловський)</title>
+    <id>/A/Azovtseva_Sofiia/Yevanhelski_siuzhety_u_barokovomu_propovidnytskomu_dyskursi_Kyrylo_Trankvilion_Stavrovetskyi_ta_Anto.xml</id>
+    <link href="/A/Azovtseva_Sofiia/Yevanhelski_siuzhety_u_barokovomu_propovidnytskomu_dyskursi_Kyrylo_Trankvilion_Stavrovetskyi_ta_Anto.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

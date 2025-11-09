@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Автушенко Олександр</title>
+  <id>/A/Avtushenko_Oleksandr/index.xml</id>
+  <updated>2025-11-09T15:08:20Z</updated>
+  <link href="/A/Avtushenko_Oleksandr/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Еволюція військового співробітництва України та Польщі</title>
+    <id>/A/Avtushenko_Oleksandr/Evoliutsiia_viiskovoho_spivrobitnytstva_Ukrainy_ta_Polschi.xml</id>
+    <link href="/A/Avtushenko_Oleksandr/Evoliutsiia_viiskovoho_spivrobitnytstva_Ukrainy_ta_Polschi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Курс лекцій із загальновійськових дисциплін на етапі первинної військово-професійної підготовки</title>
+    <id>/A/Avtushenko_Oleksandr/Kurs_lektsii_iz_zahalnoviiskovykh_dystsyplin_na_etapi_pervynnoi_viiskovo-profesiinoi_pidhotovky.xml</id>
+    <link href="/A/Avtushenko_Oleksandr/Kurs_lektsii_iz_zahalnoviiskovykh_dystsyplin_na_etapi_pervynnoi_viiskovo-profesiinoi_pidhotovky.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

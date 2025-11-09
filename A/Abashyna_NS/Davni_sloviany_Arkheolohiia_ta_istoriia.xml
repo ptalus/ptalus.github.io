@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Давні слов'яни. Археологія та історія</title>
+  <title>Наталія Абашина » Давні слов'яни. Археологія та історія</title>
   <id>/A/Abashyna_NS/Davni_sloviany_Arkheolohiia_ta_istoriia.xml</id>
-  <updated>2025-11-09T13:33:38Z</updated>
+  <updated>2025-11-09T15:05:42Z</updated>
   <link href="/A/Abashyna_NS/Davni_sloviany_Arkheolohiia_ta_istoriia.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Давні слов'яни. Археологія та історія</title>
+    <title>Наталія Абашина » Давні слов'яни. Археологія та історія</title>
     <id>https://chtyvo.org.ua/authors/Abashyna_NS/Davni_sloviany_Arkheolohiia_ta_istoriia/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <summary>У навчальному посібнику на основі нових досліджень висвітлено процеси формування та історичного розвитку слов’ян у переддержавний період на території Південно-Східної Європи і України, зокрема. Хронологічно книга охоплює період від перших писемних звісток про слов’ян (III ст. до н.е.) до часу формування слов’янських племінних союзів і державних утворень (IX ст. н.е.). Характеристику археологічних культур, які мають пряме або опосередковане відношення до формування та ранньої історії слов’ян, наведено в контексті подій європейської історії, відтворених за писемними джерелами. У додатку вміщено стислий опис основних пам’яток цих культур, розташованих на території України. Окремі розділи книги присвячені господарству та віруванням давнього населення. Посібник ілюстрований картами і схемами, фото і рисунками.Для викладачів і студентів історичних факультетів вищих навчальних закладів, вчителів загальноосвітніх шкіл, а також всіх, хто цікавиться історією.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/013e4bd242b2c14bf1eee22269ed3080.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Davni_sloviany_Arkheolohiia_ta_istoriia/" rel="alternate" type="text/html"/>
     <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Davni_sloviany_Arkheolohiia_ta_istoriia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbashyna_NS%2FDavni_sloviany_Arkheolohiia_ta_istoriia.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbashyna_NS%2FDavni_sloviany_Arkheolohiia_ta_istoriia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
   </entry>
 </feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Зорі в твоїх долонях</title>
+  <id>/A/Avramenko_Oleh/Zori_v_tvoih_doloniah.xml</id>
+  <updated>2025-11-09T15:07:38Z</updated>
+  <link href="/A/Avramenko_Oleh/Zori_v_tvoih_doloniah.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Зорі в твоїх долонях</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Zori_v_tvoih_doloniah/</id>
+    <summary>Вiчнiсть належить нам. I кожен вiзьме собi стiльки, скiльки вмiститься у жменях. Тiльки не розсипте, бо свого часу Бог неуважно розчепiрив пальцi — i от тепер на небi стiльки зiрок, що не порахувати навiть нашим нащадкам.Випадкова зустрiч приводить головного героя у табiр заколотникiв. Режим iнопланетних загарбникiв, який, здавалося, житиме вiчно, раптом починає трiщати по швах... Та навiть сили добра, що мають урештi-решт перемогти, виявляються не такими вже й добрими. А сили зла — не такими вже й злими. Iнакше кажучи, все, як у нашому життi. Бо це книжка про нас iз вами. I до дiдька космольоти та просторовi переходи.Адже Вiчнiсть насправдi у наших руках. Просто у жменях.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/abff5ce1be8afba710c9b3daac986e21.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Zori_v_tvoih_doloniah/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Zori_v_tvoih_doloniah.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

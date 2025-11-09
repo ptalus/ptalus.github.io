@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Григорій Айолло » Большевики і національне питання</title>
+  <id>/A/Aiollo_Hryhorii/Bolshevyky_i_natsionalne_pytannia.xml</id>
+  <updated>2025-11-09T15:11:14Z</updated>
+  <link href="/A/Aiollo_Hryhorii/Bolshevyky_i_natsionalne_pytannia.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Григорій Айолло » Большевики і національне питання</title>
+    <id>https://chtyvo.org.ua/authors/Aiollo_Hryhorii/Bolshevyky_i_natsionalne_pytannia/</id>
+    <summary>Большевики і національне питання / Г.Г. Айолло.Київ ; Прага ; Львів : Видання й наклад Закордонної групи У.С-Д.Р.П, 1924 ([Каліш] : Друкарня видавництва &quot;Чорномор&quot;)</summary>
+    <link href="https://chtyvo.org.ua/authors/Aiollo_Hryhorii/Bolshevyky_i_natsionalne_pytannia/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aiollo_Hryhorii/Bolshevyky_i_natsionalne_pytannia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAiollo_Hryhorii%2FBolshevyky_i_natsionalne_pytannia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

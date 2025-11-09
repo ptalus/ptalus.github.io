@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абдуллаєва Маріанна</title>
+  <id>/A/Abdullaieva_Marianna/index.xml</id>
+  <updated>2025-11-09T15:05:56Z</updated>
+  <link href="/A/Abdullaieva_Marianna/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Грецькі громади Криму у 1917–1938 рр. (Етноконфесійний аспект)</title>
+    <id>/A/Abdullaieva_Marianna/Hretski_hromady_Krymu_u_19171938_rr_Etnokonfesiinyi_aspekt.xml</id>
+    <link href="/A/Abdullaieva_Marianna/Hretski_hromady_Krymu_u_19171938_rr_Etnokonfesiinyi_aspekt.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Духовно-релігійне життя греків Криму наприкінці XVIII – на початку XX ст.</title>
+    <id>/A/Abdullaieva_Marianna/Dukhovno-relihiine_zhyttia_hrekiv_Krymu_naprykintsi_XVIII_na_pochatku_XX_st.xml</id>
+    <link href="/A/Abdullaieva_Marianna/Dukhovno-relihiine_zhyttia_hrekiv_Krymu_naprykintsi_XVIII_na_pochatku_XX_st.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Мортімер Адлер » Як прочитати книгу</title>
+  <id>/A/Adler_Mortimer/Yak_prochytaty_knyhu.xml</id>
+  <updated>2025-11-09T15:10:21Z</updated>
+  <link href="/A/Adler_Mortimer/Yak_prochytaty_knyhu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Мортімер Адлер » Як прочитати книгу</title>
+    <id>https://chtyvo.org.ua/authors/Adler_Mortimer/Yak_prochytaty_knyhu/</id>
+    <link href="https://chtyvo.org.ua/content/covers/48f23d4795514005db070170b915ef25.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adler_Mortimer/Yak_prochytaty_knyhu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adler_Mortimer/Yak_prochytaty_knyhu.epub" rel="http://opds-spec.org/acquisition" type="application/epub+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Adler_Mortimer/Yak_prochytaty_knyhu.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

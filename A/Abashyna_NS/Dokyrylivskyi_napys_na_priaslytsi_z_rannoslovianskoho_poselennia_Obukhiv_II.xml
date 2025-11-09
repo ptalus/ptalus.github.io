@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Докирилівський напис на пряслиці з ранньослов’янського поселення Обухів II</title>
+  <title>Наталія Абашина » Докирилівський напис на пряслиці з ранньослов’янського поселення Обухів II</title>
   <id>/A/Abashyna_NS/Dokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II.xml</id>
-  <updated>2025-11-09T13:33:39Z</updated>
+  <updated>2025-11-09T15:05:43Z</updated>
   <link href="/A/Abashyna_NS/Dokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Докирилівський напис на пряслиці з ранньослов’янського поселення Обухів II</title>
+    <title>Наталія Абашина » Докирилівський напис на пряслиці з ранньослов’янського поселення Обухів II</title>
     <id>https://chtyvo.org.ua/authors/Abashyna_NS/Dokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <summary>Археологія, 2001, № 2</summary>
     <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Dokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II/" rel="alternate" type="text/html"/>
     <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Dokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FKravchenko_N_M%2FDokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FKravchenko_N_M%2FDokyrylivskyi_napys_na_priaslytsi_z_rannoslovianskoho_poselennia_Obukhiv_II.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
   </entry>
 </feed>

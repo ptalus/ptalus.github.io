@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Агієнко О.</title>
+  <id>/A/Ahiienko_O/index.xml</id>
+  <updated>2025-11-09T15:08:51Z</updated>
+  <link href="/A/Ahiienko_O/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Революція духа (з приводу реформи церкви)</title>
+    <id>/A/Ahiienko_O/Revoliutsiia_dukha_z_pryvodu_reformy_tserkvy.xml</id>
+    <link href="/A/Ahiienko_O/Revoliutsiia_dukha_z_pryvodu_reformy_tserkvy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

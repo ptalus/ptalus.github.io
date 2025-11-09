@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авґустин Аврелій</title>
+  <id>/A/Augustinus_Aurelius/index.xml</id>
+  <updated>2025-11-09T15:07:03Z</updated>
+  <link href="/A/Augustinus_Aurelius/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Сповідь</title>
+    <id>/A/Augustinus_Aurelius/Spovid.xml</id>
+    <link href="/A/Augustinus_Aurelius/Spovid.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

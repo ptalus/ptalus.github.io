@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Григорій Азаренков » Фінансовий аналіз</title>
+  <id>/A/Azarenkov_Hryhorii/Finansovyi_analiz.xml</id>
+  <updated>2025-11-09T15:10:42Z</updated>
+  <link href="/A/Azarenkov_Hryhorii/Finansovyi_analiz.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Григорій Азаренков » Фінансовий аналіз</title>
+    <id>https://chtyvo.org.ua/authors/Azarenkov_Hryhorii/Finansovyi_analiz/</id>
+    <summary>Розкрито теоретико-методичні основи аналізу платоспроможності, ліквідності, фінансової стійкості, грошових коштів та їх потоків, ефективності використання капіталу підприємства і запропоновано шляхи його застосування в процесі стратегічного, тактичного та оперативного управління підприємством. Запропоновано також методичні підходи, практичне використання яких дозволить об’єктивно оцінити рівень фінансового стану, кредитоспроможності та інвестиційної привабливості підприємства.Рекомендовано для студентів економічних спеціальностей.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/37e44ca68963dfca7411e3dc51cf014a.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Azarenkov_Hryhorii/Finansovyi_analiz/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azarenkov_Hryhorii/Finansovyi_analiz.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FOtenko_Iryna%2FFinansovyi_analiz.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

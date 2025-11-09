@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Агафонов Сергій</title>
+  <id>/A/Ahafonov_Serhii/index.xml</id>
+  <updated>2025-11-09T15:08:30Z</updated>
+  <link href="/A/Ahafonov_Serhii/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Римське право</title>
+    <id>/A/Ahafonov_Serhii/Rymske_pravo.xml</id>
+    <link href="/A/Ahafonov_Serhii/Rymske_pravo.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

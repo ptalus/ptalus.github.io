@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абдулаєва Гульнара</title>
+  <id>/A/Abdulaieva_Hulnara/index.xml</id>
+  <updated>2025-11-09T15:05:53Z</updated>
+  <link href="/A/Abdulaieva_Hulnara/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Кримські татари: від етногенезу до державності</title>
+    <id>/A/Abdulaieva_Hulnara/Krymski_tatary_vid_etnohenezu_do_derzhavnosti.xml</id>
+    <link href="/A/Abdulaieva_Hulnara/Krymski_tatary_vid_etnohenezu_do_derzhavnosti.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

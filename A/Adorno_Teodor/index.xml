@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адорно Теодор</title>
+  <id>/A/Adorno_Teodor/index.xml</id>
+  <updated>2025-11-09T15:10:24Z</updated>
+  <link href="/A/Adorno_Teodor/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Актуальність філософії</title>
+    <id>/A/Adorno_Teodor/Aktualnist_filosofii.xml</id>
+    <link href="/A/Adorno_Teodor/Aktualnist_filosofii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

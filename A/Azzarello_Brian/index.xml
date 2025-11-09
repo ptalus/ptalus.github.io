@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Азарелло Браян</title>
+  <id>/A/Azzarello_Brian/index.xml</id>
+  <updated>2025-11-09T15:10:39Z</updated>
+  <link href="/A/Azzarello_Brian/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Темний лицар ІІІ: Вища раса. Книга 1</title>
+    <id>/A/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_1.xml</id>
+    <link href="/A/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_1.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Темний лицар ІІІ: Вища раса. Книга 2</title>
+    <id>/A/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_2.xml</id>
+    <link href="/A/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_2.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Темний лицар ІІІ: Вища раса. Книга 3</title>
+    <id>/A/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_3.xml</id>
+    <link href="/A/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_3.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Марія Тіхоновна Авдєєва » Словарь украинских говоров Воронежской области. Том 1 (рос.)</title>
+  <id>/A/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_1_ros.xml</id>
+  <updated>2025-11-09T15:07:09Z</updated>
+  <link href="/A/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_1_ros.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Марія Тіхоновна Авдєєва » Словарь украинских говоров Воронежской области. Том 1 (рос.)</title>
+    <id>https://chtyvo.org.ua/authors/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_1_ros/</id>
+    <link href="https://chtyvo.org.ua/content/covers/6ba7df75e1e8aadf460fd2064e9b8155.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_1_ros/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_1_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvdeeva_Maria_Tikhonovna%2FSlovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_1_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

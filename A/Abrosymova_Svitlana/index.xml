@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абросимова Світлана</title>
+  <id>/A/Abrosymova_Svitlana/index.xml</id>
+  <updated>2025-11-09T15:06:44Z</updated>
+  <link href="/A/Abrosymova_Svitlana/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Археографічна діяльність Катеринославської ученої архівної комісії</title>
+    <id>/A/Abrosymova_Svitlana/Arkheohrafichna_diialnist_Katerynoslavskoi_uchenoi_arkhivnoi_komisii.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Arkheohrafichna_diialnist_Katerynoslavskoi_uchenoi_arkhivnoi_komisii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Археографія як підмурок сучасної історичної науки в Україні</title>
+    <id>/A/Abrosymova_Svitlana/Arkheohrafiia_iak_pidmurok_suchasnoi_istorychnoi_nauky_v_Ukraini.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Arkheohrafiia_iak_pidmurok_suchasnoi_istorychnoi_nauky_v_Ukraini.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Біднов В.О.</title>
+    <id>/A/Abrosymova_Svitlana/Bidnov_V_O.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Bidnov_V_O.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Д. І. Яворницький в Середній Азії</title>
+    <id>/A/Abrosymova_Svitlana/D_I_Yavornytskyi_v_Serednii_Azii.xml</id>
+    <link href="/A/Abrosymova_Svitlana/D_I_Yavornytskyi_v_Serednii_Azii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Дмитро Яворницький та його родовід</title>
+    <id>/A/Abrosymova_Svitlana/Dmytro_Yavornytskyi_ta_ioho_rodovid.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Dmytro_Yavornytskyi_ta_ioho_rodovid.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Дослідник ранньої історії Русі</title>
+    <id>/A/Abrosymova_Svitlana/Doslidnyk_rannoi_istorii_Rusi.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Doslidnyk_rannoi_istorii_Rusi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Епістолярна спадщина академіка Д.І. Яворницького: Каталог музейної колекції</title>
+    <id>/A/Abrosymova_Svitlana/Epistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Epistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>З історії видання монографії Д.І. Яворницького «Історія запорозьких козаків»</title>
+    <id>/A/Abrosymova_Svitlana/Z_istorii_vydannia_monohrafii_DI_Yavornytskoho_Istoriia_zaporozkykh_kozakiv.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Z_istorii_vydannia_monohrafii_DI_Yavornytskoho_Istoriia_zaporozkykh_kozakiv.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Катеринославська «Просвіта» у культурно-громадському житті Наддніпрянщини (за матеріалами епістолярної спадщини академіка Дмитра Яворницького)</title>
+    <id>/A/Abrosymova_Svitlana/Katerynoslavska_Prosvita_u_kulturno-hromadskomu_zhytti_Naddniprianschyny.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Katerynoslavska_Prosvita_u_kulturno-hromadskomu_zhytti_Naddniprianschyny.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Козацька генеалогія в творчій спадщині Д.І. Яворницького (Джерелознавчий аспект)</title>
+    <id>/A/Abrosymova_Svitlana/Kozatska_henealohiia_v_tvorchii_spadschyni_DI_Yavornytskoho_Dzhereloznavchyi_aspekt.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Kozatska_henealohiia_v_tvorchii_spadschyni_DI_Yavornytskoho_Dzhereloznavchyi_aspekt.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Колекція документів з історії запорозького козацтва в зібранні Дніпропетровського історичного музею</title>
+    <id>/A/Abrosymova_Svitlana/Kolektsiia_dokumentiv_z_istorii_zaporozkoho_kozatstva.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Kolektsiia_dokumentiv_z_istorii_zaporozkoho_kozatstva.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Листи М. Грушевського до Д. Яворницького</title>
+    <id>/A/Abrosymova_Svitlana/Lysty_M_Hrushevskoho_do_D_Yavornytskoho.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Lysty_M_Hrushevskoho_do_D_Yavornytskoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Магістерські іспити Д.І. Яворницького і Варшавський університет</title>
+    <id>/A/Abrosymova_Svitlana/Mahisterski_ispyty_D_I_Yavornytskoho_i_Varshavskyi_universytet.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Mahisterski_ispyty_D_I_Yavornytskoho_i_Varshavskyi_universytet.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Нащадки кошового отамана Йосипа Гладкого</title>
+    <id>/A/Abrosymova_Svitlana/Naschadky_koshovoho_otamana_Yosypa_Hladkoho.xml</id>
+    <link href="/A/Abrosymova_Svitlana/Naschadky_koshovoho_otamana_Yosypa_Hladkoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

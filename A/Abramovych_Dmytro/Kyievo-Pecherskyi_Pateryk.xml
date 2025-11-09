@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Дмитро Абрамович » Києво-Печерський патерик (вид. 1930)</title>
+  <id>/A/Abramovych_Dmytro/Kyievo-Pecherskyi_Pateryk.xml</id>
+  <updated>2025-11-09T15:06:34Z</updated>
+  <link href="/A/Abramovych_Dmytro/Kyievo-Pecherskyi_Pateryk.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Дмитро Абрамович » Києво-Печерський патерик (вид. 1930)</title>
+    <id>https://chtyvo.org.ua/authors/Abramovych_Dmytro/Kyievo-Pecherskyi_Pateryk/</id>
+    <summary>Представлено видання 1930 року найвизначнішої літературної пам’ятки Украйни – «Києво-Печерського патерика» у Касіяновській другій редакції (1462 р.), основаній на найдавнішій. У вступному слові проаналізовано зміст і попередні видання Патерика, після тексту наведено примітки, покажчики імен та географічних назв. Збірник увібрав у себе житія і твори Печерських святих XI–XIII століть, розповіді про ікони, історію створення монастиря. Відображено історичні факти, монастирський побут, взаємини між монастирем і князем, господарчу діяльність монастиря, народні вірування і традиції тощо.Абрамович, Д. Києво-Печерський Патерик: (вступ, текст, примітки) / Дмитро Абрамович. — Київ: з друк. Всеукр. АН, 1930. — XXVI, 234, [1] с.: іл. — (Пам’ятки мови та письменства давньої України / вид. Комісія українського письменства доби феодалізму та торговельного капіталізму Всеукр. АН; за ред. Вол. Перетца; т. 4).</summary>
+    <link href="https://chtyvo.org.ua/content/covers/6fe453f38899463269e37d245d01e2d7.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abramovych_Dmytro/Kyievo-Pecherskyi_Pateryk/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramovych_Dmytro/Kyievo-Pecherskyi_Pateryk.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbramovych_Dmytro%2FKyievo-Pecherskyi_Pateryk.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

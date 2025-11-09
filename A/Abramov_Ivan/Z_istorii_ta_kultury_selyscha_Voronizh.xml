@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Іван Абрамов » З історії та культури селища Вороніж</title>
+  <id>/A/Abramov_Ivan/Z_istorii_ta_kultury_selyscha_Voronizh.xml</id>
+  <updated>2025-11-09T15:06:24Z</updated>
+  <link href="/A/Abramov_Ivan/Z_istorii_ta_kultury_selyscha_Voronizh.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Іван Абрамов » З історії та культури селища Вороніж</title>
+    <id>https://chtyvo.org.ua/authors/Abramov_Ivan/Z_istorii_ta_kultury_selyscha_Voronizh/</id>
+    <summary>До книги увійшли найзначніші фольклорно-етнографічні та краєзнавчі статті й нариси Івана Спиридоновича Абрамова (1874-1960), які він друкував протягом життя в періодичних виданнях. Усі твори присвячені дослідженню народної культури та історії рідного авторові селища Вороніж Шосткинського району Сумської області, відомого далеко за межами області, як батьківщина Пантелеймона Куліша.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/03ff3e94f98b0eebfedff4690f9d4a6f.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Ivan/Z_istorii_ta_kultury_selyscha_Voronizh/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Ivan/Z_istorii_ta_kultury_selyscha_Voronizh.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbramov_Ivan%2FZ_istorii_ta_kultury_selyscha_Voronizh.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

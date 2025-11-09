@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Анатолій Адруг » Будинок полкової канцелярії в Чернігові</title>
+  <id>/A/Adruh_Anatolii/Budynok_polkovoi_kantseliarii_v_Chernihovi.xml</id>
+  <updated>2025-11-09T15:10:28Z</updated>
+  <link href="/A/Adruh_Anatolii/Budynok_polkovoi_kantseliarii_v_Chernihovi.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Анатолій Адруг » Будинок полкової канцелярії в Чернігові</title>
+    <id>https://chtyvo.org.ua/authors/Adruh_Anatolii/Budynok_polkovoi_kantseliarii_v_Chernihovi/</id>
+    <summary>Адруг А. К. Будинок полкової канцелярії в Чернігові / Анатолій Адруг ; [відп. ред. О. Б. Коваленко]. — Чернігів : ЦНТЕІ, 2007. — 30 с. : іл.Анотація: У дослідженні кандидата мистецтвознавства, доцента, члена Національної спілки художників України А.К. Адруга йдеться про видатну пам'ятку української архітектури – будинок полкової канцелярії в Чернігові, її історію та художні особливості. Видання призначається як для фахівців, так і для широкого кола шанувальників історії та культури.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adruh_Anatolii/Budynok_polkovoi_kantseliarii_v_Chernihovi/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adruh_Anatolii/Budynok_polkovoi_kantseliarii_v_Chernihovi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdruh_Anatolii%2FBudynok_polkovoi_kantseliarii_v_Chernihovi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

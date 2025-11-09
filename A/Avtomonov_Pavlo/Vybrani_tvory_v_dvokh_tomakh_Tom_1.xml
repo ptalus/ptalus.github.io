@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Павло Автомонов » Вибрані твори в двох томах. Том 1</title>
+  <id>/A/Avtomonov_Pavlo/Vybrani_tvory_v_dvokh_tomakh_Tom_1.xml</id>
+  <updated>2025-11-09T15:08:13Z</updated>
+  <link href="/A/Avtomonov_Pavlo/Vybrani_tvory_v_dvokh_tomakh_Tom_1.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Павло Автомонов » Вибрані твори в двох томах. Том 1</title>
+    <id>https://chtyvo.org.ua/authors/Avtomonov_Pavlo/Vybrani_tvory_v_dvokh_tomakh_Tom_1/</id>
+    <summary>В перший том входить трилогія &quot;Коли розлучаються двоє&quot;.Увага!!! Ця книга містить елементи комуністичної пропаганди!</summary>
+    <link href="https://chtyvo.org.ua/content/covers/057b32d05625eaa95f88872379aaa308.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/Vybrani_tvory_v_dvokh_tomakh_Tom_1/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/Vybrani_tvory_v_dvokh_tomakh_Tom_1.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvtomonov_Pavlo%2FVybrani_tvory_v_dvokh_tomakh_Tom_1.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

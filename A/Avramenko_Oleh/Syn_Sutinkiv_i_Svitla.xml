@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Син Cутiнкiв i Cвiтла</title>
+  <id>/A/Avramenko_Oleh/Syn_Sutinkiv_i_Svitla.xml</id>
+  <updated>2025-11-09T15:07:43Z</updated>
+  <link href="/A/Avramenko_Oleh/Syn_Sutinkiv_i_Svitla.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Син Cутiнкiв i Cвiтла</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Syn_Sutinkiv_i_Svitla/</id>
+    <link href="https://chtyvo.org.ua/content/covers/4e04244667f5f96e25e33462b059eeb1.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Syn_Sutinkiv_i_Svitla/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Syn_Sutinkiv_i_Svitla.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

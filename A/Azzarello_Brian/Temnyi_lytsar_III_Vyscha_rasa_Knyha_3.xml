@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Браян Азарелло » Темний лицар ІІІ: Вища раса. Книга 3</title>
+  <id>/A/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_3.xml</id>
+  <updated>2025-11-09T15:10:41Z</updated>
+  <link href="/A/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_3.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Браян Азарелло » Темний лицар ІІІ: Вища раса. Книга 3</title>
+    <id>https://chtyvo.org.ua/authors/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_3/</id>
+    <link href="https://chtyvo.org.ua/content/covers/49cb3d6adfe33080209fac50b8f41669.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_3/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azzarello_Brian/Temnyi_lytsar_III_Vyscha_rasa_Knyha_3.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

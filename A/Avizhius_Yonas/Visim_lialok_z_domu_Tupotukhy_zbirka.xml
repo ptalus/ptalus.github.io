@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Йонас Авіжюс » Вісім ляльок з дому Тупотухи (збірка)</title>
+  <id>/A/Avizhius_Yonas/Visim_lialok_z_domu_Tupotukhy_zbirka.xml</id>
+  <updated>2025-11-09T15:07:35Z</updated>
+  <link href="/A/Avizhius_Yonas/Visim_lialok_z_domu_Tupotukhy_zbirka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Йонас Авіжюс » Вісім ляльок з дому Тупотухи (збірка)</title>
+    <id>https://chtyvo.org.ua/authors/Avizhius_Yonas/Visim_lialok_z_domu_Tupotukhy_zbirka/</id>
+    <summary>Для молодшого шкільного віку.Такої розбещеної дівчинки як Рута ще світ не бачив. Навіть її власні ляльки не витримали такого життя і втекли. Так, утекли на іграшковому автомобілі. Куди ж вони приїдуть?Також до книги входить повість про життя бобрів &quot;Мешканці Великої Затоки&quot;.Художник Ірина Зубковська-Скаканді.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/48f1bad6a0ac2c0678bd4a4d90819003.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avizhius_Yonas/Visim_lialok_z_domu_Tupotukhy_zbirka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avizhius_Yonas/Visim_lialok_z_domu_Tupotukhy_zbirka.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

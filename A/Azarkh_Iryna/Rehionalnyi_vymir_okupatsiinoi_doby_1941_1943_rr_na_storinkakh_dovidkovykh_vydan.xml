@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ірина Азарх » Регіональний вимір окупаційної доби 1941–1943 рр. на сторінках довідкових видань</title>
+  <id>/A/Azarkh_Iryna/Rehionalnyi_vymir_okupatsiinoi_doby_1941_1943_rr_na_storinkakh_dovidkovykh_vydan.xml</id>
+  <updated>2025-11-09T15:10:51Z</updated>
+  <link href="/A/Azarkh_Iryna/Rehionalnyi_vymir_okupatsiinoi_doby_1941_1943_rr_na_storinkakh_dovidkovykh_vydan.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ірина Азарх » Регіональний вимір окупаційної доби 1941–1943 рр. на сторінках довідкових видань</title>
+    <id>https://chtyvo.org.ua/authors/Azarkh_Iryna/Rehionalnyi_vymir_okupatsiinoi_doby_1941_1943_rr_na_storinkakh_dovidkovykh_vydan/</id>
+    <summary>Сторінки воєнної історії України: Збірник наукових статей / НАН України. Інститут історії України. – К., 2019. – Вип. 21.У статті показано один із аспектів діяльності Комісії з історії Вітчизняної війни АН УРСР – опрацювання документальних джерел, які надходили з регіональних філіалів. Висвітлено діяльність науковців щодо розробки методичних рекомендацій та інструкцій в процесі відбору матеріалів при укладанні хронологічних довідників.</summary>
+    <link href="https://chtyvo.org.ua/authors/Azarkh_Iryna/Rehionalnyi_vymir_okupatsiinoi_doby_1941_1943_rr_na_storinkakh_dovidkovykh_vydan/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azarkh_Iryna/Rehionalnyi_vymir_okupatsiinoi_doby_1941_1943_rr_na_storinkakh_dovidkovykh_vydan.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzarkh_Iryna%2FRehionalnyi_vymir_okupatsiinoi_doby_1941_1943_rr_na_storinkakh_dovidkovykh_vydan.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

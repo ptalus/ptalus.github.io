@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Анастасія Авула » Монументально-сакральний образ тернового вінця як символу Христа у світовому мистецтві</title>
+  <id>/A/Avula_Anastasiia/Monumentalno-sakralnyi_obraz_ternovoho_vintsia_iak_symvolu_Khrysta_u_svitovomu_mystetstvi.xml</id>
+  <updated>2025-11-09T15:08:24Z</updated>
+  <link href="/A/Avula_Anastasiia/Monumentalno-sakralnyi_obraz_ternovoho_vintsia_iak_symvolu_Khrysta_u_svitovomu_mystetstvi.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Анастасія Авула » Монументально-сакральний образ тернового вінця як символу Христа у світовому мистецтві</title>
+    <id>https://chtyvo.org.ua/authors/Avula_Anastasiia/Monumentalno-sakralnyi_obraz_ternovoho_vintsia_iak_symvolu_Khrysta_u_svitovomu_mystetstvi/</id>
+    <link href="https://chtyvo.org.ua/content/covers/de635c3bf90a833af281f350d9050480.png" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avula_Anastasiia/Monumentalno-sakralnyi_obraz_ternovoho_vintsia_iak_symvolu_Khrysta_u_svitovomu_mystetstvi/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avula_Anastasiia/Monumentalno-sakralnyi_obraz_ternovoho_vintsia_iak_symvolu_Khrysta_u_svitovomu_mystetstvi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvula_Anastasiia%2FMonumentalno-sakralnyi_obraz_ternovoho_vintsia_iak_symvolu_Khrysta_u_svitovomu_mystetstvi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

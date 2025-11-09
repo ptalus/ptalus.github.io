@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Георг Адам » Дещо про румунську літературу</title>
+  <id>/A/Adam_Heorh/Descho_pro_rumunsku_literaturu.xml</id>
+  <updated>2025-11-09T15:09:14Z</updated>
+  <link href="/A/Adam_Heorh/Descho_pro_rumunsku_literaturu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Георг Адам » Дещо про румунську літературу</title>
+    <id>https://chtyvo.org.ua/authors/Adam_Heorh/Descho_pro_rumunsku_literaturu/</id>
+    <summary>Дещо про румунську літературу. З нім. пер. А. К [рушельницький]. - 1902, т. 17, ч. II: 172 - 177.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adam_Heorh/Descho_pro_rumunsku_literaturu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adam_Heorh/Descho_pro_rumunsku_literaturu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdam_Heorh%2FDescho_pro_rumunsku_literaturu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

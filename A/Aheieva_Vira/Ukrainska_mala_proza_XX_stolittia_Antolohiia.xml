@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віра Агеєва » Українська мала проза XX століття: Антологія</title>
+  <id>/A/Aheieva_Vira/Ukrainska_mala_proza_XX_stolittia_Antolohiia.xml</id>
+  <updated>2025-11-09T15:08:48Z</updated>
+  <link href="/A/Aheieva_Vira/Ukrainska_mala_proza_XX_stolittia_Antolohiia.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віра Агеєва » Українська мала проза XX століття: Антологія</title>
+    <id>https://chtyvo.org.ua/authors/Aheieva_Vira/Ukrainska_mala_proza_XX_stolittia_Antolohiia/</id>
+    <summary>У цій книжці представлено найкращі твори українських новелістів XX століття, зокрема Ольги Кобилянської, Михайла Коцюбинського, Михайла Яцкова, Василя Стефаника, Миколи Хвильового, Віктора Домонтовича, Ігоря Костецького, Григора Тютюнника, Тараса Прохаська, Оксани Забужко.Наша мала проза розкрила психологію перечулених, мімозно вразливих нових жінок епохи декадансу – і неймовірно трагічний досвід галицьких переселенців у Новий світ, високий ідеалізм митців-модерністів, котрі поставили творчість вище за всі цінності, – і розчарування безґрунтовних революційних романтиків, які захотіли взяти на себе місію вдосконалення Божого творіння. У другій половині століття кращі українські майстри зосереджувалися на героях-марґіналах, що не могли співіснувати з радянською дійсністю. Покоління 1991 року скрупульозно аналізувало стан людини, котра переживає крах узвичаєних цінностей і мусить адаптуватися до цілком нового часопростору. Маємо цілий ряд блискучих імен, різні стильові моделі, різні індивідуальні манери письма, пов’язаних як з модерністськими, так і з визивно авангардними орієнтаціями й традиціями.Антологія «Українська мала проза XX століття»… якраз і бачиться такою… спробою канонотворення на теренах нашого красного письменства.Газета «Нація і держава», 10 червня 2008 рокуУпорядник Віра Агеєва</summary>
+    <link href="https://chtyvo.org.ua/content/covers/77d2630c1de27f5018f5b3cc2a15e60f.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Ukrainska_mala_proza_XX_stolittia_Antolohiia/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Ukrainska_mala_proza_XX_stolittia_Antolohiia.epub" rel="http://opds-spec.org/acquisition" type="application/epub+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Ukrainska_mala_proza_XX_stolittia_Antolohiia.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

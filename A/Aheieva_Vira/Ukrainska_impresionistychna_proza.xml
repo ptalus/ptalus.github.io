@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віра Агеєва » Українська імпресіоністична проза</title>
+  <id>/A/Aheieva_Vira/Ukrainska_impresionistychna_proza.xml</id>
+  <updated>2025-11-09T15:08:48Z</updated>
+  <link href="/A/Aheieva_Vira/Ukrainska_impresionistychna_proza.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віра Агеєва » Українська імпресіоністична проза</title>
+    <id>https://chtyvo.org.ua/authors/Aheieva_Vira/Ukrainska_impresionistychna_proza/</id>
+    <summary>Агеєва, Віра Павлівна.Українська імпресіоністична проза: монографія / В.П.Агеєва. – Київ: [б.в.], 1994. – 160 с. – ISBN 5-77-02-0909-7Монографія присвячена українській імпресіоністичній прозі першої половини XX ст., творчості М.Коцюбинського, О.Кобилянської. Г.Косинки, А.Головка, М.Івчеяка, М.Хвильового, М.Ірчана та ін. Розглядаючи художній текст як цілісну структуру, авторка вирізняє кілька її важливіших рівнів, зокрема, ціннісний, просторово-часовий, фразеологічний. На кожному з цих рівнів простежуються стосунки автора і героїв, їхні ціннісні, просторово-часові, фразеологічні позиції. В імпресіонізмі з його настановою на передачу нічим не опосередкованих вражень суб’єктивне авторське начало відігравало невелику роль.Аналізуючи творчість того чи іншого письменника, дослідниця показує переплетення, взаємовпливи різних стильових напрямів, зокрема імпресіонізму, неоромантизму, експресіонізму, психологічного реалізму. Саме ці течії були найбільш представницькими в українській прозі першої половини віку. Специфіка, пропорції поєднання різних стильових елементів і визначають неповторність індивідуальної художньої манери різних митців.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/c2a73a568cb8ac362307d96fdc81a490.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Ukrainska_impresionistychna_proza/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Ukrainska_impresionistychna_proza.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Ukrainska_impresionistychna_proza.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAheieva_Vira%2FUkrainska_impresionistychna_proza.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абурто Хуан</title>
+  <id>/A/Aburto_Khuan/index.xml</id>
+  <updated>2025-11-09T15:06:56Z</updated>
+  <link href="/A/Aburto_Khuan/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Фантастика Всесвіту. Випуск 4 (збірка)</title>
+    <id>/A/Aburto_Khuan/Fantastyka_Vsesvitu_Vypusk_4_zbirka.xml</id>
+    <link href="/A/Aburto_Khuan/Fantastyka_Vsesvitu_Vypusk_4_zbirka.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

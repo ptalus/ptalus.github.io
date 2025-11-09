@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олена Авдєєва » Етнічна структура населення Північного Приазов'я наприкінці ХІХ ст. (за матеріалами Першого всезагального перепису населення Російської імперії 1897 року)</title>
+  <id>/A/Avdieieva_Olena/Etnichna_struktura_naselennia_Pivnichnoho_Pryazovia_naprykintsi_KhIKh_st_za_materialamy_Pershoho_vse.xml</id>
+  <updated>2025-11-09T15:07:07Z</updated>
+  <link href="/A/Avdieieva_Olena/Etnichna_struktura_naselennia_Pivnichnoho_Pryazovia_naprykintsi_KhIKh_st_za_materialamy_Pershoho_vse.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олена Авдєєва » Етнічна структура населення Північного Приазов'я наприкінці ХІХ ст. (за матеріалами Першого всезагального перепису населення Російської імперії 1897 року)</title>
+    <id>https://chtyvo.org.ua/authors/Avdieieva_Olena/Etnichna_struktura_naselennia_Pivnichnoho_Pryazovia_naprykintsi_KhIKh_st_za_materialamy_Pershoho_vse/</id>
+    <summary>Музейний Вісник № 11/2. – Запоріжжя, 2011</summary>
+    <link href="https://chtyvo.org.ua/authors/Avdieieva_Olena/Etnichna_struktura_naselennia_Pivnichnoho_Pryazovia_naprykintsi_KhIKh_st_za_materialamy_Pershoho_vse/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avdieieva_Olena/Etnichna_struktura_naselennia_Pivnichnoho_Pryazovia_naprykintsi_KhIKh_st_za_materialamy_Pershoho_vse.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvdieieva_Olena%2FEtnichna_struktura_naselennia_Pivnichnoho_Pryazovia_naprykintsi_KhIKh_st_za_materialamy_Pershoho_vse.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

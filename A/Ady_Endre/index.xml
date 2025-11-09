@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аді Ендре</title>
+  <id>/A/Ady_Endre/index.xml</id>
+  <updated>2025-11-09T15:10:17Z</updated>
+  <link href="/A/Ady_Endre/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Вибрані поезії (збірка)</title>
+    <id>/A/Ady_Endre/Vybrani_poezi_zbirka.xml</id>
+    <link href="/A/Ady_Endre/Vybrani_poezi_zbirka.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

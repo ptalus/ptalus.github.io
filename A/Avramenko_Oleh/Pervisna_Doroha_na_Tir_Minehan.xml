@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Пeрвісна. Дорога на Тір Мінеган</title>
+  <id>/A/Avramenko_Oleh/Pervisna_Doroha_na_Tir_Minehan.xml</id>
+  <updated>2025-11-09T15:07:41Z</updated>
+  <link href="/A/Avramenko_Oleh/Pervisna_Doroha_na_Tir_Minehan.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Пeрвісна. Дорога на Тір Мінеган</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Pervisna_Doroha_na_Tir_Minehan/</id>
+    <summary>Сага про Первісну. Дилогія. Книга перша.Півтора тисячоліття тому континент Абрад було остаточно звільнено від зловісних істот з підземного світу Ан Нувіну. Проте Китрайл, Володар Ан Нувіну, не змирився зі своєю поразкою і прагне знову запанувати на всій землі. А для того, щоб повернути колишню могутність, йому потрібна Первісна Іскра — зосередження особливої відьомської сили, що належить зовсім юній і геть недосвідченій дівчині, яка лише нещодавно довідалася про своє справдешнє походження.Чи зможе вона встояти перед шаленим тиском Китрайла та його слуг, чорних чаклунів? Чи вдасться її сестрам, іншим відьмам, захистити Первісну від зазіхать Ан Нувіну?Бо якщо ні, то всю землю поглине Пітьма…Від автора. На жаль, мені так і не вдалося знайти видавця для цих книжок в Україні. Тож улітку 2013 року їх було перекладено російською (за що велика подяка Алені Косюк) і запропоновано московському видавництву &quot;Альфа-книга&quot;, яке їх досить оперативно опублікувало. Пропонуючи у вільний доступ оригінальні тексти обох романів, я додаю до них перероблені (українізовані) обкладинки російського видання (а у файлах PDF ще й титульні сторінки з ілюстраціями). Щиро шкодую через відсутність справжніх українських обкладинок...</summary>
+    <link href="https://chtyvo.org.ua/content/covers/8c120bfda6c754501ff0d1c70922b63b.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Pervisna_Doroha_na_Tir_Minehan/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Pervisna_Doroha_na_Tir_Minehan.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Pervisna_Doroha_na_Tir_Minehan.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleh%2FPervisna_Doroha_na_Tir_Minehan.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

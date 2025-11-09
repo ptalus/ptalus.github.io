@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абрамович Павло</title>
+  <id>/A/Abramovych_Pavlo/index.xml</id>
+  <updated>2025-11-09T15:06:35Z</updated>
+  <link href="/A/Abramovych_Pavlo/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ще про Гейнча (Гінча) (Бібліо- та біографічні нотатки</title>
+    <id>/A/Abramovych_Pavlo/Sche_pro_Heincha_Hincha_Biblio-_ta_biohrafichni_notatky.xml</id>
+    <link href="/A/Abramovych_Pavlo/Sche_pro_Heincha_Hincha_Biblio-_ta_biohrafichni_notatky.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

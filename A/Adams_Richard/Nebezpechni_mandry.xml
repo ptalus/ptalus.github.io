@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Річард Адамс » Небезпечні мандри</title>
+  <id>/A/Adams_Richard/Nebezpechni_mandry.xml</id>
+  <updated>2025-11-09T15:09:50Z</updated>
+  <link href="/A/Adams_Richard/Nebezpechni_mandry.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Річард Адамс » Небезпечні мандри</title>
+    <id>https://chtyvo.org.ua/authors/Adams_Richard/Nebezpechni_mandry/</id>
+    <summary>Книга сучасного англійського письменника-натураліста про мандри гурту молодих диких кролів, які, покинувши перенаселену домівку, шукають собі кращої долі.Кожна сторінка дихає такою любов’ю до пухнастих мандрівників, що читач мимоволі переймається високогуманістичним пафосом автора: життя на Землі можливо зберегти лише за умови гармонійного, рівноправного співіснування «дикої» природи та людської цивілізації.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/fb5e5eedded4325af256d0ac2c09f210.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Richard/Nebezpechni_mandry/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Richard/Nebezpechni_mandry.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

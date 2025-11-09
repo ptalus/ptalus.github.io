@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Авторський колектив » Die Bukowina. Eine allgemeine Heimatkunde / Буковина. Загальне краєзнавство (нім./укр.)</title>
+  <id>/A/Avtorskyi_kolektyv/Die_Bukowina_Eine_allgemeine_Heimatkunde__Bukovyna_Zahalne_kraieznavstvo_nimukr.xml</id>
+  <updated>2025-11-09T15:08:20Z</updated>
+  <link href="/A/Avtorskyi_kolektyv/Die_Bukowina_Eine_allgemeine_Heimatkunde__Bukovyna_Zahalne_kraieznavstvo_nimukr.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Авторський колектив » Die Bukowina. Eine allgemeine Heimatkunde / Буковина. Загальне краєзнавство (нім./укр.)</title>
+    <id>https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Die_Bukowina_Eine_allgemeine_Heimatkunde__Bukovyna_Zahalne_kraieznavstvo_nimukr/</id>
+    <summary>Книга «Буковина. Загальне краєзнавство», що була підготовлена офіцерами крайової жандармерії з нагоди 50-річного ювілею правління цісаря Франца Йосифа I, побачила світ у Чернівціх 1899 року. Вона заслужено стала однією з кращих історико-краєзнавчих праць  кінця ХІХ — початку ХХ століття. А пропоноване видання з оригінальним німецьким текстом і перекладом українською мовою чотирьох основних розділів книги — «Населення Буковини», «Топографічний опис населених пунктів», «Історія Буковини» та «Культурний стан Буковини» — викличе, без сумніву, значний інтерес як професійних істориків та краєзнавців, так і широкого загалу читачів, яким не байдуже минуле рідного краю.Die Bukowina.Eine allgemeine Heimatkunde = Буковина. Загальне краєзнавство / Переклад з нім. Ф.С. Андрійця, А.Т. Квасецького. — Чернівці: Зелена Буковина, 2004. — 488 с. — (Історична бібліотека «Зеленої Буковини»).ISBN 966-8410-16-5</summary>
+    <link href="https://chtyvo.org.ua/content/covers/d1c99e010b49ca0b9606ded1295a35c2.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Die_Bukowina_Eine_allgemeine_Heimatkunde__Bukovyna_Zahalne_kraieznavstvo_nimukr/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Die_Bukowina_Eine_allgemeine_Heimatkunde__Bukovyna_Zahalne_kraieznavstvo_nimukr.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvtorskyi_kolektyv%2FDie_Bukowina_Eine_allgemeine_Heimatkunde__Bukovyna_Zahalne_kraieznavstvo_nimukr.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Анатолій Авраменко » Проблеми й методи історичної географії в новій монографії польського історика Яна-Вацлава Тишкевича</title>
+  <id>/A/Avramenko_AM/Problemy_i_metody_istorychnoi_heohrafii_v_novii_monohrafii_polskoho_istoryka.xml</id>
+  <updated>2025-11-09T15:07:57Z</updated>
+  <link href="/A/Avramenko_AM/Problemy_i_metody_istorychnoi_heohrafii_v_novii_monohrafii_polskoho_istoryka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Анатолій Авраменко » Проблеми й методи історичної географії в новій монографії польського історика Яна-Вацлава Тишкевича</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_AM/Problemy_i_metody_istorychnoi_heohrafii_v_novii_monohrafii_polskoho_istoryka/</id>
+    <summary>Історико-географічні дослідження в Україні: Збірник наукових праць / НАН України. Інститут історії України. – 2015. – Вип. 13.Рецензія на: J.Tyszkiewicz. Geografia historyczna: zarys problematyki. – Warszawa: DiG, 2014.</summary>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_AM/Problemy_i_metody_istorychnoi_heohrafii_v_novii_monohrafii_polskoho_istoryka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_AM/Problemy_i_metody_istorychnoi_heohrafii_v_novii_monohrafii_polskoho_istoryka.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_AM%2FProblemy_i_metody_istorychnoi_heohrafii_v_novii_monohrafii_polskoho_istoryka.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

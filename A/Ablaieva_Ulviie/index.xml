@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аблаєва Ульвіє</title>
+  <id>/A/Ablaieva_Ulviie/index.xml</id>
+  <updated>2025-11-09T15:06:10Z</updated>
+  <link href="/A/Ablaieva_Ulviie/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Традиційні головні убори кримських татар XVII — початку XXI століть</title>
+    <id>/A/Ablaieva_Ulviie/Tradytsiini_holovni_ubory_krymskykh_tatar_XVII__pochatku_XXI_stolit.xml</id>
+    <link href="/A/Ablaieva_Ulviie/Tradytsiini_holovni_ubory_krymskykh_tatar_XVII__pochatku_XXI_stolit.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

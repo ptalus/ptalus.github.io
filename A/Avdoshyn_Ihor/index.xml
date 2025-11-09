@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авдошин Ігор</title>
+  <id>/A/Avdoshyn_Ihor/index.xml</id>
+  <updated>2025-11-09T15:07:16Z</updated>
+  <link href="/A/Avdoshyn_Ihor/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Міжнародна практика організації діяльності військових аташе на території держав акредитації</title>
+    <id>/A/Avdoshyn_Ihor/Mizhnarodna_praktyka_orhanizatsii_diialnosti_viiskovykh_atashe_na_terytorii_derzhav_akredytatsii.xml</id>
+    <link href="/A/Avdoshyn_Ihor/Mizhnarodna_praktyka_orhanizatsii_diialnosti_viiskovykh_atashe_na_terytorii_derzhav_akredytatsii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Правове регулювання міжнародного співробітництва України у військовій сфері</title>
+    <id>/A/Avdoshyn_Ihor/Pravove_rehuliuvannia_mizhnarodnoho_spivrobitnytstva_Ukrainy_u_viiskovii_sferi.xml</id>
+    <link href="/A/Avdoshyn_Ihor/Pravove_rehuliuvannia_mizhnarodnoho_spivrobitnytstva_Ukrainy_u_viiskovii_sferi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Проблема іноземної присутності в рамках проведення на території України військових навчань та потенційні загрози національній безпеці</title>
+    <id>/A/Avdoshyn_Ihor/Problema_inozemnoi_prysutnosti_v_ramkakh_provedennia_na_terytorii_Ukrainy_viiskovykh_navchan.xml</id>
+    <link href="/A/Avdoshyn_Ihor/Problema_inozemnoi_prysutnosti_v_ramkakh_provedennia_na_terytorii_Ukrainy_viiskovykh_navchan.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Проблемні питання правового регулювання міжнародного співробітництва у галузі військової топографії</title>
+    <id>/A/Avdoshyn_Ihor/Problemni_pytannia_pravovoho_rehuliuvannia_mizhnarodnoho_spivrobitnytstva.xml</id>
+    <link href="/A/Avdoshyn_Ihor/Problemni_pytannia_pravovoho_rehuliuvannia_mizhnarodnoho_spivrobitnytstva.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

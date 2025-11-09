@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ірина Азарх » «Послухайте, рідні оселі, пісні, які ми складали в чужій стороні»: повертаючись до неопублікованого</title>
+  <id>/A/Azarkh_Iryna/Poslukhaite_ridni_oseli_pisni_iaki_my_skladaly_v_chuzhii_storoni_povertaiuchys_do_neopublikovanoho.xml</id>
+  <updated>2025-11-09T15:10:46Z</updated>
+  <link href="/A/Azarkh_Iryna/Poslukhaite_ridni_oseli_pisni_iaki_my_skladaly_v_chuzhii_storoni_povertaiuchys_do_neopublikovanoho.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ірина Азарх » «Послухайте, рідні оселі, пісні, які ми складали в чужій стороні»: повертаючись до неопублікованого</title>
+    <id>https://chtyvo.org.ua/authors/Azarkh_Iryna/Poslukhaite_ridni_oseli_pisni_iaki_my_skladaly_v_chuzhii_storoni_povertaiuchys_do_neopublikovanoho/</id>
+    <summary>Сторінки воєнної історії України: Збірник наукових статей / НАН України. Інститут історії України. – К., 2010. – Вип. 13.У статті на основі документальної колекції архіву Інституту мистецтвознавства, фольклору та етнографії ім. М.Рильського НАН України поданий аналіз текстів пісень, віршів та іншого фольклорного матеріалу в’язнів нацистських концтаборів, остарбайтерів з України.</summary>
+    <link href="https://chtyvo.org.ua/authors/Azarkh_Iryna/Poslukhaite_ridni_oseli_pisni_iaki_my_skladaly_v_chuzhii_storoni_povertaiuchys_do_neopublikovanoho/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azarkh_Iryna/Poslukhaite_ridni_oseli_pisni_iaki_my_skladaly_v_chuzhii_storoni_povertaiuchys_do_neopublikovanoho.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzarkh_Iryna%2FPoslukhaite_ridni_oseli_pisni_iaki_my_skladaly_v_chuzhii_storoni_povertaiuchys_do_neopublikovanoho.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

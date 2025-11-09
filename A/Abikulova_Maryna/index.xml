@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абікулова Марина</title>
+  <id>/A/Abikulova_Maryna/index.xml</id>
+  <updated>2025-11-09T15:06:04Z</updated>
+  <link href="/A/Abikulova_Maryna/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Антична колекція Херсонського обласного краєзнавчого музею. Історія становлення (1890-1963 рр.)</title>
+    <id>/A/Abikulova_Maryna/Antychna_kolektsiia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_Istoriia_stanovlennia_1890-1963_rr.xml</id>
+    <link href="/A/Abikulova_Maryna/Antychna_kolektsiia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_Istoriia_stanovlennia_1890-1963_rr.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Керамічна тара з пізньоскіфських пам’яток Нижнього Дніпра</title>
+    <id>/A/Abikulova_Maryna/Keramichna_tara_z_piznoskifskykh_pamiatok_Nyzhnoho_Dnipra.xml</id>
+    <link href="/A/Abikulova_Maryna/Keramichna_tara_z_piznoskifskykh_pamiatok_Nyzhnoho_Dnipra.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Лапідарій Херсонського краєзнавчого музею</title>
+    <id>/A/Abikulova_Maryna/Lapidarii_Khersonskoho_kraieznavchoho_muzeiu.xml</id>
+    <link href="/A/Abikulova_Maryna/Lapidarii_Khersonskoho_kraieznavchoho_muzeiu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Повоєнне формування античного зібрання Херсонського обласного краєзнавчого музею: постаті, предмети, пам'ятки</title>
+    <id>/A/Abikulova_Maryna/Povoienne_formuvannia_antychnoho_zibrannia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_postati_pred.xml</id>
+    <link href="/A/Abikulova_Maryna/Povoienne_formuvannia_antychnoho_zibrannia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_postati_pred.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

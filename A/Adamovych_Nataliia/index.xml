@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адамович Наталія</title>
+  <id>/A/Adamovych_Nataliia/index.xml</id>
+  <updated>2025-11-09T15:09:33Z</updated>
+  <link href="/A/Adamovych_Nataliia/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Д.М. Петрушевський і дослідження англійського парламентаризму</title>
+    <id>/A/Adamovych_Nataliia/D_M_Petrushevskyi_i_doslidzhennia_anhliiskoho_parlamentaryzmu.xml</id>
+    <link href="/A/Adamovych_Nataliia/D_M_Petrushevskyi_i_doslidzhennia_anhliiskoho_parlamentaryzmu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>До питання про становище жінок у Візантійській імперії</title>
+    <id>/A/Adamovych_Nataliia/Do_pytannia_pro_stanovysche_zhinok_u_Vizantiiskii_imperii.xml</id>
+    <link href="/A/Adamovych_Nataliia/Do_pytannia_pro_stanovysche_zhinok_u_Vizantiiskii_imperii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

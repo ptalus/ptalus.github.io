@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Айдин Абілов » Азербайджанські народні казки</title>
+  <id>/A/Abilov_Aidyn/Azerbaidzhanski_narodni_kazky.xml</id>
+  <updated>2025-11-09T15:06:07Z</updated>
+  <link href="/A/Abilov_Aidyn/Azerbaidzhanski_narodni_kazky.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Айдин Абілов » Азербайджанські народні казки</title>
+    <id>https://chtyvo.org.ua/authors/Abilov_Aidyn/Azerbaidzhanski_narodni_kazky/</id>
+    <summary>Казки, зібрані в цій книжці, народилися на берегах Каспію, в країні вогнів, як називають ще Азербайджан.З давніх-давен азербайджанський народ, як і всі народи світу, творив казку, що виховувала в людей повагу до добра й справедливості, прищеплювала любов до праці, зневагу до ледарів, брехунів і особливо до тих, хто намагався розбагатіти за рахунок чужої праці.І хоч азербайджанський народ жив у злиднях і нестатках, він не занепадав духом і вірив у своє майбутнє. У казках народ створив своїх улюблених героїв і наділив їх кращими рисами характеру: вони чесні, працьовиті, хоробрі і завжди перемагають шаха, дива, дракона, усіх тих, хто пригнічував людей.Казки свої азербайджанці люблять і бережуть, бо в них не тільки відображення тяжкого минулого, а й мудрість народна. Казка вчить тому, що цінують і будуть цінувати люди: скромності, щирості, сміливості, відданості, любові до матері й рідної землі.Художнє оформлення Амброза Жуковського.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/23ef9f3211239d05844b5ab4c23d0c66.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abilov_Aidyn/Azerbaidzhanski_narodni_kazky/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abilov_Aidyn/Azerbaidzhanski_narodni_kazky.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

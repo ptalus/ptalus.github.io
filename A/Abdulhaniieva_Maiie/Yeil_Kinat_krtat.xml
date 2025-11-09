@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Майє Абдулганієва » Yeşil Kâinat (кр.тат.)</title>
+  <id>/A/Abdulhaniieva_Maiie/Yeil_Kinat_krtat.xml</id>
+  <updated>2025-11-09T15:05:54Z</updated>
+  <link href="/A/Abdulhaniieva_Maiie/Yeil_Kinat_krtat.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Майє Абдулганієва » Yeşil Kâinat (кр.тат.)</title>
+    <id>https://chtyvo.org.ua/authors/Abdulhaniieva_Maiie/Yeil_Kinat_krtat/</id>
+    <link href="https://chtyvo.org.ua/authors/Abdulhaniieva_Maiie/Yeil_Kinat_krtat/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abdulhaniieva_Maiie/Yeil_Kinat_krtat.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbdulhaniieva_Maiie%2FYeil_Kinat_krtat.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

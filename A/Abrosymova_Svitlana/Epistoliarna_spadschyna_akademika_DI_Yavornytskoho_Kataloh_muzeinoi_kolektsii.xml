@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Світлана Абросимова » Епістолярна спадщина академіка Д.І. Яворницького: Каталог музейної колекції</title>
+  <id>/A/Abrosymova_Svitlana/Epistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii.xml</id>
+  <updated>2025-11-09T15:06:49Z</updated>
+  <link href="/A/Abrosymova_Svitlana/Epistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Світлана Абросимова » Епістолярна спадщина академіка Д.І. Яворницького: Каталог музейної колекції</title>
+    <id>https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Epistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii/</id>
+    <summary>Абросимова С.В.Епістолярна спадщина академіка Д.І. Яворницького: Каталог музейної колекції / Упоряд. С. В. Абросимова та ін. Вид. 2-е доповнене. – Д.: Пороги, 1992. – 222 с.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/74f5c9ba484dd57d6f39f98a65a55789.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Epistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Epistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Epistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbrosymova_Svitlana%2FEpistoliarna_spadschyna_akademika_DI_Yavornytskoho_Kataloh_muzeinoi_kolektsii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

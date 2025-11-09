@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Кобо Абе » Жінка в пісках</title>
+  <id>/A/Kobo_Abe/Zhinka_v_piskakh.xml</id>
+  <updated>2025-11-09T15:06:00Z</updated>
+  <link href="/A/Kobo_Abe/Zhinka_v_piskakh.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Кобо Абе » Жінка в пісках</title>
+    <id>https://chtyvo.org.ua/authors/Kobo_Abe/Zhinka_v_piskakh/</id>
+    <summary>Один із шедеврів сучасної японської літератури й найвідоміший твір популярного японського письменника Кобо Абе (1924 — 1993) «Жінка в пісках» — своєрідна філософська притча, що змальовує завзяту боротьбу людини з обставинами, в якимх вона несподіванно опинилася. Написаний майже в детективному жанрі, цей твір приваблює своїм навдивовижу оригінальним і напруженим сюжетом.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/e41fcc14c0748ebbb0e54faafb3e5b62.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Kobo_Abe/Zhinka_v_piskakh/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Kobo_Abe/Zhinka_v_piskakh.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

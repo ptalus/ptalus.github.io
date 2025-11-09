@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аблятіфов Рустем Мамут оглу</title>
+  <id>/A/Abliatifov_Rustem_Mamut_ohlu/index.xml</id>
+  <updated>2025-11-09T15:06:14Z</updated>
+  <link href="/A/Abliatifov_Rustem_Mamut_ohlu/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Кримська діаспора Туреччини у процесі репатріації киримли на історичну Батьківщину (кін. 1980-х – поч. 2000-х рр.)</title>
+    <id>/A/Abliatifov_Rustem_Mamut_ohlu/Krymska_diaspora_Turechchyny_u_protsesi_repatriatsii_kyrymly_na_istorychnu_Batkivschynu_kin_1980-kh.xml</id>
+    <link href="/A/Abliatifov_Rustem_Mamut_ohlu/Krymska_diaspora_Turechchyny_u_protsesi_repatriatsii_kyrymly_na_istorychnu_Batkivschynu_kin_1980-kh.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Авторський колектив » 100 историй женщин и девочек с войны России против Украины. Том 2 (рос.)</title>
+  <id>/A/Avtorskyi_kolektyv/100_ystoryi_zhenschyn_y_devochek_s_voin_Rossyy_protyv_Ukrayn_Tom_2_ros.xml</id>
+  <updated>2025-11-09T15:08:19Z</updated>
+  <link href="/A/Avtorskyi_kolektyv/100_ystoryi_zhenschyn_y_devochek_s_voin_Rossyy_protyv_Ukrayn_Tom_2_ros.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Авторський колектив » 100 историй женщин и девочек с войны России против Украины. Том 2 (рос.)</title>
+    <id>https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/100_ystoryi_zhenschyn_y_devochek_s_voin_Rossyy_protyv_Ukrayn_Tom_2_ros/</id>
+    <summary>Сборник «100 историй женщин и девочек с войны России против Украины». ІI том. Составители: Е.Бучинская, Е.Давликанова, И.Лылык, О.Яшкина и др. /под ред. Е.Давликановой. – К.: ООО «ВИСТКА», 2022. – 232 с.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/a091c46b7c2a39eb25ddbfd3234bb0ca.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/100_ystoryi_zhenschyn_y_devochek_s_voin_Rossyy_protyv_Ukrayn_Tom_2_ros/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/100_ystoryi_zhenschyn_y_devochek_s_voin_Rossyy_protyv_Ukrayn_Tom_2_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvtorskyi_kolektyv%2F100_ystoryi_zhenschyn_y_devochek_s_voin_Rossyy_protyv_Ukrayn_Tom_2_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

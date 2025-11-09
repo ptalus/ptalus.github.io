@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Айріс Акагоші » Перегук двох над безвістю</title>
+  <id>/A/Akagoshi_Iris/Perehuk_dvokh_nad_bezodneiu.xml</id>
+  <updated>2025-11-09T15:11:21Z</updated>
+  <link href="/A/Akagoshi_Iris/Perehuk_dvokh_nad_bezodneiu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Айріс Акагоші » Перегук двох над безвістю</title>
+    <id>https://chtyvo.org.ua/authors/Akagoshi_Iris/Perehuk_dvokh_nad_bezodneiu/</id>
+    <summary>Повна назва книги: «Перегук двох над безвістю: листування українського політв'язня Зіновія Красівського з членом Міжнародної Амністії американкою Айріс Акагоші».Ця книга видана спільними зусиллями двох груп Міжнародної Амністії з країн, що знаходяться на протилежних боках земної кулі, — США й України. Задум її та частина фінансування випуску належать групі №11 в Нью-Йорку, яка протягом багатьох років захищала і підтримувала свого «названого сина» — українського політв’язня Зіновія Красівського. Довела задум до виконання група МА «Україна-1» в Дрогобичі. Обоє головних героїв книги — і американка Айріс, і галичанин Зенко — вже пішли з життя, але продовжують жити в серцях і своїх друзів, які прагнуть розповісти про них іншим. Це книга про незримі нитки, якими Міжнародна Амністія пов’язує людей — і далеких, і близьких — на планеті Земля.</summary>
+    <link href="https://chtyvo.org.ua/authors/Akagoshi_Iris/Perehuk_dvokh_nad_bezodneiu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Akagoshi_Iris/Perehuk_dvokh_nad_bezodneiu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FKrasivskyi_Zinovii%2FPerehuk_dvokh_nad_bezodneiu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

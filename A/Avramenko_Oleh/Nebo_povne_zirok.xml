@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Небо, повне зірок</title>
+  <id>/A/Avramenko_Oleh/Nebo_povne_zirok.xml</id>
+  <updated>2025-11-09T15:07:40Z</updated>
+  <link href="/A/Avramenko_Oleh/Nebo_povne_zirok.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Небо, повне зірок</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Nebo_povne_zirok/</id>
+    <link href="https://chtyvo.org.ua/content/covers/412336b3adbadb8a20e6426b01cf4511.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Nebo_povne_zirok/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Nebo_povne_zirok.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Nebo_povne_zirok.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleh%2FNebo_povne_zirok.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

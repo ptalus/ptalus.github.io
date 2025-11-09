@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Адсон з Монтьє-ан-Дер » Книжечка про Антихриста</title>
+  <id>/A/64a30051202cc/Knyzhechka_pro_Antykhrysta.xml</id>
+  <updated>2025-11-09T15:10:33Z</updated>
+  <link href="/A/64a30051202cc/Knyzhechka_pro_Antykhrysta.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Адсон з Монтьє-ан-Дер » Книжечка про Антихриста</title>
+    <id>https://chtyvo.org.ua/authors/64a30051202cc/Knyzhechka_pro_Antykhrysta/</id>
+    <summary>Лист Адсона з Монтьє-ан-Дер до королеви Західної Франкії Герберги з богословським роз'ясненням легенди про Антихриста, викладеним в агіографічній формі. Передмова та переклад з латини Олександра Артамонова.</summary>
+    <link href="https://chtyvo.org.ua/authors/64a30051202cc/Knyzhechka_pro_Antykhrysta/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/64a30051202cc/Knyzhechka_pro_Antykhrysta.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FArtamonov_Oleksandr%2FKnyzhechka_pro_Antykhrysta.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

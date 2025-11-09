@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айвіде Ліндквіст Йон</title>
+  <id>/A/Aivide_Lindkvist_Yon/index.xml</id>
+  <updated>2025-11-09T15:11:02Z</updated>
+  <link href="/A/Aivide_Lindkvist_Yon/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Впусти мене (вид. 2023)</title>
+    <id>/A/Aivide_Lindkvist_Yon/Vpusty_mene_vyd_2023.xml</id>
+    <link href="/A/Aivide_Lindkvist_Yon/Vpusty_mene_vyd_2023.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Нехай старі мрії помирають (вид. 2023)</title>
+    <id>/A/Aivide_Lindkvist_Yon/Nekhai_stari_mrii_pomyraiut_vyd_2023.xml</id>
+    <link href="/A/Aivide_Lindkvist_Yon/Nekhai_stari_mrii_pomyraiut_vyd_2023.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

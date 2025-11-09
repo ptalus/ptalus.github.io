@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аґстнер Рудольф</title>
+  <id>/A/Agstner_Rudolf/index.xml</id>
+  <updated>2025-11-09T15:08:55Z</updated>
+  <link href="/A/Agstner_Rudolf/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Про цісарів, консулів і купців: Австрія і Україна 1785-2010</title>
+    <id>/A/Agstner_Rudolf/Pro_tsisariv_konsuliv_i_kuptsiv_Avstriia_i_Ukraina_1785-2010.xml</id>
+    <link href="/A/Agstner_Rudolf/Pro_tsisariv_konsuliv_i_kuptsiv_Avstriia_i_Ukraina_1785-2010.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

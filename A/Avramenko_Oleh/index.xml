@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авраменко Олег</title>
+  <id>/A/Avramenko_Oleh/index.xml</id>
+  <updated>2025-11-09T15:07:36Z</updated>
+  <link href="/A/Avramenko_Oleh/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Жменя вічності</title>
+    <id>/A/Avramenko_Oleh/Zhmenia_vichnosti.xml</id>
+    <link href="/A/Avramenko_Oleh/Zhmenia_vichnosti.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Заборонені чари</title>
+    <id>/A/Avramenko_Oleh/Zaboroneni_chary.xml</id>
+    <link href="/A/Avramenko_Oleh/Zaboroneni_chary.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Зорі в твоїх долонях</title>
+    <id>/A/Avramenko_Oleh/Zori_v_tvoih_doloniah.xml</id>
+    <link href="/A/Avramenko_Oleh/Zori_v_tvoih_doloniah.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Зруйновані зорі</title>
+    <id>/A/Avramenko_Oleh/Zruinovani_zori.xml</id>
+    <link href="/A/Avramenko_Oleh/Zruinovani_zori.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Коли дивишся в безодню</title>
+    <id>/A/Avramenko_Oleh/Koly_dyvyshsia_v_bezodniu.xml</id>
+    <link href="/A/Avramenko_Oleh/Koly_dyvyshsia_v_bezodniu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Напередодні Армагедону</title>
+    <id>/A/Avramenko_Oleh/Naperedodni_Armahedonu.xml</id>
+    <link href="/A/Avramenko_Oleh/Naperedodni_Armahedonu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Небо, повне зірок</title>
+    <id>/A/Avramenko_Oleh/Nebo_povne_zirok.xml</id>
+    <link href="/A/Avramenko_Oleh/Nebo_povne_zirok.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Пeрвісна. Дорога на Тір Мінеган</title>
+    <id>/A/Avramenko_Oleh/Pervisna_Doroha_na_Tir_Minehan.xml</id>
+    <link href="/A/Avramenko_Oleh/Pervisna_Doroha_na_Tir_Minehan.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Пeрвісна. У вирі пророцтв</title>
+    <id>/A/Avramenko_Oleh/Pervisna_U_vyri_prorotstv.xml</id>
+    <link href="/A/Avramenko_Oleh/Pervisna_U_vyri_prorotstv.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Принц Ґаллії</title>
+    <id>/A/Avramenko_Oleh/Prynts_Gallii.xml</id>
+    <link href="/A/Avramenko_Oleh/Prynts_Gallii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Реальна загроза</title>
+    <id>/A/Avramenko_Oleh/Realna_zahroza.xml</id>
+    <link href="/A/Avramenko_Oleh/Realna_zahroza.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Син Cутiнкiв i Cвiтла</title>
+    <id>/A/Avramenko_Oleh/Syn_Sutinkiv_i_Svitla.xml</id>
+    <link href="/A/Avramenko_Oleh/Syn_Sutinkiv_i_Svitla.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Усі Грані Світу</title>
+    <id>/A/Avramenko_Oleh/Usi_Hrani_Svitu.xml</id>
+    <link href="/A/Avramenko_Oleh/Usi_Hrani_Svitu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Я, мій чорт і...</title>
+    <id>/A/Avramenko_Oleh/Ya_miy_chort_i.xml</id>
+    <link href="/A/Avramenko_Oleh/Ya_miy_chort_i.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

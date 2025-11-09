@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Анатолій Авраменко » Історія Кубані в сучасних українських атласах</title>
+  <id>/A/Avramenko_AM/Istoriia_Kubani_v_suchasnykh_ukrainskykh_atlasakh.xml</id>
+  <updated>2025-11-09T15:07:55Z</updated>
+  <link href="/A/Avramenko_AM/Istoriia_Kubani_v_suchasnykh_ukrainskykh_atlasakh.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Анатолій Авраменко » Історія Кубані в сучасних українських атласах</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_AM/Istoriia_Kubani_v_suchasnykh_ukrainskykh_atlasakh/</id>
+    <summary>Історико-географічні дослідження в Україні: Збірник наукових праць / НАН України. Інститут історії України. – 2005. – Вип. 8.Автор аналізує українські історичні атласи за 1997–2000 рр., на яких нанесені кубанські землі.</summary>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_AM/Istoriia_Kubani_v_suchasnykh_ukrainskykh_atlasakh/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_AM/Istoriia_Kubani_v_suchasnykh_ukrainskykh_atlasakh.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_AM%2FIstoriia_Kubani_v_suchasnykh_ukrainskykh_atlasakh.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

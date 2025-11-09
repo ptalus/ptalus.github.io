@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авраменко Світлана</title>
+  <id>/A/Avramenko_Svitlana/index.xml</id>
+  <updated>2025-11-09T15:08:01Z</updated>
+  <link href="/A/Avramenko_Svitlana/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Виховання толерантності підлітків у діяльності дитячих та молодіжних громадських об'єднань Криму середини XX ‒ початку XXI століття</title>
+    <id>/A/Avramenko_Svitlana/Vykhovannia_tolerantnosti_pidlitkiv_u_diialnosti_dytiachykh_ta_molodizhnykh_hromadskykh_obiednan_Kry.xml</id>
+    <link href="/A/Avramenko_Svitlana/Vykhovannia_tolerantnosti_pidlitkiv_u_diialnosti_dytiachykh_ta_molodizhnykh_hromadskykh_obiednan_Kry.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

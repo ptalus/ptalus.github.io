@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Володимир Адамович-Новопільський » Загублені життя трьох поколінь</title>
+  <id>/A/Adamovych-Novopilskyi_Volodymyr/Zahubleni_zhyttia_trokh_pokolin.xml</id>
+  <updated>2025-11-09T15:09:36Z</updated>
+  <link href="/A/Adamovych-Novopilskyi_Volodymyr/Zahubleni_zhyttia_trokh_pokolin.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Володимир Адамович-Новопільський » Загублені життя трьох поколінь</title>
+    <id>https://chtyvo.org.ua/authors/Adamovych-Novopilskyi_Volodymyr/Zahubleni_zhyttia_trokh_pokolin/</id>
+    <link href="https://chtyvo.org.ua/content/covers/e2872991f750210c808fec4653afe54f.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovych-Novopilskyi_Volodymyr/Zahubleni_zhyttia_trokh_pokolin/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovych-Novopilskyi_Volodymyr/Zahubleni_zhyttia_trokh_pokolin.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdamovych-Novopilskyi_Volodymyr%2FZahubleni_zhyttia_trokh_pokolin.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

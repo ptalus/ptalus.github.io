@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ґерберт Аврілакський » Книжечка про «розумне» та «використовувати розум»</title>
+  <id>/A/Avrilakskyi_Gerbert/Knyzhechka_pro_rozumne_ta_vykorystovuvaty_rozum.xml</id>
+  <updated>2025-11-09T15:08:10Z</updated>
+  <link href="/A/Avrilakskyi_Gerbert/Knyzhechka_pro_rozumne_ta_vykorystovuvaty_rozum.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ґерберт Аврілакський » Книжечка про «розумне» та «використовувати розум»</title>
+    <id>https://chtyvo.org.ua/authors/Avrilakskyi_Gerbert/Knyzhechka_pro_rozumne_ta_vykorystovuvaty_rozum/</id>
+    <summary>У статті подано український переклад із латини «Книжечки про “розумне” та “використовувати розум”», яку написав у 997 р. Ґерберт Аврілакський (з 999 р. – Папа Римський Сильвестр ІІ). Цей твір вважають одним із перших прикладів застосування схоластичного методу.Передмова та переклад з латини Олександра Артамонова.</summary>
+    <link href="https://chtyvo.org.ua/authors/Avrilakskyi_Gerbert/Knyzhechka_pro_rozumne_ta_vykorystovuvaty_rozum/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avrilakskyi_Gerbert/Knyzhechka_pro_rozumne_ta_vykorystovuvaty_rozum.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvrilakskyi_Gerbert%2FKnyzhechka_pro_rozumne_ta_vykorystovuvaty_rozum.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

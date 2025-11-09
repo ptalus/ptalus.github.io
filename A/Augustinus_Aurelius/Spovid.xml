@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Аврелій Авґустин » Сповідь</title>
+  <id>/A/Augustinus_Aurelius/Spovid.xml</id>
+  <updated>2025-11-09T15:07:04Z</updated>
+  <link href="/A/Augustinus_Aurelius/Spovid.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Аврелій Авґустин » Сповідь</title>
+    <id>https://chtyvo.org.ua/authors/Augustinus_Aurelius/Spovid/</id>
+    <summary>Автобіографічний твір Святого Августина (354–430), християнського теолога й церковного діяча, родоначальника християнської філософії історії, видатного представника західної патристики. Християнський неоплатонізм Августина, пануючи майже десять століть, справив величезний вплив на розвиток західноєвропейської філософії та суспільно-політичне життя.Для широкого кола читачів.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/d2afa1760cad65fedd693cf5fcd2f921.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Augustinus_Aurelius/Spovid/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Augustinus_Aurelius/Spovid.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAugustinus_Aurelius%2FSpovid.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

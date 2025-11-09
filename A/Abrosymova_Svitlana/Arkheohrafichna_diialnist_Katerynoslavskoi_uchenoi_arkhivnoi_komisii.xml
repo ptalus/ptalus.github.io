@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Світлана Абросимова » Археографічна діяльність Катеринославської ученої архівної комісії</title>
+  <id>/A/Abrosymova_Svitlana/Arkheohrafichna_diialnist_Katerynoslavskoi_uchenoi_arkhivnoi_komisii.xml</id>
+  <updated>2025-11-09T15:06:45Z</updated>
+  <link href="/A/Abrosymova_Svitlana/Arkheohrafichna_diialnist_Katerynoslavskoi_uchenoi_arkhivnoi_komisii.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Світлана Абросимова » Археографічна діяльність Катеринославської ученої архівної комісії</title>
+    <id>https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Arkheohrafichna_diialnist_Katerynoslavskoi_uchenoi_arkhivnoi_komisii/</id>
+    <summary>Український археографічний щорічник. – К., 1992. – Вип. 1.</summary>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Arkheohrafichna_diialnist_Katerynoslavskoi_uchenoi_arkhivnoi_komisii/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Arkheohrafichna_diialnist_Katerynoslavskoi_uchenoi_arkhivnoi_komisii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FZhurba_Oleh%2FArkheohrafichna_diialnist_Katerynoslavskoi_uchenoi_arkhivnoi_komisii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

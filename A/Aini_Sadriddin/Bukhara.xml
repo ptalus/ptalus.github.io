@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Садріддін Айні » Бухара</title>
+  <id>/A/Aini_Sadriddin/Bukhara.xml</id>
+  <updated>2025-11-09T15:11:12Z</updated>
+  <link href="/A/Aini_Sadriddin/Bukhara.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Садріддін Айні » Бухара</title>
+    <id>https://chtyvo.org.ua/authors/Aini_Sadriddin/Bukhara/</id>
+    <summary>Серія &quot;Вершини світового письменства&quot;У творі основоположника таджицької радянської літератури (1878—1954) відображено важливі й складні події у Бухарському еміраті наприкінці XIX ст., показано страждання і безправ’я таджицького народу. Сюжет побудований на спогадах головного героя, який пройшов довгий і важкий життєвий шлях.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/ed2ef1c461d65ebd9c48e6198a4c8d5c.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Aini_Sadriddin/Bukhara/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aini_Sadriddin/Bukhara.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Aini_Sadriddin/Bukhara.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAini_Sadriddin%2FBukhara.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

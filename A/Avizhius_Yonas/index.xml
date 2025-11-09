@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авіжюс Йонас</title>
+  <id>/A/Avizhius_Yonas/index.xml</id>
+  <updated>2025-11-09T15:07:34Z</updated>
+  <link href="/A/Avizhius_Yonas/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Вісім ляльок з дому Тупотухи (збірка)</title>
+    <id>/A/Avizhius_Yonas/Visim_lialok_z_domu_Tupotukhy_zbirka.xml</id>
+    <link href="/A/Avizhius_Yonas/Visim_lialok_z_domu_Tupotukhy_zbirka.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

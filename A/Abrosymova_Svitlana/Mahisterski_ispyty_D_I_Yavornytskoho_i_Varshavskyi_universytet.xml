@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Світлана Абросимова » Магістерські іспити Д.І. Яворницького і Варшавський університет</title>
+  <id>/A/Abrosymova_Svitlana/Mahisterski_ispyty_D_I_Yavornytskoho_i_Varshavskyi_universytet.xml</id>
+  <updated>2025-11-09T15:06:52Z</updated>
+  <link href="/A/Abrosymova_Svitlana/Mahisterski_ispyty_D_I_Yavornytskoho_i_Varshavskyi_universytet.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Світлана Абросимова » Магістерські іспити Д.І. Яворницького і Варшавський університет</title>
+    <id>https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Mahisterski_ispyty_D_I_Yavornytskoho_i_Varshavskyi_universytet/</id>
+    <summary>Український археографічний щорічник. – К., 2001. – Вип. 5/6.</summary>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Mahisterski_ispyty_D_I_Yavornytskoho_i_Varshavskyi_universytet/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Mahisterski_ispyty_D_I_Yavornytskoho_i_Varshavskyi_universytet.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron3.chtyvo.org.ua%2FKovalskyi_Mykola%2FMahisterski_ispyty_D_I_Yavornytskoho_i_Varshavskyi_universytet.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

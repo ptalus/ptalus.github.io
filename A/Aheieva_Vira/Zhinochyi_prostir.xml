@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віра Агеєва » Жіночий простір</title>
+  <id>/A/Aheieva_Vira/Zhinochyi_prostir.xml</id>
+  <updated>2025-11-09T15:08:41Z</updated>
+  <link href="/A/Aheieva_Vira/Zhinochyi_prostir.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віра Агеєва » Жіночий простір</title>
+    <id>https://chtyvo.org.ua/authors/Aheieva_Vira/Zhinochyi_prostir/</id>
+    <summary>Джерело:Магістеріум. Вип. 8, Літературознавчі студії / Національний університет &quot;Києво-Могилянська академія&quot;. - 2002</summary>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Zhinochyi_prostir/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Zhinochyi_prostir.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAheieva_Vira%2FZhinochyi_prostir.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ієремія Айзеншток » Студії над текстами І. Котляревського</title>
+  <id>/A/Aizenshtok_Iieremiia/Studii_nad_tekstamy_I_Kotliarevskoho.xml</id>
+  <updated>2025-11-09T15:11:11Z</updated>
+  <link href="/A/Aizenshtok_Iieremiia/Studii_nad_tekstamy_I_Kotliarevskoho.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ієремія Айзеншток » Студії над текстами І. Котляревського</title>
+    <id>https://chtyvo.org.ua/authors/Aizenshtok_Iieremiia/Studii_nad_tekstamy_I_Kotliarevskoho/</id>
+    <summary>Записки історично-філологічного відділу ВУАН. — 1926. — Книга 10</summary>
+    <link href="https://chtyvo.org.ua/authors/Aizenshtok_Iieremiia/Studii_nad_tekstamy_I_Kotliarevskoho/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aizenshtok_Iieremiia/Studii_nad_tekstamy_I_Kotliarevskoho.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

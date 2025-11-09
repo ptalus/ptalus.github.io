@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Сєрґєй Абрамов » Двоє під однією парасолькою (збірка)</title>
+  <id>/A/Abramov_Siergiei/Dvoie_pid_odniieiu_parasolkoiu_zbirka.xml</id>
+  <updated>2025-11-09T15:06:27Z</updated>
+  <link href="/A/Abramov_Siergiei/Dvoie_pid_odniieiu_parasolkoiu_zbirka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Сєрґєй Абрамов » Двоє під однією парасолькою (збірка)</title>
+    <id>https://chtyvo.org.ua/authors/Abramov_Siergiei/Dvoie_pid_odniieiu_parasolkoiu_zbirka/</id>
+    <summary>У пропонованих творах ведеться серйозна і хвилююча розмова про становлення характеру молодої людини, про її ставлення до життя до свого таланту, до праці, до кохання.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/b14d8f9c01837d82aedcfd7ddc51e882.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Siergiei/Dvoie_pid_odniieiu_parasolkoiu_zbirka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Siergiei/Dvoie_pid_odniieiu_parasolkoiu_zbirka.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

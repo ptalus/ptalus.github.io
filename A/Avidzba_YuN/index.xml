@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авідзба Юлія</title>
+  <id>/A/Avidzba_YuN/index.xml</id>
+  <updated>2025-11-09T15:07:33Z</updated>
+  <link href="/A/Avidzba_YuN/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Лабораторна діагностика паразитарних інвазій</title>
+    <id>/A/Avidzba_YuN/Laboratorna_diahnostyka_parazytarnykh_invazii.xml</id>
+    <link href="/A/Avidzba_YuN/Laboratorna_diahnostyka_parazytarnykh_invazii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

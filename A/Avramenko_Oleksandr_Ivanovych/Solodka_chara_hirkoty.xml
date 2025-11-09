@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олександр Іванович Авраменко » Солодка чара гіркоти (збірка)</title>
+  <id>/A/Avramenko_Oleksandr_Ivanovych/Solodka_chara_hirkoty.xml</id>
+  <updated>2025-11-09T15:08:06Z</updated>
+  <link href="/A/Avramenko_Oleksandr_Ivanovych/Solodka_chara_hirkoty.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олександр Іванович Авраменко » Солодка чара гіркоти (збірка)</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleksandr_Ivanovych/Solodka_chara_hirkoty/</id>
+    <summary>У повістях «Солодка чара гіркоти» та «Гінці з неволі» український радянський письменник (1934–1974 ) звертається до воєнних подій, а нашим сучасникам присвячені кращі новели з творчого доробку прозаїка. Всі твори, що ввійшли до книжки, об’єднуються спільною проблемою – проблемою високої моральності, людяності, благородства.Увага!!! Ця книга містить елементи комуністичної пропаганди!</summary>
+    <link href="https://chtyvo.org.ua/content/covers/c31ba2e5540a5322ea079a4048cb1029.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr_Ivanovych/Solodka_chara_hirkoty/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr_Ivanovych/Solodka_chara_hirkoty.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleksandr_Ivanovych%2FSolodka_chara_hirkoty.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

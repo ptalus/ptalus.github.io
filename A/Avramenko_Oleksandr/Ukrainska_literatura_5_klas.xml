@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олександр Миколайович Авраменко » Українська література: 5 клас</title>
+  <id>/A/Avramenko_Oleksandr/Ukrainska_literatura_5_klas.xml</id>
+  <updated>2025-11-09T15:07:51Z</updated>
+  <link href="/A/Avramenko_Oleksandr/Ukrainska_literatura_5_klas.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олександр Миколайович Авраменко » Українська література: 5 клас</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleksandr/Ukrainska_literatura_5_klas/</id>
+    <summary>Підручник відповідає вимогам Державного стандарту та новій програмі з української літератури. Видання підготовлено відповідно до нової концепції літературної освіти. Підручник містить художні твори, відомості з теорії літератури, біографічні матеріали про письменників.Методичний апарат підручника охоплює різнорівневі завдання, зорієнтовані на вікові особливості п’ятикласників.Авраменко О.М. Українська література: підруч. для 5 кл. загальноосвітн. навч. закл. — К.: Грамота, 2013. — 288 с.ISBN 978-966-349-401-2</summary>
+    <link href="https://chtyvo.org.ua/content/covers/b2718dfce5f5f02e171a0c9a7935cdc3.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr/Ukrainska_literatura_5_klas/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr/Ukrainska_literatura_5_klas.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr/Ukrainska_literatura_5_klas.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleksandr%2FUkrainska_literatura_5_klas.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

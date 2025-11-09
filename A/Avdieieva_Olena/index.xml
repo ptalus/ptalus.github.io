@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авдєєва Олена</title>
+  <id>/A/Avdieieva_Olena/index.xml</id>
+  <updated>2025-11-09T15:07:07Z</updated>
+  <link href="/A/Avdieieva_Olena/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Етнічна структура населення Північного Приазов'я наприкінці ХІХ ст. (за матеріалами Першого всезагального перепису населення Російської імперії 1897 року)</title>
+    <id>/A/Avdieieva_Olena/Etnichna_struktura_naselennia_Pivnichnoho_Pryazovia_naprykintsi_KhIKh_st_za_materialamy_Pershoho_vse.xml</id>
+    <link href="/A/Avdieieva_Olena/Etnichna_struktura_naselennia_Pivnichnoho_Pryazovia_naprykintsi_KhIKh_st_za_materialamy_Pershoho_vse.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Міжконфесійні відносини у Північному Приазов'ї (кінець XVIII – початок ХХ ст.)</title>
+    <id>/A/Avdieieva_Olena/Mizhkonfesiini_vidnosyny_u_Pivnichnomu_Pryazovi_kinets_XVIII__pochatok_KhKh_st.xml</id>
+    <link href="/A/Avdieieva_Olena/Mizhkonfesiini_vidnosyny_u_Pivnichnomu_Pryazovi_kinets_XVIII__pochatok_KhKh_st.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

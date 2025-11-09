@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Валентин Авраменко » Принц Ґаллії</title>
+  <id>/A/Avramenko_Valentyn/Prynts_Gallii.xml</id>
+  <updated>2025-11-09T15:07:47Z</updated>
+  <link href="/A/Avramenko_Valentyn/Prynts_Gallii.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Валентин Авраменко » Принц Ґаллії</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Valentyn/Prynts_Gallii/</id>
+    <summary>...Історична фантастика? Фантастична історія?.. Мабуть, і те й інше. Книга написана як цілком традиційний авантюрно-історичний роман з усіма його неодмінними атрибутами — динамічним, закрученим сюжетом, придворними і політичними інтригами, сценами битв і турнірів, ретельним зображенням історичного тла подій, побуту та звичаїв епохи, складними, часом заплутаними і неоднозначними стосунками героїв — ну, і звичайно, з коханням.Водночас на сторінках книги в неявному вигляді присутній фантастичний елемент. Це не чаклуни з драконами, не прибульці з інших світів і навіть не гості з майбутнього, що прагнуть змінити власне минуле. Фантастика лежить у самій основі сюжету, в тому самому історичному тлі. У «Принці Галії» витвором авторської уяви є не лише окремі персонажі і ситуації, а вся історія середньовічної Європи з часів падіння Риму до середини XV сторіччя, коли відбуваються зображені в романі події. Автор пропонує читачеві свій погляд на наше минуле, але не намагається ні в чому переконати його, а просто радить розглянути інші можливості історичного розвитку і самому вирішити, що ми втратили, а що навпаки — виграли від того, що історія повернулася саме так, а не якось інакше.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/65a1347db8bb042c6428be48bb2da095.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Prynts_Gallii/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Prynts_Gallii.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

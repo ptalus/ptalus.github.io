@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ендре Аді » Вибрані поезії (збірка)</title>
+  <id>/A/Ady_Endre/Vybrani_poezi_zbirka.xml</id>
+  <updated>2025-11-09T15:10:18Z</updated>
+  <link href="/A/Ady_Endre/Vybrani_poezi_zbirka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ендре Аді » Вибрані поезії (збірка)</title>
+    <id>https://chtyvo.org.ua/authors/Ady_Endre/Vybrani_poezi_zbirka/</id>
+    <published>1906</published>
+    <link href="https://chtyvo.org.ua/content/covers/1d9497d79706445c5559d73c137b64b0.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Ady_Endre/Vybrani_poezi_zbirka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Ady_Endre/Vybrani_poezi_zbirka.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdy_Endre%2FVybrani_poezi_zbirka.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віктор Адамський » Кам'янець-Подільський державний український університет у спогадах його студентів</title>
+  <id>/A/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_spohadakh_ioho_studentiv.xml</id>
+  <updated>2025-11-09T15:10:01Z</updated>
+  <link href="/A/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_spohadakh_ioho_studentiv.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віктор Адамський » Кам'янець-Подільський державний український університет у спогадах його студентів</title>
+    <id>https://chtyvo.org.ua/authors/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_spohadakh_ioho_studentiv/</id>
+    <summary>Іван Огієнко і сучасна наука та освіта. Науковий збірник. Серія: Філологічна. – Кам’янець-Подільський: Кам’янець-Подільський національний університет імені Івана Огієнка, 2016. – Вип. ХIII.У статті аналізуються спогади студентів Кам’янець-Подільського державного українського університету, заснованого у добу гетьманату П.Скоропадського. Особливе значення серед них посідають мемуари Б.Сивенка, котрий досить ґрунтовно описує як внутрішнє університетське життя періоду 1918–1919 років, так і загальнополітичну ситуацію на Поділлі. Особливу увагу автор приділяє участі студентства у зміні влади в Кам’янці-Подільському наприкінці 1918 року. У центрі уваги майбутнього літератора перебувають структури та репрезентанти більшовицької моделі державності, а також прихід до міста Української Галицької Армії, внаслідок чого якісно поповнився студентський склад навчального закладу та значно активізувалася громадсько-політична праця.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_spohadakh_ioho_studentiv/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_spohadakh_ioho_studentiv.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdamskyi_Viktor%2FKamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_spohadakh_ioho_studentiv.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

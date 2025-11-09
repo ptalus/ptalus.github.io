@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Авторський колектив » (Не)знана Леся Українка: повернення</title>
+  <id>/A/Avtorskyi_kolektyv/Neznana_Lesia_Ukrainka_povernennia.xml</id>
+  <updated>2025-11-09T15:08:18Z</updated>
+  <link href="/A/Avtorskyi_kolektyv/Neznana_Lesia_Ukrainka_povernennia.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Авторський колектив » (Не)знана Леся Українка: повернення</title>
+    <id>https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Neznana_Lesia_Ukrainka_povernennia/</id>
+    <summary>У XXI столітті образ Лесі Українки продовжує відкриватися наново. Поступово відходять стереотипи, що роками навіювалися радянською пропагандою. Все частіше до образу поетеси звертаються представники різних видів мистецтва: театру, живопису, музики, скульптури. Одночасно з класичною інтерпретацією постаті та творів поетеси, виникають й нові експериментальні продукти, зорієнтовані на молодіжне сприйняття. Актуальним є заклик Оксани Забужко пізнавати Лесю, не просто читати, а й перепрочитувати, долучатися до дискусій та обговорень, що «допомагає нам самим побачити себе в цьому дзеркалі».Співорганізатори:Український інститут національної пам’ятіМузей видатних діячів української культури Лесі Українки, Миколи Лисенка, Панаса Саксаганського, Михайла СтарицькогоКуратори виставки:Наталя Слобожаніна,Ольга ГуральТексти надані:Музей видатних діячів української культури Лесі Українки, Миколи Лисенка, Панаса Саксаганського, Михайла СтарицькогоСвітлини надані:Відділ рукописних фондів і текстології Інституту літератури імені Тараса Шевченка НАН УкраїниМузей видатних діячів української культури Лесі Українки, Миколи Лисенка, Панаса Саксаганського, Михайла СтарицькогоДержавне агентство України з питань мистецтв та мистецької освітиДля підготовки виставки використано матеріали Тамари СкрипкиЛітературна обробка текстів:Наталка Позняк-ХоменкоГрафічний дизайн:Олександр Рубчук</summary>
+    <link href="https://chtyvo.org.ua/content/covers/a689c7cbc685d71e4bf7498f1d4e7ee1.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Neznana_Lesia_Ukrainka_povernennia/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Neznana_Lesia_Ukrainka_povernennia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvtorskyi_kolektyv%2FNeznana_Lesia_Ukrainka_povernennia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

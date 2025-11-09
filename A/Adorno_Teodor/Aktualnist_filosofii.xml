@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Теодор Адорно » Актуальність філософії</title>
+  <id>/A/Adorno_Teodor/Aktualnist_filosofii.xml</id>
+  <updated>2025-11-09T15:10:24Z</updated>
+  <link href="/A/Adorno_Teodor/Aktualnist_filosofii.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Теодор Адорно » Актуальність філософії</title>
+    <id>https://chtyvo.org.ua/authors/Adorno_Teodor/Aktualnist_filosofii/</id>
+    <summary>Свою роботу «Актуальність філософії» молодий філософ-неомарксист Теодор Адорно прочитав улітку 1931 року як лекцію, вступаючи на посаду приват-доцента Франкфуртського університету імені Йогана Вольфґанґа Ґете. У цій лекції Адорно критично проаналізував філософію позитивізму, неокантіанство, філософію життя та феноменологічне вчення Едмунда Гусерля, ідейно впливових течій і шкіл німецької філософії, що мали статус панівного теоретичного знання в суспільстві.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adorno_Teodor/Aktualnist_filosofii/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adorno_Teodor/Aktualnist_filosofii.doc" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdorno_Teodor%2FAktualnist_filosofii.doc" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Adorno_Teodor/Aktualnist_filosofii.doc.zip" rel="http://opds-spec.org/acquisition" type="application/zip"/>
+    <link href="https://chtyvo.org.ua/authors/Adorno_Teodor/Aktualnist_filosofii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdorno_Teodor%2FAktualnist_filosofii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

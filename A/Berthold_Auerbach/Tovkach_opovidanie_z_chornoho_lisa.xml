@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Бертольд Авербах » Товкач (оповіданє з чорного лїса)</title>
+  <id>/A/Berthold_Auerbach/Tovkach_opovidanie_z_chornoho_lisa.xml</id>
+  <updated>2025-11-09T15:07:24Z</updated>
+  <link href="/A/Berthold_Auerbach/Tovkach_opovidanie_z_chornoho_lisa.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Бертольд Авербах » Товкач (оповіданє з чорного лїса)</title>
+    <id>https://chtyvo.org.ua/authors/Berthold_Auerbach/Tovkach_opovidanie_z_chornoho_lisa/</id>
+    <summary>Видано 1913 року в Коломиї.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/53132de8cf948547b9f1e6006f3f5d7d.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Berthold_Auerbach/Tovkach_opovidanie_z_chornoho_lisa/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Berthold_Auerbach/Tovkach_opovidanie_z_chornoho_lisa.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Berthold_Auerbach/Tovkach_opovidanie_z_chornoho_lisa.epub" rel="http://opds-spec.org/acquisition" type="application/epub+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Berthold_Auerbach/Tovkach_opovidanie_z_chornoho_lisa.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FBerthold_Auerbach%2FTovkach_opovidanie_z_chornoho_lisa.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

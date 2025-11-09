@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Заборонені чари</title>
+  <id>/A/Avramenko_Oleh/Zaboroneni_chary.xml</id>
+  <updated>2025-11-09T15:07:37Z</updated>
+  <link href="/A/Avramenko_Oleh/Zaboroneni_chary.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Заборонені чари</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Zaboroneni_chary/</id>
+    <summary>...Природа не стоїть на місці, і людина, яка вона є, не вінець її творіння. Одного разу еволюція зробила черговий стрибок, і породила людей, здатних керувати фундаментальними силами світобудови. Цих людей у народі називали чаклунами, їх не любили й боялися, а церква та владоможці бачили в них загрозу для свого добробуту.Проте мали чаклуни й грізніших ворогів, що називали себе Послідовниками. Вони вважали, що нікому не можна володіти такою надзвичайною силою, і поставили собі за мету викорінити магію серед людей. Послідовники були майже всемогутні і зрештою їм вдалося здійснити свій задум. На керування силами було накладено Заборону, нащадки чаклунів народжувалися звичайними людьми, позбавленими здібностей своїх пращурів, поступово в магію перестали вірити, і з життя вона перекочувала на сторінки художніх книжок. Послідовники тріумфували...(Примітка. Пропонований тест не є просто українським перекладом роману «Конноры и Хранители», а має від нього істотні відмінності. В українській версії відновлено первісну сюжетну лінію роману з урахуванням пізніших наробок, зокрема й тих, що не ввійшли до опублікованого варіанту російською мовою. Детальніше див. в авторській передмові.)</summary>
+    <link href="https://chtyvo.org.ua/content/covers/eed161e5d8f10e9fca4618b405d363e7.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Zaboroneni_chary/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Zaboroneni_chary.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Світлана Абросимова » Дослідник ранньої історії Русі</title>
+  <id>/A/Abrosymova_Svitlana/Doslidnyk_rannoi_istorii_Rusi.xml</id>
+  <updated>2025-11-09T15:06:48Z</updated>
+  <link href="/A/Abrosymova_Svitlana/Doslidnyk_rannoi_istorii_Rusi.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Світлана Абросимова » Дослідник ранньої історії Русі</title>
+    <id>https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Doslidnyk_rannoi_istorii_Rusi/</id>
+    <summary>Український археографічний щорічник. – К., 2006. – Вип. 10/11.Рецензія на: Портнов А. Володимир Пархоменко: Дослідник ранньої історії Русі.</summary>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Doslidnyk_rannoi_istorii_Rusi/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Doslidnyk_rannoi_istorii_Rusi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbrosymova_Svitlana%2FDoslidnyk_rannoi_istorii_Rusi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

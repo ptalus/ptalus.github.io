@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Юрій Авербах » Шаховий самовчитель</title>
+  <id>/A/Averbakh_Yurii/Shakhovyi_samovchytel.xml</id>
+  <updated>2025-11-09T15:07:25Z</updated>
+  <link href="/A/Averbakh_Yurii/Shakhovyi_samovchytel.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Юрій Авербах » Шаховий самовчитель</title>
+    <id>https://chtyvo.org.ua/authors/Averbakh_Yurii/Shakhovyi_samovchytel/</id>
+    <link href="https://chtyvo.org.ua/authors/Averbakh_Yurii/Shakhovyi_samovchytel/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Averbakh_Yurii/Shakhovyi_samovchytel.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

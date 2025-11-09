@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Міхаіл Адамовіч » Історія одного студента</title>
+  <id>/A/Adamovich_Mikhail/Istoriia_odnoho_studenta.xml</id>
+  <updated>2025-11-09T15:09:37Z</updated>
+  <link href="/A/Adamovich_Mikhail/Istoriia_odnoho_studenta.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Міхаіл Адамовіч » Історія одного студента</title>
+    <id>https://chtyvo.org.ua/authors/Adamovich_Mikhail/Istoriia_odnoho_studenta/</id>
+    <summary>Спогади про студентство на початку XX ст.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/fb9b88f0809de266952b233a574a0814.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovich_Mikhail/Istoriia_odnoho_studenta/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovich_Mikhail/Istoriia_odnoho_studenta.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdamovich_Mikhail%2FIstoriia_odnoho_studenta.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

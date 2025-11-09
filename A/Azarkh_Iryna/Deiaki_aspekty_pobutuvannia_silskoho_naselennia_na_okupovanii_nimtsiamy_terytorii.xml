@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ірина Азарх » Деякі аспекти побутування сільського населення на окупованій німцями території</title>
+  <id>/A/Azarkh_Iryna/Deiaki_aspekty_pobutuvannia_silskoho_naselennia_na_okupovanii_nimtsiamy_terytorii.xml</id>
+  <updated>2025-11-09T15:10:47Z</updated>
+  <link href="/A/Azarkh_Iryna/Deiaki_aspekty_pobutuvannia_silskoho_naselennia_na_okupovanii_nimtsiamy_terytorii.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ірина Азарх » Деякі аспекти побутування сільського населення на окупованій німцями території</title>
+    <id>https://chtyvo.org.ua/authors/Azarkh_Iryna/Deiaki_aspekty_pobutuvannia_silskoho_naselennia_na_okupovanii_nimtsiamy_terytorii/</id>
+    <summary>Сторінки воєнної історії України: Збірник наукових статей / НАН України. Інститут історії України. – К., 2012. – Вип. 15.На основі наукових, документальних і архівних джерел аналізується становище сільського соціуму на окупованій території України 1941–1943 рр.</summary>
+    <link href="https://chtyvo.org.ua/authors/Azarkh_Iryna/Deiaki_aspekty_pobutuvannia_silskoho_naselennia_na_okupovanii_nimtsiamy_terytorii/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azarkh_Iryna/Deiaki_aspekty_pobutuvannia_silskoho_naselennia_na_okupovanii_nimtsiamy_terytorii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzarkh_Iryna%2FDeiaki_aspekty_pobutuvannia_silskoho_naselennia_na_okupovanii_nimtsiamy_terytorii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

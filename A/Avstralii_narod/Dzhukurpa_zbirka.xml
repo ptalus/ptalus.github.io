@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>народ Австралії » Джукурпа (збірка)</title>
+  <id>/A/Avstralii_narod/Dzhukurpa_zbirka.xml</id>
+  <updated>2025-11-09T15:08:11Z</updated>
+  <link href="/A/Avstralii_narod/Dzhukurpa_zbirka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>народ Австралії » Джукурпа (збірка)</title>
+    <id>https://chtyvo.org.ua/authors/Avstralii_narod/Dzhukurpa_zbirka/</id>
+    <summary>Звідки у кенгуру взявся хвіст? А панцир у черепахи звідки? А голки у мурахоїда? І чому ему горбатий? Про це розкажуть австралійські легенди.Для молодшого шкільного вікуХудожник: Вишинський Ігор</summary>
+    <link href="https://chtyvo.org.ua/content/covers/1753157c2c23cd20308afb4f9bdaa92f.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avstralii_narod/Dzhukurpa_zbirka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avstralii_narod/Dzhukurpa_zbirka.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

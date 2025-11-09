@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Аркадій Адамов » Зашморг</title>
+  <id>/A/Adamov_Arkadii/Zashmorh.xml</id>
+  <updated>2025-11-09T15:09:22Z</updated>
+  <link href="/A/Adamov_Arkadii/Zashmorh.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Аркадій Адамов » Зашморг</title>
+    <id>https://chtyvo.org.ua/authors/Adamov_Arkadii/Zashmorh/</id>
+    <link href="https://chtyvo.org.ua/content/covers/cee360fcfbe237e388f636abb697e378.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adamov_Arkadii/Zashmorh/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adamov_Arkadii/Zashmorh.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

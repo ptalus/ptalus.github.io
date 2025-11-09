@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айтматов Чингіз</title>
+  <id>/A/Aitmatov_Chynhiz/index.xml</id>
+  <updated>2025-11-09T15:11:18Z</updated>
+  <link href="/A/Aitmatov_Chynhiz/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Вибрані твори в двох томах. Том 1</title>
+    <id>/A/Aitmatov_Chynhiz/Vybrani_tvory_v_dvokh_tomakh_Tom_1.xml</id>
+    <link href="/A/Aitmatov_Chynhiz/Vybrani_tvory_v_dvokh_tomakh_Tom_1.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

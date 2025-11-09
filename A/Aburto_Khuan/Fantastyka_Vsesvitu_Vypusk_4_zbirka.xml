@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Хуан Абурто » Фантастика Всесвіту. Випуск 4 (збірка)</title>
+  <id>/A/Aburto_Khuan/Fantastyka_Vsesvitu_Vypusk_4_zbirka.xml</id>
+  <updated>2025-11-09T15:06:56Z</updated>
+  <link href="/A/Aburto_Khuan/Fantastyka_Vsesvitu_Vypusk_4_zbirka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Хуан Абурто » Фантастика Всесвіту. Випуск 4 (збірка)</title>
+    <id>https://chtyvo.org.ua/authors/Aburto_Khuan/Fantastyka_Vsesvitu_Vypusk_4_zbirka/</id>
+    <summary>ФАНТАСТИКА ВСЕСВІТУ. Випуск 4.Фантастичні повісті, оповідання.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/a73dda93f2a5ff602f1bf27ada737951.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Aburto_Khuan/Fantastyka_Vsesvitu_Vypusk_4_zbirka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aburto_Khuan/Fantastyka_Vsesvitu_Vypusk_4_zbirka.epub" rel="http://opds-spec.org/acquisition" type="application/epub+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Aburto_Khuan/Fantastyka_Vsesvitu_Vypusk_4_zbirka.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

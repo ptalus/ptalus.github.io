@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айтов Спартак</title>
+  <id>/A/Aitov_Spartak/index.xml</id>
+  <updated>2025-11-09T15:11:19Z</updated>
+  <link href="/A/Aitov_Spartak/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Понятійний апарат і методи історичної антропології як сучасної філософії історії</title>
+    <id>/A/Aitov_Spartak/Poniatiinyi_aparat_i_metody_istorychnoi_antropolohii_iak_suchasnoi_filosofii_istorii.xml</id>
+    <link href="/A/Aitov_Spartak/Poniatiinyi_aparat_i_metody_istorychnoi_antropolohii_iak_suchasnoi_filosofii_istorii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

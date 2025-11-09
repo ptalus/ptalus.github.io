@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олеся Авраменко » Митець із серця «нової хвилі» українського мистецтва кінця ХХ століття. Олександр Гнилицький</title>
+  <id>/A/Avramenko_Olesia/Mytets_iz_sertsia_novoi_khvyli_ukrainskoho_mystetstva_kintsia_KhKh_stolittia_Oleksandr_Hnylytskyi.xml</id>
+  <updated>2025-11-09T15:07:58Z</updated>
+  <link href="/A/Avramenko_Olesia/Mytets_iz_sertsia_novoi_khvyli_ukrainskoho_mystetstva_kintsia_KhKh_stolittia_Oleksandr_Hnylytskyi.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олеся Авраменко » Митець із серця «нової хвилі» українського мистецтва кінця ХХ століття. Олександр Гнилицький</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Olesia/Mytets_iz_sertsia_novoi_khvyli_ukrainskoho_mystetstva_kintsia_KhKh_stolittia_Oleksandr_Hnylytskyi/</id>
+    <link href="https://chtyvo.org.ua/content/covers/1cd6eb83cfdc93bc7e93a4b3bb91fea1.png" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Olesia/Mytets_iz_sertsia_novoi_khvyli_ukrainskoho_mystetstva_kintsia_KhKh_stolittia_Oleksandr_Hnylytskyi/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Olesia/Mytets_iz_sertsia_novoi_khvyli_ukrainskoho_mystetstva_kintsia_KhKh_stolittia_Oleksandr_Hnylytskyi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Olesia%2FMytets_iz_sertsia_novoi_khvyli_ukrainskoho_mystetstva_kintsia_KhKh_stolittia_Oleksandr_Hnylytskyi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

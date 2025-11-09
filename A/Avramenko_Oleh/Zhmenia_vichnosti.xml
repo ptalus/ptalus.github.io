@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Жменя вічності</title>
+  <id>/A/Avramenko_Oleh/Zhmenia_vichnosti.xml</id>
+  <updated>2025-11-09T15:07:36Z</updated>
+  <link href="/A/Avramenko_Oleh/Zhmenia_vichnosti.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Жменя вічності</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Zhmenia_vichnosti/</id>
+    <summary>Вічність належить нам. І кожен візьме собі стільки,  скільки вміститься у жменях. Тільки не розсипте, бо свого  часу Бог неуважно розчепірив пальці - і от тепер на небі стільки зірок, що не порахувати навіть нашим нащадкам.Олег Авраменко не потребує рекомендацій. І його новий роман як завжди динамічний, несподіваний, розумний, - словом, фірмовий авраменківський.Випадкова зустріч приводить головного героя у табір  заколотників. Режим інопланетних загарбників, який,  здавалося, житиме вічно, раптом починає тріщати по  швах... Але переповідати художні твори - справа невдячна. Єдине, що хочеться зауважити, - авторові вдалося  уникнути традиційних фантастичних вад і не потрапити у  звичні жанрові пастки. Характери тут виписані з бальзаківською ретельністю, сюжет накручується так, що позаздрив би сам Хаггард. А проблеми консервації людської  культури й альтернативного розвитку цивілізації майстерно вплетені у тканину бойовика.Навіть сили добра, що мають урешті-решт перемогти,  виявляються не такими вже і добрими. А сили зла - не такими вже і злими. Інакше кажучи, все, як у нашому житті. Бо це книжка про нас із вами. І до бісової мами космольоти та просторові переходи.Адже вічність насправді у наших руках. Просто у жменях.ISBN 966-7831-62-0</summary>
+    <link href="https://chtyvo.org.ua/content/covers/465b9024ad4dc4812142c18d2f37a2ea.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Zhmenia_vichnosti/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Zhmenia_vichnosti.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Zhmenia_vichnosti.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Zhmenia_vichnosti.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleh%2FZhmenia_vichnosti.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Сергій Абраджионі » English: Найкращі 1000 тем</title>
+  <id>/A/Abradzhyoni_Serhii/English_Naikraschi_1000_tem.xml</id>
+  <updated>2025-11-09T15:06:19Z</updated>
+  <link href="/A/Abradzhyoni_Serhii/English_Naikraschi_1000_tem.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Сергій Абраджионі » English: Найкращі 1000 тем</title>
+    <id>https://chtyvo.org.ua/authors/Abradzhyoni_Serhii/English_Naikraschi_1000_tem/</id>
+    <link href="https://chtyvo.org.ua/content/covers/cb2fe8635933d4106f5bf29fdbfe3a20.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abradzhyoni_Serhii/English_Naikraschi_1000_tem/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abradzhyoni_Serhii/English_Naikraschi_1000_tem.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FFischenko_Olena%2FEnglish_Naikraschi_1000_tem.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

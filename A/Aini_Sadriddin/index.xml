@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айні Садріддін</title>
+  <id>/A/Aini_Sadriddin/index.xml</id>
+  <updated>2025-11-09T15:11:12Z</updated>
+  <link href="/A/Aini_Sadriddin/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Бухара</title>
+    <id>/A/Aini_Sadriddin/Bukhara.xml</id>
+    <link href="/A/Aini_Sadriddin/Bukhara.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

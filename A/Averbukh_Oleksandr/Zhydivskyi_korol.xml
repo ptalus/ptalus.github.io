@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олександр Авербух » Жидівський король</title>
+  <id>/A/Averbukh_Oleksandr/Zhydivskyi_korol.xml</id>
+  <updated>2025-11-09T15:07:26Z</updated>
+  <link href="/A/Averbukh_Oleksandr/Zhydivskyi_korol.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олександр Авербух » Жидівський король</title>
+    <id>https://chtyvo.org.ua/authors/Averbukh_Oleksandr/Zhydivskyi_korol/</id>
+    <summary>Авербух ОлександрЖидівський король. – К.: ДУХ І ЛІТЕРА, 2021. – 112 с.ISBN 978-966-378-911-8У збірці віршів «Жидівський король» Олександр Авербух пропонує, а точніше, вигадує письмо, у якому щільно переплітаються пам’ять і забуття, забування і згадування, відтворення й реанімування. Це заплутана панорама інтимної, приватної історії, що сполучає близькі родинні голоси з голосами цілком чужими, але водночас зрозумілими. Поєднуючи у собі модерністичні традиції з документальним письмом, ці вірші оприявнюють найгостріші проблеми та найболючіші, непроговорені теми: єврейських катастроф упродовж погромів і під час Голокосту, переміщених остарбайтерів з утраченими домівками, урешті-решт, мови, яка постійно зазнає змін, але повсякчас залишається чи не єдиним інструментом, здатним передавати ці переживання.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/b126642e3dd17bf5fac9c2922d0cbbc3.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Averbukh_Oleksandr/Zhydivskyi_korol/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Averbukh_Oleksandr/Zhydivskyi_korol.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAverbukh_Oleksandr%2FZhydivskyi_korol.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

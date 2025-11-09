@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Вивчення етногенезу слов'ян в працях В.П. Петрова</title>
+  <title>Наталія Абашина » Вивчення етногенезу слов'ян в працях В.П. Петрова</title>
   <id>/A/Abashyna_NS/Vyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova.xml</id>
-  <updated>2025-11-09T13:33:38Z</updated>
+  <updated>2025-11-09T15:05:42Z</updated>
   <link href="/A/Abashyna_NS/Vyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Вивчення етногенезу слов'ян в працях В.П. Петрова</title>
+    <title>Наталія Абашина » Вивчення етногенезу слов'ян в працях В.П. Петрова</title>
     <id>https://chtyvo.org.ua/authors/Abashyna_NS/Vyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <summary>Археологія, 1986, вип. 54</summary>
     <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Vyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova/" rel="alternate" type="text/html"/>
     <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Vyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbashyna_NS%2FVyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbashyna_NS%2FVyvchennia_etnohenezu_slovian_v_pratsiakh_VP_Petrova.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
   </entry>
 </feed>

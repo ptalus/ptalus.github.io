@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Іван Абрамов » По волынским захолустьям. (Эскизы из дорожного альбома) (рос.)</title>
+  <id>/A/Abramov_Ivan/Po_volnskym_zakholustiam_skyz_yz_dorozhnoho_alboma_ros.xml</id>
+  <updated>2025-11-09T15:06:25Z</updated>
+  <link href="/A/Abramov_Ivan/Po_volnskym_zakholustiam_skyz_yz_dorozhnoho_alboma_ros.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Іван Абрамов » По волынским захолустьям. (Эскизы из дорожного альбома) (рос.)</title>
+    <id>https://chtyvo.org.ua/authors/Abramov_Ivan/Po_volnskym_zakholustiam_skyz_yz_dorozhnoho_alboma_ros/</id>
+    <summary>Абрамов И. По волынским захолустьям. (Эскизы из дорожного альбома) // Живая старина. – 1906. – Вып. 2. – С. 155–164.</summary>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Ivan/Po_volnskym_zakholustiam_skyz_yz_dorozhnoho_alboma_ros/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Ivan/Po_volnskym_zakholustiam_skyz_yz_dorozhnoho_alboma_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbramov_Ivan%2FPo_volnskym_zakholustiam_skyz_yz_dorozhnoho_alboma_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

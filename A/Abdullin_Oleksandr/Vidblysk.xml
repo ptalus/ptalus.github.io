@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олександр Абдуллін » Відблиск</title>
+  <id>/A/Abdullin_Oleksandr/Vidblysk.xml</id>
+  <updated>2025-11-09T15:05:58Z</updated>
+  <link href="/A/Abdullin_Oleksandr/Vidblysk.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олександр Абдуллін » Відблиск</title>
+    <id>https://chtyvo.org.ua/authors/Abdullin_Oleksandr/Vidblysk/</id>
+    <summary>Дія другого тому роману О.Абдулліна і П.Вороб’я відбувається у 1944–1947 роках минулого століття. Відгриміла Друга світова війна. У Європі й Азії запанував хиткий мир і лише в Україні горстка героїв, ім’я яким – УПА, не склала зброї. Вони до останнього борються за ідею, якій присвятили своє життя, – Вільна Самостійна Соборна Українська Держава. Цю жертовну боротьбу вони не припиняють навіть опинившись за тисячі кілометрів від України – в таборах Радянської Півночі. А в цей час у їхньому рідному краї розпочалася насильна «радянізація». Як, яким чином відбувається вона? Чому сталося, що ідея, за яку склали голови тисячі українців, виявилась знищена комуністичним молотом. Про це та про інше ви довідаєтесь, прочитавши роман.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/751a267625157a2e18c9e861e8c850c5.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abdullin_Oleksandr/Vidblysk/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abdullin_Oleksandr/Vidblysk.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

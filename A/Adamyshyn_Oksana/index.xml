@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адамишин Оксана</title>
+  <id>/A/Adamyshyn_Oksana/index.xml</id>
+  <updated>2025-11-09T15:09:16Z</updated>
+  <link href="/A/Adamyshyn_Oksana/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Дослідження давньоруського періоду працівниками відділу археології Інституту суспільних наук АН УРСР</title>
+    <id>/A/Adamyshyn_Oksana/Doslidzhennia_davnoruskoho_periodu_pratsivnykamy_viddilu_arkheolohii_Instytutu_suspilnykh_nauk.xml</id>
+    <link href="/A/Adamyshyn_Oksana/Doslidzhennia_davnoruskoho_periodu_pratsivnykamy_viddilu_arkheolohii_Instytutu_suspilnykh_nauk.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Етнокультурний склад жителів населених пунктів Стрийського повіту Львівського воєводства у дорадянський період</title>
+    <id>/A/Adamyshyn_Oksana/Etnokulturnyi_sklad_zhyteliv_naselenykh_punktiv_Stryiskoho_povitu_Lvivskoho_voievodstva.xml</id>
+    <link href="/A/Adamyshyn_Oksana/Etnokulturnyi_sklad_zhyteliv_naselenykh_punktiv_Stryiskoho_povitu_Lvivskoho_voievodstva.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Наукові контакти працівників відділу археології Інституту суспільних наук АН УРСР з науковцями країн Західної і Центральної Європи у 1950–1960-х роках</title>
+    <id>/A/Adamyshyn_Oksana/Naukovi_kontakty_pratsivnykiv_viddilu_arkheolohii_Instytutu_suspilnykh_nauk_AN_URSR.xml</id>
+    <link href="/A/Adamyshyn_Oksana/Naukovi_kontakty_pratsivnykiv_viddilu_arkheolohii_Instytutu_suspilnykh_nauk_AN_URSR.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Поховальні пам'ятки археології у дослідженнях Маркіяна Смішка</title>
+    <id>/A/Adamyshyn_Oksana/Pokhovalni_pamiatky_arkheolohii_u_doslidzhenniakh_Markiiana_Smishka.xml</id>
+    <link href="/A/Adamyshyn_Oksana/Pokhovalni_pamiatky_arkheolohii_u_doslidzhenniakh_Markiiana_Smishka.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

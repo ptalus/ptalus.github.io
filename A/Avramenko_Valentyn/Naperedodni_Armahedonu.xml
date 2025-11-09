@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Валентин Авраменко » Напередодні Армагедону</title>
+  <id>/A/Avramenko_Valentyn/Naperedodni_Armahedonu.xml</id>
+  <updated>2025-11-09T15:07:47Z</updated>
+  <link href="/A/Avramenko_Valentyn/Naperedodni_Armahedonu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Валентин Авраменко » Напередодні Армагедону</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Valentyn/Naperedodni_Armahedonu/</id>
+    <summary>Оригінальний текст, на основі якого згодом було написано романи «Все Грани Мира» та «Грани Нижнего Мира» (російською мовою). Перші дев'ять розділів майже цілком збігаються з відповідними розділами роману «Все Грани Мира», а десятий — з кінцівкою роману «Грани Нижнего Мира».Українскою мовою опубліковано у видавництві Джерела М за назвою «Сутінки Великих».</summary>
+    <link href="https://chtyvo.org.ua/content/covers/2c2819550451541069b79e2341ba9e3c.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Naperedodni_Armahedonu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Naperedodni_Armahedonu.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Артур Адамс » The Great Ukrainian Jacquerie (англ.)</title>
+  <id>/A/Adams_Artur/The_Great_Ukrainian_Jacquerie_anhl.xml</id>
+  <updated>2025-11-09T15:09:49Z</updated>
+  <link href="/A/Adams_Artur/The_Great_Ukrainian_Jacquerie_anhl.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Артур Адамс » The Great Ukrainian Jacquerie (англ.)</title>
+    <id>https://chtyvo.org.ua/authors/Adams_Artur/The_Great_Ukrainian_Jacquerie_anhl/</id>
+    <summary>Опубліковано в:The Ukraine, 1917-1921: A Study in Revolution. Edited by Taras Hunczak. - Cambridge, Mass.: Harvard Ukrainian Research Institute, 1977. - PP. 247-270.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adams_Artur/The_Great_Ukrainian_Jacquerie_anhl/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Artur/The_Great_Ukrainian_Jacquerie_anhl.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdams_Artur%2FThe_Great_Ukrainian_Jacquerie_anhl.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

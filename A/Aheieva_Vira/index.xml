@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Агеєва Віра</title>
+  <id>/A/Aheieva_Vira/index.xml</id>
+  <updated>2025-11-09T15:08:38Z</updated>
+  <link href="/A/Aheieva_Vira/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Апологія модерну: обрис XX віку</title>
+    <id>/A/Aheieva_Vira/Apolohiia_modernu_obrys_XX_viku.xml</id>
+    <link href="/A/Aheieva_Vira/Apolohiia_modernu_obrys_XX_viku.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Діалектика художнього пошуку. Літературний процес 60–80-х років</title>
+    <id>/A/Aheieva_Vira/Dialektyka_khudozhnoho_poshuku_Literaturnyi_protses_60__80-kh_rokiv.xml</id>
+    <link href="/A/Aheieva_Vira/Dialektyka_khudozhnoho_poshuku_Literaturnyi_protses_60__80-kh_rokiv.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Екзистенційні мотиви у драматургії Миколи Куліша</title>
+    <id>/A/Aheieva_Vira/Ekzystentsiini_motyvy_u_dramaturhii_Mykoly_Kulisha.xml</id>
+    <link href="/A/Aheieva_Vira/Ekzystentsiini_motyvy_u_dramaturhii_Mykoly_Kulisha.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Жіночий простір</title>
+    <id>/A/Aheieva_Vira/Zhinochyi_prostir.xml</id>
+    <link href="/A/Aheieva_Vira/Zhinochyi_prostir.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>За лаштунками імперії. Есеї про українсько-російські культурні відносини</title>
+    <id>/A/Aheieva_Vira/Za_lashtunkamy_imperii_Esei_pro_ukrainsko-rosiiski_kulturni_vidnosyny.xml</id>
+    <link href="/A/Aheieva_Vira/Za_lashtunkamy_imperii_Esei_pro_ukrainsko-rosiiski_kulturni_vidnosyny.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Їм промовляти душа моя буде: «Лісова пісня» Лесі Українки та її інтерпретації</title>
+    <id>/A/Aheieva_Vira/Yim_promovliaty_dusha_moia_bude_Lisova_pisnia_Lesi_Ukrainky_ta_ii_interpretatsii.xml</id>
+    <link href="/A/Aheieva_Vira/Yim_promovliaty_dusha_moia_bude_Lisova_pisnia_Lesi_Ukrainky_ta_ii_interpretatsii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Марсіани на Хрещатику. Літературний Київ початку ХХ століття</title>
+    <id>/A/Aheieva_Vira/Marsiany_na_Khreschatyku_Literaturnyi_Kyiv_pochatku_KhKh_stolittia.xml</id>
+    <link href="/A/Aheieva_Vira/Marsiany_na_Khreschatyku_Literaturnyi_Kyiv_pochatku_KhKh_stolittia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Мистецтво рівноваги: Максим Рильський на тлі епохи (вид. 2012)</title>
+    <id>/A/Aheieva_Vira/Mystetstvo_rivnovahy_Maksym_Rylskyi_na_tli_epokhy_vyd_2012.xml</id>
+    <link href="/A/Aheieva_Vira/Mystetstvo_rivnovahy_Maksym_Rylskyi_na_tli_epokhy_vyd_2012.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Мистецтво рівноваги. Максим Рильський і його час</title>
+    <id>/A/Aheieva_Vira/Mystetstvo_rivnovahy_Maksym_Rylskyi_i_ioho_chas.xml</id>
+    <link href="/A/Aheieva_Vira/Mystetstvo_rivnovahy_Maksym_Rylskyi_i_ioho_chas.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Пам'ять подвигу [Українська воєнна проза 60–80-х років]</title>
+    <id>/A/Aheieva_Vira/Pamiat_podvyhu_Ukrainska_voienna_proza_60-80-kh_rokiv.xml</id>
+    <link href="/A/Aheieva_Vira/Pamiat_podvyhu_Ukrainska_voienna_proza_60-80-kh_rokiv.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Поетеса зламу століть. Творчість Лесі Українки в постмодерній інтерпретації</title>
+    <id>/A/Aheieva_Vira/Poetesa_zlamu_stolit_Tvorchist_Lesi_Ukrainky_v_postmodernii_interpretatsii.xml</id>
+    <link href="/A/Aheieva_Vira/Poetesa_zlamu_stolit_Tvorchist_Lesi_Ukrainky_v_postmodernii_interpretatsii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Поетичний візіонеризм Лесі Українки</title>
+    <id>/A/Aheieva_Vira/Poetychnyi_vizioneryzm_Lesi_Ukrainky.xml</id>
+    <link href="/A/Aheieva_Vira/Poetychnyi_vizioneryzm_Lesi_Ukrainky.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Проблема комунікативного розриву в драматичній поемі «Кассандра»</title>
+    <id>/A/Aheieva_Vira/Problema_komunikatyvnoho_rozryvu_v_dramatychnii_poemi_Kassandra.xml</id>
+    <link href="/A/Aheieva_Vira/Problema_komunikatyvnoho_rozryvu_v_dramatychnii_poemi_Kassandra.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Софія Яблонська: кругосвітня подорож української репортерки</title>
+    <id>/A/Aheieva_Vira/Sofiia_Yablonska_kruhosvitnia_podorozh_ukrainskoi_reporterky.xml</id>
+    <link href="/A/Aheieva_Vira/Sofiia_Yablonska_kruhosvitnia_podorozh_ukrainskoi_reporterky.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Три долі: Марко Вовчок в українській, російській та французькій літературі</title>
+    <id>/A/Aheieva_Vira/Try_dolh_Marko_Vovchok_v_ukrainskii_rosiiskii_ta_frantsuzkii_literaturi.xml</id>
+    <link href="/A/Aheieva_Vira/Try_dolh_Marko_Vovchok_v_ukrainskii_rosiiskii_ta_frantsuzkii_literaturi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Українська імпресіоністична проза</title>
+    <id>/A/Aheieva_Vira/Ukrainska_impresionistychna_proza.xml</id>
+    <link href="/A/Aheieva_Vira/Ukrainska_impresionistychna_proza.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Українська мала проза XX століття: Антологія</title>
+    <id>/A/Aheieva_Vira/Ukrainska_mala_proza_XX_stolittia_Antolohiia.xml</id>
+    <link href="/A/Aheieva_Vira/Ukrainska_mala_proza_XX_stolittia_Antolohiia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Формалізм у концепціях київських неокласиків</title>
+    <id>/A/Aheieva_Vira/Formalizm_u_kontseptsiiakh_kyivskykh_neoklasykiv.xml</id>
+    <link href="/A/Aheieva_Vira/Formalizm_u_kontseptsiiakh_kyivskykh_neoklasykiv.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

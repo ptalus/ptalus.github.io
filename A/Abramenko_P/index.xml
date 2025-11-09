@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абраменко П.</title>
+  <id>/A/Abramenko_P/index.xml</id>
+  <updated>2025-11-09T15:06:19Z</updated>
+  <link href="/A/Abramenko_P/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Розкопи могили у с. Лихолітах, Іркліївського р. на Шевченківщині р. 1928</title>
+    <id>/A/Abramenko_P/Rozkopy_mohyly_u_s_Lykholitakh_Irkliivskoho_r_na_Shevchenkivschyni_r_1928.xml</id>
+    <link href="/A/Abramenko_P/Rozkopy_mohyly_u_s_Lykholitakh_Irkliivskoho_r_na_Shevchenkivschyni_r_1928.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

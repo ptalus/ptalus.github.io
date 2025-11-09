@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Сесілія  Агерн » Співуча пташка</title>
+  <id>/A/Cecelia_Ahern/Spivucha_ptashka.xml</id>
+  <updated>2025-11-09T15:08:50Z</updated>
+  <link href="/A/Cecelia_Ahern/Spivucha_ptashka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Сесілія  Агерн » Співуча пташка</title>
+    <id>https://chtyvo.org.ua/authors/Cecelia_Ahern/Spivucha_ptashka/</id>
+    <summary>Лора була цілком щаслива у своєму маленькому будиночку серед густого лісу. Тут вона знайшла спокій, тут приховано таємницю її родини. Та однієї миті все навколо змінилося – в її життя увійшло кохання. Соломон умів слухати і ловити звук, а вона мала дивовижний талант і чарівний голос.Соломон забрав Лору до гамірного Дубліна. Тіснява міста лякає дівчину, софіти засліплюють. Але поруч – коханий. Лора має обрати: слава, промені софітів і коханий чоловік поруч чи воля. Адже дика пташка буде щасливою, лише коли матиме свободу...</summary>
+    <link href="https://chtyvo.org.ua/content/covers/9e9ce1ebe983f842164e5d39b1423a80.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Cecelia_Ahern/Spivucha_ptashka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Cecelia_Ahern/Spivucha_ptashka.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

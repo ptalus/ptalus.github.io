@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аверроес</title>
+  <id>/A/Averroes/index.xml</id>
+  <updated>2025-11-09T15:07:30Z</updated>
+  <link href="/A/Averroes/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Вирішальне слово про зв'язок релігійного закону та людської мудрості</title>
+    <id>/A/Averroes/Vyrishalne_slovo_pro_zviazok_relihiinoho_zakonu_ta_liudskoi_mudrosti.xml</id>
+    <link href="/A/Averroes/Vyrishalne_slovo_pro_zviazok_relihiinoho_zakonu_ta_liudskoi_mudrosti.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

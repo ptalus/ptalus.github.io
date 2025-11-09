@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Мар'яна Авраменко » Горни пізньоримського часу з Комарова (археологічні матеріали, особливості побудови та експлуатації)</title>
+  <id>/A/Avramenko_Mariana/Horny_piznorymskoho_chasu_z_Komarova_arkheolohichni_materialy_osoblyvosti_pobudovy_ta_ekspluatatsii.xml</id>
+  <updated>2025-11-09T15:08:02Z</updated>
+  <link href="/A/Avramenko_Mariana/Horny_piznorymskoho_chasu_z_Komarova_arkheolohichni_materialy_osoblyvosti_pobudovy_ta_ekspluatatsii.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Мар'яна Авраменко » Горни пізньоримського часу з Комарова (археологічні матеріали, особливості побудови та експлуатації)</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Mariana/Horny_piznorymskoho_chasu_z_Komarova_arkheolohichni_materialy_osoblyvosti_pobudovy_ta_ekspluatatsii/</id>
+    <summary>Європейська археологія І тисячоліття н. е.: Збірник наукових праць на честь Ліани Василівни Вакуленко / ІА НАН України. — Київ, 2017. — 286 с. + 8 с. вкл.</summary>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Mariana/Horny_piznorymskoho_chasu_z_Komarova_arkheolohichni_materialy_osoblyvosti_pobudovy_ta_ekspluatatsii/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Mariana/Horny_piznorymskoho_chasu_z_Komarova_arkheolohichni_materialy_osoblyvosti_pobudovy_ta_ekspluatatsii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FPetrauskas_Oleh%2FHorny_piznorymskoho_chasu_z_Komarova_arkheolohichni_materialy_osoblyvosti_pobudovy_ta_ekspluatatsii.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

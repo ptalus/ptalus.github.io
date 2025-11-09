@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Чінгіз Абдуллаєв » Океан ненависті</title>
+  <id>/A/Abdullaiev_Chinhiz/Okean_nenavysti.xml</id>
+  <updated>2025-11-09T15:05:56Z</updated>
+  <link href="/A/Abdullaiev_Chinhiz/Okean_nenavysti.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Чінгіз Абдуллаєв » Океан ненависті</title>
+    <id>https://chtyvo.org.ua/authors/Abdullaiev_Chinhiz/Okean_nenavysti/</id>
+    <link href="https://chtyvo.org.ua/content/covers/7c04820f08ef2f496bee6177404f1cd1.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abdullaiev_Chinhiz/Okean_nenavysti/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abdullaiev_Chinhiz/Okean_nenavysti.rtf" rel="http://opds-spec.org/acquisition" type="application/rtf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbdullaiev_Chinhiz%2FOkean_nenavysti.rtf" rel="http://opds-spec.org/acquisition" type="application/rtf"/>
+    <link href="https://chtyvo.org.ua/authors/Abdullaiev_Chinhiz/Okean_nenavysti.rtf.zip" rel="http://opds-spec.org/acquisition" type="application/zip"/>
+  </entry>
+</feed>

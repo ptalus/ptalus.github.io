@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Володимир Авраменко » Авантюра</title>
+  <id>/A/Avramenko_Volodymyr/Avantiura.xml</id>
+  <updated>2025-11-09T15:08:04Z</updated>
+  <link href="/A/Avramenko_Volodymyr/Avantiura.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Володимир Авраменко » Авантюра</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Volodymyr/Avantiura/</id>
+    <summary>«Наука – Фантастика», 1994, №№ 2–9.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/491accafc4a4741abe87998465a3a33c.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Volodymyr/Avantiura/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Volodymyr/Avantiura.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Михайло Агбунов » Давньогрецький Ніконін</title>
+  <id>/A/Ahbunov_MV/Davnohretskyi_Nikonin.xml</id>
+  <updated>2025-11-09T15:08:36Z</updated>
+  <link href="/A/Ahbunov_MV/Davnohretskyi_Nikonin.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Михайло Агбунов » Давньогрецький Ніконін</title>
+    <id>https://chtyvo.org.ua/authors/Ahbunov_MV/Davnohretskyi_Nikonin/</id>
+    <summary>Археологія, 1979, вип. 32</summary>
+    <link href="https://chtyvo.org.ua/authors/Ahbunov_MV/Davnohretskyi_Nikonin/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Ahbunov_MV/Davnohretskyi_Nikonin.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAhbunov_MV%2FDavnohretskyi_Nikonin.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

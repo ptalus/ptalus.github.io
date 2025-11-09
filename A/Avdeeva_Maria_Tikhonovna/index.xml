@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авдєєва Марія Тіхоновна</title>
+  <id>/A/Avdeeva_Maria_Tikhonovna/index.xml</id>
+  <updated>2025-11-09T15:07:08Z</updated>
+  <link href="/A/Avdeeva_Maria_Tikhonovna/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Словарь украинских говоров Воронежской области. Том 1 (рос.)</title>
+    <id>/A/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_1_ros.xml</id>
+    <link href="/A/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_1_ros.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Словарь украинских говоров Воронежской области. Том 2 (рос.)</title>
+    <id>/A/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_2_ros.xml</id>
+    <link href="/A/Avdeeva_Maria_Tikhonovna/Slovar_ukraynskykh_hovorov_Voronezhskoi_oblasty_Tom_2_ros.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

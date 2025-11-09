@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ґеорґій Аґрікола » Про підземну діяльність</title>
+  <id>/A/Agrikola_Georgii/Pro_pidzemnu_diialnist.xml</id>
+  <updated>2025-11-09T15:08:54Z</updated>
+  <link href="/A/Agrikola_Georgii/Pro_pidzemnu_diialnist.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ґеорґій Аґрікола » Про підземну діяльність</title>
+    <id>https://chtyvo.org.ua/authors/Agrikola_Georgii/Pro_pidzemnu_diialnist/</id>
+    <summary>Ґеорґій АґріколаПро підземну діяльність. Луцьк: Терен, 2021. 164 с.Запропоноване до уваги читача видання містить матеріали зфізичної геології XVI століття, знайомить із підходом до теоріїформування рудних родовищ, представляє ідеї щодо процесівта явищ у гідросфері, атмосфері й літосфері. Ця праця допо-могла сформувати світогляд багатьом діячам та вченим, окрес-лила численні поняття, що виникли на основі власного досвіду.А концепція походження підземних вод, викладена Аґріколоюв книзі «De Ortu et Causis Subterraneorum», погано вивчена насьогодні через відсутність перекладів із латині, та й наявністьв іншомовних джерелах резюме ледве охоплює дві сторінки. Уній також можна познайомитися з думками античних мислите-лів щодо явищ природи, тому праця буде цікавою та корисноюширокому колу читачів.</summary>
+    <link href="https://chtyvo.org.ua/authors/Agrikola_Georgii/Pro_pidzemnu_diialnist/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Agrikola_Georgii/Pro_pidzemnu_diialnist.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAgrikola_Georgii%2FPro_pidzemnu_diialnist.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

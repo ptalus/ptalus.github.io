@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аверіна-Лугова Діана</title>
+  <id>/A/Averina-Luhova_Diana/index.xml</id>
+  <updated>2025-11-09T15:07:28Z</updated>
+  <link href="/A/Averina-Luhova_Diana/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Мiсто та «вiльне кохання»: Сiмферополь наприкiнцi ХIХ – на початку ХХ ст.</title>
+    <id>/A/Averina-Luhova_Diana/Misto_ta_vilne_kokhannia_Simferopol_naprykintsi_KhIKh__na_pochatku_KhKh_st.xml</id>
+    <link href="/A/Averina-Luhova_Diana/Misto_ta_vilne_kokhannia_Simferopol_naprykintsi_KhIKh__na_pochatku_KhKh_st.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

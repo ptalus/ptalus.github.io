@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Агбунов Михайло</title>
+  <id>/A/Ahbunov_MV/index.xml</id>
+  <updated>2025-11-09T15:08:36Z</updated>
+  <link href="/A/Ahbunov_MV/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Давньогрецький Ніконін</title>
+    <id>/A/Ahbunov_MV/Davnohretskyi_Nikonin.xml</id>
+    <link href="/A/Ahbunov_MV/Davnohretskyi_Nikonin.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

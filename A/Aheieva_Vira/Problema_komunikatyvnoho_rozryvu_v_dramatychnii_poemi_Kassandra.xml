@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віра Агеєва » Проблема комунікативного розриву в драматичній поемі «Кассандра»</title>
+  <id>/A/Aheieva_Vira/Problema_komunikatyvnoho_rozryvu_v_dramatychnii_poemi_Kassandra.xml</id>
+  <updated>2025-11-09T15:08:46Z</updated>
+  <link href="/A/Aheieva_Vira/Problema_komunikatyvnoho_rozryvu_v_dramatychnii_poemi_Kassandra.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віра Агеєва » Проблема комунікативного розриву в драматичній поемі «Кассандра»</title>
+    <id>https://chtyvo.org.ua/authors/Aheieva_Vira/Problema_komunikatyvnoho_rozryvu_v_dramatychnii_poemi_Kassandra/</id>
+    <summary>Джерело:Наукові записки. Том 9, Спеціальний випуск : у двох частинах. Частина 1 / Національний університет &quot;Києво-Могилянська академія&quot;. - 1999.</summary>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Problema_komunikatyvnoho_rozryvu_v_dramatychnii_poemi_Kassandra/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Problema_komunikatyvnoho_rozryvu_v_dramatychnii_poemi_Kassandra.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAheieva_Vira%2FProblema_komunikatyvnoho_rozryvu_v_dramatychnii_poemi_Kassandra.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

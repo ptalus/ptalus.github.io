@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Юрій Авдєєнко » Дантист живе поверхом вище</title>
+  <id>/A/Avdieienko_Yurii/Dantyst_zhyve_poverkhom_vysche.xml</id>
+  <updated>2025-11-09T15:07:13Z</updated>
+  <link href="/A/Avdieienko_Yurii/Dantyst_zhyve_poverkhom_vysche.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Юрій Авдєєнко » Дантист живе поверхом вище</title>
+    <id>https://chtyvo.org.ua/authors/Avdieienko_Yurii/Dantyst_zhyve_poverkhom_vysche/</id>
+    <link href="https://chtyvo.org.ua/content/covers/e62334b425a655bbbfa5bec91e427e8a.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avdieienko_Yurii/Dantyst_zhyve_poverkhom_vysche/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avdieienko_Yurii/Dantyst_zhyve_poverkhom_vysche.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

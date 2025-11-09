@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олена Айбабіна (Овчаренко) » Двухапсидный храм близ крепости Фуна (рос.)</title>
+  <id>/A/Aibabina_Ovcharenko_Olena/Dvukhapsydni_khram_blyz_kreposty_Funa_ros.xml</id>
+  <updated>2025-11-09T15:11:02Z</updated>
+  <link href="/A/Aibabina_Ovcharenko_Olena/Dvukhapsydni_khram_blyz_kreposty_Funa_ros.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олена Айбабіна (Овчаренко) » Двухапсидный храм близ крепости Фуна (рос.)</title>
+    <id>https://chtyvo.org.ua/authors/Aibabina_Ovcharenko_Olena/Dvukhapsydni_khram_blyz_kreposty_Funa_ros/</id>
+    <summary>Византийская Таврика: Сборник научных трудов (к XVIII конгрессу византинистов). – К., 1991.</summary>
+    <link href="https://chtyvo.org.ua/authors/Aibabina_Ovcharenko_Olena/Dvukhapsydni_khram_blyz_kreposty_Funa_ros/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aibabina_Ovcharenko_Olena/Dvukhapsydni_khram_blyz_kreposty_Funa_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAibabina_Ovcharenko_Olena%2FDvukhapsydni_khram_blyz_kreposty_Funa_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

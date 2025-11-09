@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адруг Анатолій</title>
+  <id>/A/Adruh_Anatolii/index.xml</id>
+  <updated>2025-11-09T15:10:27Z</updated>
+  <link href="/A/Adruh_Anatolii/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Архітектура Чернігова другої половини XVII – початку XVIII століть</title>
+    <id>/A/Adruh_Anatolii/Arkhitektura_Chernihova_druhoi_polovyny_XVII__pochatku_XVIII_stolit.xml</id>
+    <link href="/A/Adruh_Anatolii/Arkhitektura_Chernihova_druhoi_polovyny_XVII__pochatku_XVIII_stolit.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Будинок полкової канцелярії в Чернігові</title>
+    <id>/A/Adruh_Anatolii/Budynok_polkovoi_kantseliarii_v_Chernihovi.xml</id>
+    <link href="/A/Adruh_Anatolii/Budynok_polkovoi_kantseliarii_v_Chernihovi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Декоративне мистецтво Чернігова другої половини  ХVІІ – початку ХVІІІ ст</title>
+    <id>/A/Adruh_Anatolii/Dekoratyvne_mystetstvo_Chernihova_druhoi_polovyny__KhVII__pochatku_KhVIII_st.xml</id>
+    <link href="/A/Adruh_Anatolii/Dekoratyvne_mystetstvo_Chernihova_druhoi_polovyny__KhVII__pochatku_KhVIII_st.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Килими Чернігова другої половини ХVІІ – початку ХVІІІ століть</title>
+    <id>/A/Adruh_Anatolii/Kylymy_Chernihova_druhoi_polovyny_KhVII__pochatku_KhVIII_stolit.xml</id>
+    <link href="/A/Adruh_Anatolii/Kylymy_Chernihova_druhoi_polovyny_KhVII__pochatku_KhVIII_stolit.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Металопластика Чернігова другої половини ХVІІ – початку ХVІІІ століть</title>
+    <id>/A/Adruh_Anatolii/Metaloplastyka_Chernihova_druhoi_polovyny_KhVII__pochatku_KhVIII_stolit.xml</id>
+    <link href="/A/Adruh_Anatolii/Metaloplastyka_Chernihova_druhoi_polovyny_KhVII__pochatku_KhVIII_stolit.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Нові дані про атрибуцію первісних розписів XVII ст. Троїцького собору в Чернігові</title>
+    <id>/A/Adruh_Anatolii/Novi_dani_pro_atrybutsiiu_pervisnykh_rozpysiv_XVII_st_Troitskoho_soboru_v_Chernihovi.xml</id>
+    <link href="/A/Adruh_Anatolii/Novi_dani_pro_atrybutsiiu_pervisnykh_rozpysiv_XVII_st_Troitskoho_soboru_v_Chernihovi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Перша друкована книга в Чернігові та Лівобережній Україні</title>
+    <id>/A/Adruh_Anatolii/Persha_drukovana_knyha_v_Chernihovi_ta_Livoberezhnii_Ukraini.xml</id>
+    <link href="/A/Adruh_Anatolii/Persha_drukovana_knyha_v_Chernihovi_ta_Livoberezhnii_Ukraini.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Творчiсть архiтектора Йоганна-Баптиста Зауера</title>
+    <id>/A/Adruh_Anatolii/Tvorchist_arkhitektora_Yohanna-Baptysta_Zauera.xml</id>
+    <link href="/A/Adruh_Anatolii/Tvorchist_arkhitektora_Yohanna-Baptysta_Zauera.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Чернігівське видання «Молитвослова триакафістного» 1697 р.: бароковий синтез графіки і слова</title>
+    <id>/A/Adruh_Anatolii/Chernihivske_vydannia_Molytvoslova_tryakafistnoho_1697_r_barokovyi_syntez_hrafiky_i_slova.xml</id>
+    <link href="/A/Adruh_Anatolii/Chernihivske_vydannia_Molytvoslova_tryakafistnoho_1697_r_barokovyi_syntez_hrafiky_i_slova.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абрамсон Генрі</title>
+  <id>/A/Henry_Abramson/index.xml</id>
+  <updated>2025-11-09T15:06:40Z</updated>
+  <link href="/A/Henry_Abramson/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Молитва за владу. Українці та євреї під час революції (1917-1920)</title>
+    <id>/A/Henry_Abramson/Molytva_za_vladu_Ukraintsi_ta_ievrei_pid_chas_revoliutsii_1917-1920.xml</id>
+    <link href="/A/Henry_Abramson/Molytva_za_vladu_Ukraintsi_ta_ievrei_pid_chas_revoliutsii_1917-1920.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

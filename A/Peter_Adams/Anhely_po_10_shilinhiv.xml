@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Петер Адамс » Ангели по десять шилінгів</title>
+  <id>/A/Peter_Adams/Anhely_po_10_shilinhiv.xml</id>
+  <updated>2025-11-09T15:09:45Z</updated>
+  <link href="/A/Peter_Adams/Anhely_po_10_shilinhiv.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Петер Адамс » Ангели по десять шилінгів</title>
+    <id>https://chtyvo.org.ua/authors/Peter_Adams/Anhely_po_10_shilinhiv/</id>
+    <summary>Пригодницькі твори письменника з Німецької Демократичної Республіки Петера Адамса зажили широкої популярності у читачів багатьох країн. Вони захоплюють не лише гостротою сюжету, а передовсім тавруванням породжених капіталізмом злочинів і пороків.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/fc49e35b7855d7c38a3cccddb77b9ea0.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Peter_Adams/Anhely_po_10_shilinhiv/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Peter_Adams/Anhely_po_10_shilinhiv.epub" rel="http://opds-spec.org/acquisition" type="application/epub+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Peter_Adams/Anhely_po_10_shilinhiv.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

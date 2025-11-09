@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ольга Авраменко » Віталій Олексійович Сапіга: Біобібліографічний покажчик</title>
+  <id>/A/Avramenko_Olha/Vitalii_Oleksiiovych_Sapiha_Biobibliohrafichnyi_pokazhchyk.xml</id>
+  <updated>2025-11-09T15:08:07Z</updated>
+  <link href="/A/Avramenko_Olha/Vitalii_Oleksiiovych_Sapiha_Biobibliohrafichnyi_pokazhchyk.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ольга Авраменко » Віталій Олексійович Сапіга: Біобібліографічний покажчик</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Olha/Vitalii_Oleksiiovych_Sapiha_Biobibliohrafichnyi_pokazhchyk/</id>
+    <summary>Покажчик присвячено Віталію Олексійовичу Сапізі – відомому випускнику Криворізького педагогічного інституту (1971), ветерану профтехосвіти Криворіжжя, голові комітету професійно-технічної освіти Криворізького виконкому міськради (1993–2010), методисту навчально-методичного центру з професійно-технічної освіти Дніпропетровської області, заступнику голови Дніпропетровської обласної організації Всеукраїнської асоціації професійно-технічної освіти, керівнику проєкту «Соціальне партнерство в дії», виконавчому директору ради громадської спілки «Координаційна рада «Кривий Ріг – рідне місто», співавтору проєкту «Майбутнє в єдності поколінь», голові ради Криворізького центру ветеранів та випускників профтехосвіти.Покажчик адресовано освітянам, науково-педагогічним працівникам, здобувачам освіти.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/f3cd61a234e0894f0c080bed1348b730.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Olha/Vitalii_Oleksiiovych_Sapiha_Biobibliohrafichnyi_pokazhchyk/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Olha/Vitalii_Oleksiiovych_Sapiha_Biobibliohrafichnyi_pokazhchyk.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FDikunova_Olena%2FVitalii_Oleksiiovych_Sapiha_Biobibliohrafichnyi_pokazhchyk.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

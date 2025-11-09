@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Павло Абрамович » Ще про Гейнча (Гінча) (Бібліо- та біографічні нотатки</title>
+  <id>/A/Abramovych_Pavlo/Sche_pro_Heincha_Hincha_Biblio-_ta_biohrafichni_notatky.xml</id>
+  <updated>2025-11-09T15:06:36Z</updated>
+  <link href="/A/Abramovych_Pavlo/Sche_pro_Heincha_Hincha_Biblio-_ta_biohrafichni_notatky.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Павло Абрамович » Ще про Гейнча (Гінча) (Бібліо- та біографічні нотатки</title>
+    <id>https://chtyvo.org.ua/authors/Abramovych_Pavlo/Sche_pro_Heincha_Hincha_Biblio-_ta_biohrafichni_notatky/</id>
+    <summary>За сто літ : Матеріяли з громадського й літературного життя України XIX і початків XX століття = Mémoires de la Section Historique de l'Académie des Sciences d'Ukraine (jadis Section Historique de la Société scientifique Ukrainienne à Kiev).Кн. 2 : (Записки кол[ишньої] Історичної секції Українського наукового товариства в Київі. Т. XXV) : Заходом Комісії новішої історії України / Під редакцією голови секції акад. Михайла Грушевського. – [Київ]: Державне видавництво України, 1928. – [2], 328 с. - 3000 пр..</summary>
+    <link href="https://chtyvo.org.ua/authors/Abramovych_Pavlo/Sche_pro_Heincha_Hincha_Biblio-_ta_biohrafichni_notatky/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramovych_Pavlo/Sche_pro_Heincha_Hincha_Biblio-_ta_biohrafichni_notatky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbramovych_Pavlo%2FSche_pro_Heincha_Hincha_Biblio-_ta_biohrafichni_notatky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

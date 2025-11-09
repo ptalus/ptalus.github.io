@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абдулганієва Майє</title>
+  <id>/A/Abdulhaniieva_Maiie/index.xml</id>
+  <updated>2025-11-09T15:05:54Z</updated>
+  <link href="/A/Abdulhaniieva_Maiie/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Yeşil Kâinat (кр.тат.)</title>
+    <id>/A/Abdulhaniieva_Maiie/Yeil_Kinat_krtat.xml</id>
+    <link href="/A/Abdulhaniieva_Maiie/Yeil_Kinat_krtat.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

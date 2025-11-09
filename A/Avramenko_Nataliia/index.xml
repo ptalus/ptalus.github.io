@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авраменко Наталія</title>
+  <id>/A/Avramenko_Nataliia/index.xml</id>
+  <updated>2025-11-09T15:07:59Z</updated>
+  <link href="/A/Avramenko_Nataliia/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Підготовка майбутніх лікарів-іноземців до оволодіння професійною термінологією у медичних закладах вищої освіти</title>
+    <id>/A/Avramenko_Nataliia/Pidhotovka_maibutnikh_likariv-inozemtsiv_do_ovolodinnia_profesiinoiu_terminolohiieiu_u_medychnykh_za.xml</id>
+    <link href="/A/Avramenko_Nataliia/Pidhotovka_maibutnikh_likariv-inozemtsiv_do_ovolodinnia_profesiinoiu_terminolohiieiu_u_medychnykh_za.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

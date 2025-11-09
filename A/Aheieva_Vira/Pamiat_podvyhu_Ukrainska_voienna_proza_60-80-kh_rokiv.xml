@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віра Агеєва » Пам'ять подвигу [Українська воєнна проза 60–80-х років]</title>
+  <id>/A/Aheieva_Vira/Pamiat_podvyhu_Ukrainska_voienna_proza_60-80-kh_rokiv.xml</id>
+  <updated>2025-11-09T15:08:44Z</updated>
+  <link href="/A/Aheieva_Vira/Pamiat_podvyhu_Ukrainska_voienna_proza_60-80-kh_rokiv.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віра Агеєва » Пам'ять подвигу [Українська воєнна проза 60–80-х років]</title>
+    <id>https://chtyvo.org.ua/authors/Aheieva_Vira/Pamiat_podvyhu_Ukrainska_voienna_proza_60-80-kh_rokiv/</id>
+    <summary>У монографії досліджується закономірність розвитку сучасної прози про Велику Вітчизняну війну. На прикладі творів О.Гончара, М.Стельмаха, Гр.Тютюнника, Б.Харчука, Ю.Мушкетика, а також молодих письменників – В.Положія, Б.Тимошенка, Г.Погутяк – простежується еволюція концепції героїчного, аналізуються особливості конфлікту, виділяються стильові течії та жанрові різновиди воєнної прози двох останніх десятиліть.Для літературознавців, критиків, викладачів, студентів, усіх, хто цікавиться розвитком сучасної літератури.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/adaefc7a9ff37d0232760a614be04968.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Pamiat_podvyhu_Ukrainska_voienna_proza_60-80-kh_rokiv/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Pamiat_podvyhu_Ukrainska_voienna_proza_60-80-kh_rokiv.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAheieva_Vira%2FPamiat_podvyhu_Ukrainska_voienna_proza_60-80-kh_rokiv.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

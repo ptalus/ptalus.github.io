@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Анатолій Адруг » Нові дані про атрибуцію первісних розписів XVII ст. Троїцького собору в Чернігові</title>
+  <id>/A/Adruh_Anatolii/Novi_dani_pro_atrybutsiiu_pervisnykh_rozpysiv_XVII_st_Troitskoho_soboru_v_Chernihovi.xml</id>
+  <updated>2025-11-09T15:10:30Z</updated>
+  <link href="/A/Adruh_Anatolii/Novi_dani_pro_atrybutsiiu_pervisnykh_rozpysiv_XVII_st_Troitskoho_soboru_v_Chernihovi.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Анатолій Адруг » Нові дані про атрибуцію первісних розписів XVII ст. Троїцького собору в Чернігові</title>
+    <id>https://chtyvo.org.ua/authors/Adruh_Anatolii/Novi_dani_pro_atrybutsiiu_pervisnykh_rozpysiv_XVII_st_Troitskoho_soboru_v_Chernihovi/</id>
+    <summary>Сіверянський літопис. – 2006. – № 4.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adruh_Anatolii/Novi_dani_pro_atrybutsiiu_pervisnykh_rozpysiv_XVII_st_Troitskoho_soboru_v_Chernihovi/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adruh_Anatolii/Novi_dani_pro_atrybutsiiu_pervisnykh_rozpysiv_XVII_st_Troitskoho_soboru_v_Chernihovi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdruh_Anatolii%2FNovi_dani_pro_atrybutsiiu_pervisnykh_rozpysiv_XVII_st_Troitskoho_soboru_v_Chernihovi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

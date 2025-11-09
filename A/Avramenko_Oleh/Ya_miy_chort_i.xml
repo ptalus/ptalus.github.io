@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Я, мій чорт і...</title>
+  <id>/A/Avramenko_Oleh/Ya_miy_chort_i.xml</id>
+  <updated>2025-11-09T15:07:44Z</updated>
+  <link href="/A/Avramenko_Oleh/Ya_miy_chort_i.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Я, мій чорт і...</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Ya_miy_chort_i/</id>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Ya_miy_chort_i/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Ya_miy_chort_i.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Артур Адамс » Bolsheviks in the Ukraine: the Second Campaign, 1918-1919 (англ.)</title>
+  <id>/A/Adams_Artur/Bolsheviks_in_the_Ukraine_the_Second_Campaign_1918-1919_anhl.xml</id>
+  <updated>2025-11-09T15:09:47Z</updated>
+  <link href="/A/Adams_Artur/Bolsheviks_in_the_Ukraine_the_Second_Campaign_1918-1919_anhl.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Артур Адамс » Bolsheviks in the Ukraine: the Second Campaign, 1918-1919 (англ.)</title>
+    <id>https://chtyvo.org.ua/authors/Adams_Artur/Bolsheviks_in_the_Ukraine_the_Second_Campaign_1918-1919_anhl/</id>
+    <summary>Arthur E. Adams. Bolsheviks in the Ukraine: the Second Campaign, 1918-1919. - New Haven and London: Yale University Press, 1963. - 440 pp.Borden Award of the Hoover Institute and Library, Stanford University.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adams_Artur/Bolsheviks_in_the_Ukraine_the_Second_Campaign_1918-1919_anhl/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Artur/Bolsheviks_in_the_Ukraine_the_Second_Campaign_1918-1919_anhl.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdams_Artur%2FBolsheviks_in_the_Ukraine_the_Second_Campaign_1918-1919_anhl.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

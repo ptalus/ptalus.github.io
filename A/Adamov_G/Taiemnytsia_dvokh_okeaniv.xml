@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ґріґорій Адамов » Таємниця двох океанів</title>
+  <id>/A/Adamov_G/Taiemnytsia_dvokh_okeaniv.xml</id>
+  <updated>2025-11-09T15:09:21Z</updated>
+  <link href="/A/Adamov_G/Taiemnytsia_dvokh_okeaniv.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ґріґорій Адамов » Таємниця двох океанів</title>
+    <id>https://chtyvo.org.ua/authors/Adamov_G/Taiemnytsia_dvokh_okeaniv/</id>
+    <link href="https://chtyvo.org.ua/content/covers/f4aa57f632b7dfc6a4ec01f40123e177.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adamov_G/Taiemnytsia_dvokh_okeaniv/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adamov_G/Taiemnytsia_dvokh_okeaniv.doc.zip" rel="http://opds-spec.org/acquisition" type="application/zip"/>
+    <link href="https://chtyvo.org.ua/authors/Adamov_G/Taiemnytsia_dvokh_okeaniv.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Adamov_G/Taiemnytsia_dvokh_okeaniv.txt" rel="http://opds-spec.org/acquisition" type="text/plain"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdamov_G%2FTaiemnytsia_dvokh_okeaniv.txt" rel="http://opds-spec.org/acquisition" type="text/plain"/>
+    <link href="https://chtyvo.org.ua/authors/Adamov_G/Taiemnytsia_dvokh_okeaniv.txt.zip" rel="http://opds-spec.org/acquisition" type="application/zip"/>
+  </entry>
+</feed>

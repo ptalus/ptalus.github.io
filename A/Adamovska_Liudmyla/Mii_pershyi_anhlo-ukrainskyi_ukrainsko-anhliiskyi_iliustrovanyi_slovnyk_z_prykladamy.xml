@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Людмила Адамовська » Мій перший англо-український, українсько-англійський ілюстрований словник з прикладами</title>
+  <id>/A/Adamovska_Liudmyla/Mii_pershyi_anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk_z_prykladamy.xml</id>
+  <updated>2025-11-09T15:09:40Z</updated>
+  <link href="/A/Adamovska_Liudmyla/Mii_pershyi_anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk_z_prykladamy.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Людмила Адамовська » Мій перший англо-український, українсько-англійський ілюстрований словник з прикладами</title>
+    <id>https://chtyvo.org.ua/authors/Adamovska_Liudmyla/Mii_pershyi_anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk_z_prykladamy/</id>
+    <summary>Англо-український словник містить базові слова англійської мови та їхній переклад українською. У ньому охоплено лексику різноманітної тематики, що відповідає чинній програмі з іноземних мов для 1-4 класів. Наведені приклади вживання слів допоможуть школярам навчитися правильно використовувати їх у тій чи іншій мовній ситуації, а ілюстрації розвинуть зорову пам’ять, оптимізуючи таким чином засвоєння англійських лексем.Для учнів, студентів, вчителів і тих, хто самостійно вивчає англійську мову.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/0f225292fb9831152becb58062f613ed.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovska_Liudmyla/Mii_pershyi_anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk_z_prykladamy/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovska_Liudmyla/Mii_pershyi_anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk_z_prykladamy.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FZaikovski_Svitlana%2FMii_pershyi_anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk_z_prykladamy.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

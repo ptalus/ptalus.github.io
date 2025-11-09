@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Марина Абрамович » Пройти крізь стіни</title>
+  <id>/A/Abramovych_Maryna/Proity_kriz_stiny.xml</id>
+  <updated>2025-11-09T15:06:37Z</updated>
+  <link href="/A/Abramovych_Maryna/Proity_kriz_stiny.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Марина Абрамович » Пройти крізь стіни</title>
+    <id>https://chtyvo.org.ua/authors/Abramovych_Maryna/Proity_kriz_stiny/</id>
+    <summary>Абрамович Марина. Пройти крізь стіни / Пер. з англ. О. Михеда.Київ : ArtHuss, 2018. 384 с. Серія UkrainianArtBook.Марина Абрамович — одна з найвідоміших художниць сьогодення.Її велика особиста історія — це історія втрат, ризику та невпинногорозширення меж розуміння людини. В автобіографії Абрамовичвідверто розповідає про свої стосунки з найближчими людьми, пронепростий шлях до світу мистецтва, і, звичайно, про перформанси,сповнені страху, болю, виснаження, небезпеки, безкомпромісногопрагнення зрозуміти межі людських можливостей — і любові.Ця книга є ключем до розуміння не лише Марини Абрамович,а й новітнього мистецтва, історії постсоціалістичних країні сучасності загалом.</summary>
+    <link href="https://chtyvo.org.ua/authors/Abramovych_Maryna/Proity_kriz_stiny/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramovych_Maryna/Proity_kriz_stiny.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbramovych_Maryna%2FProity_kriz_stiny.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

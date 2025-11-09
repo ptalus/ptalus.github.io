@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абрамович Дмитро</title>
+  <id>/A/Abramovych_Dmytro/index.xml</id>
+  <updated>2025-11-09T15:06:33Z</updated>
+  <link href="/A/Abramovych_Dmytro/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Києво-Печерський патерик (вид. 1930)</title>
+    <id>/A/Abramovych_Dmytro/Kyievo-Pecherskyi_Pateryk.xml</id>
+    <link href="/A/Abramovych_Dmytro/Kyievo-Pecherskyi_Pateryk.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Києво-Печерський патерик (вид. 1991)</title>
+    <id>/A/Abramovych_Dmytro/Kyievo-Pecherskyi_pateryk_vyd_1991.xml</id>
+    <link href="/A/Abramovych_Dmytro/Kyievo-Pecherskyi_pateryk_vyd_1991.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Літописні джерела Четьїх-Міней Дмитра Ростовського</title>
+    <id>/A/Abramovych_Dmytro/Litopysni_dzherela_Chetikh-Minei_Dmytra_Rostovskoho.xml</id>
+    <link href="/A/Abramovych_Dmytro/Litopysni_dzherela_Chetikh-Minei_Dmytra_Rostovskoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

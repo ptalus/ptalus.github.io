@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олеся Авраменко » Терези долі Віктора Зарецького</title>
+  <id>/A/Avramenko_Olesia/Terezy_doli_Viktora_Zaretskoho.xml</id>
+  <updated>2025-11-09T15:07:59Z</updated>
+  <link href="/A/Avramenko_Olesia/Terezy_doli_Viktora_Zaretskoho.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олеся Авраменко » Терези долі Віктора Зарецького</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Olesia/Terezy_doli_Viktora_Zaretskoho/</id>
+    <summary>Авраменко О. О.Терези долі Віктора Зарецького / ІПСМ АМУ. — К.: Інтертехнологія, 2006. — 256 с: іл.Монографічне дослідження творчості відомого українського митця другої половини XX століття Віктора Івановича Зарецького (1925–1990) написане на підставі аналізу творчого доробку майстра та особистих зустрічей і низки інтерв’ю авторки з художником у 1987–1990 рр. Воно уперше комплексно досліджує феноменологічне явище історії образотворчого мистецтва на прикладі творчого розвитку і життєвої драми певної особистості, а також висвітлює трансформацію художньої свідомості в Україні 1950–1980-х.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/46f04971c91104722da5ea8a3407977b.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Olesia/Terezy_doli_Viktora_Zaretskoho/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Olesia/Terezy_doli_Viktora_Zaretskoho.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Olesia%2FTerezy_doli_Viktora_Zaretskoho.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

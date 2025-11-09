@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Григорій Айолло » Національна проблєма на Сході Європи</title>
+  <id>/A/Aiollo_Hryhorii/Natsionalna_probliema_na_Skhodi_Yevropy.xml</id>
+  <updated>2025-11-09T15:11:14Z</updated>
+  <link href="/A/Aiollo_Hryhorii/Natsionalna_probliema_na_Skhodi_Yevropy.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Григорій Айолло » Національна проблєма на Сході Європи</title>
+    <id>https://chtyvo.org.ua/authors/Aiollo_Hryhorii/Natsionalna_probliema_na_Skhodi_Yevropy/</id>
+    <summary>Національна проблєма на Сході Європи / Гр. Айолло.Прага : Нова Україна ; Берлін : [б.в.], 1924 (В Ляйпцігу : В друкарні К.Ґ. Редера)</summary>
+    <link href="https://chtyvo.org.ua/authors/Aiollo_Hryhorii/Natsionalna_probliema_na_Skhodi_Yevropy/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aiollo_Hryhorii/Natsionalna_probliema_na_Skhodi_Yevropy.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAiollo_Hryhorii%2FNatsionalna_probliema_na_Skhodi_Yevropy.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

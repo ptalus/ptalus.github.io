@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абеляр Тайша</title>
+  <id>/A/Abeliar_Taisha/index.xml</id>
+  <updated>2025-11-09T15:06:01Z</updated>
+  <link href="/A/Abeliar_Taisha/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Магічний перехід. Шлях жінки-воїна</title>
+    <id>/A/Abeliar_Taisha/Mahichnyi_perekhid_Shliakh_zhinky-voina.xml</id>
+    <link href="/A/Abeliar_Taisha/Mahichnyi_perekhid_Shliakh_zhinky-voina.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аблаєв Бекір</title>
+  <id>/A/Ablaiev_Bekir/index.xml</id>
+  <updated>2025-11-09T15:06:08Z</updated>
+  <link href="/A/Ablaiev_Bekir/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Bahtlı balalıq daqiqaları (кр.тат.)</title>
+    <id>/A/Ablaiev_Bekir/Bahtl_balalq_daqiqalar_krtat.xml</id>
+    <link href="/A/Ablaiev_Bekir/Bahtl_balalq_daqiqalar_krtat.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Історія Криму та кримськотатарського народу</title>
+    <id>/A/Ablaiev_Bekir/Istoriia_Krymu_ta_krymskotatarskoho_narodu.xml</id>
+    <link href="/A/Ablaiev_Bekir/Istoriia_Krymu_ta_krymskotatarskoho_narodu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

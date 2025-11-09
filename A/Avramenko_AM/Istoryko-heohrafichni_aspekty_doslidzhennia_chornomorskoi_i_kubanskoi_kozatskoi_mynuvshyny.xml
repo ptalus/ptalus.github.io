@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Анатолій Авраменко » Історико-географічні аспекти дослідження чорноморської і кубанської козацької минувшини (питання картографічної реконструкції)</title>
+  <id>/A/Avramenko_AM/Istoryko-heohrafichni_aspekty_doslidzhennia_chornomorskoi_i_kubanskoi_kozatskoi_mynuvshyny.xml</id>
+  <updated>2025-11-09T15:07:54Z</updated>
+  <link href="/A/Avramenko_AM/Istoryko-heohrafichni_aspekty_doslidzhennia_chornomorskoi_i_kubanskoi_kozatskoi_mynuvshyny.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Анатолій Авраменко » Історико-географічні аспекти дослідження чорноморської і кубанської козацької минувшини (питання картографічної реконструкції)</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_AM/Istoryko-heohrafichni_aspekty_doslidzhennia_chornomorskoi_i_kubanskoi_kozatskoi_mynuvshyny/</id>
+    <summary>Чорноморська минувшина: Записки Відділу історії козацтва на півдні України. – Одеса, 2019. – Випуск 14.У статті досліджуються географічні аспекти історії чорноморського і кубанського козацтва і їх відображення засобами історичної картографії. Наведені приклади помилок, що відбуваються від не вірного використовування методів історичної географії та картографії. Звернуто увагу на помилки деяких українських історичних атласів і російських публікацій. Стаття містить зразки авторських карт, що дозволили підняти на новий рівень вивчення адміністративно-територіального поділу, географії та топографії населених пунктів Кубані та деяких інших проблем регіональної історії.</summary>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_AM/Istoryko-heohrafichni_aspekty_doslidzhennia_chornomorskoi_i_kubanskoi_kozatskoi_mynuvshyny/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_AM/Istoryko-heohrafichni_aspekty_doslidzhennia_chornomorskoi_i_kubanskoi_kozatskoi_mynuvshyny.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_AM%2FIstoryko-heohrafichni_aspekty_doslidzhennia_chornomorskoi_i_kubanskoi_kozatskoi_mynuvshyny.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Марина Абікулова » Лапідарій Херсонського краєзнавчого музею</title>
+  <id>/A/Abikulova_Maryna/Lapidarii_Khersonskoho_kraieznavchoho_muzeiu.xml</id>
+  <updated>2025-11-09T15:06:06Z</updated>
+  <link href="/A/Abikulova_Maryna/Lapidarii_Khersonskoho_kraieznavchoho_muzeiu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Марина Абікулова » Лапідарій Херсонського краєзнавчого музею</title>
+    <id>https://chtyvo.org.ua/authors/Abikulova_Maryna/Lapidarii_Khersonskoho_kraieznavchoho_muzeiu/</id>
+    <link href="https://chtyvo.org.ua/content/covers/d7f28c7b40053884b0451925977a2817.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abikulova_Maryna/Lapidarii_Khersonskoho_kraieznavchoho_muzeiu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abikulova_Maryna/Lapidarii_Khersonskoho_kraieznavchoho_muzeiu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbikulova_Maryna%2FLapidarii_Khersonskoho_kraieznavchoho_muzeiu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

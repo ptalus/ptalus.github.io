@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абрамов Іван</title>
+  <id>/A/Abramov_Ivan/index.xml</id>
+  <updated>2025-11-09T15:06:23Z</updated>
+  <link href="/A/Abramov_Ivan/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>З історії та культури селища Вороніж</title>
+    <id>/A/Abramov_Ivan/Z_istorii_ta_kultury_selyscha_Voronizh.xml</id>
+    <link href="/A/Abramov_Ivan/Z_istorii_ta_kultury_selyscha_Voronizh.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Літописний Вороніж на Чернігівщині</title>
+    <id>/A/Abramov_Ivan/Litopysnyi_Voronizh_na_Chernihivschyni.xml</id>
+    <link href="/A/Abramov_Ivan/Litopysnyi_Voronizh_na_Chernihivschyni.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>По волынским захолустьям. (Эскизы из дорожного альбома) (рос.)</title>
+    <id>/A/Abramov_Ivan/Po_volnskym_zakholustiam_skyz_yz_dorozhnoho_alboma_ros.xml</id>
+    <link href="/A/Abramov_Ivan/Po_volnskym_zakholustiam_skyz_yz_dorozhnoho_alboma_ros.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Село Коснище, Владимір-Волынскаго уѣзда, Волынской губ. (в 5-ти верстахъ от мѣст. Любомля) (рос.)</title>
+    <id>/A/Abramov_Ivan/Selo_Kosnysche_Vladymir-Volnskaho_uzda_Volnskoi_hub_v_5-ty_verstakh_ot_mst_Liubomlia.xml</id>
+    <link href="/A/Abramov_Ivan/Selo_Kosnysche_Vladymir-Volnskaho_uzda_Volnskoi_hub_v_5-ty_verstakh_ot_mst_Liubomlia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Черниговскіе Малороссы. Быть и пѣсни населенія Глуховскаго уѣзда Черниговской губерніи (рос.)</title>
+    <id>/A/Abramov_Ivan/Chernyhovskie_Maloross_Bt_y_psny_naseleniia_Hlukhovskaho_uzda_Chernyhovskoi_huberniy_ros.xml</id>
+    <link href="/A/Abramov_Ivan/Chernyhovskie_Maloross_Bt_y_psny_naseleniia_Hlukhovskaho_uzda_Chernyhovskoi_huberniy_ros.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

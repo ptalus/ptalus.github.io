@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ріане Айслер » Чаша та меч: Наша історія, наше майбутнє</title>
+  <id>/A/Aisler_Riane/Chasha_ta_mech_Nasha_istoriia_nashe_maibutnie.xml</id>
+  <updated>2025-11-09T15:11:18Z</updated>
+  <link href="/A/Aisler_Riane/Chasha_ta_mech_Nasha_istoriia_nashe_maibutnie.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Ріане Айслер » Чаша та меч: Наша історія, наше майбутнє</title>
+    <id>https://chtyvo.org.ua/authors/Aisler_Riane/Chasha_ta_mech_Nasha_istoriia_nashe_maibutnie/</id>
+    <summary>Книжка “Чаша та меч” – це минуле, теперішнє та майбутнє людства, розглянуті під цілком новим кутом зору: з урахуванням жіночої половини людства та її ролі в еволюції людського суспільства. Спонукаючи нас подивитися на історію іншими очима, книжка Р.Айслер здатна спричинити цілковиту зміну світогляду й вселити віру в можливість побудування нового, кращого світу.Айслер РіанеЧаша та меч: Наша історія, наше майбутнє / Пер. з англ. Н.Комарова. – K.: Сфера, 2003. –  355 с.ISBN 966-7841-62-6</summary>
+    <link href="https://chtyvo.org.ua/content/covers/e3a34499f014252e91f019a8e12e589a.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Aisler_Riane/Chasha_ta_mech_Nasha_istoriia_nashe_maibutnie/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aisler_Riane/Chasha_ta_mech_Nasha_istoriia_nashe_maibutnie.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAisler_Riane%2FChasha_ta_mech_Nasha_istoriia_nashe_maibutnie.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

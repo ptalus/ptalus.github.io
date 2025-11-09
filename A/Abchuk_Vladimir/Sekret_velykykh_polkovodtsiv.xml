@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Владімір Абчук » Секрет великих полководців</title>
+  <id>/A/Abchuk_Vladimir/Sekret_velykykh_polkovodtsiv.xml</id>
+  <updated>2025-11-09T15:07:00Z</updated>
+  <link href="/A/Abchuk_Vladimir/Sekret_velykykh_polkovodtsiv.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Владімір Абчук » Секрет великих полководців</title>
+    <id>https://chtyvo.org.ua/authors/Abchuk_Vladimir/Sekret_velykykh_polkovodtsiv/</id>
+    <summary>Цікаві нариси про науку, яку називають «Дослідженням операцій». Наука ця допомагає обирати правильні рішення за найскладніших обставин.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/e097b2a8a92fb1a17d93ee4e23227877.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abchuk_Vladimir/Sekret_velykykh_polkovodtsiv/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abchuk_Vladimir/Sekret_velykykh_polkovodtsiv.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

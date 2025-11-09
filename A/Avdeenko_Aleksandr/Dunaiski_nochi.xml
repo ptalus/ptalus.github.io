@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Алєксандр Авдєєнко » Дунайські ночі</title>
+  <id>/A/Avdeenko_Aleksandr/Dunaiski_nochi.xml</id>
+  <updated>2025-11-09T15:07:12Z</updated>
+  <link href="/A/Avdeenko_Aleksandr/Dunaiski_nochi.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Алєксандр Авдєєнко » Дунайські ночі</title>
+    <id>https://chtyvo.org.ua/authors/Avdeenko_Aleksandr/Dunaiski_nochi/</id>
+    <summary>Радянському читачеві добре відомі воєнно-пригодницькі твори Олександра Остаповича Авдєєнка «Над Тисою» і «Гірська ріка». Нова повість «Дунайські ночі» продовжує і завершує сюжетні лінії цих повістей і разом з тим є самостійним твором.Повість присвячена радянським контррозвідникам, що викривають велику змову проти країн соціалістичного табору.Автор розповідає про мужність і героїзм радянських людей, що живуть у прикордонній зоні нашої Батьківщини і самовіддано захищають інтереси миру та соціалізму.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/280f1988b5f1e337cf9c38a06a53adc6.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avdeenko_Aleksandr/Dunaiski_nochi/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avdeenko_Aleksandr/Dunaiski_nochi.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

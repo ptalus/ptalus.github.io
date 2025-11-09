@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абушова Бела</title>
+  <id>/A/Abushova_Bela/index.xml</id>
+  <updated>2025-11-09T15:06:57Z</updated>
+  <link href="/A/Abushova_Bela/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>«Вільне радіо і телебачення тисячі пагорбів» як фактор геноциду в Руанді у 1994 р.</title>
+    <id>/A/Abushova_Bela/Vilne_radio_i_telebachennia_tysiachi_pahorbiv_iak_faktor_henotsydu_v_Ruandi_u_1994_r.xml</id>
+    <link href="/A/Abushova_Bela/Vilne_radio_i_telebachennia_tysiachi_pahorbiv_iak_faktor_henotsydu_v_Ruandi_u_1994_r.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аберкромбі Джо</title>
+  <id>/A/Joe_Abercrombie/index.xml</id>
+  <updated>2025-11-09T15:06:02Z</updated>
+  <link href="/A/Joe_Abercrombie/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Багряна країна</title>
+    <id>/A/Joe_Abercrombie/Bahriana_kraina.xml</id>
+    <link href="/A/Joe_Abercrombie/Bahriana_kraina.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

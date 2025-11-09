@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айзексон Волтер</title>
+  <id>/A/Isaacson_Walter/index.xml</id>
+  <updated>2025-11-09T15:11:06Z</updated>
+  <link href="/A/Isaacson_Walter/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Інноватори. Як група хакерів, геніїв та ґіків здійснила цифрову революцію</title>
+    <id>/A/Isaacson_Walter/Innovatory_Yak_hrupa_khakeriv_heniiv_ta_gikiv_zdiisnyla_tsyfrovu_revoliutsiiu.xml</id>
+    <link href="/A/Isaacson_Walter/Innovatory_Yak_hrupa_khakeriv_heniiv_ta_gikiv_zdiisnyla_tsyfrovu_revoliutsiiu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

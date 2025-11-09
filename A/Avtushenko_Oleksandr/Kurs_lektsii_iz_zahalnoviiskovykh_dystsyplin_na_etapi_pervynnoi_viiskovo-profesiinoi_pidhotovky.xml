@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олександр Автушенко » Курс лекцій із загальновійськових дисциплін на етапі первинної військово-професійної підготовки</title>
+  <id>/A/Avtushenko_Oleksandr/Kurs_lektsii_iz_zahalnoviiskovykh_dystsyplin_na_etapi_pervynnoi_viiskovo-profesiinoi_pidhotovky.xml</id>
+  <updated>2025-11-09T15:08:22Z</updated>
+  <link href="/A/Avtushenko_Oleksandr/Kurs_lektsii_iz_zahalnoviiskovykh_dystsyplin_na_etapi_pervynnoi_viiskovo-profesiinoi_pidhotovky.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олександр Автушенко » Курс лекцій із загальновійськових дисциплін на етапі первинної військово-професійної підготовки</title>
+    <id>https://chtyvo.org.ua/authors/Avtushenko_Oleksandr/Kurs_lektsii_iz_zahalnoviiskovykh_dystsyplin_na_etapi_pervynnoi_viiskovo-profesiinoi_pidhotovky/</id>
+    <summary>Курс лекцій призначений для викладачів та студентів, які проходять первинну військово-професійну підготовку та вивчають загальновійськові дисципліни.</summary>
+    <link href="https://chtyvo.org.ua/authors/Avtushenko_Oleksandr/Kurs_lektsii_iz_zahalnoviiskovykh_dystsyplin_na_etapi_pervynnoi_viiskovo-profesiinoi_pidhotovky/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avtushenko_Oleksandr/Kurs_lektsii_iz_zahalnoviiskovykh_dystsyplin_na_etapi_pervynnoi_viiskovo-profesiinoi_pidhotovky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FShvab_Viktor%2FKurs_lektsii_iz_zahalnoviiskovykh_dystsyplin_na_etapi_pervynnoi_viiskovo-profesiinoi_pidhotovky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

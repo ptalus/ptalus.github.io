@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авраменко Валентин</title>
+  <id>/A/Avramenko_Valentyn/index.xml</id>
+  <updated>2025-11-09T15:07:45Z</updated>
+  <link href="/A/Avramenko_Valentyn/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Зорі в твоїх долонях</title>
+    <id>/A/Avramenko_Valentyn/Zori_v_tvoih_doloniah.xml</id>
+    <link href="/A/Avramenko_Valentyn/Zori_v_tvoih_doloniah.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Зруйновані зорі</title>
+    <id>/A/Avramenko_Valentyn/Zruinovani_zori.xml</id>
+    <link href="/A/Avramenko_Valentyn/Zruinovani_zori.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Напередодні Армагедону</title>
+    <id>/A/Avramenko_Valentyn/Naperedodni_Armahedonu.xml</id>
+    <link href="/A/Avramenko_Valentyn/Naperedodni_Armahedonu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Принц Ґаллії</title>
+    <id>/A/Avramenko_Valentyn/Prynts_Gallii.xml</id>
+    <link href="/A/Avramenko_Valentyn/Prynts_Gallii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Усі Грані Світу</title>
+    <id>/A/Avramenko_Valentyn/Usi_Hrani_Svitu.xml</id>
+    <link href="/A/Avramenko_Valentyn/Usi_Hrani_Svitu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

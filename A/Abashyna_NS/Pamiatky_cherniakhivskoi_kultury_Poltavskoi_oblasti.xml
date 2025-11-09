@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Наталія Абашина » Пам’ятки черняхівської культури Полтавської області</title>
+  <id>/A/Abashyna_NS/Pamiatky_cherniakhivskoi_kultury_Poltavskoi_oblasti.xml</id>
+  <updated>2025-11-09T15:05:46Z</updated>
+  <link href="/A/Abashyna_NS/Pamiatky_cherniakhivskoi_kultury_Poltavskoi_oblasti.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Наталія Абашина » Пам’ятки черняхівської культури Полтавської області</title>
+    <id>https://chtyvo.org.ua/authors/Abashyna_NS/Pamiatky_cherniakhivskoi_kultury_Poltavskoi_oblasti/</id>
+    <summary>Абашина Н. С., Магомедов Б. В., Рейда Р. М. Пам’ятки черняхівської культури Полтавської області. — Київ: ІА НАН України, 2019. — 136 с.ISBN 978-617-7810-02-4Монографія містить каталог поселень, могильників та окремих знахідок  черняхівської культури (III — початок V ст. н. е.), виявлених та досліджених в Полтавській області. Також розглянуто історію та результати вивчення цих старожитностей як джерела для реконструкції історії, економіки та побуту людності України середини I тис. н. е.Для археологів, істориків, краєзнавців і всіх, хто цікавиться минулим нашого краю.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/e803e5052cbc08dec6b54906b7914042.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Pamiatky_cherniakhivskoi_kultury_Poltavskoi_oblasti/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Pamiatky_cherniakhivskoi_kultury_Poltavskoi_oblasti.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbashyna_NS%2FPamiatky_cherniakhivskoi_kultury_Poltavskoi_oblasti.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

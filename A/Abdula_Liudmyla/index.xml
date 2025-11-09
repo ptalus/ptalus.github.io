@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абдула Людмила</title>
+  <id>/A/Abdula_Liudmyla/index.xml</id>
+  <updated>2025-11-09T15:05:51Z</updated>
+  <link href="/A/Abdula_Liudmyla/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Українське козацтво як явище історії та культури: науково-допоміжний бібліографічний покажчик</title>
+    <id>/A/Abdula_Liudmyla/Ukrainske_kozatstvo_iak_iavysche_istorii_ta_kultury__naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk.xml</id>
+    <link href="/A/Abdula_Liudmyla/Ukrainske_kozatstvo_iak_iavysche_istorii_ta_kultury__naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Філософська антропологія та науки про людину: Науково-допоміжний бібліографічний покажчик</title>
+    <id>/A/Abdula_Liudmyla/Filosofska_antropolohiia_ta_nauky_pro_liudynu_Naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk.xml</id>
+    <link href="/A/Abdula_Liudmyla/Filosofska_antropolohiia_ta_nauky_pro_liudynu_Naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Богдан Ажнюк » Еволюція руської ідентичності в американській діаспорі</title>
+  <id>/A/Azhniuk_Bohdan/Evoliutsiia_ruskoi_identychnosti_v_amerykanskii_diaspori.xml</id>
+  <updated>2025-11-09T15:10:36Z</updated>
+  <link href="/A/Azhniuk_Bohdan/Evoliutsiia_ruskoi_identychnosti_v_amerykanskii_diaspori.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Богдан Ажнюк » Еволюція руської ідентичності в американській діаспорі</title>
+    <id>https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Evoliutsiia_ruskoi_identychnosti_v_amerykanskii_diaspori/</id>
+    <summary>Українці-русини: етнолінгвістичні та етнокультурні процеси в історичному розвитку / НАН України, МАУ, ІМФЕ ім. М.Т.Рильського. – К., 2013.</summary>
+    <link href="https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Evoliutsiia_ruskoi_identychnosti_v_amerykanskii_diaspori/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Evoliutsiia_ruskoi_identychnosti_v_amerykanskii_diaspori.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzhniuk_Bohdan%2FEvoliutsiia_ruskoi_identychnosti_v_amerykanskii_diaspori.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

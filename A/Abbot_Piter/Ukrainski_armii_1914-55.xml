@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Пітер Аббот » Українські армії 1914-55</title>
+  <id>/A/Abbot_Piter/Ukrainski_armii_1914-55.xml</id>
+  <updated>2025-11-09T15:05:48Z</updated>
+  <link href="/A/Abbot_Piter/Ukrainski_armii_1914-55.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Пітер Аббот » Українські армії 1914-55</title>
+    <id>https://chtyvo.org.ua/authors/Abbot_Piter/Ukrainski_armii_1914-55/</id>
+    <summary>Книга, написана американським істориком П. Абботом укупі з українським істориком Є.Пінаком, в рамках американської серії «Men-at-Arms» (серія, присвячена уніформі, оснащенню та організації армій і військових формувань різних народів світу) розповідає про збройні формування українців першої половини ХХ століття. Книга містить певні неточності щодо періоду Перших Визвольних змагань (1917-1922 рр.), але разом з тим буде дуже цікавою і корисною для широкого кола читачів.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/f09ab34eadcb7c9462a08023d90b4eb7.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abbot_Piter/Ukrainski_armii_1914-55/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abbot_Piter/Ukrainski_armii_1914-55.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FPinak_Yevhen%2FUkrainski_armii_1914-55.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

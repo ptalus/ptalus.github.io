@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олександр Миколайович Авраменко » Українська література (рівень стандарту). Підручник для 11 класу закладів загальної середньої освіти</title>
+  <id>/A/Avramenko_Oleksandr/Ukrainska_literatura_riven_standartu_Pidruchnyk_dlia_11_klasu_zakladiv_zahalnoi_serednoi_osvity.xml</id>
+  <updated>2025-11-09T15:07:51Z</updated>
+  <link href="/A/Avramenko_Oleksandr/Ukrainska_literatura_riven_standartu_Pidruchnyk_dlia_11_klasu_zakladiv_zahalnoi_serednoi_osvity.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олександр Миколайович Авраменко » Українська література (рівень стандарту). Підручник для 11 класу закладів загальної середньої освіти</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleksandr/Ukrainska_literatura_riven_standartu_Pidruchnyk_dlia_11_klasu_zakladiv_zahalnoi_serednoi_osvity/</id>
+    <summary>Авраменко О.Українська література (рівень стандарту) : підруч. для 11 кл. закл. загальн. середн. освіти / Олександр Авраменко. — К. : Грамота, 2019. — 256 с. : іл.ISBN 978-966-349-731-0Підручник повністю відповідає вимогам Державного стандартуосвіти та чинній програмі з української літератури (рівень стандарту).Він містить відомості з теорії літератури, біографічні матеріали прописьменників, огляд літературної спадщини майстрів слова, багатийілюстративний матеріал та ін., а також художні тексти (повні або ско ро-чені).Методичний апарат підручника охоплює різнорівневі завдання,зорієнтовані на віко ві особливості одинадцятикласників.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/baaf989501a009e2a5e2f2d192dadab7.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr/Ukrainska_literatura_riven_standartu_Pidruchnyk_dlia_11_klasu_zakladiv_zahalnoi_serednoi_osvity/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr/Ukrainska_literatura_riven_standartu_Pidruchnyk_dlia_11_klasu_zakladiv_zahalnoi_serednoi_osvity.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleksandr%2FUkrainska_literatura_riven_standartu_Pidruchnyk_dlia_11_klasu_zakladiv_zahalnoi_serednoi_osvity.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

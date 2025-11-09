@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авер'янов Сергій</title>
+  <id>/A/Averianov_Serhii/index.xml</id>
+  <updated>2025-11-09T15:07:19Z</updated>
+  <link href="/A/Averianov_Serhii/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Безпекова діяльність АСЕАН у Південно-Східній Азії</title>
+    <id>/A/Averianov_Serhii/Bezpekova_diialnist_ASEAN_u_Pivdenno-Skhidnii_Azii.xml</id>
+    <link href="/A/Averianov_Serhii/Bezpekova_diialnist_ASEAN_u_Pivdenno-Skhidnii_Azii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Безпековий аспект відносин АСЕАН та КНР у Південно-Східній Азії</title>
+    <id>/A/Averianov_Serhii/Bezpekovyi_aspekt_vidnosyn_ASEAN_ta_KNR_u_Pivdenno-Skhidnii_Azii.xml</id>
+    <link href="/A/Averianov_Serhii/Bezpekovyi_aspekt_vidnosyn_ASEAN_ta_KNR_u_Pivdenno-Skhidnii_Azii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Пітер Абрагамс » Дорогою грому</title>
+  <id>/A/Abrahams_Piter/Dorohoiu_hromu.xml</id>
+  <updated>2025-11-09T15:06:18Z</updated>
+  <link href="/A/Abrahams_Piter/Dorohoiu_hromu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Пітер Абрагамс » Дорогою грому</title>
+    <id>https://chtyvo.org.ua/authors/Abrahams_Piter/Dorohoiu_hromu/</id>
+    <summary>Роман «Дорогою грому» належить перу південноафриканського письменника Пітера Абрагамса. У своїй книзі автор прагне показати, як бузувірські расові закони і расові забобони душать самі природні людські почуття і прирікають на загибель кожного, хто насмілюється відстоювати свою людську гідність. Події, про які оповідає Пітер Абрагамс, відбуваються не де-небудь в африканській глушині, відрізаною від світу тропічними джунглями, а в декількох годинах їзди по залізниці від Кейптауна, політичного та культурного центру Південно-Африканського Союзу, члена організації Об'єднаних націй, що проголосила в своєму статуті «повага до прав людини і основних свобод для всіх незалежно від раси, статі, мови і релігії». І відбуваються ці події не в часи похмурого середньовіччя, а в XX столітті, після другої світової війни, яку народи світу вели проти фашизму і його ідеології, проти проповіді ненависті, руйнування і смерті. Сюжет вкрай простий і для Південної Африки цілком звичайний. Мулат Ленні Сварц, закінчивши університет, приїхав в рідне село і відкрив там школу. Він полюбив білу дівчину, родичку бурського поміщика Вільєре, вона відповіла йому взаємністю. Але відкрито заявити про свою любов, а тим більше одружитися вони не можуть: це заборонено законом, цього не потерплять білі.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/05fc6e2466e2b12dac053092f50284c3.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abrahams_Piter/Dorohoiu_hromu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abrahams_Piter/Dorohoiu_hromu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbrahams_Piter%2FDorohoiu_hromu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

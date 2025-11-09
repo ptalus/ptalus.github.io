@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Сергій Аверинцев » Софія-Логос. Словник</title>
+  <id>/A/Averyntsev_Serhii/Sofiia-Lohos_Slovnyk.xml</id>
+  <updated>2025-11-09T15:07:28Z</updated>
+  <link href="/A/Averyntsev_Serhii/Sofiia-Lohos_Slovnyk.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Сергій Аверинцев » Софія-Логос. Словник</title>
+    <id>https://chtyvo.org.ua/authors/Averyntsev_Serhii/Sofiia-Lohos_Slovnyk/</id>
+    <summary>Сергій АверинцевСофія-Логос. Словник. 2-е видання - К.: Дух і Літера, 2004.- 640 с.Основи християнської культури у вигляді енциклопедичного словника – вагома альтернатива “брехні в абетковому порядку”, що донедавна виповнювала радянські енциклопедії. Словник Аверинцева дарує читачеві універсальний звід знань від А до Я і водночас осмислений, особистий вибір між вузьким шляхом “отця віри” Авраама та битим шляхом пост-атеїстичного “язичництва”. Високо поціновані спеціалістами статті – окраса “Філософської енциклопедії” (5 т.), “Короткої літературної енциклопедії” (7 т.), “Міфів народів світу” (2 т.), “Християнства” (3 т.) тощо – вперше зібрані разом у цій книзі. Синтез словника Аверинцева виявляє ті властивості його складових, які раніше тонули у розривах загального контексту, ізольовані одна від одної непроглядним мороком ідеології. Читач переживав справдешній шок, коли серед пустопорожніх вод “Великої радянської енциклопедії” натрапляв на скелю аверинцевської статті – “Логос” або, скажімо, “Любов”. Незабутні зустрічі: серед темряви напівправд в океані напівзнань розкидані по всіх усюдах статті Майстра завжди поставали як високі та надійні острови особливої гірської породи, кришталево ясного мислення. Вбираючи тепер ці “острови” єдиним поглядом, ми читаємо на мапі доби: Архіпелаг Аверинцева.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/c91de47a19c385c491a41dfbc9687b41.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Averyntsev_Serhii/Sofiia-Lohos_Slovnyk/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Averyntsev_Serhii/Sofiia-Lohos_Slovnyk.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAveryntsev_Serhii%2FSofiia-Lohos_Slovnyk.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Айзек Азімов » А якщо...</title>
+  <id>/A/Azimov/A_yakscho.xml</id>
+  <updated>2025-11-09T15:10:59Z</updated>
+  <link href="/A/Azimov/A_yakscho.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Айзек Азімов » А якщо...</title>
+    <id>https://chtyvo.org.ua/authors/Azimov/A_yakscho/</id>
+    <link href="https://chtyvo.org.ua/authors/Azimov/A_yakscho/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azimov/A_yakscho.doc.zip" rel="http://opds-spec.org/acquisition" type="application/zip"/>
+    <link href="https://chtyvo.org.ua/authors/Azimov/A_yakscho.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

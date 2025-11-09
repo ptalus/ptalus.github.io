@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Іван Абрамов » Черниговскіе Малороссы. Быть и пѣсни населенія Глуховскаго уѣзда Черниговской губерніи (рос.)</title>
+  <id>/A/Abramov_Ivan/Chernyhovskie_Maloross_Bt_y_psny_naseleniia_Hlukhovskaho_uzda_Chernyhovskoi_huberniy_ros.xml</id>
+  <updated>2025-11-09T15:06:26Z</updated>
+  <link href="/A/Abramov_Ivan/Chernyhovskie_Maloross_Bt_y_psny_naseleniia_Hlukhovskaho_uzda_Chernyhovskoi_huberniy_ros.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Іван Абрамов » Черниговскіе Малороссы. Быть и пѣсни населенія Глуховскаго уѣзда Черниговской губерніи (рос.)</title>
+    <id>https://chtyvo.org.ua/authors/Abramov_Ivan/Chernyhovskie_Maloross_Bt_y_psny_naseleniia_Hlukhovskaho_uzda_Chernyhovskoi_huberniy_ros/</id>
+    <summary>Живая старина. – 1905.- Вып. 3–4. – С. 513–553</summary>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Ivan/Chernyhovskie_Maloross_Bt_y_psny_naseleniia_Hlukhovskaho_uzda_Chernyhovskoi_huberniy_ros/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramov_Ivan/Chernyhovskie_Maloross_Bt_y_psny_naseleniia_Hlukhovskaho_uzda_Chernyhovskoi_huberniy_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbramov_Ivan%2FChernyhovskie_Maloross_Bt_y_psny_naseleniia_Hlukhovskaho_uzda_Chernyhovskoi_huberniy_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

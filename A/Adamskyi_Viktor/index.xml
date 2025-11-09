@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адамський Віктор</title>
+  <id>/A/Adamskyi_Viktor/index.xml</id>
+  <updated>2025-11-09T15:09:57Z</updated>
+  <link href="/A/Adamskyi_Viktor/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>«Просвіти» Поділля у державотворчих процесах доби Української Центральної Ради</title>
+    <id>/A/Adamskyi_Viktor/Prosvity_Podillia_u_derzhavotvorchykh_protsesakh_doby_Ukrainskoi_Tsentralnoi_Rady.xml</id>
+    <link href="/A/Adamskyi_Viktor/Prosvity_Podillia_u_derzhavotvorchykh_protsesakh_doby_Ukrainskoi_Tsentralnoi_Rady.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Доля Климента Гайового у контексті більшовицьких репресій наприкінці 1920-х років</title>
+    <id>/A/Adamskyi_Viktor/Dolia_Klymenta_Haiovoho_u_konteksti_bilshovytskykh_represii_naprykintsi_1920-kh_rokiv.xml</id>
+    <link href="/A/Adamskyi_Viktor/Dolia_Klymenta_Haiovoho_u_konteksti_bilshovytskykh_represii_naprykintsi_1920-kh_rokiv.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Життєпис С.І. Кисельова крізь призму формулярного списку 1917 року</title>
+    <id>/A/Adamskyi_Viktor/Zhyttiepys_SI_Kyselova_kriz_pryzmu_formuliarnoho_spysku_1917_roku.xml</id>
+    <link href="/A/Adamskyi_Viktor/Zhyttiepys_SI_Kyselova_kriz_pryzmu_formuliarnoho_spysku_1917_roku.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Заснування та відновлення діяльності просвітницьких товариств на Поділлі у грудні 1918 р. – квітні 1919 р.</title>
+    <id>/A/Adamskyi_Viktor/Zasnuvannia_ta_vidnovlennia_diialnosti_prosvitnytskykh_tovarystv_na_Podilli_u_hrudni_1918_r__kvitni.xml</id>
+    <link href="/A/Adamskyi_Viktor/Zasnuvannia_ta_vidnovlennia_diialnosti_prosvitnytskykh_tovarystv_na_Podilli_u_hrudni_1918_r__kvitni.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Заснування та функціонування богословського факультету Кам'янець-Подільського державного українського університету (1918-1920)</title>
+    <id>/A/Adamskyi_Viktor/Zasnuvannia_ta_funktsionuvannia_bohoslovskoho_fakultetu_Kamianets-Podilskoho_derzhavnoho_ukrainskoho.xml</id>
+    <link href="/A/Adamskyi_Viktor/Zasnuvannia_ta_funktsionuvannia_bohoslovskoho_fakultetu_Kamianets-Podilskoho_derzhavnoho_ukrainskoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Кам'янець-Подільський державний український університет у літописі його сучасників</title>
+    <id>/A/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_litopysi_ioho_suchasnykiv.xml</id>
+    <link href="/A/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_litopysi_ioho_suchasnykiv.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Кам'янець-Подільський державний український університет у спогадах його студентів</title>
+    <id>/A/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_spohadakh_ioho_studentiv.xml</id>
+    <link href="/A/Adamskyi_Viktor/Kamianets-Podilskyi_derzhavnyi_ukrainskyi_universytet_u_spohadakh_ioho_studentiv.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Кам’янець-Подільський у суспільно-політичних трансформаціях навесні 1917 року</title>
+    <id>/A/Adamskyi_Viktor/Kamianets-Podilskyi_u_suspilno-politychnykh_transformatsiiakh_navesni_1917_roku.xml</id>
+    <link href="/A/Adamskyi_Viktor/Kamianets-Podilskyi_u_suspilno-politychnykh_transformatsiiakh_navesni_1917_roku.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Музична діяльність просвітницьких товариств Поділля в добу Директорії УНР</title>
+    <id>/A/Adamskyi_Viktor/Muzychna_diialnist_prosvitnytskykh_tovarystv_Podillia_v_dobu_Dyrektorii_UNR.xml</id>
+    <link href="/A/Adamskyi_Viktor/Muzychna_diialnist_prosvitnytskykh_tovarystv_Podillia_v_dobu_Dyrektorii_UNR.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Набуття містечком Тульчин статусу міста</title>
+    <id>/A/Adamskyi_Viktor/Nabuttia_mistechkom_Tulchyn_statusu_mista.xml</id>
+    <link href="/A/Adamskyi_Viktor/Nabuttia_mistechkom_Tulchyn_statusu_mista.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Просвітницькі товариства Поділля на сторінках газети «Село» (листопад – грудень 1918 р.)</title>
+    <id>/A/Adamskyi_Viktor/Prosvitnytski_tovarystva_Podillia_na_storinkakh_hazety_Selo_lystopad__hruden_1918_r.xml</id>
+    <link href="/A/Adamskyi_Viktor/Prosvitnytski_tovarystva_Podillia_na_storinkakh_hazety_Selo_lystopad__hruden_1918_r.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Просвітницькі товариства Поділля на шпальтах газети «Подольская мысль» доби Гетьманату П. Скоропадського</title>
+    <id>/A/Adamskyi_Viktor/Prosvitnytski_tovarystva_Podillia_na_shpaltakh_hazety_Podolskaia_msl_doby_Hetmanatu_P_Skoropadskoho.xml</id>
+    <link href="/A/Adamskyi_Viktor/Prosvitnytski_tovarystva_Podillia_na_shpaltakh_hazety_Podolskaia_msl_doby_Hetmanatu_P_Skoropadskoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Проскурів у муніципальній кампанії 1917 року</title>
+    <id>/A/Adamskyi_Viktor/Proskuriv_u_munitsypalnii_kampanii_1917_roku.xml</id>
+    <link href="/A/Adamskyi_Viktor/Proskuriv_u_munitsypalnii_kampanii_1917_roku.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Професорсько-викладацька корпорація богословського факультету Кам'янець-Подільського державного українського університету</title>
+    <id>/A/Adamskyi_Viktor/Profesorsko-vykladatska_korporatsiia_bohoslovskoho_fakultetu_Kamianets-Podilskoho_universytetu.xml</id>
+    <link href="/A/Adamskyi_Viktor/Profesorsko-vykladatska_korporatsiia_bohoslovskoho_fakultetu_Kamianets-Podilskoho_universytetu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Свято відкриття Кам'янець-Подільського державного українського університету: невідомі сторінки</title>
+    <id>/A/Adamskyi_Viktor/Sviato_vidkryttia_Kamianets-Podilskoho_derzhavnoho_ukrainskoho_universytetu_nevidomi_storinky.xml</id>
+    <link href="/A/Adamskyi_Viktor/Sviato_vidkryttia_Kamianets-Podilskoho_derzhavnoho_ukrainskoho_universytetu_nevidomi_storinky.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Універсал Центральної Ради в оцінці фракцій Подільського губернського земського зібрання</title>
+    <id>/A/Adamskyi_Viktor/Universal_Tsentralnoi_Rady_v_otsintsi_fraktsii_Podilskoho_hubernskoho_zemskoho_zibrannia.xml</id>
+    <link href="/A/Adamskyi_Viktor/Universal_Tsentralnoi_Rady_v_otsintsi_fraktsii_Podilskoho_hubernskoho_zemskoho_zibrannia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Університетська тема на сторінках газети «Голос Подольской церкви»</title>
+    <id>/A/Adamskyi_Viktor/Universytetska_tema_na_storinkakh_hazety_Holos_Podolskoi_tserkvy.xml</id>
+    <link href="/A/Adamskyi_Viktor/Universytetska_tema_na_storinkakh_hazety_Holos_Podolskoi_tserkvy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Ямпільський повітовий комісар у революційну добу (березень 1917 р. – квітень 1918 р.)</title>
+    <id>/A/Adamskyi_Viktor/Yampilskyi_povitovyi_komisar_u_revoliutsiinu_dobu_berezen_1917_r__kviten_1918_r.xml</id>
+    <link href="/A/Adamskyi_Viktor/Yampilskyi_povitovyi_komisar_u_revoliutsiinu_dobu_berezen_1917_r__kviten_1918_r.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

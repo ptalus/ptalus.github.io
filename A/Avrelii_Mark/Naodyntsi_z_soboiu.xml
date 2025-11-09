@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Марк Аврелій » Наодинці з собою</title>
+  <id>/A/Avrelii_Mark/Naodyntsi_z_soboiu.xml</id>
+  <updated>2025-11-09T15:08:09Z</updated>
+  <link href="/A/Avrelii_Mark/Naodyntsi_z_soboiu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Марк Аврелій » Наодинці з собою</title>
+    <id>https://chtyvo.org.ua/authors/Avrelii_Mark/Naodyntsi_z_soboiu/</id>
+    <summary>&quot;Наодинці з собою&quot; Марка Аврелія – записки з мандрівки до самого себе. Посідаючи владу над величезною державою, римський імператор Марк Аврелій Антонін наполегливо шукає себе як простого громадянина Всесвіту. Спомогою в цьому – філософія, зокрема вчення стоїків: з одного боку – послідовно матеріалістичне, з іншого – одне з найодухотвореніших у європейській інтелектуальній історії.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/d0bee5a1b81718cee56d087193397911.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avrelii_Mark/Naodyntsi_z_soboiu/" rel="alternate" type="text/html"/>
+  </entry>
+</feed>

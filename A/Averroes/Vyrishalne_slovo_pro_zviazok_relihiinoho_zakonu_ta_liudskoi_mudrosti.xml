@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Аверроес » Вирішальне слово про зв'язок релігійного закону та людської мудрості</title>
+  <id>/A/Averroes/Vyrishalne_slovo_pro_zviazok_relihiinoho_zakonu_ta_liudskoi_mudrosti.xml</id>
+  <updated>2025-11-09T15:07:31Z</updated>
+  <link href="/A/Averroes/Vyrishalne_slovo_pro_zviazok_relihiinoho_zakonu_ta_liudskoi_mudrosti.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Аверроес » Вирішальне слово про зв'язок релігійного закону та людської мудрості</title>
+    <id>https://chtyvo.org.ua/authors/Averroes/Vyrishalne_slovo_pro_zviazok_relihiinoho_zakonu_ta_liudskoi_mudrosti/</id>
+    <summary>Критичні дослідження, переклад з арабської та коментарі М.М. Якубовича.</summary>
+    <link href="https://chtyvo.org.ua/authors/Averroes/Vyrishalne_slovo_pro_zviazok_relihiinoho_zakonu_ta_liudskoi_mudrosti/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Averroes/Vyrishalne_slovo_pro_zviazok_relihiinoho_zakonu_ta_liudskoi_mudrosti.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAverroes%2FVyrishalne_slovo_pro_zviazok_relihiinoho_zakonu_ta_liudskoi_mudrosti.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

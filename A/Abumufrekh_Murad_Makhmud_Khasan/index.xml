@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абумуфрех Мурад Махмуд Хасан</title>
+  <id>/A/Abumufrekh_Murad_Makhmud_Khasan/index.xml</id>
+  <updated>2025-11-09T15:06:54Z</updated>
+  <link href="/A/Abumufrekh_Murad_Makhmud_Khasan/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Зовнішньоекономічні відносини України з країнами Перської затоки</title>
+    <id>/A/Abumufrekh_Murad_Makhmud_Khasan/Zovnishnoekonomichni_vidnosyny_Ukrainy_z_krainamy_Perskoi_zatoky.xml</id>
+    <link href="/A/Abumufrekh_Murad_Makhmud_Khasan/Zovnishnoekonomichni_vidnosyny_Ukrainy_z_krainamy_Perskoi_zatoky.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

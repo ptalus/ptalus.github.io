@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Себастьяно Адамо » Ол райт</title>
+  <id>/A/Addamo_Sebastiano/Ol_rait.xml</id>
+  <updated>2025-11-09T15:09:20Z</updated>
+  <link href="/A/Addamo_Sebastiano/Ol_rait.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Себастьяно Адамо » Ол райт</title>
+    <id>https://chtyvo.org.ua/authors/Addamo_Sebastiano/Ol_rait/</id>
+    <summary>«Всесвіт» №3, 1964.З італійської переклав С.Пивоваров.</summary>
+    <link href="https://chtyvo.org.ua/authors/Addamo_Sebastiano/Ol_rait/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Addamo_Sebastiano/Ol_rait.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAddamo_Sebastiano%2FOl_rait.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Роберт Аґранофф » Місцеве самоврядування: світовий та український досвід</title>
+  <id>/A/Agranoff_Robert/Mistseve_samovriaduvannia_svitovyi_ta_ukrainskyi_dosvid.xml</id>
+  <updated>2025-11-09T15:08:53Z</updated>
+  <link href="/A/Agranoff_Robert/Mistseve_samovriaduvannia_svitovyi_ta_ukrainskyi_dosvid.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Роберт Аґранофф » Місцеве самоврядування: світовий та український досвід</title>
+    <id>https://chtyvo.org.ua/authors/Agranoff_Robert/Mistseve_samovriaduvannia_svitovyi_ta_ukrainskyi_dosvid/</id>
+    <summary>Посібник «Місцеве самоврядування: світовий та український досвід» є результатом багаторічної роботи експертів Програми сприяння парламентові України над аналізом тенденцій розвитку місцевого самоврядування в різних країнах світу та Україні. Тут викладені основні проблеми, що стоять перед місцевим самоврядуванням не залежно від країни чи системи самоврядування, а також аналізується досвід становлення місцевого самоврядування в Україні в історичній перспективі. Посібник може бути корисним для народних депутатів України, депутатів місцевих рад, практичних працівників органів місцевого самоврядування, студентів юридичних факультетів, політологів та політиків.</summary>
+    <link href="https://chtyvo.org.ua/authors/Agranoff_Robert/Mistseve_samovriaduvannia_svitovyi_ta_ukrainskyi_dosvid/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Agranoff_Robert/Mistseve_samovriaduvannia_svitovyi_ta_ukrainskyi_dosvid.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FTkachuk_Anatolii%2FMistseve_samovriaduvannia_svitovyi_ta_ukrainskyi_dosvid.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Марина Абікулова » Антична колекція Херсонського обласного краєзнавчого музею. Історія становлення (1890-1963 рр.)</title>
+  <id>/A/Abikulova_Maryna/Antychna_kolektsiia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_Istoriia_stanovlennia_1890-1963_rr.xml</id>
+  <updated>2025-11-09T15:06:04Z</updated>
+  <link href="/A/Abikulova_Maryna/Antychna_kolektsiia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_Istoriia_stanovlennia_1890-1963_rr.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Марина Абікулова » Антична колекція Херсонського обласного краєзнавчого музею. Історія становлення (1890-1963 рр.)</title>
+    <id>https://chtyvo.org.ua/authors/Abikulova_Maryna/Antychna_kolektsiia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_Istoriia_stanovlennia_1890-1963_rr/</id>
+    <summary>У науково-популярному виданні на основі архівних джерел та опублікованих матеріалів відтворено історію започаткування та розвитку херсонської музейної античної колекції, формування та поповнення якої нерозривно пов’язане з іменами В. І. Гошкевича, Г. Л. Скадовського, Б. В. Фармаковського,   І. К. Суручана, І. В. Фабриціус, Г. П. Крисіна, О. К. Тахтая, І. Д. Ратнера, Л. І. Костюк, інших видатних археологів та істориків. Детально розглянуто поетапний розвиток херсонського Археологічного музею та його трансформацію в Херсонський обласний краєзнавчий музей. Публікуються також найвиразніші предмети з музейної античної колекції.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/990ffcbbd462d0add510f1350b78860f.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abikulova_Maryna/Antychna_kolektsiia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_Istoriia_stanovlennia_1890-1963_rr/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abikulova_Maryna/Antychna_kolektsiia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_Istoriia_stanovlennia_1890-1963_rr.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FKostenko_Anton%2FAntychna_kolektsiia_Khersonskoho_oblasnoho_kraieznavchoho_muzeiu_Istoriia_stanovlennia_1890-1963_rr.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авраменко Олеся</title>
+  <id>/A/Avramenko_Olesia/index.xml</id>
+  <updated>2025-11-09T15:07:58Z</updated>
+  <link href="/A/Avramenko_Olesia/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Митець із серця «нової хвилі» українського мистецтва кінця ХХ століття. Олександр Гнилицький</title>
+    <id>/A/Avramenko_Olesia/Mytets_iz_sertsia_novoi_khvyli_ukrainskoho_mystetstva_kintsia_KhKh_stolittia_Oleksandr_Hnylytskyi.xml</id>
+    <link href="/A/Avramenko_Olesia/Mytets_iz_sertsia_novoi_khvyli_ukrainskoho_mystetstva_kintsia_KhKh_stolittia_Oleksandr_Hnylytskyi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Терези долі Віктора Зарецького</title>
+    <id>/A/Avramenko_Olesia/Terezy_doli_Viktora_Zaretskoho.xml</id>
+    <link href="/A/Avramenko_Olesia/Terezy_doli_Viktora_Zaretskoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Світлана Абросимова » Біднов В.О.</title>
+  <id>/A/Abrosymova_Svitlana/Bidnov_V_O.xml</id>
+  <updated>2025-11-09T15:06:46Z</updated>
+  <link href="/A/Abrosymova_Svitlana/Bidnov_V_O.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Світлана Абросимова » Біднов В.О.</title>
+    <id>https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Bidnov_V_O/</id>
+    <summary>Абросимова С. В. Біднов В. О. / С. В. Абросимова // Українська біографістика. - 1999. - Вип. 2. - С. 73-75</summary>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Bidnov_V_O/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Bidnov_V_O.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbrosymova_Svitlana%2FBidnov_V_O.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

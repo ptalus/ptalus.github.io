@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Генадій Айгі » Уклін - співу</title>
+  <id>/A/Aihi_Henadii/Uklin_-_spivu.xml</id>
+  <updated>2025-11-09T15:11:05Z</updated>
+  <link href="/A/Aihi_Henadii/Uklin_-_spivu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Генадій Айгі » Уклін - співу</title>
+    <id>https://chtyvo.org.ua/authors/Aihi_Henadii/Uklin_-_spivu/</id>
+    <summary>Сто варіацій на теми народних пісень Поволжя.За багато десятиліть своєї літературної діяльності Геннадій Айгі пройшов кілька етапів у творчому розвитку, кожен з яких має певний часовий період і властиві йому характерні особливості. Всі вони, так чи інакше, досліджені і пояснені, хоча, зрозуміло, широке поле для їх вивчення як і раніше залишається. Це стосується і творчості Айгі останніх років – кінця ХХ – початку XXI століть, в якій чуваський літературознавець Атнер Хузангай побачив чітко виражене «певне „припадання до витоку”». Насамперед, він мав на увазі віршований цикл «Уклін – співу. Сто варіацій на теми народних пісень Поволжя».</summary>
+    <link href="https://chtyvo.org.ua/content/covers/b91388c02a2c54f1d54c40952543398e.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Aihi_Henadii/Uklin_-_spivu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aihi_Henadii/Uklin_-_spivu.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

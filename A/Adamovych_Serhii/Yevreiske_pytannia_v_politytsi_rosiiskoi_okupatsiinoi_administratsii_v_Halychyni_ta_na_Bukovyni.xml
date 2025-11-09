@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Сергій Адамович » Єврейське питання в політиці російської окупаційної адміністрації в Галичині та на Буковині (1914–1917 рр.)</title>
+  <id>/A/Adamovych_Serhii/Yevreiske_pytannia_v_politytsi_rosiiskoi_okupatsiinoi_administratsii_v_Halychyni_ta_na_Bukovyni.xml</id>
+  <updated>2025-11-09T15:09:23Z</updated>
+  <link href="/A/Adamovych_Serhii/Yevreiske_pytannia_v_politytsi_rosiiskoi_okupatsiinoi_administratsii_v_Halychyni_ta_na_Bukovyni.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Сергій Адамович » Єврейське питання в політиці російської окупаційної адміністрації в Галичині та на Буковині (1914–1917 рр.)</title>
+    <id>https://chtyvo.org.ua/authors/Adamovych_Serhii/Yevreiske_pytannia_v_politytsi_rosiiskoi_okupatsiinoi_administratsii_v_Halychyni_ta_na_Bukovyni/</id>
+    <summary>Вісник Прикарпатського університету. Історія. – Івано-Франківськ: Видавництво «Плай» Прикарпатського університету, 2005. – Вип. 9.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adamovych_Serhii/Yevreiske_pytannia_v_politytsi_rosiiskoi_okupatsiinoi_administratsii_v_Halychyni_ta_na_Bukovyni/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovych_Serhii/Yevreiske_pytannia_v_politytsi_rosiiskoi_okupatsiinoi_administratsii_v_Halychyni_ta_na_Bukovyni.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdamovych_Serhii%2FYevreiske_pytannia_v_politytsi_rosiiskoi_okupatsiinoi_administratsii_v_Halychyni_ta_na_Bukovyni.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

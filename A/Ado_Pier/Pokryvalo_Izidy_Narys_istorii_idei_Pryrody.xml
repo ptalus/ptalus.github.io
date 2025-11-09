@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>П'єр Адо » Покривало Ізіди. Нарис історії ідеї Природи</title>
+  <id>/A/Ado_Pier/Pokryvalo_Izidy_Narys_istorii_idei_Pryrody.xml</id>
+  <updated>2025-11-09T15:10:23Z</updated>
+  <link href="/A/Ado_Pier/Pokryvalo_Izidy_Narys_istorii_idei_Pryrody.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>П'єр Адо » Покривало Ізіди. Нарис історії ідеї Природи</title>
+    <id>https://chtyvo.org.ua/authors/Ado_Pier/Pokryvalo_Izidy_Narys_istorii_idei_Pryrody/</id>
+    <summary>Адо П.Покривало Ізіди. Нарис історії ідеї Природи/ Переклад з французької О. Йосипенко. — К.: Новий Акрополь, 2016. — 470 с.«Покривало Ізіди» — одна з останніх книг П’єра Адо (1922-2010), задум якої він, за власним зізнанням, виношував більше сорока років. У ній автор розкриває походження численних уявлень про природу і настанов щодо неї, які, на його думку, стали можливими завдяки різним тлумаченням афоризму Геракліта «Природа любить приховуватися», що творять відмінні формули розуміння реальності: «Те, що народжується, схильне зникнути»; «Природа вбирається у чуттєві форми та міфи»; «Природа приховує у собі таємні властивості»; «Буття розкриває себе у приховуванні» тощо. П’єр Адо реконструює таким чином контраверсійну історію ідеї Природи у західній думці, що вже упродовж більш ніж двадцяти п’яти століть розривається між тим, що він називає прометеєвою настановою («людина має опанувати природу і стати її господарем»), та орфічною настановою - «ніхто, окрім поета та митця, не може зазирнути за покривало таємниць Природи».Книга є рідкісним для нашого часу прикладом синтезу філософського, наукового та мистецького підходів і, у цій якості, буде цікавою широкому інтелектуальному загалу.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/17e21f1172a9c24d6fd286cc91199de6.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Ado_Pier/Pokryvalo_Izidy_Narys_istorii_idei_Pryrody/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Ado_Pier/Pokryvalo_Izidy_Narys_istorii_idei_Pryrody.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Ado_Pier/Pokryvalo_Izidy_Narys_istorii_idei_Pryrody.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

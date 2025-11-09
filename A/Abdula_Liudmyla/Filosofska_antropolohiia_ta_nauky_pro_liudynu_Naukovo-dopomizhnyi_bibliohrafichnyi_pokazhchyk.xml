@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Людмила Абдула » Філософська антропологія та науки про людину: Науково-допоміжний бібліографічний покажчик</title>
+  <id>/A/Abdula_Liudmyla/Filosofska_antropolohiia_ta_nauky_pro_liudynu_Naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk.xml</id>
+  <updated>2025-11-09T15:05:52Z</updated>
+  <link href="/A/Abdula_Liudmyla/Filosofska_antropolohiia_ta_nauky_pro_liudynu_Naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Людмила Абдула » Філософська антропологія та науки про людину: Науково-допоміжний бібліографічний покажчик</title>
+    <id>https://chtyvo.org.ua/authors/Abdula_Liudmyla/Filosofska_antropolohiia_ta_nauky_pro_liudynu_Naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk/</id>
+    <summary>Бібліографічний покажчик створено з метою поглиблення знань студентів про філософську антропологію та науки про людину.Бібліографічне видання адресовано науковцям, викладачам ВНЗ, здобувачам вищої освіти, бібліотекарям та бібліографам, а також усім, хто цікавиться проблемами філософії.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/24973e7535e0289772207db8ad11116d.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abdula_Liudmyla/Filosofska_antropolohiia_ta_nauky_pro_liudynu_Naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abdula_Liudmyla/Filosofska_antropolohiia_ta_nauky_pro_liudynu_Naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbdula_Liudmyla%2FFilosofska_antropolohiia_ta_nauky_pro_liudynu_Naukovo-dopomizhnyi_bibliohrafichnyi_pokazhchyk.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

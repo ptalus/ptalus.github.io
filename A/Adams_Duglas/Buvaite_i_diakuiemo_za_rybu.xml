@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Дуґлас Адамс » Бувайте, і дякуємо за рибу</title>
+  <id>/A/Adams_Duglas/Buvaite_i_diakuiemo_za_rybu.xml</id>
+  <updated>2025-11-09T15:09:44Z</updated>
+  <link href="/A/Adams_Duglas/Buvaite_i_diakuiemo_za_rybu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Дуґлас Адамс » Бувайте, і дякуємо за рибу</title>
+    <id>https://chtyvo.org.ua/authors/Adams_Duglas/Buvaite_i_diakuiemo_za_rybu/</id>
+    <summary>Четверта книга серії «Путівник по галактиці для космотуристів».З англійської переклав Василь Васьківський.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/407bb94242e73019397d4d2eaa803eb5.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Duglas/Buvaite_i_diakuiemo_za_rybu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Duglas/Buvaite_i_diakuiemo_za_rybu.doc" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdams_Duglas%2FBuvaite_i_diakuiemo_za_rybu.doc" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Duglas/Buvaite_i_diakuiemo_za_rybu.doc.zip" rel="http://opds-spec.org/acquisition" type="application/zip"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Duglas/Buvaite_i_diakuiemo_za_rybu.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Duglas/Buvaite_i_diakuiemo_za_rybu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdams_Duglas%2FBuvaite_i_diakuiemo_za_rybu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

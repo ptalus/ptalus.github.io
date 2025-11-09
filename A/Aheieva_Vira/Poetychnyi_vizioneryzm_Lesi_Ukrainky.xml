@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віра Агеєва » Поетичний візіонеризм Лесі Українки</title>
+  <id>/A/Aheieva_Vira/Poetychnyi_vizioneryzm_Lesi_Ukrainky.xml</id>
+  <updated>2025-11-09T15:08:45Z</updated>
+  <link href="/A/Aheieva_Vira/Poetychnyi_vizioneryzm_Lesi_Ukrainky.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віра Агеєва » Поетичний візіонеризм Лесі Українки</title>
+    <id>https://chtyvo.org.ua/authors/Aheieva_Vira/Poetychnyi_vizioneryzm_Lesi_Ukrainky/</id>
+    <summary>Джерело:Наукові записки. Том 72, Філологічні науки / Національний університет &quot;Києво-Могилянська академія&quot;. - 2007.</summary>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Poetychnyi_vizioneryzm_Lesi_Ukrainky/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Poetychnyi_vizioneryzm_Lesi_Ukrainky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAheieva_Vira%2FPoetychnyi_vizioneryzm_Lesi_Ukrainky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

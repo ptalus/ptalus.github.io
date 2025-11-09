@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авер'янова Людмила</title>
+  <id>/A/Averianova_Liudmyla/index.xml</id>
+  <updated>2025-11-09T15:07:22Z</updated>
+  <link href="/A/Averianova_Liudmyla/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Авторські роботи Заслуженої художниці України Світлани Голембовської (1927–2016) з колекції Національного музею історії України</title>
+    <id>/A/Averianova_Liudmyla/Avtorski_roboty_Zasluzhenoi_khudozhnytsi_Ukrainy_Svitlany_Holembovskoi_1927_2016.xml</id>
+    <link href="/A/Averianova_Liudmyla/Avtorski_roboty_Zasluzhenoi_khudozhnytsi_Ukrainy_Svitlany_Holembovskoi_1927_2016.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Художнє скло Заслуженого художника України С. Сміян (1940 р.н.) з колекції НМІУ</title>
+    <id>/A/Averianova_Liudmyla/Khudozhnie_sklo_Zasluzhenoho_khudozhnyka_Ukrainy_S_Smiian_1940_r_n_z_kolektsii_NMIU.xml</id>
+    <link href="/A/Averianova_Liudmyla/Khudozhnie_sklo_Zasluzhenoho_khudozhnyka_Ukrainy_S_Smiian_1940_r_n_z_kolektsii_NMIU.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

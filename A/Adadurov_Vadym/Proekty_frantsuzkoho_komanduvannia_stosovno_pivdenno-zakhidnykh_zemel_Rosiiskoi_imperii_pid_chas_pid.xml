@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Вадим Ададуров » Проекти французького командування стосовно південно-західних земель Російської імперії під час підготовчого та наступального етапів воєнної кампанії 1812 року</title>
+  <id>/A/Adadurov_Vadym/Proekty_frantsuzkoho_komanduvannia_stosovno_pivdenno-zakhidnykh_zemel_Rosiiskoi_imperii_pid_chas_pid.xml</id>
+  <updated>2025-11-09T15:09:09Z</updated>
+  <link href="/A/Adadurov_Vadym/Proekty_frantsuzkoho_komanduvannia_stosovno_pivdenno-zakhidnykh_zemel_Rosiiskoi_imperii_pid_chas_pid.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Вадим Ададуров » Проекти французького командування стосовно південно-західних земель Російської імперії під час підготовчого та наступального етапів воєнної кампанії 1812 року</title>
+    <id>https://chtyvo.org.ua/authors/Adadurov_Vadym/Proekty_frantsuzkoho_komanduvannia_stosovno_pivdenno-zakhidnykh_zemel_Rosiiskoi_imperii_pid_chas_pid/</id>
+    <summary>Опубліковано в:Вісник Львівського університету. Серія &quot;Історія&quot;. - 2010. - Вип. 45. - С. 127-167.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adadurov_Vadym/Proekty_frantsuzkoho_komanduvannia_stosovno_pivdenno-zakhidnykh_zemel_Rosiiskoi_imperii_pid_chas_pid/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adadurov_Vadym/Proekty_frantsuzkoho_komanduvannia_stosovno_pivdenno-zakhidnykh_zemel_Rosiiskoi_imperii_pid_chas_pid.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdadurov_Vadym%2FProekty_frantsuzkoho_komanduvannia_stosovno_pivdenno-zakhidnykh_zemel_Rosiiskoi_imperii_pid_chas_pid.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

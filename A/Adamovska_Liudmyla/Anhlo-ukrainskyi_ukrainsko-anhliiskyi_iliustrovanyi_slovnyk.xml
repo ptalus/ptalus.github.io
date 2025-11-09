@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Людмила Адамовська » Англо-український, українсько-англійський ілюстрований словник</title>
+  <id>/A/Adamovska_Liudmyla/Anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk.xml</id>
+  <updated>2025-11-09T15:09:39Z</updated>
+  <link href="/A/Adamovska_Liudmyla/Anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Людмила Адамовська » Англо-український, українсько-англійський ілюстрований словник</title>
+    <id>https://chtyvo.org.ua/authors/Adamovska_Liudmyla/Anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk/</id>
+    <summary>Зайковскі С.А., Адамовська Л.М.Англо-український, українсько-англійський ілюстрований словник. — Тернопіль : Богдан, 2020. — 1248 с.ISBN 978-966-10-0412-1</summary>
+    <link href="https://chtyvo.org.ua/content/covers/e3b8ee1e375e0992d8d0dc023cc60df6.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovska_Liudmyla/Anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adamovska_Liudmyla/Anhlo-ukrainskyi_ukrainsko-anhliiskyi_iliustrovanyi_slovnyk.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

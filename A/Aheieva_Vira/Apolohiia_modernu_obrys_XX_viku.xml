@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віра Агеєва » Апологія модерну: обрис XX віку</title>
+  <id>/A/Aheieva_Vira/Apolohiia_modernu_obrys_XX_viku.xml</id>
+  <updated>2025-11-09T15:08:39Z</updated>
+  <link href="/A/Aheieva_Vira/Apolohiia_modernu_obrys_XX_viku.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віра Агеєва » Апологія модерну: обрис XX віку</title>
+    <id>https://chtyvo.org.ua/authors/Aheieva_Vira/Apolohiia_modernu_obrys_XX_viku/</id>
+    <summary>Наскрізний сюжет цієї книжки — тривалий і складний, крізь усе XX століття, процес модернізації українського письменства. Авторку цікавлять і найрепрезентативніші постаті цього процесу, і гострі конфлікти батьків та дітей, усі ті естетичні революції, навіть скандали, без яких мистецтво попросту не може розвиватися. Творчість Лесі Українки, Максима Рильського, Миколи Хвильового, Віктора Домонтовича, Оксани Забужко, Тараса Прохаська розглядається переважно із застосуванням психоаналітичних та ґендерних підходів.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/c7a4e4b9bfba8ae5ae2a3c9cea3fbe2c.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Apolohiia_modernu_obrys_XX_viku/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Apolohiia_modernu_obrys_XX_viku.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Aheieva_Vira/Apolohiia_modernu_obrys_XX_viku.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAheieva_Vira%2FApolohiia_modernu_obrys_XX_viku.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Андрій Абрамчук » Охорона білого лелеки в Польщі, Україні та Білорусі</title>
+  <id>/A/Abramchuk_Andrii/Okhorona_biloho_leleky_v_Polschi_Ukraini_ta_Bilorusi.xml</id>
+  <updated>2025-11-09T15:06:42Z</updated>
+  <link href="/A/Abramchuk_Andrii/Okhorona_biloho_leleky_v_Polschi_Ukraini_ta_Bilorusi.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Андрій Абрамчук » Охорона білого лелеки в Польщі, Україні та Білорусі</title>
+    <id>https://chtyvo.org.ua/authors/Abramchuk_Andrii/Okhorona_biloho_leleky_v_Polschi_Ukraini_ta_Bilorusi/</id>
+    <summary>Білий лелека є одним із найулюбленіших птахів в Україні. Всенародна любов до цього птаха втілилася у численні повір’я, легенди, перекази, що є невід'ємною частиною фольклору нашого народу. Разом з цим, існування білого лелеки в нашій країні не таке райдужне і переповнене численними труднощами та небезпеками. Про це, а також про шляхи та методи охорони цього легендарного птаха в Україні, Польщі та Білорусі йтиметься у цій невеличкій, але дуже корисній брошурі.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/a852afe33aea3af45d84d48b3fb783aa.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abramchuk_Andrii/Okhorona_biloho_leleky_v_Polschi_Ukraini_ta_Bilorusi/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramchuk_Andrii/Okhorona_biloho_leleky_v_Polschi_Ukraini_ta_Bilorusi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FBokotei_Andrii%2FOkhorona_biloho_leleky_v_Polschi_Ukraini_ta_Bilorusi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

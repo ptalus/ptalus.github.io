@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Айзек Азімов » Академія [Фундація]</title>
+  <id>/A/Azimov/Akademiia_Fundatsiia.xml</id>
+  <updated>2025-11-09T15:10:59Z</updated>
+  <link href="/A/Azimov/Akademiia_Fundatsiia.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Айзек Азімов » Академія [Фундація]</title>
+    <id>https://chtyvo.org.ua/authors/Azimov/Akademiia_Fundatsiia/</id>
+    <summary>Фундація — вигаданий всесвіт, що об'єднує цикл із семи романів Айзека Азімова, класика наукової фантастики що розповідає про розпад могутньої Галактичної імперії та її прискорене відродження з допомогою «плану Селдона».</summary>
+    <link href="https://chtyvo.org.ua/content/covers/36ac3285d3d72d02041fe36aec093292.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Azimov/Akademiia_Fundatsiia/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azimov/Akademiia_Fundatsiia.doc" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzimov%2FAkademiia_Fundatsiia.doc" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Azimov/Akademiia_Fundatsiia.doc.zip" rel="http://opds-spec.org/acquisition" type="application/zip"/>
+    <link href="https://chtyvo.org.ua/authors/Azimov/Akademiia_Fundatsiia.epub" rel="http://opds-spec.org/acquisition" type="application/epub+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Azimov/Akademiia_Fundatsiia.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Azimov/Akademiia_Fundatsiia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzimov%2FAkademiia_Fundatsiia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

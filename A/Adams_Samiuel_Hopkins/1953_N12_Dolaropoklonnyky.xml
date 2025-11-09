@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Самюель Гопкінс Адамс » 1953, №12. Доларопоклонники</title>
+  <id>/A/Adams_Samiuel_Hopkins/1953_N12_Dolaropoklonnyky.xml</id>
+  <updated>2025-11-09T15:09:51Z</updated>
+  <link href="/A/Adams_Samiuel_Hopkins/1953_N12_Dolaropoklonnyky.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Самюель Гопкінс Адамс » 1953, №12. Доларопоклонники</title>
+    <id>https://chtyvo.org.ua/authors/Adams_Samiuel_Hopkins/1953_N12_Dolaropoklonnyky/</id>
+    <link href="https://chtyvo.org.ua/content/covers/f968302612f09784d49ff4eb67be4a74.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Samiuel_Hopkins/1953_N12_Dolaropoklonnyky/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Samiuel_Hopkins/1953_N12_Dolaropoklonnyky.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Adams_Samiuel_Hopkins/1953_N12_Dolaropoklonnyky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FBiblioteka_Pertsia%2F1953_N12_Dolaropoklonnyky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

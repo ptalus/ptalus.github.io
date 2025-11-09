@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Віктор Авдєєнко » Проект «Україна». Київський патерик. 17 непростих питань української історії</title>
+  <id>/A/Avdieienko_Viktor/Proekt_Ukraina_Kyivskyi_pateryk_17_neprostykh_pytan_ukrainskoi_istorii.xml</id>
+  <updated>2025-11-09T15:07:14Z</updated>
+  <link href="/A/Avdieienko_Viktor/Proekt_Ukraina_Kyivskyi_pateryk_17_neprostykh_pytan_ukrainskoi_istorii.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Віктор Авдєєнко » Проект «Україна». Київський патерик. 17 непростих питань української історії</title>
+    <id>https://chtyvo.org.ua/authors/Avdieienko_Viktor/Proekt_Ukraina_Kyivskyi_pateryk_17_neprostykh_pytan_ukrainskoi_istorii/</id>
+    <summary>Авдєєнко В. А.Київський патерик. 17 непростих питань української історії / Віктор Авдєєнко; пер. з рос. О. А. Концевич; худож.-оформлювач І. М. Алексеева. — Харків: Орбіта, 2016. —219 с.ISBN 978-617-7466-09-2.Ким насправді були літописні поляни? Хто автор «Слова о полку Ігоревім»? Куди поділися хозари і звідки взялися козаки? Чи можна було уникнути татаро-монгольського ярма? Чи мала шанси Україна стати державою за Богдана Хмельницького і Михайла Грушевського? Про все це — і не тільки — докладно і захоплююче розповідає історик, журналіст, письменник Віктор Авдєєнко, висуваючи часом зовсім несподівані версії історичних фактів.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/a2be11f855b1aad8e8903055ca63fd84.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avdieienko_Viktor/Proekt_Ukraina_Kyivskyi_pateryk_17_neprostykh_pytan_ukrainskoi_istorii/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avdieienko_Viktor/Proekt_Ukraina_Kyivskyi_pateryk_17_neprostykh_pytan_ukrainskoi_istorii.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Avdieienko_Viktor/Proekt_Ukraina_Kyivskyi_pateryk_17_neprostykh_pytan_ukrainskoi_istorii.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

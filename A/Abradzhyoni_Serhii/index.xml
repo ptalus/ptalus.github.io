@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абраджионі Сергій</title>
+  <id>/A/Abradzhyoni_Serhii/index.xml</id>
+  <updated>2025-11-09T15:06:18Z</updated>
+  <link href="/A/Abradzhyoni_Serhii/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>English: Найкращі 1000 тем</title>
+    <id>/A/Abradzhyoni_Serhii/English_Naikraschi_1000_tem.xml</id>
+    <link href="/A/Abradzhyoni_Serhii/English_Naikraschi_1000_tem.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

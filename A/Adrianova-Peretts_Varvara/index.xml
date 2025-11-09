@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адріанова-Перетц Варвара</title>
+  <id>/A/Adrianova-Peretts_Varvara/index.xml</id>
+  <updated>2025-11-09T15:10:25Z</updated>
+  <link href="/A/Adrianova-Peretts_Varvara/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Научныя изданія высшихъ женскихъ курсовъ (рос.)</title>
+    <id>/A/Adrianova-Peretts_Varvara/Nauchnia_yzdaniia_vsshykh_zhenskykh_kursov_ros.xml</id>
+    <link href="/A/Adrianova-Peretts_Varvara/Nauchnia_yzdaniia_vsshykh_zhenskykh_kursov_ros.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Рец. на: Путешествіе Іеромонаха Ипполита Вишенскаго въ Іерусалимъ, на Синай и Аѳонъ (1707—1709 гг.)</title>
+    <id>/A/Adrianova-Peretts_Varvara/Rets_na_Puteshestvie_Ieromonakha_Yppolyta_Vyshenskaho_v_Ierusalym_na_Synai_y_Aon_17071709_hh.xml</id>
+    <link href="/A/Adrianova-Peretts_Varvara/Rets_na_Puteshestvie_Ieromonakha_Yppolyta_Vyshenskaho_v_Ierusalym_na_Synai_y_Aon_17071709_hh.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

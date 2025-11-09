@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Никифор Авраменко » Спомини запорожця</title>
+  <id>/A/Avramenko_Nykyfor/Spomyny_zaporozhtsia.xml</id>
+  <updated>2025-11-09T15:07:49Z</updated>
+  <link href="/A/Avramenko_Nykyfor/Spomyny_zaporozhtsia.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Никифор Авраменко » Спомини запорожця</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Nykyfor/Spomyny_zaporozhtsia/</id>
+    <summary>Спомини Никифора Авраменка, написані в рідкісному для української літератури жанрі «документального свідоцтва», вражають своєю відвертістю та безпосередністю. Події в Україні першої половини XX століття постають крізь особистісне сприйняття простої людини, чия молодість припала на буремні роки Визвольної війни. Дитинство в Запоріжжі початку минулого століття, фронти Першої світової, становлення української армії, бої українських військ у 1917-1919 рр., Зимовий похід, еміграція у Польщі — про все це читач дізнається з щирої сповіді учасника тих далеких подій. Упорядковані та підготовлені автором до друку ще на початку 1970-х, спомини стали своєрідним посланням нащадкам у XXI столітті.Публікується вперше за матеріалами з сімейного архіву сім'ї Авраменків у Познані.Текст подається в оригінальному написанні. Для більш зручного прочитання частково адаптовано до сучасної орфографію та пунктуацію.Авраменко Н.  Спомини запорожя: Документальне видання. — К.: Темпора, 2007. — 456 с.: — іл.ISBN 966-8201-27-2</summary>
+    <link href="https://chtyvo.org.ua/content/covers/c1b3e7a1685da1b1af8d7f6d2641a157.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Nykyfor/Spomyny_zaporozhtsia/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Nykyfor/Spomyny_zaporozhtsia.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Nykyfor/Spomyny_zaporozhtsia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Nykyfor%2FSpomyny_zaporozhtsia.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

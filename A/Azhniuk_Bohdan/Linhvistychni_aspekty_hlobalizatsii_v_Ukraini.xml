@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Богдан Ажнюк » Лінгвістичні аспекти глобалізації в Україні</title>
+  <id>/A/Azhniuk_Bohdan/Linhvistychni_aspekty_hlobalizatsii_v_Ukraini.xml</id>
+  <updated>2025-11-09T15:10:36Z</updated>
+  <link href="/A/Azhniuk_Bohdan/Linhvistychni_aspekty_hlobalizatsii_v_Ukraini.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Богдан Ажнюк » Лінгвістичні аспекти глобалізації в Україні</title>
+    <id>https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Linhvistychni_aspekty_hlobalizatsii_v_Ukraini/</id>
+    <summary>Мовні конфлікти і гармонізація суспільства. – К., 2002.</summary>
+    <link href="https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Linhvistychni_aspekty_hlobalizatsii_v_Ukraini/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Linhvistychni_aspekty_hlobalizatsii_v_Ukraini.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzhniuk_Bohdan%2FLinhvistychni_aspekty_hlobalizatsii_v_Ukraini.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

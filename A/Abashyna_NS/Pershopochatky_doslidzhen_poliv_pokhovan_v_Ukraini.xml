@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Наталія Абашина » Першопочатки досліджень полів поховань в Україні</title>
+  <id>/A/Abashyna_NS/Pershopochatky_doslidzhen_poliv_pokhovan_v_Ukraini.xml</id>
+  <updated>2025-11-09T15:05:46Z</updated>
+  <link href="/A/Abashyna_NS/Pershopochatky_doslidzhen_poliv_pokhovan_v_Ukraini.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Наталія Абашина » Першопочатки досліджень полів поховань в Україні</title>
+    <id>https://chtyvo.org.ua/authors/Abashyna_NS/Pershopochatky_doslidzhen_poliv_pokhovan_v_Ukraini/</id>
+    <summary>Археологія, 1999, № 4</summary>
+    <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Pershopochatky_doslidzhen_poliv_pokhovan_v_Ukraini/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Pershopochatky_doslidzhen_poliv_pokhovan_v_Ukraini.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbashyna_NS%2FPershopochatky_doslidzhen_poliv_pokhovan_v_Ukraini.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

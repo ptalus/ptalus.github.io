@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адамс Сара</title>
+  <id>/A/Adams_Sarah/index.xml</id>
+  <updated>2025-11-09T15:09:52Z</updated>
+  <link href="/A/Adams_Sarah/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Одного разу у Римі</title>
+    <id>/A/Adams_Sarah/Odnoho_razu_u_Rymi.xml</id>
+    <link href="/A/Adams_Sarah/Odnoho_razu_u_Rymi.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

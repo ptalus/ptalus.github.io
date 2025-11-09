@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олександр Іванович Авраменко » Гінці з неволі • Відгомін Чорного лісу</title>
+  <id>/A/Avramenko_Oleksandr_Ivanovych/Hintsi_z_nevoli_Vidhomin_Chornoho_lisu.xml</id>
+  <updated>2025-11-09T15:08:05Z</updated>
+  <link href="/A/Avramenko_Oleksandr_Ivanovych/Hintsi_z_nevoli_Vidhomin_Chornoho_lisu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олександр Іванович Авраменко » Гінці з неволі • Відгомін Чорного лісу</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleksandr_Ivanovych/Hintsi_z_nevoli_Vidhomin_Chornoho_lisu/</id>
+    <summary>У Миколаївському Палаці піонерів зберігаються два ордени Вітчизняної війни першого ступеня, ними нагороджено юних розвідників Шуру Кобера та Вітю Хоменка. Морями й океанами плаває корабель &quot;Шура Кобер&quot;. Іменами юних героїв названо школи, в яких вони вчилися, бібліотека, сотні піонерських дружин і загонів. Якими вони були, ці двоє хлопців, як жили, про що мріяли, як здійснили подвиг, виконуючи дуже важливе завдання Миколаївського підпільного центру – про все це й розповідається в повісті Олександра Авраменка &quot;Гінці з неволі&quot;.У повісті Леоніда Тендюка &quot;Відгомін Чорного лісу&quot; розповідається про підпільників кіровоградської молодіжної групи.Увага!!! Ця книга містить елементи комуністичної пропаганди!</summary>
+    <link href="https://chtyvo.org.ua/content/covers/4e23fe17c34cce72743cf8cbe5a7019a.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr_Ivanovych/Hintsi_z_nevoli_Vidhomin_Chornoho_lisu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleksandr_Ivanovych/Hintsi_z_nevoli_Vidhomin_Chornoho_lisu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleksandr_Ivanovych%2FHintsi_z_nevoli_Vidhomin_Chornoho_lisu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

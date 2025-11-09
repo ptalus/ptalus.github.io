@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авраменко Анатолій</title>
+  <id>/A/Avramenko_AM/index.xml</id>
+  <updated>2025-11-09T15:07:52Z</updated>
+  <link href="/A/Avramenko_AM/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Дискуссионные вопросы истории казачества в свете исторической географии (рос.)</title>
+    <id>/A/Avramenko_AM/Dyskussyonnye_voprosy_ystoryy_kazachestva_v_svete_ystorycheskoi_heohrafyy_ros.xml</id>
+    <link href="/A/Avramenko_AM/Dyskussyonnye_voprosy_ystoryy_kazachestva_v_svete_ystorycheskoi_heohrafyy_ros.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Досвід створення історичної карти Катеринославського козацького війська</title>
+    <id>/A/Avramenko_AM/Dosvid_stvorennia_istorychnoi_karty_Katerynoslavskoho_kozatskoho_viiska.xml</id>
+    <link href="/A/Avramenko_AM/Dosvid_stvorennia_istorychnoi_karty_Katerynoslavskoho_kozatskoho_viiska.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Запорозькі козаки в османських і австрійських володіннях в 1775–1814 рр.: проблеми історичної географії та історичної картографії</title>
+    <id>/A/Avramenko_AM/Zaporozki_kozaky_v_osmanskykh_i_avstriiskykh_volodinniakh_v_1775_1814_rr.xml</id>
+    <link href="/A/Avramenko_AM/Zaporozki_kozaky_v_osmanskykh_i_avstriiskykh_volodinniakh_v_1775_1814_rr.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Історико-географічні аспекти дослідження чорноморської і кубанської козацької минувшини (питання картографічної реконструкції)</title>
+    <id>/A/Avramenko_AM/Istoryko-heohrafichni_aspekty_doslidzhennia_chornomorskoi_i_kubanskoi_kozatskoi_mynuvshyny.xml</id>
+    <link href="/A/Avramenko_AM/Istoryko-heohrafichni_aspekty_doslidzhennia_chornomorskoi_i_kubanskoi_kozatskoi_mynuvshyny.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Історія Кубані в сучасних українських атласах</title>
+    <id>/A/Avramenko_AM/Istoriia_Kubani_v_suchasnykh_ukrainskykh_atlasakh.xml</id>
+    <link href="/A/Avramenko_AM/Istoriia_Kubani_v_suchasnykh_ukrainskykh_atlasakh.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Історія українського козацтва. Нариси у двох томах. Том 2</title>
+    <id>/A/Avramenko_AM/Istoriia_ukrainskoho_kozatstva_Narysy_u_dvokh_tomakh_Tom_2.xml</id>
+    <link href="/A/Avramenko_AM/Istoriia_ukrainskoho_kozatstva_Narysy_u_dvokh_tomakh_Tom_2.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Монография по истории азовского казацтва (рос.)</title>
+    <id>/A/Avramenko_AM/Monohrafyia_po_ystoryy_azovskoho_kazatstva_ros.xml</id>
+    <link href="/A/Avramenko_AM/Monohrafyia_po_ystoryy_azovskoho_kazatstva_ros.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Проблеми й методи історичної географії в новій монографії польського історика Яна-Вацлава Тишкевича</title>
+    <id>/A/Avramenko_AM/Problemy_i_metody_istorychnoi_heohrafii_v_novii_monohrafii_polskoho_istoryka.xml</id>
+    <link href="/A/Avramenko_AM/Problemy_i_metody_istorychnoi_heohrafii_v_novii_monohrafii_polskoho_istoryka.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Україністика на Кубані: витоки і сучасні тенденції розвитку</title>
+    <id>/A/Avramenko_AM/Ukrainistyka_na_Kubani_vytoky_i_suchasni_tendentsii_rozvytku.xml</id>
+    <link href="/A/Avramenko_AM/Ukrainistyka_na_Kubani_vytoky_i_suchasni_tendentsii_rozvytku.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

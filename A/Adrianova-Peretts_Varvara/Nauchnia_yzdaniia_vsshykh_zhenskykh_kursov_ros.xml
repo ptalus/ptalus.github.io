@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Варвара Адріанова-Перетц » Научныя изданія высшихъ женскихъ курсовъ (рос.)</title>
+  <id>/A/Adrianova-Peretts_Varvara/Nauchnia_yzdaniia_vsshykh_zhenskykh_kursov_ros.xml</id>
+  <updated>2025-11-09T15:10:26Z</updated>
+  <link href="/A/Adrianova-Peretts_Varvara/Nauchnia_yzdaniia_vsshykh_zhenskykh_kursov_ros.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Варвара Адріанова-Перетц » Научныя изданія высшихъ женскихъ курсовъ (рос.)</title>
+    <id>https://chtyvo.org.ua/authors/Adrianova-Peretts_Varvara/Nauchnia_yzdaniia_vsshykh_zhenskykh_kursov_ros/</id>
+    <summary>ЖУРНАЛЪМинистерстваНАРОДНАГО Просвещенія.НОВАЯ СЕРІЯ, часть их.1915.</summary>
+    <link href="https://chtyvo.org.ua/authors/Adrianova-Peretts_Varvara/Nauchnia_yzdaniia_vsshykh_zhenskykh_kursov_ros/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adrianova-Peretts_Varvara/Nauchnia_yzdaniia_vsshykh_zhenskykh_kursov_ros.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

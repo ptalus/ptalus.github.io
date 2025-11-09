@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адамс Артур</title>
+  <id>/A/Adams_Artur/index.xml</id>
+  <updated>2025-11-09T15:09:45Z</updated>
+  <link href="/A/Adams_Artur/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Bolshevik Administration in the Ukraine: 1918 (англ.)</title>
+    <id>/A/Adams_Artur/Bolshevik_Administration_in_the_Ukraine_1918_anhl.xml</id>
+    <link href="/A/Adams_Artur/Bolshevik_Administration_in_the_Ukraine_1918_anhl.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Bolsheviks in the Ukraine: the Second Campaign, 1918-1919 (англ.)</title>
+    <id>/A/Adams_Artur/Bolsheviks_in_the_Ukraine_the_Second_Campaign_1918-1919_anhl.xml</id>
+    <link href="/A/Adams_Artur/Bolsheviks_in_the_Ukraine_the_Second_Campaign_1918-1919_anhl.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>The Awakening of the Ukraine (англ.)</title>
+    <id>/A/Adams_Artur/The_Awakening_of_the_Ukraine_anhl.xml</id>
+    <link href="/A/Adams_Artur/The_Awakening_of_the_Ukraine_anhl.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>The Bolsheviks and the Ukrainian Front in 1918-1919 (англ.)</title>
+    <id>/A/Adams_Artur/The_Bolsheviks_and_the_Ukrainian_Front_in_1918-1919_anhl.xml</id>
+    <link href="/A/Adams_Artur/The_Bolsheviks_and_the_Ukrainian_Front_in_1918-1919_anhl.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>The Great Ukrainian Jacquerie (англ.)</title>
+    <id>/A/Adams_Artur/The_Great_Ukrainian_Jacquerie_anhl.xml</id>
+    <link href="/A/Adams_Artur/The_Great_Ukrainian_Jacquerie_anhl.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авраменко Никифор</title>
+  <id>/A/Avramenko_Nykyfor/index.xml</id>
+  <updated>2025-11-09T15:07:48Z</updated>
+  <link href="/A/Avramenko_Nykyfor/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Спомини запорожця</title>
+    <id>/A/Avramenko_Nykyfor/Spomyny_zaporozhtsia.xml</id>
+    <link href="/A/Avramenko_Nykyfor/Spomyny_zaporozhtsia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

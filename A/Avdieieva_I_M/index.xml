@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авдєєва І. М.</title>
+  <id>/A/Avdieieva_I_M/index.xml</id>
+  <updated>2025-11-09T15:07:10Z</updated>
+  <link href="/A/Avdieieva_I_M/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Інноваційні комунікативні технології в роботі куратора академгрупи</title>
+    <id>/A/Avdieieva_I_M/Innovatsiini_komunikatyvni_tekhnolohii_v_roboti_kuratora_akademhrupy.xml</id>
+    <link href="/A/Avdieieva_I_M/Innovatsiini_komunikatyvni_tekhnolohii_v_roboti_kuratora_akademhrupy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

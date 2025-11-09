@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Агафонова Надія</title>
+  <id>/A/Ahafonova_N/index.xml</id>
+  <updated>2025-11-09T15:08:31Z</updated>
+  <link href="/A/Ahafonova_N/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Етнікон «половці» у контексті реанімованої парадигми «половці — автохтони»: спроба полідисциплінарного аналізу</title>
+    <id>/A/Ahafonova_N/Etnikon_polovtsi_u_konteksti_reanimovanoi_paradyhmy_polovtsi__avtokhtony_sproba_polidystsyplinarnoho.xml</id>
+    <link href="/A/Ahafonova_N/Etnikon_polovtsi_u_konteksti_reanimovanoi_paradyhmy_polovtsi__avtokhtony_sproba_polidystsyplinarnoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Знак рівності між етимологією етнікону «половці» і подієвим рядом в історії праукраїнських земель ХІ-ХІІ ст.</title>
+    <id>/A/Ahafonova_N/Znak_rivnosti_mizh_etymolohiieiu_etnikonu_polovtsi_i_podiievym_riadom_v_istorii_praukrainskykh_zemel.xml</id>
+    <link href="/A/Ahafonova_N/Znak_rivnosti_mizh_etymolohiieiu_etnikonu_polovtsi_i_podiievym_riadom_v_istorii_praukrainskykh_zemel.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Половецьке походження Мамаєвичів - Глинських : чому українці писали «мамайки»</title>
+    <id>/A/Ahafonova_N/Polovetske_pokhodzhennia_Mamaievychiv_-_Hlynskykh__chomu_ukraintsi_pysaly_mamaiky.xml</id>
+    <link href="/A/Ahafonova_N/Polovetske_pokhodzhennia_Mamaievychiv_-_Hlynskykh__chomu_ukraintsi_pysaly_mamaiky.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Прочитання топонімів «Сіверщина» та «Чернігів» в контексті парадигми «пічонаги і половці-автохтони»</title>
+    <id>/A/Ahafonova_N/Prochytannia_toponimiv_Siverschyna_ta_Chernihiv_v_konteksti_paradyhmy_pichonahy_i_polovtsi-avtokhton.xml</id>
+    <link href="/A/Ahafonova_N/Prochytannia_toponimiv_Siverschyna_ta_Chernihiv_v_konteksti_paradyhmy_pichonahy_i_polovtsi-avtokhton.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Якщо половці кумани: аналіз першої літописної згадки про куманів у світлі парадигми «половці-автохтони»</title>
+    <id>/A/Ahafonova_N/Yakscho_polovtsi_kumany_analiz_pershoi_litopysnoi_zhadky_pro_kumaniv_u_svitli_paradyhmy_polovtsi-avt.xml</id>
+    <link href="/A/Ahafonova_N/Yakscho_polovtsi_kumany_analiz_pershoi_litopysnoi_zhadky_pro_kumaniv_u_svitli_paradyhmy_polovtsi-avt.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

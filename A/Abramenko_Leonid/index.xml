@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абраменко Леонід</title>
+  <id>/A/Abramenko_Leonid/index.xml</id>
+  <updated>2025-11-09T15:06:21Z</updated>
+  <link href="/A/Abramenko_Leonid/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Київ: жертви репресій. Том 1</title>
+    <id>/A/Abramenko_Leonid/Kyiv_zhertvy_represii_Tom_1.xml</id>
+    <link href="/A/Abramenko_Leonid/Kyiv_zhertvy_represii_Tom_1.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Київ: жертви репресій. Том 2</title>
+    <id>/A/Abramenko_Leonid/Kyiv_zhertvy_represii_Tom_2.xml</id>
+    <link href="/A/Abramenko_Leonid/Kyiv_zhertvy_represii_Tom_2.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

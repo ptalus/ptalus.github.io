@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айраксинен Тимо</title>
+  <id>/A/Airaksinen_Timo/index.xml</id>
+  <updated>2025-11-09T15:11:15Z</updated>
+  <link href="/A/Airaksinen_Timo/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Щастя: Відверте і чітке бачення щастя і того, чому у нас його немає</title>
+    <id>/A/Airaksinen_Timo/Schastia_Vidverte_i_chitke_bachennia_schastia_i_toho_chomu_u_nas_ioho_nemaie.xml</id>
+    <link href="/A/Airaksinen_Timo/Schastia_Vidverte_i_chitke_bachennia_schastia_i_toho_chomu_u_nas_ioho_nemaie.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

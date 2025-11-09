@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Аврахов В. О.</title>
+  <id>/A/Avrakhov_V_O/index.xml</id>
+  <updated>2025-11-09T15:08:07Z</updated>
+  <link href="/A/Avrakhov_V_O/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>До питання про видавничо-наукову діяльність В. Доманицького</title>
+    <id>/A/Avrakhov_V_O/Do_pytannia_pro_vydavnycho-naukovu_diialnist_V_Domanytskoho.xml</id>
+    <link href="/A/Avrakhov_V_O/Do_pytannia_pro_vydavnycho-naukovu_diialnist_V_Domanytskoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

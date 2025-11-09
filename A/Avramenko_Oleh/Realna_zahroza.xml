@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Реальна загроза</title>
+  <id>/A/Avramenko_Oleh/Realna_zahroza.xml</id>
+  <updated>2025-11-09T15:07:42Z</updated>
+  <link href="/A/Avramenko_Oleh/Realna_zahroza.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Реальна загроза</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Realna_zahroza/</id>
+    <summary>Випускник космічного коледжу Александр — син адмірала Бруно Шнайдера, який сімнадцять років тому організував спробу державного перевороту на планеті Октавія й сам загинув під час збройного заколоту. Через батька молодий пілот не може навіть мріяти про військову кар’єру; також для нього не знайшлося місця на цивільних міжзоряних кораблях. Проте, завдяки своїм непересічним здібностям і почасти — щасливому випадку, йому вдається вступити на службу до елітного дослідницького флоту, що займається вивченням Далекого Космосу.Під час першої ж своєї експедиції Александр потрапляє на далеку і досі нікому не відому планету Ютланд. Ця подія круто змінює все його життя, і він опиняється в епіцентрі прийдешньої міжпланетної війни...</summary>
+    <link href="https://chtyvo.org.ua/content/covers/5a508e15fbb6e35c8d0072d5702e10c5.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Realna_zahroza/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Realna_zahroza.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Realna_zahroza.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleh%2FRealna_zahroza.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

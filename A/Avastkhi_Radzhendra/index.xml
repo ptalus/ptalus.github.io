@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авастхі Раджендра</title>
+  <id>/A/Avastkhi_Radzhendra/index.xml</id>
+  <updated>2025-11-09T15:07:00Z</updated>
+  <link href="/A/Avastkhi_Radzhendra/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Пекуча таємниця</title>
+    <id>/A/Avastkhi_Radzhendra/Pekucha_taiemnytsia.xml</id>
+    <link href="/A/Avastkhi_Radzhendra/Pekucha_taiemnytsia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

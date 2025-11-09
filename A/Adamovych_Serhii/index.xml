@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адамович Сергій</title>
+  <id>/A/Adamovych_Serhii/index.xml</id>
+  <updated>2025-11-09T15:09:23Z</updated>
+  <link href="/A/Adamovych_Serhii/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Єврейське питання в політиці російської окупаційної адміністрації в Галичині та на Буковині (1914–1917 рр.)</title>
+    <id>/A/Adamovych_Serhii/Yevreiske_pytannia_v_politytsi_rosiiskoi_okupatsiinoi_administratsii_v_Halychyni_ta_na_Bukovyni.xml</id>
+    <link href="/A/Adamovych_Serhii/Yevreiske_pytannia_v_politytsi_rosiiskoi_okupatsiinoi_administratsii_v_Halychyni_ta_na_Bukovyni.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Ідея соборності в ідеології та діяльності Всеукраїнського об’єднання «Батьківщина» (1999–2014 рр.)</title>
+    <id>/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_Vseukrainskoho_obiednannia_Batkivschyna_1999_2014_rr.xml</id>
+    <link href="/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_Vseukrainskoho_obiednannia_Batkivschyna_1999_2014_rr.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Ідея соборності в ідеології та діяльності Всеукраїнського об’єднання «Свобода»</title>
+    <id>/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_Vseukrainskoho_obiednannia_Svoboda.xml</id>
+    <link href="/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_Vseukrainskoho_obiednannia_Svoboda.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Ідея соборності в ідеології та діяльності Демократичної партії України</title>
+    <id>/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_Demokratychnoi_partii_Ukrainy.xml</id>
+    <link href="/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_Demokratychnoi_partii_Ukrainy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Ідея соборності в ідеології та діяльності політичної партії «Наша Україна»</title>
+    <id>/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_politychnoi_partii_Nasha_Ukraina.xml</id>
+    <link href="/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_politychnoi_partii_Nasha_Ukraina.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Ідея соборності в ідеології та діяльності Української національної асамблеї (УНА-УНСО)</title>
+    <id>/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_Ukrainskoi_natsionalnoi_asamblei_UNA-UNSO.xml</id>
+    <link href="/A/Adamovych_Serhii/Ideia_sobornosti_v_ideolohii_ta_diialnosti_Ukrainskoi_natsionalnoi_asamblei_UNA-UNSO.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Історія становлення місцевого самоврядування в Україні (1990–2005 рр.)</title>
+    <id>/A/Adamovych_Serhii/Istoriia_stanovlennia_mistsevoho_samovriaduvannia_v_Ukraini_1990_2005_rr.xml</id>
+    <link href="/A/Adamovych_Serhii/Istoriia_stanovlennia_mistsevoho_samovriaduvannia_v_Ukraini_1990_2005_rr.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Кримське питання в ідеології та діяльності Народного Руху України</title>
+    <id>/A/Adamovych_Serhii/Krymske_pytannia_v_ideolohii_ta_diialnosti_Narodnoho_Rukhu_Ukrainy.xml</id>
+    <link href="/A/Adamovych_Serhii/Krymske_pytannia_v_ideolohii_ta_diialnosti_Narodnoho_Rukhu_Ukrainy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Павло Роберт Маґочій – ідеолог політичного русинства</title>
+    <id>/A/Adamovych_Serhii/Pavlo_Robert_Magochii__ideoloh_politychnoho_rusynstva.xml</id>
+    <link href="/A/Adamovych_Serhii/Pavlo_Robert_Magochii__ideoloh_politychnoho_rusynstva.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Політична боротьба в Україні за перерозподіл повноважень між гілками влади в 1999–2004 рр.</title>
+    <id>/A/Adamovych_Serhii/Politychna_borotba_v_Ukraini_za_pererozpodil_povnovazhen_mizh_hilkamy_vlady_v_1999_2004_rr.xml</id>
+    <link href="/A/Adamovych_Serhii/Politychna_borotba_v_Ukraini_za_pererozpodil_povnovazhen_mizh_hilkamy_vlady_v_1999_2004_rr.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Проблема державного устрою України в програмових засадах і діяльності лівих партій (1991–2010 рр.)</title>
+    <id>/A/Adamovych_Serhii/Problema_derzhavnoho_ustroiu_Ukrainy_v_prohramovykh_zasadakh_i_diialnosti_livykh_partii_1991_2010_rr.xml</id>
+    <link href="/A/Adamovych_Serhii/Problema_derzhavnoho_ustroiu_Ukrainy_v_prohramovykh_zasadakh_i_diialnosti_livykh_partii_1991_2010_rr.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Роль Комуністичної партії України в процесі становлення політичного русинства на Закарпатті</title>
+    <id>/A/Adamovych_Serhii/Rol_Komunistychnoi_partii_Ukrainy_v_protsesi_stanovlennia_politychnoho_rusynstva_na_Zakarpatti.xml</id>
+    <link href="/A/Adamovych_Serhii/Rol_Komunistychnoi_partii_Ukrainy_v_protsesi_stanovlennia_politychnoho_rusynstva_na_Zakarpatti.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Соборність та регіональний розвиток у суспільно-політичному житті незалежної України</title>
+    <id>/A/Adamovych_Serhii/Sobornist_ta_rehionalnyi_rozvytok_u_suspilno-politychnomu_zhytti_nezalezhnoi_Ukrainy.xml</id>
+    <link href="/A/Adamovych_Serhii/Sobornist_ta_rehionalnyi_rozvytok_u_suspilno-politychnomu_zhytti_nezalezhnoi_Ukrainy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Співпраця Союзу визволення України з українськими громадсько-політичними організаціями і партіями Галичини</title>
+    <id>/A/Adamovych_Serhii/Spivpratsia_Soiuzu_vyzvolennia_Ukrainy_z_ukrainskymy_hromadsko-politychnymy_orhanizatsiiamy.xml</id>
+    <link href="/A/Adamovych_Serhii/Spivpratsia_Soiuzu_vyzvolennia_Ukrainy_z_ukrainskymy_hromadsko-politychnymy_orhanizatsiiamy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Стосунки наддніпрянської політичної еміграції з Головною Українською Радою: спроба консолідації українського національного руху (1914–1915 рр.)</title>
+    <id>/A/Adamovych_Serhii/Stosunky_naddniprianskoi_politychnoi_emihratsii_z_Holovnoiu_Ukrainskoiu_Radoiu_sproba_konsolidatsii.xml</id>
+    <link href="/A/Adamovych_Serhii/Stosunky_naddniprianskoi_politychnoi_emihratsii_z_Holovnoiu_Ukrainskoiu_Radoiu_sproba_konsolidatsii.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Фактор Чорноморського флоту Російської Федерації в суспільно-політичному житті України (1991–2012 рр.)</title>
+    <id>/A/Adamovych_Serhii/Faktor_Chornomorskoho_flotu_Rosiiskoi_Federatsii_v_suspilno-politychnomu_zhytti_Ukrainy_1991_2012_rr.xml</id>
+    <link href="/A/Adamovych_Serhii/Faktor_Chornomorskoho_flotu_Rosiiskoi_Federatsii_v_suspilno-politychnomu_zhytti_Ukrainy_1991_2012_rr.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

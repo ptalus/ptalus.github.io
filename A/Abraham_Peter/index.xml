@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абрагам Петер</title>
+  <id>/A/Abraham_Peter/index.xml</id>
+  <updated>2025-11-09T15:06:15Z</updated>
+  <link href="/A/Abraham_Peter/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Моє одруження з принцесою</title>
+    <id>/A/Abraham_Peter/Moie_odruzhennia_z_pryntsesoiu.xml</id>
+    <link href="/A/Abraham_Peter/Moie_odruzhennia_z_pryntsesoiu.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

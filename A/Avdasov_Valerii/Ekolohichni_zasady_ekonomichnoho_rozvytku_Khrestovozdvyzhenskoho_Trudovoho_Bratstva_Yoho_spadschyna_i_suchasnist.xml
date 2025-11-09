@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Валерій Авдасьов » Екологічні засади економічного розвитку Хрестовоздвиженського Трудового Братства. Його спадщина і сучасність</title>
+  <id>/A/Avdasov_Valerii/Ekolohichni_zasady_ekonomichnoho_rozvytku_Khrestovozdvyzhenskoho_Trudovoho_Bratstva_Yoho_spadschyna_i_suchasnist.xml</id>
+  <updated>2025-11-09T15:07:05Z</updated>
+  <link href="/A/Avdasov_Valerii/Ekolohichni_zasady_ekonomichnoho_rozvytku_Khrestovozdvyzhenskoho_Trudovoho_Bratstva_Yoho_spadschyna_i_suchasnist.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Валерій Авдасьов » Екологічні засади економічного розвитку Хрестовоздвиженського Трудового Братства. Його спадщина і сучасність</title>
+    <id>https://chtyvo.org.ua/authors/Avdasov_Valerii/Ekolohichni_zasady_ekonomichnoho_rozvytku_Khrestovozdvyzhenskoho_Trudovoho_Bratstva_Yoho_spadschyna_i_suchasnist/</id>
+    <link href="https://chtyvo.org.ua/content/covers/bc0ef3aa7d8cfd6fe3c66b5dd92dfcf8.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avdasov_Valerii/Ekolohichni_zasady_ekonomichnoho_rozvytku_Khrestovozdvyzhenskoho_Trudovoho_Bratstva_Yoho_spadschyna_i_suchasnist/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avdasov_Valerii/Ekolohichni_zasady_ekonomichnoho_rozvytku_Khrestovozdvyzhenskoho_Trudovoho_Bratstva_Yoho_spadschyna_i_suchasnist.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvdasov_Valerii%2FEkolohichni_zasady_ekonomichnoho_rozvytku_Khrestovozdvyzhenskoho_Trudovoho_Bratstva_Yoho_spadschyna_i_suchasnist.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Павло Автомонов » Галка</title>
+  <id>/A/Avtomonov_Pavlo/Halka.xml</id>
+  <updated>2025-11-09T15:08:14Z</updated>
+  <link href="/A/Avtomonov_Pavlo/Halka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Павло Автомонов » Галка</title>
+    <id>https://chtyvo.org.ua/authors/Avtomonov_Pavlo/Halka/</id>
+    <summary>Увага!!! Ця книга містить елементи комуністичної пропаганди!</summary>
+    <link href="https://chtyvo.org.ua/content/covers/de8a333434ca5d74a0f9c6beb42c8e8e.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/Halka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/Halka.epub" rel="http://opds-spec.org/acquisition" type="application/epub+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/Halka.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Петер Абрагам » Моє одруження з принцесою</title>
+  <id>/A/Abraham_Peter/Moie_odruzhennia_z_pryntsesoiu.xml</id>
+  <updated>2025-11-09T15:06:16Z</updated>
+  <link href="/A/Abraham_Peter/Moie_odruzhennia_z_pryntsesoiu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Петер Абрагам » Моє одруження з принцесою</title>
+    <id>https://chtyvo.org.ua/authors/Abraham_Peter/Moie_odruzhennia_z_pryntsesoiu/</id>
+    <summary>Головною колізією твору є історія кохання й одруження двох молодих людей – Роланда і Крістель. Їхні взаємини, залишаючись сферою інтимного життя, разом з тим великою мірою визначаються соціалістичним буттям Німецької Демократичної Республіки, яке відкриває перед ними необмежені можливості морального зростання.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/865f138e6d8c8d0c4da5fcc681954363.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abraham_Peter/Moie_odruzhennia_z_pryntsesoiu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abraham_Peter/Moie_odruzhennia_z_pryntsesoiu.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Abraham_Peter/Moie_odruzhennia_z_pryntsesoiu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbraham_Peter%2FMoie_odruzhennia_z_pryntsesoiu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

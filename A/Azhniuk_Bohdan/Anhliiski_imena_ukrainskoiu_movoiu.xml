@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Богдан Ажнюк » Англійські імена українською мовою</title>
+  <id>/A/Azhniuk_Bohdan/Anhliiski_imena_ukrainskoiu_movoiu.xml</id>
+  <updated>2025-11-09T15:10:35Z</updated>
+  <link href="/A/Azhniuk_Bohdan/Anhliiski_imena_ukrainskoiu_movoiu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Богдан Ажнюк » Англійські імена українською мовою</title>
+    <id>https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Anhliiski_imena_ukrainskoiu_movoiu/</id>
+    <summary>Культура слова. – Вип. 75 (2011), 76 (2012).</summary>
+    <link href="https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Anhliiski_imena_ukrainskoiu_movoiu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azhniuk_Bohdan/Anhliiski_imena_ukrainskoiu_movoiu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzhniuk_Bohdan%2FAnhliiski_imena_ukrainskoiu_movoiu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Світлана Абросимова » З історії видання монографії Д.І. Яворницького «Історія запорозьких козаків»</title>
+  <id>/A/Abrosymova_Svitlana/Z_istorii_vydannia_monohrafii_DI_Yavornytskoho_Istoriia_zaporozkykh_kozakiv.xml</id>
+  <updated>2025-11-09T15:06:49Z</updated>
+  <link href="/A/Abrosymova_Svitlana/Z_istorii_vydannia_monohrafii_DI_Yavornytskoho_Istoriia_zaporozkykh_kozakiv.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Світлана Абросимова » З історії видання монографії Д.І. Яворницького «Історія запорозьких козаків»</title>
+    <id>https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Z_istorii_vydannia_monohrafii_DI_Yavornytskoho_Istoriia_zaporozkykh_kozakiv/</id>
+    <summary>Січеславський альманах.- 2009. - № 4</summary>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Z_istorii_vydannia_monohrafii_DI_Yavornytskoho_Istoriia_zaporozkykh_kozakiv/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Z_istorii_vydannia_monohrafii_DI_Yavornytskoho_Istoriia_zaporozkykh_kozakiv.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbrosymova_Svitlana%2FZ_istorii_vydannia_monohrafii_DI_Yavornytskoho_Istoriia_zaporozkykh_kozakiv.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

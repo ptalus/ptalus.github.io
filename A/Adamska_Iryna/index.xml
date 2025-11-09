@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Адамська Ірина</title>
+  <id>/A/Adamska_Iryna/index.xml</id>
+  <updated>2025-11-09T15:09:55Z</updated>
+  <link href="/A/Adamska_Iryna/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Епістолярна спадщина Пантелеймона Куліша з колекції Національного інституту імені Оссолінських у Вроцлаві</title>
+    <id>/A/Adamska_Iryna/Epistoliarna_spadschyna_Panteleimona_Kulisha_z_kolektsii_Natsionalnoho_instytutu_imeni_Ossolinskykh.xml</id>
+    <link href="/A/Adamska_Iryna/Epistoliarna_spadschyna_Panteleimona_Kulisha_z_kolektsii_Natsionalnoho_instytutu_imeni_Ossolinskykh.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

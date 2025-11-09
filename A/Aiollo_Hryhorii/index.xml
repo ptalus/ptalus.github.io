@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айолло Григорій</title>
+  <id>/A/Aiollo_Hryhorii/index.xml</id>
+  <updated>2025-11-09T15:11:13Z</updated>
+  <link href="/A/Aiollo_Hryhorii/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Большевики і національне питання</title>
+    <id>/A/Aiollo_Hryhorii/Bolshevyky_i_natsionalne_pytannia.xml</id>
+    <link href="/A/Aiollo_Hryhorii/Bolshevyky_i_natsionalne_pytannia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Національна проблєма на Сході Європи</title>
+    <id>/A/Aiollo_Hryhorii/Natsionalna_probliema_na_Skhodi_Yevropy.xml</id>
+    <link href="/A/Aiollo_Hryhorii/Natsionalna_probliema_na_Skhodi_Yevropy.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

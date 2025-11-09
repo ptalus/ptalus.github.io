@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абрамов Сєрґєй</title>
+  <id>/A/Abramov_Siergiei/index.xml</id>
+  <updated>2025-11-09T15:06:26Z</updated>
+  <link href="/A/Abramov_Siergiei/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Двоє під однією парасолькою (збірка)</title>
+    <id>/A/Abramov_Siergiei/Dvoie_pid_odniieiu_parasolkoiu_zbirka.xml</id>
+    <link href="/A/Abramov_Siergiei/Dvoie_pid_odniieiu_parasolkoiu_zbirka.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

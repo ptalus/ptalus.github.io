@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олег Авраменко » Коли дивишся в безодню</title>
+  <id>/A/Avramenko_Oleh/Koly_dyvyshsia_v_bezodniu.xml</id>
+  <updated>2025-11-09T15:07:39Z</updated>
+  <link href="/A/Avramenko_Oleh/Koly_dyvyshsia_v_bezodniu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олег Авраменко » Коли дивишся в безодню</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Oleh/Koly_dyvyshsia_v_bezodniu/</id>
+    <summary>З відходом Метра у світі не залишилося Великих. Лише близька Метрові людина, верховний інквізитор Ференц Карой міг здогадатися про призначення двох, у минулому, здавалося б, найзвичайнісіньких мешканців Основи, а тепер вищих маґів – Владислава та Інґи. А ще Веліал – Господар Потойбіччя. Усюди розставлено пастки Князя Нижнього Світу. Веліал тріумфує – йому вдалося розлучити героїв. А лише вони вдвох здатні зупинити наступ Пітьми...</summary>
+    <link href="https://chtyvo.org.ua/content/covers/9808c8c71e4a337e7eaa57800f971323.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Koly_dyvyshsia_v_bezodniu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Oleh/Koly_dyvyshsia_v_bezodniu.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

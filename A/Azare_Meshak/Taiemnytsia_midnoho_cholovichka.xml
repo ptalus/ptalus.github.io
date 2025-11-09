@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Мешак Азаре » Таємниця мідного чоловічка</title>
+  <id>/A/Azare_Meshak/Taiemnytsia_midnoho_cholovichka.xml</id>
+  <updated>2025-11-09T15:10:39Z</updated>
+  <link href="/A/Azare_Meshak/Taiemnytsia_midnoho_cholovichka.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Мешак Азаре » Таємниця мідного чоловічка</title>
+    <id>https://chtyvo.org.ua/authors/Azare_Meshak/Taiemnytsia_midnoho_cholovichka/</id>
+    <summary>Один із нечисленних творів африканських літераторів, перекладений на українську мову.Про пригоди хлопчика Кваджіо у стародавньому палаці в пошуках золотого піску.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/850e2c35b1b4219bcb244c60bf252032.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Azare_Meshak/Taiemnytsia_midnoho_cholovichka/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Azare_Meshak/Taiemnytsia_midnoho_cholovichka.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

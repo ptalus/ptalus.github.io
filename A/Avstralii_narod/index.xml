@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Австралії народ</title>
+  <id>/A/Avstralii_narod/index.xml</id>
+  <updated>2025-11-09T15:08:11Z</updated>
+  <link href="/A/Avstralii_narod/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Джукурпа (збірка)</title>
+    <id>/A/Avstralii_narod/Dzhukurpa_zbirka.xml</id>
+    <link href="/A/Avstralii_narod/Dzhukurpa_zbirka.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

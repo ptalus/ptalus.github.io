@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Анатолій Авраменко » Досвід створення історичної карти Катеринославського козацького війська</title>
+  <id>/A/Avramenko_AM/Dosvid_stvorennia_istorychnoi_karty_Katerynoslavskoho_kozatskoho_viiska.xml</id>
+  <updated>2025-11-09T15:07:53Z</updated>
+  <link href="/A/Avramenko_AM/Dosvid_stvorennia_istorychnoi_karty_Katerynoslavskoho_kozatskoho_viiska.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Анатолій Авраменко » Досвід створення історичної карти Катеринославського козацького війська</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_AM/Dosvid_stvorennia_istorychnoi_karty_Katerynoslavskoho_kozatskoho_viiska/</id>
+    <summary>Історико-географічні дослідження в Україні: Збірник наукових праць / НАН України. Інститут історії України. – 2015. – Вип. 13.У статті аналізується інформація, що дозволяє вперше створити історичну карту Катеринославського козацького війська. Прокоментовані помилкові відомості про військо, що потрапили в радянські, російські й українські енциклопедії. Карта показує розміщення різних соціальних категорій населення, які зараховано до складу війська в 1787–1790 рр., зміни територіального складу війська.</summary>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_AM/Dosvid_stvorennia_istorychnoi_karty_Katerynoslavskoho_kozatskoho_viiska/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_AM/Dosvid_stvorennia_istorychnoi_karty_Katerynoslavskoho_kozatskoho_viiska.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_AM%2FDosvid_stvorennia_istorychnoi_karty_Katerynoslavskoho_kozatskoho_viiska.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

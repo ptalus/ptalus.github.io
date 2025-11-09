@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Абдрахманова Міра</title>
+  <id>/A/Abdrakhmanova_Mira/index.xml</id>
+  <updated>2025-11-09T15:05:49Z</updated>
+  <link href="/A/Abdrakhmanova_Mira/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Націєтворчі та культуротворчі чинники української культури кінця ХІХ – початку ХХ століття в контексті модерного історико-філософського дискурсу</title>
+    <id>/A/Abdrakhmanova_Mira/Natsiietvorchi_ta_kulturotvorchi_chynnyky_ukrainskoi_kultury_kintsia_KhIKh__pochatku_KhKh_stolittia.xml</id>
+    <link href="/A/Abdrakhmanova_Mira/Natsiietvorchi_ta_kulturotvorchi_chynnyky_ukrainskoi_kultury_kintsia_KhIKh__pochatku_KhKh_stolittia.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

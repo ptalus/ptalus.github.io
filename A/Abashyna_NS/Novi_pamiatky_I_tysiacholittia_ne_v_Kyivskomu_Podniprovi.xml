@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Нові пам'ятки I тисячоліття н.е. в Київському Подніпров'ї</title>
+  <title>Наталія Абашина » Нові пам'ятки I тисячоліття н.е. в Київському Подніпров'ї</title>
   <id>/A/Abashyna_NS/Novi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi.xml</id>
-  <updated>2025-11-09T13:33:42Z</updated>
+  <updated>2025-11-09T15:05:45Z</updated>
   <link href="/A/Abashyna_NS/Novi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Нові пам'ятки I тисячоліття н.е. в Київському Подніпров'ї</title>
+    <title>Наталія Абашина » Нові пам'ятки I тисячоліття н.е. в Київському Подніпров'ї</title>
     <id>https://chtyvo.org.ua/authors/Abashyna_NS/Novi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <summary>Археологія, 1974, вип. 15</summary>
     <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Novi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi/" rel="alternate" type="text/html"/>
     <link href="https://chtyvo.org.ua/authors/Abashyna_NS/Novi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FKravchenko_N_M%2FNovi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FKravchenko_N_M%2FNovi_pamiatky_I_tysiacholittia_ne_v_Kyivskomu_Podniprovi.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
   </entry>
 </feed>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айзеншток Ієремія</title>
+  <id>/A/Aizenshtok_Iieremiia/index.xml</id>
+  <updated>2025-11-09T15:11:09Z</updated>
+  <link href="/A/Aizenshtok_Iieremiia/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Г. Ф. Квітка і М. П. Погодін (До історії літературних відносин)</title>
+    <id>/A/Aizenshtok_Iieremiia/H_F_Kvitka_i_M_P_Pohodin_Do_istorii_literaturnykh_vidnosyn.xml</id>
+    <link href="/A/Aizenshtok_Iieremiia/H_F_Kvitka_i_M_P_Pohodin_Do_istorii_literaturnykh_vidnosyn.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>З листування О.О. Потебні</title>
+    <id>/A/Aizenshtok_Iieremiia/Z_lystuvannia_O_O_Potebni.xml</id>
+    <link href="/A/Aizenshtok_Iieremiia/Z_lystuvannia_O_O_Potebni.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Листи Порфирія Кореницького</title>
+    <id>/A/Aizenshtok_Iieremiia/Lysty_Porfyriia_Korenytskoho.xml</id>
+    <link href="/A/Aizenshtok_Iieremiia/Lysty_Porfyriia_Korenytskoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+  <entry>
+    <title>Студії над текстами І. Котляревського</title>
+    <id>/A/Aizenshtok_Iieremiia/Studii_nad_tekstamy_I_Kotliarevskoho.xml</id>
+    <link href="/A/Aizenshtok_Iieremiia/Studii_nad_tekstamy_I_Kotliarevskoho.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

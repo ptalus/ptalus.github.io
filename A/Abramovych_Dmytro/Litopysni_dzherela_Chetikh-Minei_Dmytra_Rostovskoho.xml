@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Дмитро Абрамович » Літописні джерела Четьїх-Міней Дмитра Ростовського</title>
+  <id>/A/Abramovych_Dmytro/Litopysni_dzherela_Chetikh-Minei_Dmytra_Rostovskoho.xml</id>
+  <updated>2025-11-09T15:06:35Z</updated>
+  <link href="/A/Abramovych_Dmytro/Litopysni_dzherela_Chetikh-Minei_Dmytra_Rostovskoho.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Дмитро Абрамович » Літописні джерела Четьїх-Міней Дмитра Ростовського</title>
+    <id>https://chtyvo.org.ua/authors/Abramovych_Dmytro/Litopysni_dzherela_Chetikh-Minei_Dmytra_Rostovskoho/</id>
+    <summary>Науковий збірник за рік 1929 (1929)</summary>
+    <link href="https://chtyvo.org.ua/authors/Abramovych_Dmytro/Litopysni_dzherela_Chetikh-Minei_Dmytra_Rostovskoho/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abramovych_Dmytro/Litopysni_dzherela_Chetikh-Minei_Dmytra_Rostovskoho.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbramovych_Dmytro%2FLitopysni_dzherela_Chetikh-Minei_Dmytra_Rostovskoho.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

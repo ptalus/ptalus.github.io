@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Айзенбарт Любомира</title>
+  <id>/A/Aizenbart_Liubomyra/index.xml</id>
+  <updated>2025-11-09T15:11:08Z</updated>
+  <link href="/A/Aizenbart_Liubomyra/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Концепт галицького літературного пограниччя (на матеріалі малої прози М. Яцкова, Й. Рота, Б. Шульца)</title>
+    <id>/A/Aizenbart_Liubomyra/Kontsept_halytskoho_literaturnoho_pohranychchia_na_materiali_maloi_prozy_M_Yatskova_Y_Rota_B_Shultsa.xml</id>
+    <link href="/A/Aizenbart_Liubomyra/Kontsept_halytskoho_literaturnoho_pohranychchia_na_materiali_maloi_prozy_M_Yatskova_Y_Rota_B_Shultsa.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

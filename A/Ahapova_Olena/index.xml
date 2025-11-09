@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Агапова Олена</title>
+  <id>/A/Ahapova_Olena/index.xml</id>
+  <updated>2025-11-09T15:08:29Z</updated>
+  <link href="/A/Ahapova_Olena/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Картографування для потреб альтернативної енергетики в Україні</title>
+    <id>/A/Ahapova_Olena/Kartohrafuvannia_dlia_potreb_alternatyvnoi_enerhetyky_v_Ukraini.xml</id>
+    <link href="/A/Ahapova_Olena/Kartohrafuvannia_dlia_potreb_alternatyvnoi_enerhetyky_v_Ukraini.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

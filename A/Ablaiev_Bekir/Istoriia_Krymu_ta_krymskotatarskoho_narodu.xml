@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Бекір Аблаєв » Історія Криму та кримськотатарського народу</title>
+  <id>/A/Ablaiev_Bekir/Istoriia_Krymu_ta_krymskotatarskoho_narodu.xml</id>
+  <updated>2025-11-09T15:06:09Z</updated>
+  <link href="/A/Ablaiev_Bekir/Istoriia_Krymu_ta_krymskotatarskoho_narodu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Бекір Аблаєв » Історія Криму та кримськотатарського народу</title>
+    <id>https://chtyvo.org.ua/authors/Ablaiev_Bekir/Istoriia_Krymu_ta_krymskotatarskoho_narodu/</id>
+    <summary>Історія Криму та кримськотатарського народу. Навчальний посібник. / Бекірова Г., Іванець А., Тищенко Ю., Громенко С., Аблаєв Б. – К.: «Кримська родина»; «Майстер Книг», 2020. – 200 с. з ілюстр.Навчальний посібник розповідає про головні події минулого півострова від появи перших людей до сьогодення. Особлива увага присвячена походженню та історії кримських татар – корінного народу Криму. В посібнику розглядаються окремі сторінки історії Кримського ханства: його утворення, статус, стосунки з Україною і причини занепаду. Йдеться про «чорне століття» кримськотатарського народу під пануванням Росії та національне відродження на зламі ХІХ та ХХ ст. Детально висвітлені перебіг Кримськотатарської революції та події міжвоєнного двадцятиліття. Окремо розібрані найбільш міфологізовані російською пропагандою теми: участь кримських татар у Другій світовій війні, депортація 1944 року, боротьба за право повернутися на Батьківщину та облаштування в Криму за незалежної України. Завершується посібник розповіддю про спробу російської анексії півострова та становище кримськотатарського народу під новою окупацією. Тексти супроводжуються тематичними ілюстраціями та питаннями для самоконтролю.Навчальний посібник адаптований для дітей шкільного віку, але стане у нагоді вчителям, студентам і всім зацікавленим історією Криму.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/b1c55fb82d13f6f2a077b19345b5a080.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Ablaiev_Bekir/Istoriia_Krymu_ta_krymskotatarskoho_narodu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Ablaiev_Bekir/Istoriia_Krymu_ta_krymskotatarskoho_narodu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FBekirova_Hulnara%2FIstoriia_Krymu_ta_krymskotatarskoho_narodu.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

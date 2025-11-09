@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Валентин Авраменко » Зруйновані зорі</title>
+  <id>/A/Avramenko_Valentyn/Zruinovani_zori.xml</id>
+  <updated>2025-11-09T15:07:46Z</updated>
+  <link href="/A/Avramenko_Valentyn/Zruinovani_zori.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Валентин Авраменко » Зруйновані зорі</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Valentyn/Zruinovani_zori/</id>
+    <summary>3593 рік... У розпалі галактична війна. Минуло сім років, відколи люди знову ступили на Землю - свою давню прабатьківщину. Весь цей час людство невтомно тіснило Чужих, відроджуючи колишню могутність своєї раси. А чужинці, роз’єднані на два ворожі табори, воювали не лише з людьми, але й поміж собою. Це протистояння було вигідне людям - їхні вороги самі знекровлювали один одного, полегшуючи справу звільнення тих людських планет, що й досі перебували під владою Чужих.Аж тут трапилося неочікуване: одна з рас заволоділа зброєю такої руйнівної сили, що під загрозою опинилося існування всієї Галактики...Тож вічність насправді у наших руках, просто у долонях. Людям до снаги вже мало не все, навіть зруйнувати зорі. Не вірите? Дарма. У своєму новому романі брати Авраменки беззастережно доводять: майбуття належить саме нам.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/565e47a571568883e2dbb1ca3a97ca17.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Zruinovani_zori/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Zruinovani_zori.doc" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvramenko_Oleh%2FZruinovani_zori.doc" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Zruinovani_zori.doc.zip" rel="http://opds-spec.org/acquisition" type="application/zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Zruinovani_zori.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

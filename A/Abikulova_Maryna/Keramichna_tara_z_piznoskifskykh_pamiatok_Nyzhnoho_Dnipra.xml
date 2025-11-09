@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Марина Абікулова » Керамічна тара з пізньоскіфських пам’яток Нижнього Дніпра</title>
+  <id>/A/Abikulova_Maryna/Keramichna_tara_z_piznoskifskykh_pamiatok_Nyzhnoho_Dnipra.xml</id>
+  <updated>2025-11-09T15:06:05Z</updated>
+  <link href="/A/Abikulova_Maryna/Keramichna_tara_z_piznoskifskykh_pamiatok_Nyzhnoho_Dnipra.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Марина Абікулова » Керамічна тара з пізньоскіфських пам’яток Нижнього Дніпра</title>
+    <id>https://chtyvo.org.ua/authors/Abikulova_Maryna/Keramichna_tara_z_piznoskifskykh_pamiatok_Nyzhnoho_Dnipra/</id>
+    <summary>Археологія, 1994, № 3</summary>
+    <link href="https://chtyvo.org.ua/authors/Abikulova_Maryna/Keramichna_tara_z_piznoskifskykh_pamiatok_Nyzhnoho_Dnipra/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abikulova_Maryna/Keramichna_tara_z_piznoskifskykh_pamiatok_Nyzhnoho_Dnipra.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbikulova_Maryna%2FKeramichna_tara_z_piznoskifskykh_pamiatok_Nyzhnoho_Dnipra.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

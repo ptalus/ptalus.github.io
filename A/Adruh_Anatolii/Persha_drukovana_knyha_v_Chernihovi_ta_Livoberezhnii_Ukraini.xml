@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Анатолій Адруг » Перша друкована книга в Чернігові та Лівобережній Україні</title>
+  <id>/A/Adruh_Anatolii/Persha_drukovana_knyha_v_Chernihovi_ta_Livoberezhnii_Ukraini.xml</id>
+  <updated>2025-11-09T15:10:31Z</updated>
+  <link href="/A/Adruh_Anatolii/Persha_drukovana_knyha_v_Chernihovi_ta_Livoberezhnii_Ukraini.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Анатолій Адруг » Перша друкована книга в Чернігові та Лівобережній Україні</title>
+    <id>https://chtyvo.org.ua/authors/Adruh_Anatolii/Persha_drukovana_knyha_v_Chernihovi_ta_Livoberezhnii_Ukraini/</id>
+    <summary>Сiверянський лiтопис. - 2012. - № 5-6 (107-108)Стаття присвячена першій друкованій книзі в Чернігові і Лівобережній Україні «Перло многоцінне» Кирила Транквіліона Ставровецького 1646 року.Ключові слова: Лівобережна Україна, Чернігів, Кирило Транквіліон-Ставровецький, книга «Перло многоцінне».</summary>
+    <link href="https://chtyvo.org.ua/authors/Adruh_Anatolii/Persha_drukovana_knyha_v_Chernihovi_ta_Livoberezhnii_Ukraini/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Adruh_Anatolii/Persha_drukovana_knyha_v_Chernihovi_ta_Livoberezhnii_Ukraini.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAdruh_Anatolii%2FPersha_drukovana_knyha_v_Chernihovi_ta_Livoberezhnii_Ukraini.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>народ Абхазький » Абхазькі народні казки</title>
+  <id>/A/abkhazkyi_narod/Abkhazki_narodni_kazky.xml</id>
+  <updated>2025-11-09T15:06:58Z</updated>
+  <link href="/A/abkhazkyi_narod/Abkhazki_narodni_kazky.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>народ Абхазький » Абхазькі народні казки</title>
+    <id>https://chtyvo.org.ua/authors/abkhazkyi_narod/Abkhazki_narodni_kazky/</id>
+    <summary>Для молодшого шкільного віку.З абхазької переклав Євген Іщенко.Художники: Звєздов Євген.Казки &quot;Козеня, ягня і теля&quot;, &quot;Ведмідь і лисиця&quot;, &quot;Злагода&quot;, &quot;Суддя та донька бідняка&quot;, &quot;Жадібний мулла&quot;, &quot;Мутикуватий і шилом рибу зловить&quot;, &quot;Боягуз&quot;, &quot;Відплата жорстокому Нахарбею&quot;, &quot;Кмітлива невістка&quot;.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/59f552eb0451ed6736eee33b2ca3d71d.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/abkhazkyi_narod/Abkhazki_narodni_kazky/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/abkhazkyi_narod/Abkhazki_narodni_kazky.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/abkhazkyi_narod/Abkhazki_narodni_kazky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2Fabkhazkyi_narod%2FAbkhazki_narodni_kazky.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

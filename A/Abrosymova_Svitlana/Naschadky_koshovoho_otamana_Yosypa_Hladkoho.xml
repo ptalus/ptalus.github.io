@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Світлана Абросимова » Нащадки кошового отамана Йосипа Гладкого</title>
+  <id>/A/Abrosymova_Svitlana/Naschadky_koshovoho_otamana_Yosypa_Hladkoho.xml</id>
+  <updated>2025-11-09T15:06:53Z</updated>
+  <link href="/A/Abrosymova_Svitlana/Naschadky_koshovoho_otamana_Yosypa_Hladkoho.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Світлана Абросимова » Нащадки кошового отамана Йосипа Гладкого</title>
+    <id>https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Naschadky_koshovoho_otamana_Yosypa_Hladkoho/</id>
+    <summary>Січеславський альманах.- 2008. - № 3</summary>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Naschadky_koshovoho_otamana_Yosypa_Hladkoho/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abrosymova_Svitlana/Naschadky_koshovoho_otamana_Yosypa_Hladkoho.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbrosymova_Svitlana%2FNaschadky_koshovoho_otamana_Yosypa_Hladkoho.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>

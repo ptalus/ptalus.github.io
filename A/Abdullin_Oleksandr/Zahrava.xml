@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Олександр Абдуллін » Заграва</title>
+  <id>/A/Abdullin_Oleksandr/Zahrava.xml</id>
+  <updated>2025-11-09T15:05:59Z</updated>
+  <link href="/A/Abdullin_Oleksandr/Zahrava.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Олександр Абдуллін » Заграва</title>
+    <id>https://chtyvo.org.ua/authors/Abdullin_Oleksandr/Zahrava/</id>
+    <summary>У центрі уваги художньо-документального роману «Заграва» – поліська родина, на долю якої випали ті неймовірні труднощі й випробування, які пережили західні українці в двадцятому столітті. На прикладі головних героїв – трьох братів Орленків – читач може простежити той довгий і звивистий шлях, який пройшли українці в пошуках волі, спостерегти, як із апатичних, дещо аполітичних людей, інтереси яких не виходять за межі власної хати на початку роману, брати наприкінці твору стають гордими, жертовними борцями за незалежність України, готовими віддати власне життя за добробут рідного краю.Гостроти роману надають використані авторами архівні документи, сховані донедавна за сімома замками, які роблять «Заграву» цікавою для всіх, кому небайдужа наша історія.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/7c9ec162b1fb182ffd75d9c2e0637490.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Abdullin_Oleksandr/Zahrava/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abdullin_Oleksandr/Zahrava.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+  </entry>
+</feed>

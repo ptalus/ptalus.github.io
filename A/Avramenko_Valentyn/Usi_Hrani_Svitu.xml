@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Валентин Авраменко » Усі Грані Світу</title>
+  <id>/A/Avramenko_Valentyn/Usi_Hrani_Svitu.xml</id>
+  <updated>2025-11-09T15:07:48Z</updated>
+  <link href="/A/Avramenko_Valentyn/Usi_Hrani_Svitu.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Валентин Авраменко » Усі Грані Світу</title>
+    <id>https://chtyvo.org.ua/authors/Avramenko_Valentyn/Usi_Hrani_Svitu/</id>
+    <summary>Будьте обережні, повертаючись додому з роботи, і гарненько подумайте, перш ніж підбирати заблудлого кота. Він може виявитися зовсім не тим, ким здається на перший погляд, і через нього ви вклепаєтеся в таку пригоду, яка не уявлялась вам навіть у найбурхливіших фантазіях і не снилася в найжахливіших снах. Усе передбачити просто неможливо – адже світ такий багатогранний…</summary>
+    <link href="https://chtyvo.org.ua/content/covers/459d46f89f50ee2c1999e659b4dd06fe.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Usi_Hrani_Svitu/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avramenko_Valentyn/Usi_Hrani_Svitu.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+  </entry>
+</feed>

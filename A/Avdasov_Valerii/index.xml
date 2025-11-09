@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Книги автора Авдасьов Валерій</title>
+  <id>/A/Avdasov_Valerii/index.xml</id>
+  <updated>2025-11-09T15:07:05Z</updated>
+  <link href="/A/Avdasov_Valerii/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Екологічні засади економічного розвитку Хрестовоздвиженського Трудового Братства. Його спадщина і сучасність</title>
+    <id>/A/Avdasov_Valerii/Ekolohichni_zasady_ekonomichnoho_rozvytku_Khrestovozdvyzhenskoho_Trudovoho_Bratstva_Yoho_spadschyna_i_suchasnist.xml</id>
+    <link href="/A/Avdasov_Valerii/Ekolohichni_zasady_ekonomichnoho_rozvytku_Khrestovozdvyzhenskoho_Trudovoho_Bratstva_Yoho_spadschyna_i_suchasnist.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  </entry>
+</feed>

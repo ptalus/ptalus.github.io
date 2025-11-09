@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Павло Автомонов » В Курляндском котле (рос.)</title>
+  <id>/A/Avtomonov_Pavlo/V_Kurliandskom_kotle_ros.xml</id>
+  <updated>2025-11-09T15:08:13Z</updated>
+  <link href="/A/Avtomonov_Pavlo/V_Kurliandskom_kotle_ros.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Павло Автомонов » В Курляндском котле (рос.)</title>
+    <id>https://chtyvo.org.ua/authors/Avtomonov_Pavlo/V_Kurliandskom_kotle_ros/</id>
+    <summary>Повесть о боевых буднях советских разведчиков, заброшенных в тыл немецкой армии в Курляндии и ведущих партизанские действия против захватчиков.Увага!!! Ця книга містить елементи комуністичної пропаганди!</summary>
+    <link href="https://chtyvo.org.ua/content/covers/b4c1a1d031d46ba550d5a4e06dd570c7.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/V_Kurliandskom_kotle_ros/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/V_Kurliandskom_kotle_ros.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/V_Kurliandskom_kotle_ros.epub" rel="http://opds-spec.org/acquisition" type="application/epub+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/V_Kurliandskom_kotle_ros.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Avtomonov_Pavlo/V_Kurliandskom_kotle_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAvtomonov_Pavlo%2FV_Kurliandskom_kotle_ros.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+  </entry>
+</feed>
