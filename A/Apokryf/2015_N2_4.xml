@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Апокриф» » 2015, №2 (4)</title>
   <id>/A/Apokryf/2015_N2_4.xml</id>
-  <updated>2025-11-09T14:38:29Z</updated>
+  <updated>2025-11-09T14:59:11Z</updated>
   <link href="/A/Apokryf/2015_N2_4.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Апокриф» » 2015, №2 (4)</title>
@@ -10,7 +10,7 @@
     <summary>Четвертий номер україномовної гілки журналу «Апокриф», присвячений Зимовому Сонцестоянню.</summary>
     <link href="https://chtyvo.org.ua/content/covers/4713647d7f762a0ac2b9bac9be1bb565.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Apokryf/2015_N2_4/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Apokryf/2015_N2_4.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FApokryf%2F2015_N2_4.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Apokryf/2015_N2_4.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FApokryf%2F2015_N2_4.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
   </entry>
 </feed>

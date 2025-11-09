@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Архіви України» » 1998, №1-6 (241)</title>
   <id>/A/Arkhivy_Ukrainy/1998_N1-6_241.xml</id>
-  <updated>2025-11-09T14:39:09Z</updated>
+  <updated>2025-11-09T14:59:23Z</updated>
   <link href="/A/Arkhivy_Ukrainy/1998_N1-6_241.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Архіви України» » 1998, №1-6 (241)</title>
     <id>https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1998_N1-6_241/</id>
     <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1998_N1-6_241/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1998_N1-6_241.djvu" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
-    <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1998_N1-6_241.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FArkhivy_Ukrainy%2F1998_N1-6_241.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1998_N1-6_241.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
+    <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1998_N1-6_241.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FArkhivy_Ukrainy%2F1998_N1-6_241.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
   </entry>
 </feed>

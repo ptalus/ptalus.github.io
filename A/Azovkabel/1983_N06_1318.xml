@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Азовкабель» » 1983, №06 (1318)</title>
   <id>/A/Azovkabel/1983_N06_1318.xml</id>
-  <updated>2025-11-09T14:38:19Z</updated>
+  <updated>2025-11-09T14:59:08Z</updated>
   <link href="/A/Azovkabel/1983_N06_1318.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Азовкабель» » 1983, №06 (1318)</title>
     <id>https://chtyvo.org.ua/authors/Azovkabel/1983_N06_1318/</id>
     <link href="https://chtyvo.org.ua/content/covers/f9d40633f57a8709d17e09582197e170.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Azovkabel/1983_N06_1318/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Azovkabel/1983_N06_1318.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzovkabel%2F1983_N06_1318.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Azovkabel/1983_N06_1318.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAzovkabel%2F1983_N06_1318.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
   </entry>
 </feed>

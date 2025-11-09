@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Археологічний літопис Лівобережної України» » 2002, №1</title>
   <id>/A/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/2002_N1.xml</id>
-  <updated>2025-11-09T14:38:41Z</updated>
+  <updated>2025-11-09T14:59:15Z</updated>
   <link href="/A/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/2002_N1.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Археологічний літопис Лівобережної України» » 2002, №1</title>
     <id>https://chtyvo.org.ua/authors/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/2002_N1/</id>
     <link href="https://chtyvo.org.ua/content/covers/8f65662e355aee0fce2e0e47b3996d75.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/2002_N1/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/2002_N1.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FArkheolohichnyi_litopys_Livoberezhnoi_Ukrainy%2F2002_N1.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/2002_N1.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FArkheolohichnyi_litopys_Livoberezhnoi_Ukrainy%2F2002_N1.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
   </entry>
 </feed>

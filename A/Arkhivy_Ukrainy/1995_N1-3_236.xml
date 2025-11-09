@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Архіви України» » 1995, №1-3 (236)</title>
   <id>/A/Arkhivy_Ukrainy/1995_N1-3_236.xml</id>
-  <updated>2025-11-09T14:38:59Z</updated>
+  <updated>2025-11-09T14:59:20Z</updated>
   <link href="/A/Arkhivy_Ukrainy/1995_N1-3_236.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Архіви України» » 1995, №1-3 (236)</title>
     <id>https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1995_N1-3_236/</id>
     <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1995_N1-3_236/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1995_N1-3_236.djvu" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1995_N1-3_236.djvu" rel="http://opds-spec.org/acquisition" type="image/vnd.djvu"/>
   </entry>
 </feed>
