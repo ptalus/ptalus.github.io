@@ -1,0 +1,795 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>chtyvo:newbooks</id>
+  <title>Чтиво - нові якісні надходження</title>
+  <updated>2025-11-09T09:01:20Z</updated>
+  <author>
+    <name>Chtyvo.org.ua</name>
+    <uri>https://chtyvo.org.ua/</uri>
+  </author>
+  <link rel="self" href="/chtyvo_opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition" />
+  <entry>
+    <id>https://chtyvo.org.ua/guid/68fb78461c8fd939bd87ff85c46e8376</id>
+    <title>Кіровоградська область. Книга 5 («Реабілітовані історією»)</title>
+    <updated>2025-11-09T08:03:13Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Reabilitovani_istoriieiu/Kirovohradska_oblast_Knyha_5/" type="text/html" />
+    <summary>До п՚ятої книги багатотомного видання «Реабілітовані історією. Кіровоградська область» ввійшли короткі біографічні дані уродженців та мешканців чотирьох регіонів сучасної Кіровоградщини (м. Кіровограда, районів Світловодського, Ульяновського й Устинівського), які зазнали незаконних репресій за часів радянської влади у 1918–1991 роках. Прізвища репресованих розташовані в алфавітному порядку в межах розділу кожного регіону, незалежно від часу репресій. Кожному списку передують нариси про відомих у краї людей, про найхарактерніші явища тієї нелюдської наруги, спогади репресованих та їхніх нащадків, написані самими колишніми в՚язнями чи записані з їхніх уст журналістами і письменниками.</summary>
+    <author>
+      <name>«Реабілітовані історією»</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/814619aab46d6845146599e36d7abdc0.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/814619aab46d6845146599e36d7abdc0.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/c4281e1a4aa1111c1c74731c948e949b</id>
+    <title>Кіровоградська область. Книга 3 («Реабілітовані історією»)</title>
+    <updated>2025-11-09T07:27:35Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Reabilitovani_istoriieiu/Kirovohradska_oblast_Knyha_3/" type="text/html" />
+    <summary>До третьої книги багатотомного видання «Реабілітовані історією. Кіровоградська область» ввійшли короткі біографічні дані майже чотирьох тисяч уродженців та мешканців п՚яти районів сучасної Кіровоградщини (Маловисківського, Новгородківського, Новоархангельського, Новомиргородського, Новоукраїнського), які зазнали незаконних репресій за роки радянської влади у 1918–1991 роках. Прізвища репресованих розташовані у алфавітному порядку в межах розділу кожного району, незалежно від репресій. Кожному списку передують нариси про відомих у краї людей, про найхарактерніші явища тієї нелюдської наруги над людиною, спогади репресованих та їхніх нащадків, написані самими колишніми в՚язнями чи записані з їхніх уст журналістами і письменниками.</summary>
+    <author>
+      <name>«Реабілітовані історією»</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/823fa183c8b8de165d8da37b89426b78.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/823fa183c8b8de165d8da37b89426b78.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/7644e152a6de27422394c570bd612307</id>
+    <title>Запізно (Коллін  Гувер)</title>
+    <updated>2025-11-09T07:22:44Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Colleen_Hoover/Zapizno/" type="text/html" />
+    <summary>Заради тих, кого Слоан любить, вона ладна піти в самісіньке пекло. Власне, так вона щодня й робить. Опинившись у тенетах привабливого, але небезпечного Аси Джексона, відомого наркоторговця, дівчина нарешті отримує соломинку, за яку можна вхопитися – навіть якщо доводиться зрадити власні моральні принципи. Адже до зустрічі з Асою вона, ледве зводячи кінці з кінцями, навчалася-таки в коледжі й опікувалася братом. Однак що глибшає її емоційна й фінансова залежність від Аси, то сильнішає його одержимість нею, аж до загрозливо-небезпечної...
+
+
+
+Раптом у житті дівчини з’являється Картер, агент Управління боротьби з наркотиками, який працює під прикриттям. І Слоан неочікувано відчуває до нього потяг, хоча й розуміє: якщо Аса дізнається – уб’є хлопця. Крім того, Аса завжди був на крок попереду всіх, тим паче Слоан. Ще ніхто й ніколи не ставав на його шляху.
+
+
+
+Ніхто, окрім Картера.
+
+
+
+Тепер Слоан і Картер мусять вирватися з лабет покидька, поки не стало запізно...</summary>
+    <author>
+      <name>Коллін  Гувер</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/f99fd853c418fde25bfb6861b62b502b.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/f99fd853c418fde25bfb6861b62b502b.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/1d24cd576790c9ba7f78af32249063dd</id>
+    <title>1832 рік («Шематизм Львівської архиєпархії»)</title>
+    <updated>2025-11-08T19:24:34Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Shematyzm_Lvivskoi_arkhyieparkhii/1832_rik/" type="text/html" />
+    <summary>Шематизм Львівської архиєпархії — списки духовенства та церковних інституцій Львівської греко-католицької архиєпархії, що видавалися впродовж 1832—1944 років.
+
+У церковних шематизмах публікувалися списки священиків з основними відомостями - роком народження, роком священичого рукоположення та роком початку душпастирської праці на даній парафії. Подавалися всі деканати з підпорядкованими парафіями, а в пізніших шематизмах — стан церковного майна. В новіших виданнях на початку подавали список єпископів і особовий склад катедральної капітули. Поміщена теж інформація про історію і дати будівництва церкви в кожній парафії. Включені також відомості про монахів у всіх монастирях; наприкінці подано списки семінаристів — студентів богослов'я та усіх померлих священиків, індекс парафій та духовенства.</summary>
+    <author>
+      <name>«Шематизм Львівської архиєпархії»</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/a5f3fe36b269a432794f1d14ff25c78d.jpeg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/a5f3fe36b269a432794f1d14ff25c78d.jpeg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/57fa1b4eb99e7c2877bfcf8cc984b487</id>
+    <title>Ілюстрований словник архітектурних термінів (Тетяна  Клименюк)</title>
+    <updated>2025-11-08T17:37:33Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Klymeniuk_Tetiana/Iliustrovanyi_slovnyk_arkhitekturnykh_terminiv/" type="text/html" />
+    <summary>Словник містить 850 статей з архітектури і мистецтва за курсом "Історія архітектури."
+
+
+
+Тлумачення термінів і понять відображають історію й традицію в розвитку архітектури. Подано їхнє походження й довідкові дані. 
+
+
+
+Для студентів-архітекторів, дизайнерів, учителів художньо-мистецького профілю та всіх, хто цікавиться архітектурою.</summary>
+    <author>
+      <name>Тетяна  Клименюк</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/555c32c06313d7bcc474b06fc673298f.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/555c32c06313d7bcc474b06fc673298f.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/8e6ab9a4b8651ecc98c27f9f5dcaec7f</id>
+    <title>1836 рік («Шематизм Львівської архиєпархії»)</title>
+    <updated>2025-11-08T08:41:52Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Shematyzm_Lvivskoi_arkhyieparkhii/1836_rik/" type="text/html" />
+    <summary>Шематизм Львівської архиєпархії — списки духовенства та церковних інституцій Львівської греко-католицької архиєпархії, що видавалися впродовж 1832—1944 років.
+
+У церковних шематизмах публікувалися списки священиків з основними відомостями - роком народження, роком священичого рукоположення та роком початку душпастирської праці на даній парафії. Подавалися всі деканати з підпорядкованими парафіями, а в пізніших шематизмах — стан церковного майна. В новіших виданнях на початку подавали список єпископів і особовий склад катедральної капітули. Поміщена теж інформація про історію і дати будівництва церкви в кожній парафії. Включені також відомості про монахів у всіх монастирях; наприкінці подано списки семінаристів — студентів богослов'я та усіх померлих священиків, індекс парафій та духовенства.</summary>
+    <author>
+      <name>«Шематизм Львівської архиєпархії»</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/48bf7769e64eb466fdf8a86932455658.jpeg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/48bf7769e64eb466fdf8a86932455658.jpeg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/98f8b6f5020c581e42942677e9bc449d</id>
+    <title>Лісовий бог (Ліз  Мур)</title>
+    <updated>2025-11-08T04:03:37Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Mur_Liz/Lisovyi_boh/" type="text/html" />
+    <summary>У серпні 1975 року з табору в Адірондакських горах зникає тринадцятирічна Барбара Ван Лаар – донька його заможних власників. Чотирнадцять років тому в цьому ж місці безвісти зник її старший брат.
+
+
+
+Поки працівники табору й поліція ведуть пошуки, поволі розплутується клубок родинних таємниць, невиправданих очікувань, класового напруження й трагедій, про які всі мовчать.
+
+
+
+  «Лісовий бог» – психологічний трилер і соціальна драма водночас. Це історія зникнення з подвійною часовою лінією, яка стає розповіддю про стосунки багатих і бідних, батьків і дітей, захисників і спостерігачів.</summary>
+    <author>
+      <name>Ліз  Мур</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/83c185bbd229753bb3e92f2ed426ad46.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/83c185bbd229753bb3e92f2ed426ad46.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/cdac24425a75100a295be2b4fd2bd8f8</id>
+    <title>Требізон. Літній семестр (Енн  Діґбі)</title>
+    <updated>2025-11-08T04:00:23Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Digby_Anne/Trebizon_Litnii_semestr/" type="text/html" />
+    <summary>Це перший літній семестр Ребекки, у якому дівчинка постає перед нами як майстерна серфінгістка, спринтерка й кмітливий детектив. От тільки з математикою великі проблеми. Програма школи «Требізон» відрізняється від того, що вона вивчала раніше. Чи допоможе їй новий учитель Макс усе надолужити? Адже від іспиту з математики залежить майбутнє Ребекки!
+
+
+
+
+
+Требізон – 3</summary>
+    <author>
+      <name>Енн  Діґбі</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/8fca6c8b272df622aeae117129fd0028.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/8fca6c8b272df622aeae117129fd0028.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/d0efcd8f0b87543d29789a550c0ff43c</id>
+    <title>Ловці привидів (Олександр  Горбовський)</title>
+    <updated>2025-11-07T10:01:26Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Horbovskyi_Oleksandr/Lovtsi_pryvydiv/" type="text/html" />
+    <summary>В книжці зібрані цікаві факти про шукачів багатства і безсмертя, про різних володарів, які в ім’я влади, панування над людьми топтали в багно честь і совість.</summary>
+    <author>
+      <name>Олександр  Горбовський</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/84524ac5000396a067e5c584ede54fda.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/84524ac5000396a067e5c584ede54fda.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/236ae1e11c7dc98a1769fedef5ad1418</id>
+    <title>Щасливці (Марк  Едвардз)</title>
+    <updated>2025-11-07T09:50:10Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Edvardz_Mark/Schaslyvtsi/" type="text/html" />
+    <summary>У мальовничій місцевості графства Шропшир знову знаходять тіло. Специфічне положення, дивна неприродна усмішка, очі спрямовані в небо. Інспекторка кримінальної поліції Імоджен Еванс одразу ж розуміє, що має справу із серійним убивцею.
+
+
+
+У цьому ж графстві, недалеко від місця подій, живе поглинутий щоденною рутиною Бен. Здається, удача йому нарешті всміхнулася: він знайшов роботу, виграв у лотерею, а його син таки змирився з переїздом і облаштувався на новому місці. Бен навіть не підозрює, що за його життям пильно спостерігають. Ця людина бажає йому справжнього щастя, а після його настання – такої самої щасливої смерті.</summary>
+    <author>
+      <name>Марк  Едвардз</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/99eaa6520d44a4d6a7a1e7a34d9c06a5.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/99eaa6520d44a4d6a7a1e7a34d9c06a5.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/a2c94912e07b52d39e3473a39ffa3205</id>
+    <title>Трипільська пластика з пам'ятки Кошилівці-Обоз (з розкопок Юрія Захарука та Валентини Кравець у 1953р.) (Яна  Яковишина)</title>
+    <updated>2025-11-07T09:44:53Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Yakovyshyna_Yana/Trypilska_plastyka_z_pamiatky_Koshylivtsi-Oboz_z_rozkopok_Yuriia_Zakharuka_ta_Valentyny_Kravets_u_19/" type="text/html" />
+    <summary>Стаття присвячена колекції трипільської пластики, знайденої на Тернопільщині під час розкопок поселення Кошилівці-Обоз у 1953 р.</summary>
+    <author>
+      <name>Яна  Яковишина</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/8d0951cc25747d06c964e17256b8e1e4.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/8d0951cc25747d06c964e17256b8e1e4.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/fcce260d578f2402b3a9fab81082d683</id>
+    <title>Новела як жанр (Наукова-популярна довідка) (Ігор  Качуровський)</title>
+    <updated>2025-11-07T01:00:37Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Kachurovskyi_Ihor/Novela_iak_zhanr/" type="text/html" />
+    <summary>Ігор Качуровський. Новела як жанр (Наукова-популярна довідка). Видавництво «Перемога», Буенос Айрес — 1958</summary>
+    <author>
+      <name>Ігор  Качуровський</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/5a47f67322188db9ec25a174c900be77.png" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/5a47f67322188db9ec25a174c900be77.png" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/3865be8801f58a9d45408bdcb1a8185c</id>
+    <title>Засоби і способи поетичного вислову (Анатоль  Юриняк)</title>
+    <updated>2025-11-07T00:55:21Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Yurinyk_Anatol/Zasoby_i_sposoby_poetychnoho_vyslovu/" type="text/html" />
+    <summary>Анатоль Юриняк. Засоби і способи поетичного вислову (Скорочений курс поетики для шкіл і самонавчання). Літературознавство, випуск ч. 2. Новий Ульм — 1966</summary>
+    <author>
+      <name>Анатоль  Юриняк</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/277d214ba2cb734d57065afac8136772.png" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/277d214ba2cb734d57065afac8136772.png" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/b5db754d6cb5f46e949a05ed3039e200</id>
+    <title>Історія спотвореного кохання (Саманта  Давнінг)</title>
+    <updated>2025-11-06T19:45:59Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Davninh_Samanta/Istoriia_spotvorenoho_kokhannia/" type="text/html" />
+    <summary>Вес та Айві шалено закохані. Це романтика, про яку пишуть книжки. З одного боку – квіти, широкі жести, змістовні розмови, і, здається, весь світ завмирає, поки вони разом. З іншого – ревнощі, бійки, потрощене майно й виклики поліції. Ігри розуму, токсичність, маніпуляції. І так протягом десяти років…
+
+
+
+Одного дня замкнене коло катастрофічних розривів і стрімких возз’єднань розривається: у Веса й Айві з’являється спільний ворог – детективка Карен Колґлейзер. Бо є дещо, про що вони мовчать і в хороші часи, і в погані: у ніч їхнього найгіршого розриву хтось із них зайшов занадто далеко, і це призвело до смерті.
+
+
+
+Якщо вони зможуть триматися разом, то переживуть будь-що, навіть розслідування. А ще один розрив може стати для них останнім…</summary>
+    <author>
+      <name>Саманта  Давнінг</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/b7a95ea00a531b614b134205a00de764.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/b7a95ea00a531b614b134205a00de764.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/02097577d45a4a67b8d20b6cc630ab2e</id>
+    <title>Нільс Люне (Єнс Петер  Якобсен)</title>
+    <updated>2025-11-06T19:43:53Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Yakobsen_Yens_Peter/Nils_Liune/" type="text/html" />
+    <summary>Роман «Нільс Люне» (1880) – глибокий філософсько-психологічний твір данського письменника Єнса Петера Якобсена, у якому порушено питання формування особистості, віри та сенсу життя. Головний герой, Нільс Люне, проходить шлях від дитинства до зрілості, намагаючись знайти своє місце у світі, зрозуміти природу кохання, релігії та людської свободи. Автор майстерно поєднує реалістичне зображення побуту з ліризмом і філософськими роздумами, створюючи глибокий психологічний портрет людини, що шукає істину у світі, сповненому сумнівів і суперечностей.</summary>
+    <author>
+      <name>Єнс Петер  Якобсен</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/6155dd6ab67e3cf1948fc0cc1a97b19f.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/6155dd6ab67e3cf1948fc0cc1a97b19f.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/563d2201555c146ff0185a0f0c605e3e</id>
+    <title>Антологія світової лірики (Збірник)</title>
+    <updated>2025-11-06T19:11:50Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Zbirka/Antolohiia_svitovoi_liryky/" type="text/html" />
+    <summary>Трьохтомник «Антологія світової лірики» містить досконалі зразки пейзажної, інтимної та
+
+філософської лірики, написані на українській мові (104 вірші) чи перекладені з інших мов.
+
+Загальний обсяг: 198 віршів.
+
+Перший том («Пори року») утворений із чотирьох частин: «Весна»; «Літо»; «Осінь»; «Зима».
+
+Другий том – «Музика серця» (інтимна лірика).
+
+Третій том – «Меди мудрості» (філософська лірика).
+
+До Антології увійшли ліричні вірші українських поетів: Тараса Шевченка, Леоніда Глібова,
+
+Лесі Українки, Івана Франка, Володимира Сосюри, Ліни Костенко, Василя Симоненка, Ольги Кирій, Петра Скунця, Мартина Полтави, Віктора Кирія. А також – досконалі поетичні переклади із різних мов найкращих зразків світової лірики. Переклади із Горація Флакка, Омара Хайяма, Вальтера фон дер Фоґельвайде, Вагантів, Франческо Петрарки, Джефрі Чосера, Франсуа Війона, Мікеланджело Буонарроті, Вільяма Шекспіра, Йогана Вольфґанґа Гете, Роберта Бернса, Вільяма Вордсворта, Томаса Мура, Джорджа Байрона, П’єр-Жана Беранже, Гюстава Надо, Тумаса Транстремера.
+
+Також тут можна прочитати найкращі зразки класичної російської та російськомовної лірики – переклади із Алєксандра Пушкіна, Євгена Боратинського, Міхаіла Лєрмонтова, Фьодора Тютчєва, Афанасія Фета, Івана Нікітіна, Сєргєя Єсєніна, Ігоря Сєвєряніна, Максиміліана Волошина, Анни Ахматової, Марини Цвєтаєвої. Вірші впорядковані в Антології не лише за тематикою, але й за хронологією – відповідно до року народження того чи іншого поета (не залежно від того – переклад це чи оригінал).</summary>
+    <author>
+      <name>Збірник</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/6bcdd2771cfd1f9ba56ebb0161218a5a.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/6bcdd2771cfd1f9ba56ebb0161218a5a.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/5737bd5dd4c5c3d5ea5dcf32a1966949</id>
+    <title>Рефлексивна соціологія (П'єр   Бурдьє)</title>
+    <updated>2025-11-06T17:56:40Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Pierre_Bourdieu/Refleksyvna_sotsiolohiia/" type="text/html" />
+    <summary>«Рефлексивна соціологія» є першим в Україні вступом до наукового доробку найвидатнішого французького соціолога 20-го ст. П’єра Бурдьє (1930-2002). Книга базується на семінарі в Чиказькому університеті, організованому для ознайомлення американської аудиторії з теоретичними й методологічними принципами його досліджень. У діалозі зі своїм учнем і колегою Лоїком Ваканом Бурдьє пояснює значення своїх ключових понять, відповідає на закиди критиків і звертає особливу увагу на потребу рефлексивності та включення теорії інтелектуальної практики до ширшої теорії про суспільство. Книга доповнена детальними примітками і списком літератури, що робить це видання незамінним для науковців, студентів і всіх, хто цікавиться соціологічними, політичними, економічними, історичними та філософськими темами.</summary>
+    <author>
+      <name>П'єр   Бурдьє</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/5cb0cc08bfd0c79b013cdff65f14c5d6.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/5cb0cc08bfd0c79b013cdff65f14c5d6.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/bfddd903a6e538500a0d60a08324b836</id>
+    <title>Морфологія трипільського столового посуду середнього періоду (за матеріалами із поселень Верхнього і Середнього Подністров'я) (Назарій  Данильчук)</title>
+    <updated>2025-11-06T17:54:16Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Danylchuk_Nazarii/Morfolohiia_trypilskoho_stolovoho_posudu_serednoho_periodu_za_materialamy_iz_poselen_Verkhnoho_i_Ser/" type="text/html" />
+    <summary>У статті досліджено форми посуду, що побутували у трипільській культурі в період розквіту. У висновку ми підсумували типові вироби та архаїку, що була типова для раннього Трипілля.</summary>
+    <author>
+      <name>Назарій  Данильчук</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/ef8ff317ba1d728921a6cea71ff3e840.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/ef8ff317ba1d728921a6cea71ff3e840.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/e545a1acdd84a1bbbf0958cefedcaaa6</id>
+    <title>Нескорена (Вероніка  Рот)</title>
+    <updated>2025-11-06T10:00:21Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Rot_Veronika/Neskorena/" type="text/html" />
+    <summary>В Чикаго далекого майбутнього все не так, як сьогодні. Шістнадцятирічна Беатрис стоїть перед вибором: вона має приєднатися до однієї з п՚ятьох наперед визначених фракцій, що й вирішить її долю до кінця життя. Але рішення виявляється не таким простим, адже Беатрис не така, як усі, й у наперед визначені рамки вона не пасує. Та й світ, у якому вона живе, схоже, не такий уже й ідеальний. 
+
+ 
+
+
+
+Дивергент – 1</summary>
+    <author>
+      <name>Вероніка  Рот</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/c37d3354bf783ec730e5d98c9055814f.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/c37d3354bf783ec730e5d98c9055814f.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/1a17b696a42f111fb6c63c5661c5a105</id>
+    <title>Літературний твір і його автор (Анатоль  Юриняк)</title>
+    <updated>2025-11-06T05:10:33Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Yurinyk_Anatol/Literary_work_and_his_author/" type="text/html" />
+    <summary>Анатоля Юриняк. Літературний твір і його автор (Монографія літературного факту і критичні нариси)
+
+Видавництво «Перемога», Буенос Айрес, Аргентина — 1955</summary>
+    <author>
+      <name>Анатоль  Юриняк</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/dbd7272c4c878350d1ac570051cba4ff.png" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/dbd7272c4c878350d1ac570051cba4ff.png" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/239dc93151fbf528fe1bd63a549f668c</id>
+    <title>Старожитності Посулля – 2017 (Збірник статей)</title>
+    <updated>2025-11-05T18:29:33Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Zbirnyk_statei/Starozhytnosti_Posullia_2017/" type="text/html" />
+    <summary>Старожитності Посулля = Antiquities of the Sula Regions. Пам’яті С.К.Кульжинського (1867–1943): збірник наукових праць / Центр пам’яткознавства НАН України і УТОПІК; Центр охорони та досліджень пам’яток археології Управління культури Полтавської облдержадміністрації; управління культури і мистецтв виконкому Лубенської міськради; Лубенський краєзнавчий музей. – К.: Центр пам’яткознавства НАН України та УТОПІК, 2017. – 184 с., іл., IV кол. вкл.
+
+
+
+
+
+Вміщені статті музейників та археологів – дослідників старожитностей Посулля і музейних колекцій. Особлива увага в роботах приділена науковій та музейній спадщині відомого лубенського етнографа, краєзнавця і педагога Сергія Климентійовича Кульжинського (1867–1943), світлій пам’яті якого присвячений цей збірник.
+
+
+
+Для археологів, істориків, пам’яткоохоронців, працівників музеїв і краєзнавців, усіх, хто цікавиться стародавньою історією Посулля і Полтавщини.</summary>
+    <author>
+      <name>Збірник статей</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/b88bb97714d1a3fe681f2484d523fbdd.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/b88bb97714d1a3fe681f2484d523fbdd.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/85790a39a09bb3dd50872b56fe46b948</id>
+    <title>Старожитності Посулля – 2016 (Збірник статей)</title>
+    <updated>2025-11-05T18:27:58Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Zbirnyk_statei/Starozhytnosti_Posullia_2016/" type="text/html" />
+    <summary>Старожитності Посулля = Antiquities of the Sula Regions: збірник наукових праць / Центр пам’яткознавства НАН України і УТОПІК; Центр охорони та досліджень пам’яток археології Управління культури Полтавської облдержадміністрації; управління культури і мистецтв виконкому Лубенської міськради; Лубенський краєзнавчий музей. – К.: Центр пам’яткознавства НАН України та УТОПІК, 2016. – 176 с.
+
+ISBN 978-966-8999-76-5
+
+
+
+
+
+Вміщені статті археологів та музейників – дослідників старожитностей Посулля епох палеоліту – пізнього середньовіччя. Особлива увага у представлених роботах приділена науковій спадщині відомого лубенського археолога, краєзнавця і педагога Федора Івановича Камінського (1845–1891), світлій пам’яті якого присвячений цей збірник.
+
+
+
+Для археологів, істориків, пам’яткоохоронців, працівників музеїв і краєзнавців, усіх, хто цікавиться стародавньою історією Посулля.</summary>
+    <author>
+      <name>Збірник статей</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/c692574882fbb44acff33653182c8f8a.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/c692574882fbb44acff33653182c8f8a.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/5a1cdb199d9dd3814959714a9f48b8dd</id>
+    <title>Вибух на світанку (збірка) (Яків  Стецюк)</title>
+    <updated>2025-11-05T18:22:07Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Stetsiuk_Yakiv/Vybukh_na_svitanku/" type="text/html" />
+    <summary>Однотомник українського радянського письменника складаюсь його кращі повісті, в яких розповідається про сучасне село, про трудівників Полісся, про мужність радянських партизанів в роки Великої Вітчизняної війни.
+
+
+
+
+
+Увага!!! Ця книга містить елементи комуністичної пропаганди!</summary>
+    <author>
+      <name>Яків  Стецюк</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/45a8243f23ce8fbae469c5af8ae29f71.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/45a8243f23ce8fbae469c5af8ae29f71.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/00c7b12c064fbbb3b3d02f97b616b0dc</id>
+    <title>Після імперії. Есе про загнивання американської системи (Емманюель  Тодд)</title>
+    <updated>2025-11-05T15:36:32Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Todd_Emmaniuel/Pislia_imperii_Ese_pro_zahnyvannia_amerykanskoi_systemy/" type="text/html" />
+    <summary>ТОДД Емманюель
+
+Після імперії. Есе про загнивання американської системи / Переклад з французької Зої Борисюк. – Львів: Кальварія, 2006. – 188 с.
+
+ISBN 966-663-205-5
+
+
+
+Американської імперії не буде – світ надто просторий, надто розмаїтий, надто динамічний, аби прийняти зверхність якоїсь однієї держави. США були необхідними для підтримання рівноваги в світі, нині вони потребують субсидій усього світу для забезпечення існуючого рівня життя. Не маючи більше сили контролювати Європу, Росію, Японію і Китай з економічної та стратегічної точок зору, Америка програє останню партію за втримання світу. Вона знову стане просто великою могутньою країною. Однією з...</summary>
+    <author>
+      <name>Емманюель  Тодд</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/8c9979232921431294672789792bd4c3.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/8c9979232921431294672789792bd4c3.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/066e82998538cbd69d71107ab023ec6b</id>
+    <title>Київщина: короткий путівник (Василь Павлович  Діденко)</title>
+    <updated>2025-11-05T11:39:14Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Didenko_Vasyl_Pavlovych/Kyivschyna_korotkyi_putivnyk/" type="text/html" />
+    <summary>Київщина: короткий путівник.
+
+Автори: Михайло Іванович Сікорський; Олександр Дмитрович Батушан; Василь Павлович Діденко.
+
+Політвидав України, Київ – 1976.
+
+
+
+
+
+Цей путівник знайомить з найважливішими і найцікавішими місцями столичної області України, археологічними пам’ятками, дає короткі відомості про визначні події, що відбувалися на Київщині, про героїв громадянської і Великої Вітчизняної воєн, героїв праці, видатних діячів науки і культури, якими славиться і гордиться Київська земля, знайомить з тими змінами, що сталися в житті краю за роки Радянської влади, з величними звершеннями трудящих Київщини.
+
+
+
+Автори пропонують чотири маршрути. Кожен з них можна почати як у Києві, так і в першому населеному пункті кожного маршруту. До путівника не ввійшли відомості про обласний центр, столицю Радянської України – Київ, оскільки по ньому є окремі путівники.
+
+
+
+
+
+Увага!!! Ця книга містить елементи комуністичної пропаганди!</summary>
+    <author>
+      <name>Василь Павлович  Діденко</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/b0083ccf31da6d6af7b1da36da81747c.png" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/b0083ccf31da6d6af7b1da36da81747c.png" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/7dee6f526c70f39aa87c4d52eeba889e</id>
+    <title>Як розвивалося життя на Землі (Ігор  Люрин)</title>
+    <updated>2025-11-05T11:13:08Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Liuryn_Ihor/Yak_rozvyvalosia_zhyttia_na_Zemli/" type="text/html" />
+    <summary>Люрин І.Б. і Уткін В.С.
+
+Як розвивалося життя на Землі. – К., «Рад. школа», 1978. – 127 с. з іл. (Б-чна серія). 90 000 пр. Ціна в оправі №5 – 30 к., ціна в оправі №4 – 35 к.
+
+
+
+
+
+Книжка ознайомлює читача з історією розвитку життя на Землі. У ній показано, як виникали, набували панівного значення і зникали рослини й тварини у різні геологічні епохи. Еволюційний процес органічного світу описано за палеонтологічними ерами і періодами. 
+
+
+
+Розрахована на учнів середнього і старшого шкільного віку.</summary>
+    <author>
+      <name>Ігор  Люрин</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/1a876e82f5c81603eb1807e5bfb65824.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/1a876e82f5c81603eb1807e5bfb65824.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/5a236627f7c3e3d48283ecf85ed07ca7</id>
+    <title>Пригоди великих рівнянь, або низка розповідей та інших цікавих історій про багато речей – про громи, блискавки, каравели, супутники, про риб, диваків – одне слово, про все те, що має відношення до рівнянь Максвелла (Володимир  Карцев)</title>
+    <updated>2025-11-05T11:06:14Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Kartsev_Volodymyr/Pryhody_velykykh_rivnian_abo_nyzka_rozpovidei_ta_inshykh_tsikavykh_istorii_pro_bahato_rechei__pro_hr/" type="text/html" />
+    <summary>Карцев В.П.
+
+Пригоди великих рівнянь: Науково-художня книжка. Для серед. та ст. шкіл. в. (Пер. з рос. А.М.Тарана. Худож. Ю.Ю.Жолудев). – К.: Веселка, 1981. – 263 с., іл.
+
+
+
+
+
+Історія пізнання електрики сповнена несподіванок і драматизму Серед тих, хто «робив» цю історію, ми знайдемо людей найрізноманітніших професій: фізика, лікаря, палітурника, столяра, державного діяча. Різними були їхні долі.
+
+
+
+У книжці читач зустрінеться з учасниками перших мандрівок навколо світу, дізнається про електричних риб, про спроби оживити людину за допомогою електрики, про інші цікаві речі...</summary>
+    <author>
+      <name>Володимир  Карцев</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/e267613ca14cfcae75c25aad484d65a9.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/e267613ca14cfcae75c25aad484d65a9.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/f8ca555cc05b26ccaf76a8b212cda721</id>
+    <title>В океані звукових сигналів (Валерій Леонідович  Карлаш)</title>
+    <updated>2025-11-05T11:03:49Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Karlash_Valerii/V_okeani_zvukovykh_syhnaliv/" type="text/html" />
+    <summary>Карлаш В.Л.
+
+В океані звукових сигналів. Наук.-попул. книжка. Для серед. та ст. шкіл. в. (Худож. Ю.Ю.Жолудев). – К.: Веселка, 1980. – 142 с., іл.
+
+
+
+Автор, кандидат фізико-математичних наук, розповідає про звукові явища в природі, про використання нечутних звуків, про звук в кіно й побутовому звукозаписі. В книжці також дані поради, як поліпшити якість звучання побутових радіопристроїв.</summary>
+    <author>
+      <name>Валерій Леонідович  Карлаш</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/afbeb368d3bb21262d340d49a6223a1f.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/afbeb368d3bb21262d340d49a6223a1f.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/fe2d245557e80ab29f726c51d7f9598c</id>
+    <title>Опалення (Микола Матвійович  Артюшенко)</title>
+    <updated>2025-11-05T10:52:51Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Artiushenko_Mykola_Matviiovych/Opalennia/" type="text/html" />
+    <summary>Артюшенко М.М. Опалення. – Київ: Будівельник, 1975. – 64 с.
+
+
+
+
+
+У брошурі подано практичні поради забудовникам як улаштовувати найпростіші місцеві системи опалення. Розглянуто такі питання: різновиди систем водяного опалення; гаряче водопостачання, суміщене з поквартирними системами опалення; нагрівальні прилади; генератори тепла; пічне опалення. Наведені рекомендації допоможуть забудовникам власними силами відремонтувати печі. 
+
+
+
+Брошура розрахована на широке коло читачів.
+
+
+
+#техкнигозбірня  #tehknygozbirnia</summary>
+    <author>
+      <name>Микола Матвійович  Артюшенко</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/2b4ea72dd7b46e8ee850f424f1817c13.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/2b4ea72dd7b46e8ee850f424f1817c13.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/fcec00341632205b2a9c04916de655d6</id>
+    <title>Один із небагатьох! Минуле із роздумами, описане бойком правдивим Люпком із Торхова про бойка чернігівського Віктора Кирія (Любомир  Сікора)</title>
+    <updated>2025-11-05T08:25:07Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Sikora_Liubomyr/Odyn_iz_nebahatokh_Mynule_iz_rozdumamy_opysane_boikom_pravdyvym_Liupkom_iz_Torkhova_pro_boika_cherni/" type="text/html" />
+    <summary>Автор даного есе мемуарно-біографічного характеру –
+
+світлої пам’яті голова Науково-культурологічного Товариства Бойківщина та ВГО «Бойківське етнологічне товариство», дослідник бойківського діалекту і відомий громадський діяч Любомир Сікора – ділиться спогадами про свою наукову співпрацю із Віктором Кирієм – істориком, філологом, шекспірознавцем,
+
+новелістом, поетом, художником, біблеїстом, блогером. Есе написане барвистою мовою із вжитком лексики бойківського діалекту та вирізняється вкрай оригінальним викладом думок автора.</summary>
+    <author>
+      <name>Любомир  Сікора</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/7defdf5daa1440850939af75f3b6979d.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/7defdf5daa1440850939af75f3b6979d.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/1206c39cc677ef8adb853e105c5e7734</id>
+    <title>На скелях та в глибині печер (Борис  Лобановський)</title>
+    <updated>2025-11-05T06:44:58Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Lobanovskyi_Borys/Na_skeliakh_ta_v_hlybyni_pecher/" type="text/html" />
+    <summary>У глибинах печер знаходять розписи і рельєфи, а на стійбищах прадавніх мисливців археологи виявляють кістки, на яких збереглися малюнки з таємничими знаками ‒ мовчазні свідки далекого минулого.
+
+
+
+А чи не можна за допомогою нових методів науки почати розмову з нашими давніми предками?
+
+
+
+Книжка ознайомить учнів з першовідкривачами первісного мистецтва, розкаже про його походження і значення.</summary>
+    <author>
+      <name>Борис  Лобановський</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/7bd32f32cc90e21c0ab4357717f017c6.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/7bd32f32cc90e21c0ab4357717f017c6.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/6773ffaece7c07a499b1027ee6f48c6b</id>
+    <title>Давньоруські любомудри (Вілен  Горський)</title>
+    <updated>2025-11-05T05:00:48Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Horskyy_Vilen/Davnoruski_liubomudry/" type="text/html" />
+    <summary>Давньоруські любомудри / В.Горський, О.Вдовина, Ю.Завгородній, О.Киричок. – К.: Вид. дім «КМ Академія», 2004. – 304 с. – Бібліогр.: с. 286–296.
+
+ISBN 966-518-243-9
+
+
+
+
+
+Книгу присвячено аналізу творчості плеяди давньоруських інтелектуалів-книжників. На ґрунті дослідження текстів Іларіона Київського, Климента Смолятича, Нестора, ігумена Данила, Кирила Туровського та Володимира Мономаха відтворюється образ світу, розуміння людини, її покликання, етичні засади, що визначали зміст світорозуміння в культурі Київської Русі. Здійснено спробу виявити комплекс ідей, що в подальшому зумовлювали особливості розвитку вітчизняної філософської думки.
+
+
+
+Адресовано фахівцям, аспірантам, студентам, усім, хто цікавиться історією рідної культури.</summary>
+    <author>
+      <name>Вілен  Горський</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/d19099ceeef00fc4d8ff1cb89f9ec9ec.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/d19099ceeef00fc4d8ff1cb89f9ec9ec.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/fcc30d46060316967093eae470bcd310</id>
+    <title>Пані Марія Груббе (Єнс Петер  Якобсен)</title>
+    <updated>2025-11-05T04:49:34Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Yakobsen_Yens_Peter/Pani_Mariia_Hrubbe/" type="text/html" />
+    <summary>У романі розповідається історія жінки XVII століття, Марії Груббе, яка прагне особистої свободи й справжніх почуттів, відмовляючись жити за суворими соціальними нормами свого часу. Її життєвий шлях – від шляхетної пані до дружини простого перевізника – стає символом боротьби між природними людськими прагненнями та суспільними обмеженнями. Роман вирізняється глибоким психологізмом, поетичністю мови та філософськими роздумами про природу кохання і долю людини.</summary>
+    <author>
+      <name>Єнс Петер  Якобсен</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/8ece69d449371105a5e0be4b9efbe16c.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/8ece69d449371105a5e0be4b9efbe16c.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/89f64b42fdbde0c470639b01b536eaa0</id>
+    <title>Сучасні літературні енциклопедії: світовий досвід (Авторський колектив)</title>
+    <updated>2025-11-05T04:48:30Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Suchasni_literaturni_entsyklopedii_svitovyi_dosvid/" type="text/html" />
+    <summary>Сучасні літературні енциклопедії: світовий досвід. Колективна монографія / за ред. Галини Сиваченко. – Київ: НАН України, Інститут літератури ім. Т.Г.Шевченка, 2024. – 416 с.
+
+ISBN 978-617-14-0285-0 (е-вид.)
+
+
+
+У монографії проаналізовано провідний досвід зарубіжних країн у підготовці найсучасніших наукових видань літературознавчих енциклопедій – паперових та електронних їх версій. Колективне дослідження висвітлює практику підготовки літературних енциклопедій у країнах зарубіжжя, у виданні осібно проаналізовано енциклопедистику української діаспори, розкрито особливості провідних літературознавчих енциклопедій Північного та Південного американських континентів, Західної та Східної Європи, досліджено окремі інтернет сайти. На основі аналізу найсучаснішого зарубіжного досвіду підготовки паперових літературознавчих енциклопедій та провідних світових сайтів літературознавчого спрямування сформовано концептуальні принципи створення наукового друкованого видання «Українська літературна енциклопедія» та інтернет-сайту «Українська літературна енциклопедія».</summary>
+    <author>
+      <name>Авторський колектив</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/e29bb0510a5a587fcedb999bc4337737.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/e29bb0510a5a587fcedb999bc4337737.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/1d56bf564d6e954762e7056379626354</id>
+    <title>Соціальні очікування як чинник конструювання взаємодій в умовах суспільної нестабільності (Авторський колектив)</title>
+    <updated>2025-11-05T04:32:00Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Avtorskyi_kolektyv/Sotsialni_ochikuvannia_iak_chynnyk_konstruiuvannia_vzaiemodii_v_umovakh_suspilnoi_nestabilnosti/" type="text/html" />
+    <summary>Соціальні очікування як чинник конструювання взаємодій в умовах суспільної нестабільності: монографія / за ред. О.Злобіної.  – Київ: Інститут соціології НАН України, 2025. – 353 с.
+
+ISBN-978-617-14-0406-9
+
+
+
+
+
+Монографія є комплексним дослідженням ролі соціальних очікувань у процесі відновлення та підтримки соціальної впорядкованості в ситуації постійної екзистенційної загрози. Визначено епістемологічні та концептуальні рамки, які дають змогу розглядати питання соціології майбутнього в екстремальній ситуації війни. Здійснено соціальну типологізацію очікувань, визначено особливості їх розгортання у темпоральному просторі, розглянуто раціональні та нераціональні підстави формування масових очікувань. На основі проведених кількісних і якісних емпіричних досліджень розглянуто соціальні очікування щодо майбутнього країни, її економічного розвитку, розвитку демократії, досліджено трансформацію наративів майбутнього в дискурсі російсько­української війни, зокрема бачення майбутніх українсько­російських відносин. Окрему увагу приділено українсь­ким воєнним мігрантам та їхнім очікуванням щодо повернення на батьківщину. 
+
+
+
+Адресована науковцям, викладачам, студентам, представникам громадських організацій, державним службовцям і політикам.
+
+
+
+Соц 70</summary>
+    <author>
+      <name>Авторський колектив</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/5d72821884b9175e9128e21af7e7d0b3.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/5d72821884b9175e9128e21af7e7d0b3.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/7093bdd9c0005959eb388b96e78c0842</id>
+    <title>Периферал (Вільям  Ґібсон)</title>
+    <updated>2025-11-05T04:16:21Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Gibson_William/Peryferal/" type="text/html" />
+    <summary>Вільям Ґібсон справедливо вважається батьком кіберпанку, а багато його передбачень, зроблених ще на початку 80-х років минулого сторіччя, лише зараз починають справджуватися або ж невдовзі стануть реальністю, оскільки вже тепер зрозуміло, що наш світ, так чи інакше, але таки рухається приблизно за сценарієм Ґібсона.
+
+
+
+Як бути, коли дізнаєшся, що увесь твій світ – лише примха, іграшка в руках розбещеного багатія, а звичайні комп’ютерні ігри і симулятори мають набагато більший вплив на реальність, аніж здається? Який він – доторк майбутнього? І яке воно взагалі, те наше майбутнє? Який запах у альтернативного Лондона, який у певному сенсі може виявитися реальнішим за звичний нам, і куди з його вулиць поділися люди? З часу, коли Флінн уперше сіла зіграти в імітацію дивної реальності, клубок питань, здогадок і приголомшливих відкриттів затягується лише тугіше, а правда, як завжди, виявляється ще неймовірнішою, аніж найхимерніші припущення.
+
+
+
+Роман «Периферал», що відкриває нову авторську трилогію «Джекпоту», можна умовно віднести до жанру посткіберпанку. Письменник звертається до теми паралельних світів і глобальних катастроф, відштовхуючись від тривожних тенденцій сьогодення, розмірковує над найближчим майбутнім і можливими сценаріями краху, а точніше, глобальної видозміни нашої цивілізації. В інтерпретації Ґібсона технологічні дива найближчого майбутнього постають ще дивовижнішими і водночас ще жорстокішими, а людство дробиться і віддзеркалюється у нескінченних часопросторових відгалуженнях.</summary>
+    <author>
+      <name>Вільям  Ґібсон</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/b6282fb44ba0be407c5c58d79a0f53eb.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/b6282fb44ba0be407c5c58d79a0f53eb.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/dbd2ffc33e57e948fd02e17fd7529149</id>
+    <title>Моторошне (Блейк  Крауч)</title>
+    <updated>2025-11-04T05:15:39Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Krauch_Bleik/Motoroshne/" type="text/html" />
+    <summary>Автор легендарної трилогії «Сосни» об’єднався зі своїм молодшим братом. Разом вони створили цей пронизливий готичний трилер у найкращих традиціях «Сяйво» та «Шостого почуття». 
+
+
+
+Восени 1980 року семирічний Грант та його п’ятирічна сестра Пейдж мало не загинули в моторошній аварії, причини якої так і не з’ясовані. Не загинули, але залишилися сиротами.
+
+
+
+Минуло тридцять із гаком років. Тепер Грант – детектив поліцейського управління Сієтла. Розслідуючи зникнення клієнтів елітної повії, він з’ясовує, що ця повія – Пейдж. Збираючись до сестри додому, брат не підозрює, який жах чекає його там.
+
+
+
+Їм доведеться разом протистояти надприродному жаху. І відкрити таємницю зі свого минулого, що цей жах породила…</summary>
+    <author>
+      <name>Блейк  Крауч</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/d76618977aba610a2bbcd2cbcff20b97.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/d76618977aba610a2bbcd2cbcff20b97.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/100e3882655efe0bad12fd80c3d00958</id>
+    <title>Медичне забезпечення антитерористичної операції та операції Об’єднаних сил: науково-допоміжний бібліографічний покажчик. Вип. 1 (Лідія  Корнілова)</title>
+    <updated>2025-11-03T17:24:12Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Kornilova_Lidiia/Medychne_zabezpechennia_antyterorystychnoi_operatsii_ta_operatsii_Obiednanykh_syl_1/" type="text/html" />
+    <summary>Перший випуск науково-допоміжного бібліографічного покажчика «Медичне забезпечення антитерористичної операції та операції Об’єднаних сил» присвячено актуальним проблемам розвитку системи медичного забезпечення Збройних Сил України під час проведення АТО/ООС (2014–2020).
+
+
+
+У виданні представлено нормативно-правову базу з досліджуваного питання, вміщено матеріали, в яких розкрито організаційні засади надання медичної допомоги пораненим і хворим, особливості організації хірургічної та терапевтичної допомоги, здійснено ґрунтовний аналіз проблеми негативних психічних станів військовослужбовців, посттравматичного стресового розладу, медичної та медико-психологічної допомоги і реабілітації учасників АТО/ООС.
+
+
+
+В окремих розділах відображено публікації, в яких описано досвід виконання судово-медичних експертиз у випадках загибелі учасників АТО/ООС, визначено основні завдання, які стоять перед санітарно-епідеміологічною службою МО України, відображено публікації про організацію медичного постачання (медичної логістики) в районах проведення АТО/ООС. У заключному розділі представлено бібліографічні посібники з актуальних питань медичного забезпечення АТО/ООС.
+
+
+
+Видання адресовано науковим працівникам, військовим і цивільним лікарям, здобувачам медичної освіти, фахівцям інформаційної та бібліотечної справи й усім, хто цікавиться питаннями медичного забезпечення АТО/ООС.</summary>
+    <author>
+      <name>Лідія  Корнілова</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/b1b9b412e2022e32f9ef836b78811894.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/b1b9b412e2022e32f9ef836b78811894.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/6195ce02fca25b7a54ce3b214f21f955</id>
+    <title>Требізон. Другий семестр (Енн  Діґбі)</title>
+    <updated>2025-11-02T14:10:30Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Digby_Anne/Trebizon_Druhyi_semestr/" type="text/html" />
+    <summary>У другому семестрі Ребекка абсолютно не розуміє поведінки Тіш. Її настрій змінюється по кілька разів на день, вона намагається контролювати життя Сью і серйозно підставляє Ребекку перед усію школою. Що сталося з доброю, милою Тіш? Невже все через бажання обіймати важливу посаду в школі? Хіба це важливіше за дружбу? 
+
+ 
+
+
+
+Требізон – 2</summary>
+    <author>
+      <name>Енн  Діґбі</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/8bc15d91553f2aebc97e6899fbd92b65.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/8bc15d91553f2aebc97e6899fbd92b65.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+  <entry>
+    <id>https://chtyvo.org.ua/guid/1fbbaa7e9792b82d2442cfdee9abc096</id>
+    <title>Требізон. Перший семестр (Енн  Діґбі)</title>
+    <updated>2025-11-02T14:02:14Z</updated>
+    <link rel="alternate" href="https://chtyvo.org.ua/authors/Digby_Anne/Trebizon_Pershyi_semestr/" type="text/html" />
+    <summary>Ребекка вимушена полишити своїх друзів і спокійне життя в Лондоні, щоб стати другокурсницею в школі-інтернат «Требізон». Проте на курсі дівчатка вже знайшли собі подруг, через що Ребецці семестр віщує залишитися самотою. А як так, то Ребекка кине всі сили, щоб про неї дізналися. До чого призведуть її амбіції, та якими виявляться на смак дружба і зрада? 
+
+ 
+
+
+
+Требізон – 1</summary>
+    <author>
+      <name>Енн  Діґбі</name>
+    </author>
+    <link rel="http://opds-spec.org/image" href="https://chtyvo.org.ua/content/covers/be1add0ccb5c96cbc263b7b17347a9a2.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://chtyvo.org.ua/content/covers/be1add0ccb5c96cbc263b7b17347a9a2.jpg" type="image/jpeg" />
+    <category term="Українська література" label="Українська література" />
+  </entry>
+</feed>
