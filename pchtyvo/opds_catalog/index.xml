@@ -6,7 +6,7 @@
   <link href="/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>Літера А</title>
-    <id>/A/index.xml</id>
+    <id>A/index.xml</id>
     <link href="/A/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   </entry>
   <entry>
