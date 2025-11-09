@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>2001, №1-2 (245)</title>
+  <title>«Архіви України» » 2001, №1-2 (245)</title>
   <id>/A/Arkhivy_Ukrainy/2001_N1-2_245.xml</id>
-  <updated>2025-11-09T13:33:11Z</updated>
+  <updated>2025-11-09T13:54:13Z</updated>
   <link href="/A/Arkhivy_Ukrainy/2001_N1-2_245.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>2001, №1-2 (245)</title>
+    <title>«Архіви України» » 2001, №1-2 (245)</title>
     <id>https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/2001_N1-2_245/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/2001_N1-2_245/" rel="alternate" type="text/html"/>
   </entry>
 </feed>

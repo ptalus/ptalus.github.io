@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>2014, №1 (1)</title>
+  <title>«Апокриф» » 2014, №1 (1)</title>
   <id>/A/Apokryf/2014_N1_1.xml</id>
-  <updated>2025-11-09T13:32:53Z</updated>
+  <updated>2025-11-09T13:53:22Z</updated>
   <link href="/A/Apokryf/2014_N1_1.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>2014, №1 (1)</title>
+    <title>«Апокриф» » 2014, №1 (1)</title>
     <id>https://chtyvo.org.ua/authors/Apokryf/2014_N1_1/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Apokryf/2014_N1_1/" rel="alternate" type="text/html"/>
   </entry>
 </feed>

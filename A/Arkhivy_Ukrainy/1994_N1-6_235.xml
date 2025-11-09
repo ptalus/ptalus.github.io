@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>1994, №1-6 (235)</title>
+  <title>«Архіви України» » 1994, №1-6 (235)</title>
   <id>/A/Arkhivy_Ukrainy/1994_N1-6_235.xml</id>
-  <updated>2025-11-09T13:33:06Z</updated>
+  <updated>2025-11-09T13:53:57Z</updated>
   <link href="/A/Arkhivy_Ukrainy/1994_N1-6_235.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>1994, №1-6 (235)</title>
+    <title>«Архіви України» » 1994, №1-6 (235)</title>
     <id>https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1994_N1-6_235/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/1994_N1-6_235/" rel="alternate" type="text/html"/>
   </entry>
 </feed>

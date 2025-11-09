@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Юридичний путівник автомобіліста</title>
+  <title>О.В. Абакуменко » Юридичний путівник автомобіліста</title>
   <id>/A/Abakumenko_OV/Yurydychnyi_putivnyk_avtomobilista.xml</id>
-  <updated>2025-11-09T13:33:26Z</updated>
+  <updated>2025-11-09T13:54:53Z</updated>
   <link href="/A/Abakumenko_OV/Yurydychnyi_putivnyk_avtomobilista.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Юридичний путівник автомобіліста</title>
+    <title>О.В. Абакуменко » Юридичний путівник автомобіліста</title>
     <id>https://chtyvo.org.ua/authors/Abakumenko_OV/Yurydychnyi_putivnyk_avtomobilista/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <summary>У пропонованому навчально-практичному посібнику детально і систематизовано на основі чинного законодавства і практики його застосування розкриваються основні аспекти прав водія транспортного засобу, автовласника й автомобіліста, а також механізми їх реалізації і захисту.Авторами розглядаються загальні положення, які необхідно знати кожному водієві: права при купівлі авто та його технічному обслуговуванні, реєстраційному оформленні прав власності на нього, проходженні державного технічного огляду і страхуванні цивільної відповідальності; які податки і збори мають сплачувати автовласники і хто здійснює контроль за цим, які існують режими користування авто та як їх потрібно оформлювати тощо. Окрему увагу приділено правам водія при зупиненні транспортного засобу інспектором ДАІ та основні дії при притягненні його до юридичної відповідальності.На допомогу читачу-водієві наводяться зразки написання скарг та позовних заяв, а також термінологічний словник з основними поняттями і дефініціями в межах розглядуваної проблематики та узагальнення судової практики захисту прав і застосування законів.Юридичний путівник автомобіліста. Навч. практ. посіб. / Теліпко В.Е., Панасюк С.А., Абакуменко О.В. та ін.; За заг. ред. Теліпко В.Е. – К.: Центр учбової літератури, 2011– 520 с.ISBN 978-611-01-0142-4</summary>
+    <link href="https://chtyvo.org.ua/content/covers/9aa88aba04a32ad1fc686c64352141c8.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Abakumenko_OV/Yurydychnyi_putivnyk_avtomobilista/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Abakumenko_OV/Yurydychnyi_putivnyk_avtomobilista.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FTelipko_Vladyslav%2FYurydychnyi_putivnyk_avtomobilista.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Abakumenko_OV/Yurydychnyi_putivnyk_avtomobilista.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

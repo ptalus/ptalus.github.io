@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Книжка 11</title>
+  <title>«Архівна справа» » Книжка 11</title>
   <id>/A/Arkhivna_sprava/Knyzhka_11.xml</id>
-  <updated>2025-11-09T13:33:16Z</updated>
+  <updated>2025-11-09T13:54:25Z</updated>
   <link href="/A/Arkhivna_sprava/Knyzhka_11.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Книжка 11</title>
+    <title>«Архівна справа» » Книжка 11</title>
     <id>https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_11/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <link href="https://chtyvo.org.ua/content/covers/6b0fa88a555bc86e359ed1b9940024a8.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_11/" rel="alternate" type="text/html"/>
   </entry>
 </feed>

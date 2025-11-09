@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Діячі культури України в період системних змін 1985-1991 рр.</title>
+  <title>Вікторія Абакумова » Діячі культури України в період системних змін 1985-1991 рр.</title>
   <id>/A/Abakumova_Viktoriia/Diiachi_kultury_Ukrainy_v_period_systemnykh_zmin_1985-1991_rr.xml</id>
-  <updated>2025-11-09T13:33:27Z</updated>
+  <updated>2025-11-09T13:54:57Z</updated>
   <link href="/A/Abakumova_Viktoriia/Diiachi_kultury_Ukrainy_v_period_systemnykh_zmin_1985-1991_rr.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Діячі культури України в період системних змін 1985-1991 рр.</title>
+    <title>Вікторія Абакумова » Діячі культури України в період системних змін 1985-1991 рр.</title>
     <id>https://chtyvo.org.ua/authors/Abakumova_Viktoriia/Diiachi_kultury_Ukrainy_v_period_systemnykh_zmin_1985-1991_rr/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <summary>Мета дисертаційного дослідження полягає в науковомуконструюванні картини історичного розвитку соціально-професійної групидіячів культури в зазначений період.Відповідно до поставленої мети, передбачається вирішення такихнауково-дослідницьких завдань:− проаналізувати стан наукової розробки проблеми, охарактеризуватинаявну джерельну базу;− визначити моральні та соціальні наслідки системних змін для діячівкультури;− розкрити чинники зрушень у свідомості діячів культури, з’ясуватилюдські реакції на злам системи цінностей;− з'ясувати рівень прихильності діячів культури до реформ і суспільно-політичних процесів, що відбувалися в країні;− дослідити процес та результати реформування професійної сфери діячівкультури;− проаналізувати процес зміщення вниз рушійних сил перебудови у сферікультури;− розглянути динаміку соціальної бази професійного мистецтва;− дослідити еволюцію інтересу влади до діячів культури як виробниківхудожніх творів, здатних забезпечити легітимацію державної політики;− визначити особливості та основні форми участі діячів культури впротистоянні політичних сил.</summary>
     <link href="https://chtyvo.org.ua/authors/Abakumova_Viktoriia/Diiachi_kultury_Ukrainy_v_period_systemnykh_zmin_1985-1991_rr/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Abakumova_Viktoriia/Diiachi_kultury_Ukrainy_v_period_systemnykh_zmin_1985-1991_rr.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbakumova_Viktoriia%2FDiiachi_kultury_Ukrainy_v_period_systemnykh_zmin_1985-1991_rr.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Abakumova_Viktoriia/Diiachi_kultury_Ukrainy_v_period_systemnykh_zmin_1985-1991_rr.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>П. І. Калнишевський у пам'яті земляків</title>
+  <title>Іван Абаровський » П. І. Калнишевський у пам'яті земляків</title>
   <id>/A/Abarovskyi_Ivan/P_I_Kalnyshevskyi_u_pamiati_zemliakiv.xml</id>
-  <updated>2025-11-09T13:33:31Z</updated>
+  <updated>2025-11-09T13:55:09Z</updated>
   <link href="/A/Abarovskyi_Ivan/P_I_Kalnyshevskyi_u_pamiati_zemliakiv.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>П. І. Калнишевський у пам'яті земляків</title>
+    <title>Іван Абаровський » П. І. Калнишевський у пам'яті земляків</title>
     <id>https://chtyvo.org.ua/authors/Abarovskyi_Ivan/P_I_Kalnyshevskyi_u_pamiati_zemliakiv/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <summary>Часопис української історії / За ред. доктора історичних наук, професора А.П. Коцура. – Київ, 2016. – Спецвип. 34Подається краєзнавча інформація про вшанування земляками пам’яті останнього кошовогоотамана Запорозької Січі П. Калнишевського. Зокрема, акцентується увага на діяльності му-зею П. Калнишевського в Пустовійтівці, його фондах; будівництві храму П. Калнишевського тавідкритті пам’ятника запорозькому козацькому керманичу в Недригайлові тощо.Ключові слова: кошовий отаман, П. Калнишевський, музей, експонати, храм, православна церк-ва, пам’ятник.</summary>
     <link href="https://chtyvo.org.ua/authors/Abarovskyi_Ivan/P_I_Kalnyshevskyi_u_pamiati_zemliakiv/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Abarovskyi_Ivan/P_I_Kalnyshevskyi_u_pamiati_zemliakiv.pdf" rel="http://opds-spec.org/acquisition" type="application/pdf"/>
-    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbarovskyi_Ivan%2FP_I_Kalnyshevskyi_u_pamiati_zemliakiv.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Abarovskyi_Ivan/P_I_Kalnyshevskyi_u_pamiati_zemliakiv.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

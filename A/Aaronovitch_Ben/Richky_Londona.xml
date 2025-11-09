@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Річки Лондона</title>
+  <title>Бен Ааронович » Річки Лондона</title>
   <id>/A/Aaronovitch_Ben/Richky_Londona.xml</id>
-  <updated>2025-11-09T13:33:24Z</updated>
+  <updated>2025-11-09T13:54:49Z</updated>
   <link href="/A/Aaronovitch_Ben/Richky_Londona.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Річки Лондона</title>
+    <title>Бен Ааронович » Річки Лондона</title>
     <id>https://chtyvo.org.ua/authors/Aaronovitch_Ben/Richky_Londona/</id>
-    <link href="https://chtyvo.org.ua/assets/images/design/centerlogo.gif" rel="http://opds-spec.org/image" type="image/jpeg"/>
+    <summary>Мене звати Пітер Ґрант. До минулого січня я був усього лише констеблем-стажистом у могутній армії правосуддя, що відома всім добропорядним людям як Поліція Лондона, а всім іншим – як Погань. Єдиними турботами мого життя були пошук способу не потрапити до процесуального відділу (співробітники якого займаються документообігом, щоб на нього не витрачали час справжні копи) та спроби заманити до ліжка обурливо привабливу поліціянтку Леслі Мей. Але однієї ночі, під час розслідування вбивства, я спробував узяти свідчення в померлого, але напрочуд балакучого очевидця, і цим привернув до себе увагу інспектора Найтінґейла, останнього чародія Англії. Тож тепер я констебль-детектив і практикант-чародій, перший підмайстер чародія за минулі п’ятдесят років. Мій світ дещо ускладнився: гнізда вампірів у Перлі, мирні переговори між ворожими богами Темзи, розкопування могил на Ковент-Ґарден… І щось загноїлося в самому серці мого улюбленого міста, в ньому завівся злий мстивий дух, який захоплює звичайних лондонців і перекручує їх на гротескні манекени, які змушені грати в його виставі про насилля та відчай. У місті прокинувся дух бунту й бешкетування, і мій обов’язок принести в цей хаос порядок або померти, якщо не вдасться.</summary>
+    <link href="https://chtyvo.org.ua/content/covers/07a11cdd00982616408f223625bb3f55.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Aaronovitch_Ben/Richky_Londona/" rel="alternate" type="text/html"/>
-    <link href="https://chtyvo.org.ua/authors/Aaronovitch_Ben/Richky_Londona.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/fb2+zip"/>
+    <link href="https://chtyvo.org.ua/authors/Aaronovitch_Ben/Richky_Londona.fb2.zip" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>
