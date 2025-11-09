@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Іван Абаровський » Недригайлівщина: у дзеркалі історії</title>
   <id>/A/Abarovskyi_Ivan/Nedryhailivschyna.xml</id>
-  <updated>2025-11-09T13:55:07Z</updated>
+  <updated>2025-11-09T14:18:24Z</updated>
   <link href="/A/Abarovskyi_Ivan/Nedryhailivschyna.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>Іван Абаровський » Недригайлівщина: у дзеркалі історії</title>
@@ -10,5 +10,6 @@
     <summary>Ця книга є першим виданням, що найбільш повно охоплює події одного із районів Сумської області, надає нові, досі невідомі матеріали, відкриваючи історичний зріз із найдавніших часів і до початку ХХІ століття.</summary>
     <link href="https://chtyvo.org.ua/content/covers/fbd4c16e11e04737dcbb297e85f27e0c.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Abarovskyi_Ivan/Nedryhailivschyna/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Abarovskyi_Ivan/Nedryhailivschyna.djvu" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

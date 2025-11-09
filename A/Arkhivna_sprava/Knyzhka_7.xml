@@ -2,12 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Архівна справа» » Книжка 7</title>
   <id>/A/Arkhivna_sprava/Knyzhka_7.xml</id>
-  <updated>2025-11-09T14:04:36Z</updated>
+  <updated>2025-11-09T14:18:13Z</updated>
   <link href="/A/Arkhivna_sprava/Knyzhka_7.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Архівна справа» » Книжка 7</title>
     <id>https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_7/</id>
     <link href="https://chtyvo.org.ua/content/covers/d588489ecd360764fa23ce752428cc6e.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_7/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_7.djvu" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="https://chtyvo.org.ua/authors/Arkhivna_sprava/Knyzhka_7.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FArkhivna_sprava%2FKnyzhka_7.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

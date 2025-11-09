@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Архіви України» » 2001, №3 (246)</title>
   <id>/A/Arkhivy_Ukrainy/2001_N3_246.xml</id>
-  <updated>2025-11-09T14:04:13Z</updated>
+  <updated>2025-11-09T14:18:06Z</updated>
   <link href="/A/Arkhivy_Ukrainy/2001_N3_246.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Архіви України» » 2001, №3 (246)</title>
     <id>https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/2001_N3_246/</id>
     <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/2001_N3_246/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Arkhivy_Ukrainy/2001_N3_246.djvu" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

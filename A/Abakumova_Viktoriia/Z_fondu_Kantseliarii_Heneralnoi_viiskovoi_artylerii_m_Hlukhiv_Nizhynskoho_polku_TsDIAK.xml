@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Вікторія Абакумова » З фонду «Канцелярії Генеральної військової артилерії, м. Глухів, Ніжинського полку» (ЦДІАК)</title>
   <id>/A/Abakumova_Viktoriia/Z_fondu_Kantseliarii_Heneralnoi_viiskovoi_artylerii_m_Hlukhiv_Nizhynskoho_polku_TsDIAK.xml</id>
-  <updated>2025-11-09T13:54:59Z</updated>
+  <updated>2025-11-09T14:18:21Z</updated>
   <link href="/A/Abakumova_Viktoriia/Z_fondu_Kantseliarii_Heneralnoi_viiskovoi_artylerii_m_Hlukhiv_Nizhynskoho_polku_TsDIAK.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>Вікторія Абакумова » З фонду «Канцелярії Генеральної військової артилерії, м. Глухів, Ніжинського полку» (ЦДІАК)</title>
@@ -10,5 +10,6 @@
     <summary>Сіверщина в історії України, випуск 12, 2019Публікується Указ імператриці Катерини II про заборону про-ведення в державі лотереї. Друкована копія документа зберігаєть-ся у фонді Центрального державного історичного архіву України(Київ). Указ був отриманий Канцелярією Генеральної військовоїартилерії, яка розміщувалася в Глухові. Канцеляристи розіслалиуказ для повсюдного ознайомлення на території, підвладній Дру-гій Малоросійській колегії.Ключові слова: Друга Малоросійська колегія, Канцелярія Гене-ральної військової артилерії, імператриця Катерина II, указ, лотерея.</summary>
     <link href="https://chtyvo.org.ua/authors/Abakumova_Viktoriia/Z_fondu_Kantseliarii_Heneralnoi_viiskovoi_artylerii_m_Hlukhiv_Nizhynskoho_polku_TsDIAK/" rel="alternate" type="text/html"/>
     <link href="https://chtyvo.org.ua/authors/Abakumova_Viktoriia/Z_fondu_Kantseliarii_Heneralnoi_viiskovoi_artylerii_m_Hlukhiv_Nizhynskoho_polku_TsDIAK.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron1.chtyvo.org.ua%2FAbakumova_Viktoriia%2FZ_fondu_Kantseliarii_Heneralnoi_viiskovoi_artylerii_m_Hlukhiv_Nizhynskoho_polku_TsDIAK.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>

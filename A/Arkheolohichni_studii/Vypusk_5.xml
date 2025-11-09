@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>«Археологічні студії» » Випуск 5</title>
   <id>/A/Arkheolohichni_studii/Vypusk_5.xml</id>
-  <updated>2025-11-09T14:03:51Z</updated>
+  <updated>2025-11-09T14:17:58Z</updated>
   <link href="/A/Arkheolohichni_studii/Vypusk_5.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>«Археологічні студії» » Випуск 5</title>
@@ -10,5 +10,7 @@
     <summary>Археологічні студії [текст] / Інститут археології НАН України, Чернівецька філія ДП «НДЦ «ОАСУ» ІА НАН України, Буковинський центр археологічних досліджень при Чернівецькому національному університеті імені Юрія Федьковича.– Київ-Чернівці: Видавництво «Черемош», 2014. – Вип. 5. – 410 с.У збірнику, присвяченому 60-літтю відомого вітчизняного археолога Любомира Павловича Михайлини, вміщено статті з актуальних питань археології, стародавньої та середньовічної історії. Більшість публікацій містять нові матеріали, які вводяться у науковий обіг вперше. Розглядаються проблеми історії матеріальної та духовної культури населення Східної Європи з найдавніших часів до епохи середньовіччя.</summary>
     <link href="https://chtyvo.org.ua/content/covers/2237db969d5138d8c6fde0fc5cca1642.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
     <link href="https://chtyvo.org.ua/authors/Arkheolohichni_studii/Vypusk_5/" rel="alternate" type="text/html"/>
+    <link href="https://chtyvo.org.ua/authors/Arkheolohichni_studii/Vypusk_5.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
+    <link href="http://docs.google.com/viewer?url=https%3A%2F%2Fshron3.chtyvo.org.ua%2FArkheolohichni_studii%2FVypusk_5.pdf" rel="http://opds-spec.org/acquisition" type="application/octet-stream"/>
   </entry>
 </feed>
