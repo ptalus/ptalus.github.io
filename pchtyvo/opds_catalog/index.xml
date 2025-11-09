@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chtyvo.org.ua - Каталог авторів</title>
+  <id>/index.xml</id>
+  <updated>2025-11-09T12:32:18Z</updated>
+  <link href="/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Літера А</title>
+    <id>/A/index.xml</id>
+    <link href="/A/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Б</title>
+    <id>/B/index.xml</id>
+    <link href="/B/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера В</title>
+    <id>/V/index.xml</id>
+    <link href="/V/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Г</title>
+    <id>/H/index.xml</id>
+    <link href="/H/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Ґ</title>
+    <id>/G/index.xml</id>
+    <link href="/G/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Д</title>
+    <id>/D/index.xml</id>
+    <link href="/D/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Е</title>
+    <id>/E/index.xml</id>
+    <link href="/E/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Є</title>
+    <id>/Ye/index.xml</id>
+    <link href="/Ye/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Ж</title>
+    <id>/Zh/index.xml</id>
+    <link href="/Zh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера З</title>
+    <id>/Z/index.xml</id>
+    <link href="/Z/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера И</title>
+    <id>/Y/index.xml</id>
+    <link href="/Y/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера І</title>
+    <id>/I/index.xml</id>
+    <link href="/I/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Ї</title>
+    <id>/Yi/index.xml</id>
+    <link href="/Yi/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Й</title>
+    <id>/Y/index.xml</id>
+    <link href="/Y/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера К</title>
+    <id>/K/index.xml</id>
+    <link href="/K/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Л</title>
+    <id>/L/index.xml</id>
+    <link href="/L/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера М</title>
+    <id>/M/index.xml</id>
+    <link href="/M/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Н</title>
+    <id>/N/index.xml</id>
+    <link href="/N/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера О</title>
+    <id>/O/index.xml</id>
+    <link href="/O/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера П</title>
+    <id>/P/index.xml</id>
+    <link href="/P/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Р</title>
+    <id>/R/index.xml</id>
+    <link href="/R/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера С</title>
+    <id>/S/index.xml</id>
+    <link href="/S/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Т</title>
+    <id>/T/index.xml</id>
+    <link href="/T/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера У</title>
+    <id>/U/index.xml</id>
+    <link href="/U/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Ф</title>
+    <id>/F/index.xml</id>
+    <link href="/F/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Х</title>
+    <id>/Kh/index.xml</id>
+    <link href="/Kh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Ц</title>
+    <id>/Ts/index.xml</id>
+    <link href="/Ts/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Ч</title>
+    <id>/Ch/index.xml</id>
+    <link href="/Ch/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Ш</title>
+    <id>/Sh/index.xml</id>
+    <link href="/Sh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Щ</title>
+    <id>/Shch/index.xml</id>
+    <link href="/Shch/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Ю</title>
+    <id>/Yu/index.xml</id>
+    <link href="/Yu/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Я</title>
+    <id>/Ya/index.xml</id>
+    <link href="/Ya/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера A</title>
+    <id>/LA/index.xml</id>
+    <link href="/LA/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера B</title>
+    <id>/LB/index.xml</id>
+    <link href="/LB/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера C</title>
+    <id>/LC/index.xml</id>
+    <link href="/LC/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера D</title>
+    <id>/LD/index.xml</id>
+    <link href="/LD/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера E</title>
+    <id>/LE/index.xml</id>
+    <link href="/LE/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера F</title>
+    <id>/LF/index.xml</id>
+    <link href="/LF/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера G</title>
+    <id>/LG/index.xml</id>
+    <link href="/LG/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера H</title>
+    <id>/LH/index.xml</id>
+    <link href="/LH/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера I</title>
+    <id>/LI/index.xml</id>
+    <link href="/LI/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера J</title>
+    <id>/LJ/index.xml</id>
+    <link href="/LJ/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера K</title>
+    <id>/LK/index.xml</id>
+    <link href="/LK/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера L</title>
+    <id>/LL/index.xml</id>
+    <link href="/LL/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера M</title>
+    <id>/LM/index.xml</id>
+    <link href="/LM/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера N</title>
+    <id>/LN/index.xml</id>
+    <link href="/LN/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера O</title>
+    <id>/LO/index.xml</id>
+    <link href="/LO/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера P</title>
+    <id>/LP/index.xml</id>
+    <link href="/LP/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Q</title>
+    <id>/LQ/index.xml</id>
+    <link href="/LQ/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера R</title>
+    <id>/LR/index.xml</id>
+    <link href="/LR/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера S</title>
+    <id>/LS/index.xml</id>
+    <link href="/LS/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера T</title>
+    <id>/LT/index.xml</id>
+    <link href="/LT/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера U</title>
+    <id>/LU/index.xml</id>
+    <link href="/LU/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера V</title>
+    <id>/LV/index.xml</id>
+    <link href="/LV/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера W</title>
+    <id>/LW/index.xml</id>
+    <link href="/LW/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера X</title>
+    <id>/LX/index.xml</id>
+    <link href="/LX/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Y</title>
+    <id>/LY/index.xml</id>
+    <link href="/LY/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Літера Z</title>
+    <id>/LZ/index.xml</id>
+    <link href="/LZ/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+</feed>

@@ -1,0 +1,4227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Автори на літеру А</title>
+  <id>/A/index.xml</id>
+  <updated>2025-11-09T12:32:21Z</updated>
+  <link href="/A/index.xml" rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>«Азовкабель»</title>
+    <id>/A/Azovkabel/index.xml</id>
+    <link href="/A/Azovkabel/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>«Апокриф»</title>
+    <id>/A/Apokryf/index.xml</id>
+    <link href="/A/Apokryf/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>«Археологічний літопис Лівобережної України»</title>
+    <id>/A/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/index.xml</id>
+    <link href="/A/Arkheolohichnyi_litopys_Livoberezhnoi_Ukrainy/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>«Археологічні студії»</title>
+    <id>/A/Arkheolohichni_studii/index.xml</id>
+    <link href="/A/Arkheolohichni_studii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>«Архіви України»</title>
+    <id>/A/Arkhivy_Ukrainy/index.xml</id>
+    <link href="/A/Arkhivy_Ukrainy/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>«Архівна справа»</title>
+    <id>/A/Arkhivna_sprava/index.xml</id>
+    <link href="/A/Arkhivna_sprava/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>А.Р.</title>
+    <id>/A/AR/index.xml</id>
+    <link href="/A/AR/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ааронович Бен</title>
+    <id>/A/Aaronovitch_Ben/index.xml</id>
+    <link href="/A/Aaronovitch_Ben/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абакуменко О.В.</title>
+    <id>/A/Abakumenko_OV/index.xml</id>
+    <link href="/A/Abakumenko_OV/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абакумова Вікторія</title>
+    <id>/A/Abakumova_Viktoriia/index.xml</id>
+    <link href="/A/Abakumova_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абалос Хорхе</title>
+    <id>/A/Abalos_Jorge/index.xml</id>
+    <link href="/A/Abalos_Jorge/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абаровський Іван</title>
+    <id>/A/Abarovskyi_Ivan/index.xml</id>
+    <link href="/A/Abarovskyi_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абашидзе Теймураз</title>
+    <id>/A/Abashydze_Teimuraz/index.xml</id>
+    <link href="/A/Abashydze_Teimuraz/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абашидзе Іраклій</title>
+    <id>/A/Irakli_Abashidze/index.xml</id>
+    <link href="/A/Irakli_Abashidze/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абашина Наталія</title>
+    <id>/A/Abashyna_NS/index.xml</id>
+    <link href="/A/Abashyna_NS/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аббот Пітер</title>
+    <id>/A/Abbot_Piter/index.xml</id>
+    <link href="/A/Abbot_Piter/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдірашев Жараскан</title>
+    <id>/A/Abdirashev_Zharaskan/index.xml</id>
+    <link href="/A/Abdirashev_Zharaskan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдрахманова Міра</title>
+    <id>/A/Abdrakhmanova_Mira/index.xml</id>
+    <link href="/A/Abdrakhmanova_Mira/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдрахманова Турсинхан</title>
+    <id>/A/Abdrakhmanova_Tursynkhan/index.xml</id>
+    <link href="/A/Abdrakhmanova_Tursynkhan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдула Людмила</title>
+    <id>/A/Abdula_Liudmyla/index.xml</id>
+    <link href="/A/Abdula_Liudmyla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдулаєва Гульнара</title>
+    <id>/A/Abdulaieva_Hulnara/index.xml</id>
+    <link href="/A/Abdulaieva_Hulnara/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдулганієва Майє</title>
+    <id>/A/Abdulhaniieva_Maiie/index.xml</id>
+    <link href="/A/Abdulhaniieva_Maiie/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдуллаєв Чінгіз</title>
+    <id>/A/Abdullaiev_Chinhiz/index.xml</id>
+    <link href="/A/Abdullaiev_Chinhiz/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдуллаєва Маріанна</title>
+    <id>/A/Abdullaieva_Marianna/index.xml</id>
+    <link href="/A/Abdullaieva_Marianna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абдуллін Олександр</title>
+    <id>/A/Abdullin_Oleksandr/index.xml</id>
+    <link href="/A/Abdullin_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абе Кобо</title>
+    <id>/A/Kobo_Abe/index.xml</id>
+    <link href="/A/Kobo_Abe/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абеляр Тайша</title>
+    <id>/A/Abeliar_Taisha/index.xml</id>
+    <link href="/A/Abeliar_Taisha/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аберкромбі Джо</title>
+    <id>/A/Joe_Abercrombie/index.xml</id>
+    <link href="/A/Joe_Abercrombie/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абібуллаєва Діляра</title>
+    <id>/A/Abibullaieva_Diliara/index.xml</id>
+    <link href="/A/Abibullaieva_Diliara/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абікулова Марина</title>
+    <id>/A/Abikulova_Maryna/index.xml</id>
+    <link href="/A/Abikulova_Maryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абілов Айдин</title>
+    <id>/A/Abilov_Aidyn/index.xml</id>
+    <link href="/A/Abilov_Aidyn/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аблаєв Бекір</title>
+    <id>/A/Ablaiev_Bekir/index.xml</id>
+    <link href="/A/Ablaiev_Bekir/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аблаєва Ульвіє</title>
+    <id>/A/Ablaieva_Ulviie/index.xml</id>
+    <link href="/A/Ablaieva_Ulviie/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абламська Анастасія</title>
+    <id>/A/Ablamska_Anastasiya/index.xml</id>
+    <link href="/A/Ablamska_Anastasiya/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абліцов Віталій</title>
+    <id>/A/Ablitsov_Vitalii/index.xml</id>
+    <link href="/A/Ablitsov_Vitalii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аблятіфов Рустем Мамут оглу</title>
+    <id>/A/Abliatifov_Rustem_Mamut_ohlu/index.xml</id>
+    <link href="/A/Abliatifov_Rustem_Mamut_ohlu/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрагам Петер</title>
+    <id>/A/Abraham_Peter/index.xml</id>
+    <link href="/A/Abraham_Peter/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрагам Деніел</title>
+    <id>/A/Abraham_Daniel/index.xml</id>
+    <link href="/A/Abraham_Daniel/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрагамс Пітер</title>
+    <id>/A/Abrahams_Piter/index.xml</id>
+    <link href="/A/Abrahams_Piter/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абраджионі Сергій</title>
+    <id>/A/Abradzhyoni_Serhii/index.xml</id>
+    <link href="/A/Abradzhyoni_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абраменко П.</title>
+    <id>/A/Abramenko_P/index.xml</id>
+    <link href="/A/Abramenko_P/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абраменко Леонід</title>
+    <id>/A/Abramenko_Leonid/index.xml</id>
+    <link href="/A/Abramenko_Leonid/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абраменко Олексій</title>
+    <id>/A/Abramenko_Oleksii/index.xml</id>
+    <link href="/A/Abramenko_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамов Іван</title>
+    <id>/A/Abramov_Ivan/index.xml</id>
+    <link href="/A/Abramov_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамов Сєрґєй</title>
+    <id>/A/Abramov_Siergiei/index.xml</id>
+    <link href="/A/Abramov_Siergiei/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамов Володимир</title>
+    <id>/A/Abramov_Volodymyr/index.xml</id>
+    <link href="/A/Abramov_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамов Фьодор</title>
+    <id>/A/Abramov_Fjodor/index.xml</id>
+    <link href="/A/Abramov_Fjodor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамов Федір</title>
+    <id>/A/Abramov_Fedir/index.xml</id>
+    <link href="/A/Abramov_Fedir/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамова Марія</title>
+    <id>/A/Abramova_Mariia/index.xml</id>
+    <link href="/A/Abramova_Mariia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамова Інна</title>
+    <id>/A/Abramova_Inna/index.xml</id>
+    <link href="/A/Abramova_Inna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамович Дмитро</title>
+    <id>/A/Abramovych_Dmytro/index.xml</id>
+    <link href="/A/Abramovych_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамович Павло</title>
+    <id>/A/Abramovych_Pavlo/index.xml</id>
+    <link href="/A/Abramovych_Pavlo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамович Марина</title>
+    <id>/A/Abramovych_Maryna/index.xml</id>
+    <link href="/A/Abramovych_Maryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамович Семен</title>
+    <id>/A/Abramovych_Semen/index.xml</id>
+    <link href="/A/Abramovych_Semen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамсон Генрі</title>
+    <id>/A/Abramson_Henri/index.xml</id>
+    <link href="/A/Abramson_Henri/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамсон Генрі</title>
+    <id>/A/Henry_Abramson/index.xml</id>
+    <link href="/A/Henry_Abramson/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамчук Андрій</title>
+    <id>/A/Abramchuk_Andrii/index.xml</id>
+    <link href="/A/Abramchuk_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абрамюк Інна</title>
+    <id>/A/Abramiuk_Inna/index.xml</id>
+    <link href="/A/Abramiuk_Inna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абреш Вернер</title>
+    <id>/A/Abresh_Verner/index.xml</id>
+    <link href="/A/Abresh_Verner/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абріль Анрі</title>
+    <id>/A/Abril_Anri/index.xml</id>
+    <link href="/A/Abril_Anri/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абросимова Світлана</title>
+    <id>/A/Abrosymova_Svitlana/index.xml</id>
+    <link href="/A/Abrosymova_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абу-ль-Фарадж</title>
+    <id>/A/Abu-l-Faradzh/index.xml</id>
+    <link href="/A/Abu-l-Faradzh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абумуфрех Мурад Махмуд Хасан</title>
+    <id>/A/Abumufrekh_Murad_Makhmud_Khasan/index.xml</id>
+    <link href="/A/Abumufrekh_Murad_Makhmud_Khasan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абурто Хуан</title>
+    <id>/A/Aburto_Khuan/index.xml</id>
+    <link href="/A/Aburto_Khuan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абушова Бела</title>
+    <id>/A/Abushova_Bela/index.xml</id>
+    <link href="/A/Abushova_Bela/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абхазький народ</title>
+    <id>/A/abkhazkyi_narod/index.xml</id>
+    <link href="/A/abkhazkyi_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Абчук Владімір</title>
+    <id>/A/Abchuk_Vladimir/index.xml</id>
+    <link href="/A/Abchuk_Vladimir/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авастхі Раджендра</title>
+    <id>/A/Avastkhi_Radzhendra/index.xml</id>
+    <link href="/A/Avastkhi_Radzhendra/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аввад Мохамад</title>
+    <id>/A/Avvad_Mokhamad/index.xml</id>
+    <link href="/A/Avvad_Mokhamad/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авґустин Аврелій</title>
+    <id>/A/Augustinus_Aurelius/index.xml</id>
+    <link href="/A/Augustinus_Aurelius/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдасьов Валерій</title>
+    <id>/A/Avdasov_Valerii/index.xml</id>
+    <link href="/A/Avdasov_Valerii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдєєв Юрій</title>
+    <id>/A/Avdieiev_Yurii/index.xml</id>
+    <link href="/A/Avdieiev_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдєєва Олена</title>
+    <id>/A/Avdieieva_Olena/index.xml</id>
+    <link href="/A/Avdieieva_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдєєва Марія Тіхоновна</title>
+    <id>/A/Avdeeva_Maria_Tikhonovna/index.xml</id>
+    <link href="/A/Avdeeva_Maria_Tikhonovna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдєєва І. М.</title>
+    <id>/A/Avdieieva_I_M/index.xml</id>
+    <link href="/A/Avdieieva_I_M/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдєєнко Алєксандр</title>
+    <id>/A/Avdeenko_Aleksandr/index.xml</id>
+    <link href="/A/Avdeenko_Aleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдєєнко Юрій</title>
+    <id>/A/Avdieienko_Yurii/index.xml</id>
+    <link href="/A/Avdieienko_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдєєнко Віктор</title>
+    <id>/A/Avdieienko_Viktor/index.xml</id>
+    <link href="/A/Avdieienko_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдикович Орест</title>
+    <id>/A/Avdykovych_Orest/index.xml</id>
+    <link href="/A/Avdykovych_Orest/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авдошин Ігор</title>
+    <id>/A/Avdoshyn_Ihor/index.xml</id>
+    <link href="/A/Avdoshyn_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авер'янов Сергій</title>
+    <id>/A/Averianov_Serhii/index.xml</id>
+    <link href="/A/Averianov_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авер'янов Андрій</title>
+    <id>/A/Averianov_Andrii/index.xml</id>
+    <link href="/A/Averianov_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авер'янова Людмила</title>
+    <id>/A/Averianova_Liudmyla/index.xml</id>
+    <link href="/A/Averianova_Liudmyla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авербах Бертольд</title>
+    <id>/A/Berthold_Auerbach/index.xml</id>
+    <link href="/A/Berthold_Auerbach/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авербах Юрій</title>
+    <id>/A/Averbakh_Yurii/index.xml</id>
+    <link href="/A/Averbakh_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авербух Олександр</title>
+    <id>/A/Averbukh_Oleksandr/index.xml</id>
+    <link href="/A/Averbukh_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аверинцев Сергій</title>
+    <id>/A/Averyntsev_Serhii/index.xml</id>
+    <link href="/A/Averyntsev_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аверіна-Лугова Діана</title>
+    <id>/A/Averina-Luhova_Diana/index.xml</id>
+    <link href="/A/Averina-Luhova_Diana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аверкина Марина</title>
+    <id>/A/Averkyna_Maryna/index.xml</id>
+    <link href="/A/Averkyna_Maryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аверроес</title>
+    <id>/A/Averroes/index.xml</id>
+    <link href="/A/Averroes/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авеярд Вікторія</title>
+    <id>/A/Aveiard_Viktoriia/index.xml</id>
+    <link href="/A/Aveiard_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авідзба Юлія</title>
+    <id>/A/Avidzba_YuN/index.xml</id>
+    <link href="/A/Avidzba_YuN/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авіжюс Йонас</title>
+    <id>/A/Avizhius_Yonas/index.xml</id>
+    <link href="/A/Avizhius_Yonas/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авксентьєва Віра</title>
+    <id>/A/Avksentieva_Vira/index.xml</id>
+    <link href="/A/Avksentieva_Vira/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Олег</title>
+    <id>/A/Avramenko_Oleh/index.xml</id>
+    <link href="/A/Avramenko_Oleh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Валентин</title>
+    <id>/A/Avramenko_Valentyn/index.xml</id>
+    <link href="/A/Avramenko_Valentyn/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Никифор</title>
+    <id>/A/Avramenko_Nykyfor/index.xml</id>
+    <link href="/A/Avramenko_Nykyfor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Олександр Миколайович</title>
+    <id>/A/Avramenko_Oleksandr/index.xml</id>
+    <link href="/A/Avramenko_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Анатолій</title>
+    <id>/A/Avramenko_AM/index.xml</id>
+    <link href="/A/Avramenko_AM/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Олеся</title>
+    <id>/A/Avramenko_Olesia/index.xml</id>
+    <link href="/A/Avramenko_Olesia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Наталія</title>
+    <id>/A/Avramenko_Nataliia/index.xml</id>
+    <link href="/A/Avramenko_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Світлана</title>
+    <id>/A/Avramenko_Svitlana/index.xml</id>
+    <link href="/A/Avramenko_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Мар'яна</title>
+    <id>/A/Avramenko_Mariana/index.xml</id>
+    <link href="/A/Avramenko_Mariana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Володимир</title>
+    <id>/A/Avramenko_Volodymyr/index.xml</id>
+    <link href="/A/Avramenko_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Олександр Іванович</title>
+    <id>/A/Avramenko_Oleksandr_Ivanovych/index.xml</id>
+    <link href="/A/Avramenko_Oleksandr_Ivanovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авраменко Ольга</title>
+    <id>/A/Avramenko_Olha/index.xml</id>
+    <link href="/A/Avramenko_Olha/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аврахов В. О.</title>
+    <id>/A/Avrakhov_V_O/index.xml</id>
+    <link href="/A/Avrakhov_V_O/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аврелій Марк</title>
+    <id>/A/Avrelii_Mark/index.xml</id>
+    <link href="/A/Avrelii_Mark/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аврілакський Ґерберт</title>
+    <id>/A/Avrilakskyi_Gerbert/index.xml</id>
+    <link href="/A/Avrilakskyi_Gerbert/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Австралії народ</title>
+    <id>/A/Avstralii_narod/index.xml</id>
+    <link href="/A/Avstralii_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Автомонов Павло</title>
+    <id>/A/Avtomonov_Pavlo/index.xml</id>
+    <link href="/A/Avtomonov_Pavlo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авторський колектив</title>
+    <id>/A/Avtorskyi_kolektyv/index.xml</id>
+    <link href="/A/Avtorskyi_kolektyv/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Автушенко Олександр</title>
+    <id>/A/Avtushenko_Oleksandr/index.xml</id>
+    <link href="/A/Avtushenko_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Автушенко Ірина</title>
+    <id>/A/Avtushenko_Iryna/index.xml</id>
+    <link href="/A/Avtushenko_Iryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авула Анастасія</title>
+    <id>/A/Avula_Anastasiia/index.xml</id>
+    <link href="/A/Avula_Anastasiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авхутська Світлана</title>
+    <id>/A/Avkhutska_Svitlana/index.xml</id>
+    <link href="/A/Avkhutska_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Авчухова Анна</title>
+    <id>/A/Avchukhova_Anna/index.xml</id>
+    <link href="/A/Avchukhova_Anna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агаджанян Назарій</title>
+    <id>/A/Ahadzhanian_Nazarii/index.xml</id>
+    <link href="/A/Ahadzhanian_Nazarii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агапов Володимир</title>
+    <id>/A/Ahapov_Volodymyr/index.xml</id>
+    <link href="/A/Ahapov_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агапова Олена</title>
+    <id>/A/Ahapova_Olena/index.xml</id>
+    <link href="/A/Ahapova_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агафонов Сергій</title>
+    <id>/A/Ahafonov_Serhii/index.xml</id>
+    <link href="/A/Ahafonov_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агафонова Надія</title>
+    <id>/A/Ahafonova_N/index.xml</id>
+    <link href="/A/Ahafonova_N/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агаян Ашот</title>
+    <id>/A/Ahaian_Ashot/index.xml</id>
+    <link href="/A/Ahaian_Ashot/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агбунов Михайло</title>
+    <id>/A/Ahbunov_MV/index.xml</id>
+    <link href="/A/Ahbunov_MV/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агеєв В'ячеслав</title>
+    <id>/A/Aheiev_Viacheslav/index.xml</id>
+    <link href="/A/Aheiev_Viacheslav/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агеєва Віра</title>
+    <id>/A/Aheieva_Vira/index.xml</id>
+    <link href="/A/Aheieva_Vira/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агерн Сесілія</title>
+    <id>/A/Cecelia_Ahern/index.xml</id>
+    <link href="/A/Cecelia_Ahern/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агієнко О.</title>
+    <id>/A/Ahiienko_O/index.xml</id>
+    <link href="/A/Ahiienko_O/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Агнівцев Н.</title>
+    <id>/A/Ahnivtsev_N/index.xml</id>
+    <link href="/A/Ahnivtsev_N/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аґранофф Роберт</title>
+    <id>/A/Agranoff_Robert/index.xml</id>
+    <link href="/A/Agranoff_Robert/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аґрікола Ґеорґій</title>
+    <id>/A/Agrikola_Georgii/index.xml</id>
+    <link href="/A/Agrikola_Georgii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аґстнер Рудольф</title>
+    <id>/A/Agstner_Rudolf/index.xml</id>
+    <link href="/A/Agstner_Rudolf/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ададуров Вадим</title>
+    <id>/A/Adadurov_Vadym/index.xml</id>
+    <link href="/A/Adadurov_Vadym/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адам Георг</title>
+    <id>/A/Adam_Heorh/index.xml</id>
+    <link href="/A/Adam_Heorh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адаменко Надія</title>
+    <id>/A/Adamenko_Nadiia/index.xml</id>
+    <link href="/A/Adamenko_Nadiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамишин Оксана</title>
+    <id>/A/Adamyshyn_Oksana/index.xml</id>
+    <link href="/A/Adamyshyn_Oksana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамо Себастьяно</title>
+    <id>/A/Addamo_Sebastiano/index.xml</id>
+    <link href="/A/Addamo_Sebastiano/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамов Ґріґорій</title>
+    <id>/A/Adamov_G/index.xml</id>
+    <link href="/A/Adamov_G/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамов Аркадій</title>
+    <id>/A/Adamov_Arkadii/index.xml</id>
+    <link href="/A/Adamov_Arkadii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамович Сергій</title>
+    <id>/A/Adamovych_Serhii/index.xml</id>
+    <link href="/A/Adamovych_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамович Наталія</title>
+    <id>/A/Adamovych_Nataliia/index.xml</id>
+    <link href="/A/Adamovych_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамович-Новопільський Володимир</title>
+    <id>/A/Adamovych-Novopilskyi_Volodymyr/index.xml</id>
+    <link href="/A/Adamovych-Novopilskyi_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамовіч Міхаіл</title>
+    <id>/A/Adamovich_Mikhail/index.xml</id>
+    <link href="/A/Adamovich_Mikhail/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамовська Людмила</title>
+    <id>/A/Adamovska_Liudmyla/index.xml</id>
+    <link href="/A/Adamovska_Liudmyla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамовський Володимир</title>
+    <id>/A/Adamovskyi_Volodymyr/index.xml</id>
+    <link href="/A/Adamovskyi_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамс Дуґлас</title>
+    <id>/A/Adams_Duglas/index.xml</id>
+    <link href="/A/Adams_Duglas/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамс Петер</title>
+    <id>/A/Peter_Adams/index.xml</id>
+    <link href="/A/Peter_Adams/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамс Артур</title>
+    <id>/A/Adams_Artur/index.xml</id>
+    <link href="/A/Adams_Artur/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамс Річард</title>
+    <id>/A/Adams_Richard/index.xml</id>
+    <link href="/A/Adams_Richard/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамс Самюель Гопкінс</title>
+    <id>/A/Adams_Samiuel_Hopkins/index.xml</id>
+    <link href="/A/Adams_Samiuel_Hopkins/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамс Сара</title>
+    <id>/A/Adams_Sarah/index.xml</id>
+    <link href="/A/Adams_Sarah/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамс Гаррієт</title>
+    <id>/A/Adams_Harriet/index.xml</id>
+    <link href="/A/Adams_Harriet/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамська Ліна</title>
+    <id>/A/Adamska_Lina/index.xml</id>
+    <link href="/A/Adamska_Lina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамська Ксенія</title>
+    <id>/A/Adamska_Kseniia/index.xml</id>
+    <link href="/A/Adamska_Kseniia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамська Ірина</title>
+    <id>/A/Adamska_Iryna/index.xml</id>
+    <link href="/A/Adamska_Iryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамський Віктор</title>
+    <id>/A/Adamskyi_Viktor/index.xml</id>
+    <link href="/A/Adamskyi_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамус Тетяна</title>
+    <id>/A/Adamus_Tetiana/index.xml</id>
+    <link href="/A/Adamus_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамчук Ігор</title>
+    <id>/A/Adamchuk_Ihor/index.xml</id>
+    <link href="/A/Adamchuk_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адамчук Михайло</title>
+    <id>/A/Adamchuk_Mykhailo/index.xml</id>
+    <link href="/A/Adamchuk_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адах Наталія</title>
+    <id>/A/Adakh_Nataliia/index.xml</id>
+    <link href="/A/Adakh_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адеємі Томі</title>
+    <id>/A/Adeiemi_Tomi/index.xml</id>
+    <link href="/A/Adeiemi_Tomi/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аджемоглу Дарон</title>
+    <id>/A/Kamer_Daron_Acemoglu/index.xml</id>
+    <link href="/A/Kamer_Daron_Acemoglu/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адигьозалов Тогрул Аскер Оглу</title>
+    <id>/A/Adyhozalov_Tohrul_Asker_Ohlu/index.xml</id>
+    <link href="/A/Adyhozalov_Tohrul_Asker_Ohlu/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аді Ендре</title>
+    <id>/A/Ady_Endre/index.xml</id>
+    <link href="/A/Ady_Endre/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адлер Оксана</title>
+    <id>/A/Adler_Oksana/index.xml</id>
+    <link href="/A/Adler_Oksana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адлер Мортімер</title>
+    <id>/A/Adler_Mortimer/index.xml</id>
+    <link href="/A/Adler_Mortimer/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адлер Фрідріх</title>
+    <id>/A/Adler_Fridrikh/index.xml</id>
+    <link href="/A/Adler_Fridrikh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адо П'єр</title>
+    <id>/A/Ado_Pier/index.xml</id>
+    <link href="/A/Ado_Pier/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адорно Теодор</title>
+    <id>/A/Adorno_Teodor/index.xml</id>
+    <link href="/A/Adorno_Teodor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адріанова-Перетц Варвара</title>
+    <id>/A/Adrianova-Peretts_Varvara/index.xml</id>
+    <link href="/A/Adrianova-Peretts_Varvara/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адруг Анатолій</title>
+    <id>/A/Adruh_Anatolii/index.xml</id>
+    <link href="/A/Adruh_Anatolii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Адсон з Монтьє-ан-Дер</title>
+    <id>/A/64a30051202cc/index.xml</id>
+    <link href="/A/64a30051202cc/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ажнюк Богдан</title>
+    <id>/A/Azhniuk_Bohdan/index.xml</id>
+    <link href="/A/Azhniuk_Bohdan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азаре Мешак</title>
+    <id>/A/Azare_Meshak/index.xml</id>
+    <link href="/A/Azare_Meshak/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азарелло Браян</title>
+    <id>/A/Azzarello_Brian/index.xml</id>
+    <link href="/A/Azzarello_Brian/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азаренков Григорій</title>
+    <id>/A/Azarenkov_Hryhorii/index.xml</id>
+    <link href="/A/Azarenkov_Hryhorii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азаров Микола Янович</title>
+    <id>/A/Azarov_Mykola_Yanovych/index.xml</id>
+    <link href="/A/Azarov_Mykola_Yanovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азаров Всєволод</title>
+    <id>/A/Azarov_Vsevolod/index.xml</id>
+    <link href="/A/Azarov_Vsevolod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азарх Ірина</title>
+    <id>/A/Azarkh_Iryna/index.xml</id>
+    <link href="/A/Azarkh_Iryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аздербалль Роберт</title>
+    <id>/A/Azderball_Robert/index.xml</id>
+    <link href="/A/Azderball_Robert/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азербайджанський народ</title>
+    <id>/A/Azerbaidzhanskyi_narod/index.xml</id>
+    <link href="/A/Azerbaidzhanskyi_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аззам Лейла</title>
+    <id>/A/Azzam_Leila/index.xml</id>
+    <link href="/A/Azzam_Leila/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азімов Айзек</title>
+    <id>/A/Azimov/index.xml</id>
+    <link href="/A/Azimov/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Азовцева Софія</title>
+    <id>/A/Azovtseva_Sofiia/index.xml</id>
+    <link href="/A/Azovtseva_Sofiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айбабіна (Овчаренко) Олена</title>
+    <id>/A/Aibabina_Ovcharenko_Olena/index.xml</id>
+    <link href="/A/Aibabina_Ovcharenko_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айвіде Ліндквіст Йон</title>
+    <id>/A/Aivide_Lindkvist_Yon/index.xml</id>
+    <link href="/A/Aivide_Lindkvist_Yon/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айгі Генадій</title>
+    <id>/A/Aihi_Henadii/index.xml</id>
+    <link href="/A/Aihi_Henadii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айдукєвіч Казімєж</title>
+    <id>/A/Ajdukiewicz_Kazimierz/index.xml</id>
+    <link href="/A/Ajdukiewicz_Kazimierz/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айзексон Волтер</title>
+    <id>/A/Isaacson_Walter/index.xml</id>
+    <link href="/A/Isaacson_Walter/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айзенбарт Любомира</title>
+    <id>/A/Aizenbart_Liubomyra/index.xml</id>
+    <link href="/A/Aizenbart_Liubomyra/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айзеншток Ієремія</title>
+    <id>/A/Aizenshtok_Iieremiia/index.xml</id>
+    <link href="/A/Aizenshtok_Iieremiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айні Садріддін</title>
+    <id>/A/Aini_Sadriddin/index.xml</id>
+    <link href="/A/Aini_Sadriddin/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айолло Григорій</title>
+    <id>/A/Aiollo_Hryhorii/index.xml</id>
+    <link href="/A/Aiollo_Hryhorii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айраксинен Тимо</title>
+    <id>/A/Airaksinen_Timo/index.xml</id>
+    <link href="/A/Airaksinen_Timo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айріш Вільям</title>
+    <id>/A/William_Irish/index.xml</id>
+    <link href="/A/William_Irish/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айслер Ріане</title>
+    <id>/A/Aisler_Riane/index.xml</id>
+    <link href="/A/Aisler_Riane/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айтматов Чингіз</title>
+    <id>/A/Aitmatov_Chynhiz/index.xml</id>
+    <link href="/A/Aitmatov_Chynhiz/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Айтов Спартак</title>
+    <id>/A/Aitov_Spartak/index.xml</id>
+    <link href="/A/Aitov_Spartak/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акагоші Айріс</title>
+    <id>/A/Akagoshi_Iris/index.xml</id>
+    <link href="/A/Akagoshi_Iris/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акаєв Шаміль</title>
+    <id>/A/Akaiev_Shamil/index.xml</id>
+    <link href="/A/Akaiev_Shamil/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акайомова Анжела</title>
+    <id>/A/Akaiomova_Anzhela/index.xml</id>
+    <link href="/A/Akaiomova_Anzhela/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аквінський Тома</title>
+    <id>/A/Akvinskyi_Toma/index.xml</id>
+    <link href="/A/Akvinskyi_Toma/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акерлі Ібен</title>
+    <id>/A/Akerli_Iben/index.xml</id>
+    <link href="/A/Akerli_Iben/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акименко І.М.</title>
+    <id>/A/Akymenko_IM/index.xml</id>
+    <link href="/A/Akymenko_IM/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акименко Іван</title>
+    <id>/A/Akymenko_Ivan/index.xml</id>
+    <link href="/A/Akymenko_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акинджи Емре</title>
+    <id>/A/Akyndzhy_Emre/index.xml</id>
+    <link href="/A/Akyndzhy_Emre/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акіко Йосано</title>
+    <id>/A/Akiko_Yosano/index.xml</id>
+    <link href="/A/Akiko_Yosano/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акімов Ігор</title>
+    <id>/A/Akimov_Ihor/index.xml</id>
+    <link href="/A/Akimov_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акімов Михайло</title>
+    <id>/A/Akimov_Mykhailo/index.xml</id>
+    <link href="/A/Akimov_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акімов Ігор Андрійович</title>
+    <id>/A/Akimov_Ihor_Andriiovych/index.xml</id>
+    <link href="/A/Akimov_Ihor_Andriiovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акімова О.В.</title>
+    <id>/A/Akimova_OV/index.xml</id>
+    <link href="/A/Akimova_OV/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акімова Олена</title>
+    <id>/A/Akimova_Olena/index.xml</id>
+    <link href="/A/Akimova_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акімушкін Іґорь</title>
+    <id>/A/Akymushkin_Ihor/index.xml</id>
+    <link href="/A/Akymushkin_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акічев Шаміль</title>
+    <id>/A/Akichev_Shamil/index.xml</id>
+    <link href="/A/Akichev_Shamil/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аккерман Галя</title>
+    <id>/A/Galia_Ackerman/index.xml</id>
+    <link href="/A/Galia_Ackerman/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акмен Вікторія</title>
+    <id>/A/Akmen_Viktoriia/index.xml</id>
+    <link href="/A/Akmen_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акмен Інна</title>
+    <id>/A/Akmen_Inna/index.xml</id>
+    <link href="/A/Akmen_Inna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акройд Пітер</title>
+    <id>/A/Peter_Ackroyd/index.xml</id>
+    <link href="/A/Peter_Ackroyd/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аксаков Сергій Тимофійович</title>
+    <id>/A/Aksakov_Serhii_Tymofiiovych/index.xml</id>
+    <link href="/A/Aksakov_Serhii_Tymofiiovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аксакова Наталя</title>
+    <id>/A/Aksakova_Natalia/index.xml</id>
+    <link href="/A/Aksakova_Natalia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аксьом Марія</title>
+    <id>/A/Aksom_Mariia/index.xml</id>
+    <link href="/A/Aksom_Mariia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аксьонов Віктор</title>
+    <id>/A/Aksonov_Viktor/index.xml</id>
+    <link href="/A/Aksonov_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аксьонов Васілій</title>
+    <id>/A/Aksonov_Vasilii/index.xml</id>
+    <link href="/A/Aksonov_Vasilii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аксьонова Наталія</title>
+    <id>/A/Aksonova_Nataliia/index.xml</id>
+    <link href="/A/Aksonova_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аксьонова Лариса</title>
+    <id>/A/Aksonova_Larysa/index.xml</id>
+    <link href="/A/Aksonova_Larysa/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акуленко Віталій</title>
+    <id>/A/Akulenko_Vitalii/index.xml</id>
+    <link href="/A/Akulenko_Vitalii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акуленко Любов</title>
+    <id>/A/Akulenko_Liubov/index.xml</id>
+    <link href="/A/Akulenko_Liubov/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акуленко Аліна</title>
+    <id>/A/Akulenko_Alina/index.xml</id>
+    <link href="/A/Akulenko_Alina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акульшин Олексій</title>
+    <id>/A/Akulshyn_Oleksii/index.xml</id>
+    <link href="/A/Akulshyn_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акунін Олександр</title>
+    <id>/A/Akunin_Oleksandr/index.xml</id>
+    <link href="/A/Akunin_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акунін Боріс</title>
+    <id>/A/Akunin_Boris/index.xml</id>
+    <link href="/A/Akunin_Boris/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акунья Карденас Іґнасіо</title>
+    <id>/A/Acuna_Ignacio_Cardenas/index.xml</id>
+    <link href="/A/Acuna_Ignacio_Cardenas/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акутаґава Рюноске</title>
+    <id>/A/Riunoske_Akutagava/index.xml</id>
+    <link href="/A/Riunoske_Akutagava/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акчокракли Осман</title>
+    <id>/A/Akchokrakly_Osman/index.xml</id>
+    <link href="/A/Akchokrakly_Osman/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Акчуріна-Муфтієва Нурія</title>
+    <id>/A/Akchurina-Muftiieva_Nuriia/index.xml</id>
+    <link href="/A/Akchurina-Muftiieva_Nuriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аладько Дмитро</title>
+    <id>/A/Aladko_Dmytro/index.xml</id>
+    <link href="/A/Aladko_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алай</title>
+    <id>/A/Alai/index.xml</id>
+    <link href="/A/Alai/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алам Румаан</title>
+    <id>/A/Alam_Rumaan/index.xml</id>
+    <link href="/A/Alam_Rumaan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аларкон Педро Антоніо де</title>
+    <id>/A/Alarkon_Pedro_Antonio_de/index.xml</id>
+    <link href="/A/Alarkon_Pedro_Antonio_de/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Албанський народ</title>
+    <id>/A/Albanskyi_narod/index.xml</id>
+    <link href="/A/Albanskyi_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алварт Єнні Марієтта</title>
+    <id>/A/Jenny_Marietta_Alwart/index.xml</id>
+    <link href="/A/Jenny_Marietta_Alwart/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алеґрія Сіро</title>
+    <id>/A/Ciro_Alegria/index.xml</id>
+    <link href="/A/Ciro_Alegria/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алейніков Григорій</title>
+    <id>/A/Aleinikov_Hryhorii/index.xml</id>
+    <link href="/A/Aleinikov_Hryhorii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алейхем Шолом</title>
+    <id>/A/Sholom_Aleikhem/index.xml</id>
+    <link href="/A/Sholom_Aleikhem/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алекберлі Меммедкесир</title>
+    <id>/A/Alekberli_Memmedkesir/index.xml</id>
+    <link href="/A/Alekberli_Memmedkesir/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александер Тамар</title>
+    <id>/A/Alexander_Tamar/index.xml</id>
+    <link href="/A/Alexander_Tamar/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александер Тія</title>
+    <id>/A/Aleksander_Tiia/index.xml</id>
+    <link href="/A/Aleksander_Tiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александренко Вікторія</title>
+    <id>/A/Aleksandrenko_Viktoriia/index.xml</id>
+    <link href="/A/Aleksandrenko_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александров В.</title>
+    <id>/A/Aleksandrov_V/index.xml</id>
+    <link href="/A/Aleksandrov_V/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александров П.Г.</title>
+    <id>/A/Aleksandrov_PH/index.xml</id>
+    <link href="/A/Aleksandrov_PH/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александров Олексій</title>
+    <id>/A/Aleksandrov_Oleksii/index.xml</id>
+    <link href="/A/Aleksandrov_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александров Олег</title>
+    <id>/A/Aleksandrov_Oleh/index.xml</id>
+    <link href="/A/Aleksandrov_Oleh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александрова Л.</title>
+    <id>/A/Aleksandrova_L/index.xml</id>
+    <link href="/A/Aleksandrova_L/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александрович Митрофан</title>
+    <id>/A/Aleksandrovych_Mytrofan/index.xml</id>
+    <link href="/A/Aleksandrovych_Mytrofan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александрович Володимир</title>
+    <id>/A/Aleksandrovych_Volodymyr/index.xml</id>
+    <link href="/A/Aleksandrovych_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александрович Микола</title>
+    <id>/A/Aleksandrovych_Mykola/index.xml</id>
+    <link href="/A/Aleksandrovych_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александрович О.О.</title>
+    <id>/A/Aleksandrovych_OO/index.xml</id>
+    <link href="/A/Aleksandrovych_OO/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александровський О.</title>
+    <id>/A/Aleksandrovskyi_O/index.xml</id>
+    <link href="/A/Aleksandrovskyi_O/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Александрюк Валерія</title>
+    <id>/A/Aleksandriuk_Valeriia/index.xml</id>
+    <link href="/A/Aleksandriuk_Valeriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексаха Андрій</title>
+    <id>/A/Aleksakha_Andrii/index.xml</id>
+    <link href="/A/Aleksakha_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексашкіна Людмила</title>
+    <id>/A/Aleksashkina_Liudmyla/index.xml</id>
+    <link href="/A/Aleksashkina_Liudmyla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексеева Ніна</title>
+    <id>/A/Alekseeva_Nina/index.xml</id>
+    <link href="/A/Alekseeva_Nina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексеева Марія</title>
+    <id>/A/Alekseeva_Mariia/index.xml</id>
+    <link href="/A/Alekseeva_Mariia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексеєвська Галина</title>
+    <id>/A/Alekseievska_Halyna/index.xml</id>
+    <link href="/A/Alekseievska_Halyna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексеєнко Олена</title>
+    <id>/A/Alekseienko_O/index.xml</id>
+    <link href="/A/Alekseienko_O/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексеєнко Анастасія</title>
+    <id>/A/Alekseienko_Anastasiia/index.xml</id>
+    <link href="/A/Alekseienko_Anastasiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексеєнко Людмила</title>
+    <id>/A/Alekseienko_Liudmyla/index.xml</id>
+    <link href="/A/Alekseienko_Liudmyla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексеєнко Максим</title>
+    <id>/A/Alekseienko_Maksym/index.xml</id>
+    <link href="/A/Alekseienko_Maksym/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексеєнко Наталія</title>
+    <id>/A/Alekseienko_Nataliia/index.xml</id>
+    <link href="/A/Alekseienko_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексєєв Михайло</title>
+    <id>/A/Aleksieiev_Mykhailo/index.xml</id>
+    <link href="/A/Aleksieiev_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексєєв Юрій</title>
+    <id>/A/Aleksieiev_Yurii/index.xml</id>
+    <link href="/A/Aleksieiev_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексєєва Дар’я</title>
+    <id>/A/Aleksieieva_Daria/index.xml</id>
+    <link href="/A/Aleksieieva_Daria/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексєєва Алла</title>
+    <id>/A/Aleksieieva_Alla/index.xml</id>
+    <link href="/A/Aleksieieva_Alla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексєєва-Процюк Діана</title>
+    <id>/A/Aleksieieva-Protsiuk_Diana/index.xml</id>
+    <link href="/A/Aleksieieva-Protsiuk_Diana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексєєнко Микола</title>
+    <id>/A/Aleksieienko_Mykola/index.xml</id>
+    <link href="/A/Aleksieienko_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексєєнко Олена</title>
+    <id>/A/Aleksieienko_Olena/index.xml</id>
+    <link href="/A/Aleksieienko_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексієвець Леся</title>
+    <id>/A/Aleksiievets_Lesia/index.xml</id>
+    <link href="/A/Aleksiievets_Lesia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексієвець Микола</title>
+    <id>/A/Aleksiievets_Mykola/index.xml</id>
+    <link href="/A/Aleksiievets_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексієвець Марія</title>
+    <id>/A/Aleksiievets_Mariia/index.xml</id>
+    <link href="/A/Aleksiievets_Mariia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексієвець Оксана</title>
+    <id>/A/Aleksiievets_Oksana/index.xml</id>
+    <link href="/A/Aleksiievets_Oksana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алексієвич Світлана</title>
+    <id>/A/Aleksiievych_Svitlana/index.xml</id>
+    <link href="/A/Aleksiievych_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ален-Фурньє</title>
+    <id>/A/Alain-Fournier/index.xml</id>
+    <link href="/A/Alain-Fournier/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аленін Юрій</title>
+    <id>/A/Alenin_Yurii/index.xml</id>
+    <link href="/A/Alenin_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алеппський Павло</title>
+    <id>/A/Aleppskyi_Pavlo/index.xml</id>
+    <link href="/A/Aleppskyi_Pavlo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алефіренко Микола</title>
+    <id>/A/Alefirenko_Mykola/index.xml</id>
+    <link href="/A/Alefirenko_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алешкевич Ярослав</title>
+    <id>/A/Aleshkevych_Yaroslav/index.xml</id>
+    <link href="/A/Aleshkevych_Yaroslav/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алешко Василь</title>
+    <id>/A/Aleshko_Vasyl/index.xml</id>
+    <link href="/A/Aleshko_Vasyl/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксандров Ґєорґій</title>
+    <id>/A/Alieksandrov_Gieorgii/index.xml</id>
+    <link href="/A/Alieksandrov_Gieorgii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксандрова Вєра</title>
+    <id>/A/Aleksandrova_Vira/index.xml</id>
+    <link href="/A/Aleksandrova_Vira/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксандрова Олександра</title>
+    <id>/A/Alieksandrova_Oleksandra/index.xml</id>
+    <link href="/A/Alieksandrova_Oleksandra/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксандрова Зінаіда</title>
+    <id>/A/Alieksandrova_Zinaida/index.xml</id>
+    <link href="/A/Alieksandrova_Zinaida/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксєєв Олександр</title>
+    <id>/A/Alieksieiev_Oleksandr/index.xml</id>
+    <link href="/A/Alieksieiev_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксєєв Міхаіл</title>
+    <id>/A/Alieksieiev_Mikhail/index.xml</id>
+    <link href="/A/Alieksieiev_Mikhail/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксєєв Олексій</title>
+    <id>/A/Alieksieiev_Oleksii/index.xml</id>
+    <link href="/A/Alieksieiev_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксєєв Сергій</title>
+    <id>/A/Alieksieiev_Serhii/index.xml</id>
+    <link href="/A/Alieksieiev_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксєєв Сєрґєй Пєтровічь</title>
+    <id>/A/Alieksieiev_Siergiei_Pietrovich/index.xml</id>
+    <link href="/A/Alieksieiev_Siergiei_Pietrovich/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксєєва Ірина</title>
+    <id>/A/Alieksieieva_Iryna/index.xml</id>
+    <link href="/A/Alieksieieva_Iryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксєєва Юлія</title>
+    <id>/A/Alieksieieva_Yuliia/index.xml</id>
+    <link href="/A/Alieksieieva_Yuliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксєєва-Процюк Діана</title>
+    <id>/A/Alieksieieva-Protsiuk_Diana/index.xml</id>
+    <link href="/A/Alieksieieva-Protsiuk_Diana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєксін Анатолій</title>
+    <id>/A/Aleksin_Anatolii/index.xml</id>
+    <link href="/A/Aleksin_Anatolii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алєхновіч Францішак</title>
+    <id>/A/Aliekhnovich_Frantsishak/index.xml</id>
+    <link href="/A/Aliekhnovich_Frantsishak/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алі Сабахаттін</title>
+    <id>/A/Ali_Sabakhattin/index.xml</id>
+    <link href="/A/Ali_Sabakhattin/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аліґ'єрі Данте</title>
+    <id>/A/Dante_Aligieri/index.xml</id>
+    <link href="/A/Dante_Aligieri/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аліґер Марґаріта</title>
+    <id>/A/Aliger_Margarita/index.xml</id>
+    <link href="/A/Aliger_Margarita/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алієв Газанфар</title>
+    <id>/A/Aliiev_Hazanfar/index.xml</id>
+    <link href="/A/Aliiev_Hazanfar/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алієв Руслан</title>
+    <id>/A/Aliiev_Ruslan/index.xml</id>
+    <link href="/A/Aliiev_Ruslan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алієв Аббас Мамед огли</title>
+    <id>/A/Aliiev_Abbas_Mamed_ohly/index.xml</id>
+    <link href="/A/Aliiev_Abbas_Mamed_ohly/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алієва Заміна Керім кизи.</title>
+    <id>/A/Aliieva_Zamina_Kerim_kyzy/index.xml</id>
+    <link href="/A/Aliieva_Zamina_Kerim_kyzy/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аліков Юрій</title>
+    <id>/A/Alikov_Yurii/index.xml</id>
+    <link href="/A/Alikov_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алімбаєв Музафар</title>
+    <id>/A/Alimbaiev_Muzafar/index.xml</id>
+    <link href="/A/Alimbaiev_Muzafar/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алімкулов Нурсултан</title>
+    <id>/A/Alimkulov_Nursultan/index.xml</id>
+    <link href="/A/Alimkulov_Nursultan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алкей</title>
+    <id>/A/Alkei/index.xml</id>
+    <link href="/A/Alkei/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аллан Тревор</title>
+    <id>/A/Allan_Trevor/index.xml</id>
+    <link href="/A/Allan_Trevor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алле Альфонс</title>
+    <id>/A/Allais_Alphonse/index.xml</id>
+    <link href="/A/Allais_Alphonse/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аллен Вуді</title>
+    <id>/A/Woody_Allen/index.xml</id>
+    <link href="/A/Woody_Allen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аллен Марсель</title>
+    <id>/A/Marcel_Allain/index.xml</id>
+    <link href="/A/Marcel_Allain/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аллен Девід</title>
+    <id>/A/David_Allen/index.xml</id>
+    <link href="/A/David_Allen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аллен Capa Еддісон</title>
+    <id>/A/Allen_Capa_Eddison/index.xml</id>
+    <link href="/A/Allen_Capa_Eddison/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аллен Джеймс</title>
+    <id>/A/Allen_James/index.xml</id>
+    <link href="/A/Allen_James/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аллеров Владислав</title>
+    <id>/A/Allerov_Vladyslav/index.xml</id>
+    <link href="/A/Allerov_Vladyslav/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алмазов Олександр</title>
+    <id>/A/Almazov_Oleksandr/index.xml</id>
+    <link href="/A/Almazov_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алмашій Володимир</title>
+    <id>/A/Almashii_Volodymyr/index.xml</id>
+    <link href="/A/Almashii_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алмонд Девід</title>
+    <id>/A/Almond_Devid/index.xml</id>
+    <link href="/A/Almond_Devid/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алова Наталя</title>
+    <id>/A/Alova_Natalia/index.xml</id>
+    <link href="/A/Alova_Natalia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алтайський народ</title>
+    <id>/A/Altaiskyi_narod/index.xml</id>
+    <link href="/A/Altaiskyi_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алтухов Олексій</title>
+    <id>/A/Altukhov_Oleksii/index.xml</id>
+    <link href="/A/Altukhov_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алфьоров Сергій</title>
+    <id>/A/Alforov_Serhii/index.xml</id>
+    <link href="/A/Alforov_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алфьоров Олександр</title>
+    <id>/A/Alforov_Oleksandr/index.xml</id>
+    <link href="/A/Alforov_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алфьоров Микола</title>
+    <id>/A/Alforov_Mykola/index.xml</id>
+    <link href="/A/Alforov_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алчевська Христина Данилівна</title>
+    <id>/A/Alchevska_Khrystyna/index.xml</id>
+    <link href="/A/Alchevska_Khrystyna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алчевська Христина (Христя) Олексіївна</title>
+    <id>/A/Alchevska_Khrystyna_Oleksiivna/index.xml</id>
+    <link href="/A/Alchevska_Khrystyna_Oleksiivna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алчевський Іван</title>
+    <id>/A/Alchevskyi_Ivan/index.xml</id>
+    <link href="/A/Alchevskyi_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аль-Анні Амар</title>
+    <id>/A/Al-Anni_Amar/index.xml</id>
+    <link href="/A/Al-Anni_Amar/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аль-Далваш Аблуллах Фоуад</title>
+    <id>/A/Al-Dalvash_Ablullah_Fowad/index.xml</id>
+    <link href="/A/Al-Dalvash_Ablullah_Fowad/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>аль-Ейса Усама</title>
+    <id>/A/al-Eisa_Usama/index.xml</id>
+    <link href="/A/al-Eisa_Usama/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>аль-Кармалаві Ахмад</title>
+    <id>/A/al-Karmalavi_Akhmad/index.xml</id>
+    <link href="/A/al-Karmalavi_Akhmad/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>аль-Фарабі Абу Наср</title>
+    <id>/A/Al-Farabi/index.xml</id>
+    <link href="/A/Al-Farabi/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аль-Хаварі Юсеф Ріяд Мохаммад</title>
+    <id>/A/Al-Khavari_Yusef_Riiad_Mokhammad/index.xml</id>
+    <link href="/A/Al-Khavari_Yusef_Riiad_Mokhammad/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альбова Г.</title>
+    <id>/A/Albova_H/index.xml</id>
+    <link href="/A/Albova_H/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альварт Єнні</title>
+    <id>/A/Alvart_Yenni/index.xml</id>
+    <link href="/A/Alvart_Yenni/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альвтеґен Альбін</title>
+    <id>/A/Alvtegen_Albin/index.xml</id>
+    <link href="/A/Alvtegen_Albin/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альвтеґен Карін</title>
+    <id>/A/Alvtegen_Karin/index.xml</id>
+    <link href="/A/Alvtegen_Karin/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альдекоа Іґнасіо</title>
+    <id>/A/Aldecoa_Ignacio/index.xml</id>
+    <link href="/A/Aldecoa_Ignacio/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альєнде Ісабель</title>
+    <id>/A/Isabel_Allende/index.xml</id>
+    <link href="/A/Isabel_Allende/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альков Володимир</title>
+    <id>/A/Alkov_Volodymyr/index.xml</id>
+    <link href="/A/Alkov_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альманах</title>
+    <id>/A/Almanakh/index.xml</id>
+    <link href="/A/Almanakh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альмес Іван</title>
+    <id>/A/Almes_Ivan/index.xml</id>
+    <link href="/A/Almes_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альмужна Тетяна</title>
+    <id>/A/Almuzhna_Tetiana/index.xml</id>
+    <link href="/A/Almuzhna_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альошина Марiя</title>
+    <id>/A/Aloshyna_Mariia/index.xml</id>
+    <link href="/A/Aloshyna_Mariia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альошина Оксана</title>
+    <id>/A/Aloshyna_Oksana/index.xml</id>
+    <link href="/A/Aloshyna_Oksana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альошина Марина</title>
+    <id>/A/Aloshyna_Maryna/index.xml</id>
+    <link href="/A/Aloshyna_Maryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альтенберг Петер</title>
+    <id>/A/Altenberh_Peter/index.xml</id>
+    <link href="/A/Altenberh_Peter/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альтман Яніна</title>
+    <id>/A/Altman_Janina/index.xml</id>
+    <link href="/A/Altman_Janina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альтов Ґєнріх</title>
+    <id>/A/Altov_Henrikh/index.xml</id>
+    <link href="/A/Altov_Henrikh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альхабаш Олена</title>
+    <id>/A/Alkhabash_Olena/index.xml</id>
+    <link href="/A/Alkhabash_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Альчук Марія</title>
+    <id>/A/Alchuk_Mariia/index.xml</id>
+    <link href="/A/Alchuk_Mariia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аляб'єва Наталія</title>
+    <id>/A/Aliabieva_NV/index.xml</id>
+    <link href="/A/Aliabieva_NV/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Алядін Шаміль</title>
+    <id>/A/Aladin_Samil/index.xml</id>
+    <link href="/A/Aladin_Samil/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амаду Жоржі</title>
+    <id>/A/Amadu_Zhorzhi/index.xml</id>
+    <link href="/A/Amadu_Zhorzhi/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аманн Крістін</title>
+    <id>/A/Amann_Kristin/index.xml</id>
+    <link href="/A/Amann_Kristin/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аманшин Беркайир</title>
+    <id>/A/Amanshyn_Berkaiyr/index.xml</id>
+    <link href="/A/Amanshyn_Berkaiyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амар Тарік Сиріл</title>
+    <id>/A/Amar_Tarik_Cyril/index.xml</id>
+    <link href="/A/Amar_Tarik_Cyril/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амбіцька Анна</title>
+    <id>/A/Ambitska_Anna/index.xml</id>
+    <link href="/A/Ambitska_Anna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амдруп Ерік</title>
+    <id>/A/Amdrup_Erik/index.xml</id>
+    <link href="/A/Amdrup_Erik/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амеліна Вікторія</title>
+    <id>/A/Amelina_Viktoriia/index.xml</id>
+    <link href="/A/Amelina_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амеліна Оксана</title>
+    <id>/A/Amelina_Oksana/index.xml</id>
+    <link href="/A/Amelina_Oksana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амеліна Ірина</title>
+    <id>/A/Amelina_Iryna/index.xml</id>
+    <link href="/A/Amelina_Iryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амері Карл</title>
+    <id>/A/Carl_Amery/index.xml</id>
+    <link href="/A/Carl_Amery/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аміреджибі Мзечабук (Чабуа)</title>
+    <id>/A/Amiredzhybi_Mzechabuk_Chabua/index.xml</id>
+    <link href="/A/Amiredzhybi_Mzechabuk_Chabua/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амірреза Моллаахмаді Дехагі</title>
+    <id>/A/Amirreza_Mollaakhmadi_Dekhahi/index.xml</id>
+    <link href="/A/Amirreza_Mollaakhmadi_Dekhahi/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амірханов А.Ш.</title>
+    <id>/A/Amirkhanov_ASh/index.xml</id>
+    <link href="/A/Amirkhanov_ASh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амірханов Ельдар</title>
+    <id>/A/Amirkhanov_Eldar/index.xml</id>
+    <link href="/A/Amirkhanov_Eldar/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амічіс Едмондо Де</title>
+    <id>/A/Amichis_Edmondo_De/index.xml</id>
+    <link href="/A/Amichis_Edmondo_De/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амменде Евальд</title>
+    <id>/A/Ammende_Evald/index.xml</id>
+    <link href="/A/Ammende_Evald/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амонс Андрій</title>
+    <id>/A/Amons_Andrii/index.xml</id>
+    <link href="/A/Amons_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аморт Габріель</title>
+    <id>/A/Amort_Habriel/index.xml</id>
+    <link href="/A/Amort_Habriel/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аморт Честмір</title>
+    <id>/A/Amort_Cestmir/index.xml</id>
+    <link href="/A/Amort_Cestmir/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амосов Микола</title>
+    <id>/A/Amosov_Mykola/index.xml</id>
+    <link href="/A/Amosov_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амундсен Руаль</title>
+    <id>/A/Amundsen_Rual/index.xml</id>
+    <link href="/A/Amundsen_Rual/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Амурський народ</title>
+    <id>/A/Amurskyi_narod/index.xml</id>
+    <link href="/A/Amurskyi_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>ан-Нававі Імам</title>
+    <id>/A/an_Navavi/index.xml</id>
+    <link href="/A/an_Navavi/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ананда Атма</title>
+    <id>/A/Ananda_Atma/index.xml</id>
+    <link href="/A/Ananda_Atma/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ананьєв Анатолій</title>
+    <id>/A/Ananiev_Anatolii/index.xml</id>
+    <link href="/A/Ananiev_Anatolii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ананьєв Микола</title>
+    <id>/A/Ananiev_Mykola/index.xml</id>
+    <link href="/A/Ananiev_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ананьєв Геннадій Андрійович</title>
+    <id>/A/Ananiev_Hennadii_Andriiovych/index.xml</id>
+    <link href="/A/Ananiev_Hennadii_Andriiovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ананьєва Тетяна</title>
+    <id>/A/Ananieva_Tetiana/index.xml</id>
+    <link href="/A/Ananieva_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ананьїн Олег</title>
+    <id>/A/Ananin_Oleh/index.xml</id>
+    <link href="/A/Ananin_Oleh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ананян Вахтанґ</title>
+    <id>/A/Ananian_Vakhtang/index.xml</id>
+    <link href="/A/Ananian_Vakhtang/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ангелов Димитр</title>
+    <id>/A/Anhelov_Dymytr/index.xml</id>
+    <link href="/A/Anhelov_Dymytr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ангелуца Павло</title>
+    <id>/A/Angelutsa_Pavlo/index.xml</id>
+    <link href="/A/Angelutsa_Pavlo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ангелюк Олесь</title>
+    <id>/A/Anheliuk_Oles/index.xml</id>
+    <link href="/A/Anheliuk_Oles/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анґєльска Кристина</title>
+    <id>/A/Krystyna_Angielska/index.xml</id>
+    <link href="/A/Krystyna_Angielska/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Англійський народ</title>
+    <id>/A/Anhliiskyi_narod/index.xml</id>
+    <link href="/A/Anhliiskyi_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андахазі Федеріко</title>
+    <id>/A/Andakhazi_Federiko/index.xml</id>
+    <link href="/A/Andakhazi_Federiko/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерс Чарлі Джейн</title>
+    <id>/A/Anders_Charlie_Jane/index.xml</id>
+    <link href="/A/Anders_Charlie_Jane/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерсен Ганс Крістіан</title>
+    <id>/A/Hans_Christian_Andersen/index.xml</id>
+    <link href="/A/Hans_Christian_Andersen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерсен-Нексе Мартін</title>
+    <id>/A/Andersen-Nekse_Martin/index.xml</id>
+    <link href="/A/Andersen-Nekse_Martin/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерсон Шервуд</title>
+    <id>/A/Anderson_Shervud/index.xml</id>
+    <link href="/A/Anderson_Shervud/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерсон Пол</title>
+    <id>/A/Anderson_Poul/index.xml</id>
+    <link href="/A/Anderson_Poul/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерсон Бенедікт</title>
+    <id>/A/Anderson_Benedict/index.xml</id>
+    <link href="/A/Anderson_Benedict/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерсон Бред</title>
+    <id>/A/Anderson_Brad/index.xml</id>
+    <link href="/A/Anderson_Brad/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерсон Кріс</title>
+    <id>/A/Anderson_Chris/index.xml</id>
+    <link href="/A/Anderson_Chris/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерсон Кевін Джеймс</title>
+    <id>/A/Anderson_Kevin_James/index.xml</id>
+    <link href="/A/Anderson_Kevin_James/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерш Альфред</title>
+    <id>/A/Andersh_Alfred/index.xml</id>
+    <link href="/A/Andersh_Alfred/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андерш Йосип</title>
+    <id>/A/Anders_Josef/index.xml</id>
+    <link href="/A/Anders_Josef/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анджеєвський Єжи</title>
+    <id>/A/Andrzejewski_Jerzy/index.xml</id>
+    <link href="/A/Andrzejewski_Jerzy/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андибер Г.</title>
+    <id>/A/Andyber_H/index.xml</id>
+    <link href="/A/Andyber_H/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андієвська Емма</title>
+    <id>/A/Andiievska_Emma/index.xml</id>
+    <link href="/A/Andiievska_Emma/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андоленко Ольга</title>
+    <id>/A/Andolenko_Olha/index.xml</id>
+    <link href="/A/Andolenko_Olha/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андор Георгій</title>
+    <id>/A/Andor_Heorhii/index.xml</id>
+    <link href="/A/Andor_Heorhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андр Олбер</title>
+    <id>/A/Andr_Olber/index.xml</id>
+    <link href="/A/Andr_Olber/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андре Робер</title>
+    <id>/A/Andre_Rober/index.xml</id>
+    <link href="/A/Andre_Rober/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреєв Леонід</title>
+    <id>/A/Andreiev_Leonid/index.xml</id>
+    <link href="/A/Andreiev_Leonid/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреєв Сергій</title>
+    <id>/A/Andreiev_Serhii/index.xml</id>
+    <link href="/A/Andreiev_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреєв Леонід Павлович</title>
+    <id>/A/Andreiev_Leonid_Pavlovych/index.xml</id>
+    <link href="/A/Andreiev_Leonid_Pavlovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреєв Ігор</title>
+    <id>/A/Andreiev_Ihor/index.xml</id>
+    <link href="/A/Andreiev_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреєв Олексій</title>
+    <id>/A/Andreiev_Oleksii/index.xml</id>
+    <link href="/A/Andreiev_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреєв А.</title>
+    <id>/A/Andreiev_A/index.xml</id>
+    <link href="/A/Andreiev_A/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреєва Світлана</title>
+    <id>/A/Andreieva_Svitlana/index.xml</id>
+    <link href="/A/Andreieva_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреєва Кацярина</title>
+    <id>/A/Andreieva_Katsiaryna/index.xml</id>
+    <link href="/A/Andreieva_Katsiaryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейканіч Андрій</title>
+    <id>/A/Andreikanich_Andrii/index.xml</id>
+    <link href="/A/Andreikanich_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейків Христина</title>
+    <id>/A/Andreikiv_Khrystyna/index.xml</id>
+    <link href="/A/Andreikiv_Khrystyna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейків Олександр</title>
+    <id>/A/Andreikiv_Oleksandr/index.xml</id>
+    <link href="/A/Andreikiv_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейко Андрій</title>
+    <id>/A/Andreiko_Andrii/index.xml</id>
+    <link href="/A/Andreiko_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейко Дмитро</title>
+    <id>/A/Andreiko_Dmytro/index.xml</id>
+    <link href="/A/Andreiko_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейцова Яна</title>
+    <id>/A/Andreitsova_Yana/index.xml</id>
+    <link href="/A/Andreitsova_Yana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейчик Марко</title>
+    <id>/A/Andreichyk_Marko/index.xml</id>
+    <link href="/A/Andreichyk_Marko/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейчин Юрій</title>
+    <id>/A/Andreichyn_Yurii/index.xml</id>
+    <link href="/A/Andreichyn_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрейчук Юрій</title>
+    <id>/A/Andreichuk_Yurii/index.xml</id>
+    <link href="/A/Andreichuk_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андреюк Наталія</title>
+    <id>/A/Andreiuk_Nataliia/index.xml</id>
+    <link href="/A/Andreiuk_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєв Лєонід</title>
+    <id>/A/Anreev_Leonid/index.xml</id>
+    <link href="/A/Anreev_Leonid/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєв Олексій</title>
+    <id>/A/Andreev_Oleksii/index.xml</id>
+    <link href="/A/Andreev_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєв Віталій</title>
+    <id>/A/Andrieiev_Vitalii/index.xml</id>
+    <link href="/A/Andrieiev_Vitalii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєв Ніколай</title>
+    <id>/A/Andreev_Nikolai/index.xml</id>
+    <link href="/A/Andreev_Nikolai/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєв Андрій</title>
+    <id>/A/Andrieiev_Andrii/index.xml</id>
+    <link href="/A/Andrieiev_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєва Л.</title>
+    <id>/A/Andreeva_L/index.xml</id>
+    <link href="/A/Andreeva_L/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєва Світлана</title>
+    <id>/A/Andrieieva_Svitlana/index.xml</id>
+    <link href="/A/Andrieieva_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєва Олена</title>
+    <id>/A/Andrieieva_Olena/index.xml</id>
+    <link href="/A/Andrieieva_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєва Наталія</title>
+    <id>/A/Andrieieva_Nataliia/index.xml</id>
+    <link href="/A/Andrieieva_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрєєва Ольга</title>
+    <id>/A/Andrieieva_Olha/index.xml</id>
+    <link href="/A/Andrieieva_Olha/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрич Іво</title>
+    <id>/A/Ivo_Andric/index.xml</id>
+    <link href="/A/Ivo_Andric/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрич Осип</title>
+    <id>/A/Andrych_Osyp/index.xml</id>
+    <link href="/A/Andrych_Osyp/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріанов В.Є.</title>
+    <id>/A/Andrianov_VYe/index.xml</id>
+    <link href="/A/Andrianov_VYe/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріанов Дмитро</title>
+    <id>/A/Andrianov_Dmytro/index.xml</id>
+    <link href="/A/Andrianov_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріанова Олена</title>
+    <id>/A/Andrianova_Olena/index.xml</id>
+    <link href="/A/Andrianova_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвська Лариса</title>
+    <id>/A/Andrievska_Larysa/index.xml</id>
+    <link href="/A/Andrievska_Larysa/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвська Ольга</title>
+    <id>/A/Andriievska_Olha/index.xml</id>
+    <link href="/A/Andriievska_Olha/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвська Анна</title>
+    <id>/A/Andriievska_Anna/index.xml</id>
+    <link href="/A/Andriievska_Anna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвська Ніна</title>
+    <id>/A/Andriievska_Nina/index.xml</id>
+    <link href="/A/Andriievska_Nina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвська Олександра</title>
+    <id>/A/Andriievska_Oleksandra/index.xml</id>
+    <link href="/A/Andriievska_Oleksandra/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвський Дмитро</title>
+    <id>/A/Andrievskyi_Dmytro/index.xml</id>
+    <link href="/A/Andrievskyi_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвський Віктор</title>
+    <id>/A/Andriievskyi_Viktor/index.xml</id>
+    <link href="/A/Andriievskyi_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвський Сергій</title>
+    <id>/A/Andriievskyi_Serhii/index.xml</id>
+    <link href="/A/Andriievskyi_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвський Олександр</title>
+    <id>/A/Andriievskyi_Oleksandr/index.xml</id>
+    <link href="/A/Andriievskyi_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвський Віктор Є.</title>
+    <id>/A/Andriievskyi_Viktor_Ye/index.xml</id>
+    <link href="/A/Andriievskyi_Viktor_Ye/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієвський Опанас</title>
+    <id>/A/Andriievskyi_Opanas/index.xml</id>
+    <link href="/A/Andriievskyi_Opanas/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієнко Олексій</title>
+    <id>/A/Andriienko_Oleksii/index.xml</id>
+    <link href="/A/Andriienko_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієнко Тетяна Леонідівна</title>
+    <id>/A/Andriienko_Tetiana_Leonidivna/index.xml</id>
+    <link href="/A/Andriienko_Tetiana_Leonidivna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієнко Іван</title>
+    <id>/A/Andriienko_Ivan/index.xml</id>
+    <link href="/A/Andriienko_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієнко Василь</title>
+    <id>/A/Andriienko_Vasyl/index.xml</id>
+    <link href="/A/Andriienko_Vasyl/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієнко Олена</title>
+    <id>/A/Andriienko_Olena/index.xml</id>
+    <link href="/A/Andriienko_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієнко-Нечитайло Михайло</title>
+    <id>/A/Andriienko-Nechytailo_Mykhailo/index.xml</id>
+    <link href="/A/Andriienko-Nechytailo_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієць Віктор</title>
+    <id>/A/Andriiets_Viktor/index.xml</id>
+    <link href="/A/Andriiets_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрієць Ф.С.</title>
+    <id>/A/Andriiets_FS/index.xml</id>
+    <link href="/A/Andriiets_FS/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріїв О.</title>
+    <id>/A/Andriiv_O/index.xml</id>
+    <link href="/A/Andriiv_O/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрійцьо Василь</title>
+    <id>/A/Andriitso_Vasyl/index.xml</id>
+    <link href="/A/Andriitso_Vasyl/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрійчук Юлія</title>
+    <id>/A/Andriichuk_Yuliia/index.xml</id>
+    <link href="/A/Andriichuk_Yuliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрійчук Михайло Іванович</title>
+    <id>/A/Andriichuk_Mykhailo/index.xml</id>
+    <link href="/A/Andriichuk_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрійчук Микола</title>
+    <id>/A/Andriichuk_Mykola/index.xml</id>
+    <link href="/A/Andriichuk_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрійчук Михайло Миколайович</title>
+    <id>/A/Andriichuk_Mykhailo_Mykolaiovych/index.xml</id>
+    <link href="/A/Andriichuk_Mykhailo_Mykolaiovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрійчук Людмила І.</title>
+    <id>/A/Andriichuk_Liudmyla_I/index.xml</id>
+    <link href="/A/Andriichuk_Liudmyla_I/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрійчук Кесар</title>
+    <id>/A/Andriichuk_Kesar/index.xml</id>
+    <link href="/A/Andriichuk_Kesar/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрічік Юрай</title>
+    <id>/A/Andrichik_Yurai/index.xml</id>
+    <link href="/A/Andrichik_Yurai/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріяка Ганна</title>
+    <id>/A/Andriiaka_Hanna/index.xml</id>
+    <link href="/A/Andriiaka_Hanna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріянов Віктор</title>
+    <id>/A/Andriianov_Viktor/index.xml</id>
+    <link href="/A/Andriianov_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріянова Ніна</title>
+    <id>/A/Andriianova_Nina/index.xml</id>
+    <link href="/A/Andriianova_Nina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріяш О.</title>
+    <id>/A/Andriiash_O/index.xml</id>
+    <link href="/A/Andriiash_O/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріяш Вікторія</title>
+    <id>/A/Andriiash_Viktoriia/index.xml</id>
+    <link href="/A/Andriiash_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріяш В.</title>
+    <id>/A/Andriiash_V/index.xml</id>
+    <link href="/A/Andriiash_V/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріяшев Олександр</title>
+    <id>/A/Andriiashev_Oleksandr/index.xml</id>
+    <link href="/A/Andriiashev_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріяшик Роман</title>
+    <id>/A/Andriashyk/index.xml</id>
+    <link href="/A/Andriashyk/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андріяшик Марія</title>
+    <id>/A/Andriiashyk_Mariia/index.xml</id>
+    <link href="/A/Andriiashyk_Mariia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрос Олег</title>
+    <id>/A/Andros_Oleh/index.xml</id>
+    <link href="/A/Andros_Oleh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андросова-Байда Дар'я</title>
+    <id>/A/Androsova-Baida_Daria/index.xml</id>
+    <link href="/A/Androsova-Baida_Daria/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрохович Амвросій</title>
+    <id>/A/Androkhovych_Amvrosii/index.xml</id>
+    <link href="/A/Androkhovych_Amvrosii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрощук Олександр</title>
+    <id>/A/Androschuk_Oleksandr/index.xml</id>
+    <link href="/A/Androschuk_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрощук Миколa</title>
+    <id>/A/Androschuk_Mykola/index.xml</id>
+    <link href="/A/Androschuk_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрощук Іван</title>
+    <id>/A/Androschuk_Ivan/index.xml</id>
+    <link href="/A/Androschuk_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрощук Федір</title>
+    <id>/A/Androschuk_Fedir/index.xml</id>
+    <link href="/A/Androschuk_Fedir/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусишен Константін Генрі</title>
+    <id>/A/Constantine_Henry_Andrusyshen/index.xml</id>
+    <link href="/A/Constantine_Henry_Andrusyshen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусишин Богдан</title>
+    <id>/A/Andrusyshyn_Bohdan/index.xml</id>
+    <link href="/A/Andrusyshyn_Bohdan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусишин Наталія</title>
+    <id>/A/Andrusyshyn_Nataliia/index.xml</id>
+    <link href="/A/Andrusyshyn_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусів Вікторія</title>
+    <id>/A/Andrusiv_Viktoriia/index.xml</id>
+    <link href="/A/Andrusiv_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусів Любомир</title>
+    <id>/A/Andrusiv_Liubomyr/index.xml</id>
+    <link href="/A/Andrusiv_Liubomyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Іван</title>
+    <id>/A/Andrusiak/index.xml</id>
+    <link href="/A/Andrusiak/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Михайло</title>
+    <id>/A/Andrusiak_Mykhailo/index.xml</id>
+    <link href="/A/Andrusiak_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Микола</title>
+    <id>/A/Andrusiak_Mykola/index.xml</id>
+    <link href="/A/Andrusiak_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Тарас</title>
+    <id>/A/Andrusiak_Taras/index.xml</id>
+    <link href="/A/Andrusiak_Taras/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Євгенія</title>
+    <id>/A/Andrusiak_Yevheniia/index.xml</id>
+    <link href="/A/Andrusiak_Yevheniia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Анатолій</title>
+    <id>/A/Andrusiak_Anatolii/index.xml</id>
+    <link href="/A/Andrusiak_Anatolii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Ярослав</title>
+    <id>/A/Andrusiak_Yaroslav/index.xml</id>
+    <link href="/A/Andrusiak_Yaroslav/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Ірина</title>
+    <id>/A/Andrusiak_Iryna/index.xml</id>
+    <link href="/A/Andrusiak_Iryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрусяк Василь</title>
+    <id>/A/Andrusiak_Vasyl/index.xml</id>
+    <link href="/A/Andrusiak_Vasyl/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрух Світлана</title>
+    <id>/A/Andrukh_Svitlana/index.xml</id>
+    <link href="/A/Andrukh_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрухів Дмитро</title>
+    <id>/A/Andrukhiv_Dmytro/index.xml</id>
+    <link href="/A/Andrukhiv_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрухів Ігор</title>
+    <id>/A/Andrukhiv_Ihor/index.xml</id>
+    <link href="/A/Andrukhiv_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрухів Юліан</title>
+    <id>/A/Andrukhiv_Yulian/index.xml</id>
+    <link href="/A/Andrukhiv_Yulian/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрухів Олег</title>
+    <id>/A/Andrukhiv_Oleh/index.xml</id>
+    <link href="/A/Andrukhiv_Oleh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрухович Юрій</title>
+    <id>/A/Andrukhovych/index.xml</id>
+    <link href="/A/Andrukhovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрухович Софія</title>
+    <id>/A/Andrukhovych_Sofia/index.xml</id>
+    <link href="/A/Andrukhovych_Sofia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андруцька Яна</title>
+    <id>/A/Andrutska_Yana/index.xml</id>
+    <link href="/A/Andrutska_Yana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрушків Богдан</title>
+    <id>/A/Andrushkiv_Bohdan/index.xml</id>
+    <link href="/A/Andrushkiv_Bohdan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрушко Петро</title>
+    <id>/A/Andrushko_Petro/index.xml</id>
+    <link href="/A/Andrushko_Petro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрушко Віталій</title>
+    <id>/A/Andrushko_Vitalii/index.xml</id>
+    <link href="/A/Andrushko_Vitalii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрушко Віктор</title>
+    <id>/A/Andrushko_Viktor/index.xml</id>
+    <link href="/A/Andrushko_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрущак Роман</title>
+    <id>/A/Andruschak_Roman/index.xml</id>
+    <link href="/A/Andruschak_Roman/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрущенко Тетяна</title>
+    <id>/A/Andruschenko_Tetiana/index.xml</id>
+    <link href="/A/Andruschenko_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрущенко Ігор</title>
+    <id>/A/Andruschenko_Ihor/index.xml</id>
+    <link href="/A/Andruschenko_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрущенко Віктор</title>
+    <id>/A/Andruschenko_Viktor/index.xml</id>
+    <link href="/A/Andruschenko_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрущенко Б.</title>
+    <id>/A/Andruschenko_B/index.xml</id>
+    <link href="/A/Andruschenko_B/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрущенко Наталія</title>
+    <id>/A/Andruschenko_Nataliia/index.xml</id>
+    <link href="/A/Andruschenko_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрущенко Володимир</title>
+    <id>/A/Andruschenko_Volodymyr/index.xml</id>
+    <link href="/A/Andruschenko_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрущенко Денис</title>
+    <id>/A/Andruschenko_Denys/index.xml</id>
+    <link href="/A/Andruschenko_Denys/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрюкайтене Реґіна</title>
+    <id>/A/Andriukaitiene_Regina/index.xml</id>
+    <link href="/A/Andriukaitiene_Regina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрющенко Едуард</title>
+    <id>/A/Andriuschenko_Eduard/index.xml</id>
+    <link href="/A/Andriuschenko_Eduard/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрющенко Світлана</title>
+    <id>/A/Andriuschenko_Svitlana/index.xml</id>
+    <link href="/A/Andriuschenko_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Андрющенко Катерина</title>
+    <id>/A/Andriuschenko_Kateryna/index.xml</id>
+    <link href="/A/Andriuschenko_Kateryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анер Теос</title>
+    <id>/A/Aner_Teos/index.xml</id>
+    <link href="/A/Aner_Teos/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анисимів М.</title>
+    <id>/A/Anysymiv_M/index.xml</id>
+    <link href="/A/Anysymiv_M/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анікєєв Денис</title>
+    <id>/A/Anikieiev_Denys/index.xml</id>
+    <link href="/A/Anikieiev_Denys/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анікушин Андрій</title>
+    <id>/A/Anikushyn_Andrii/index.xml</id>
+    <link href="/A/Anikushyn_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аніпер Ю.В.</title>
+    <id>/A/Aniper_YuV/index.xml</id>
+    <link href="/A/Aniper_YuV/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анісімов Микола</title>
+    <id>/A/Anisimov_Mykola/index.xml</id>
+    <link href="/A/Anisimov_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анісімов Костянтин</title>
+    <id>/A/Anisimov_K/index.xml</id>
+    <link href="/A/Anisimov_K/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анісімов Олександр</title>
+    <id>/A/Anisimov_Oleksandr/index.xml</id>
+    <link href="/A/Anisimov_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анісімов Герман</title>
+    <id>/A/Anisimov_Herman/index.xml</id>
+    <link href="/A/Anisimov_Herman/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анісімов Іван</title>
+    <id>/A/Anisimov_Ivan/index.xml</id>
+    <link href="/A/Anisimov_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анісімов В.</title>
+    <id>/A/Anisimov_V/index.xml</id>
+    <link href="/A/Anisimov_V/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анісімова Г.М</title>
+    <id>/A/Anisimova_HM/index.xml</id>
+    <link href="/A/Anisimova_HM/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аністратенко Лідія</title>
+    <id>/A/Anistratenko_Lidiia/index.xml</id>
+    <link href="/A/Anistratenko_Lidiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аністратенко Антоніна</title>
+    <id>/A/Anistratenko_Antonina/index.xml</id>
+    <link href="/A/Anistratenko_Antonina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анісюткін Нікалай</title>
+    <id>/A/Anisiutkin_MK/index.xml</id>
+    <link href="/A/Anisiutkin_MK/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анічин Євген</title>
+    <id>/A/Anichyn_Yevhen/index.xml</id>
+    <link href="/A/Anichyn_Yevhen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аніщенко Лілія</title>
+    <id>/A/Anischenko_Liliia/index.xml</id>
+    <link href="/A/Anischenko_Liliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аніщенко Вікторія</title>
+    <id>/A/Anischenko_Viktoriia/index.xml</id>
+    <link href="/A/Anischenko_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анкерсміт Франклін</title>
+    <id>/A/Ankersmit_Frank/index.xml</id>
+    <link href="/A/Ankersmit_Frank/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аннберг Шарль і Наталі</title>
+    <id>/A/Annberh_Sharl_i_Natali/index.xml</id>
+    <link href="/A/Annberh_Sharl_i_Natali/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аннєнкова Наталія</title>
+    <id>/A/Annienkova_Nataliia/index.xml</id>
+    <link href="/A/Annienkova_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аннєнскій Іннокєнтій</title>
+    <id>/A/Annienskyi_Innokentii/index.xml</id>
+    <link href="/A/Annienskyi_Innokentii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анніна Ірина</title>
+    <id>/A/Annina_Iryna/index.xml</id>
+    <link href="/A/Annina_Iryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аносова Валерія</title>
+    <id>/A/Anosova_Valeriia/index.xml</id>
+    <link href="/A/Anosova_Valeriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анохін Владлен</title>
+    <id>/A/Anokhin_VO/index.xml</id>
+    <link href="/A/Anokhin_VO/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анохін Андрій</title>
+    <id>/A/Anokhin_Andrii/index.xml</id>
+    <link href="/A/Anokhin_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анохіна Л.П.</title>
+    <id>/A/Anokhina_LP/index.xml</id>
+    <link href="/A/Anokhina_LP/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аношина Наталія-Тереза</title>
+    <id>/A/Anoshyna_Nataliia-Tereza/index.xml</id>
+    <link href="/A/Anoshyna_Nataliia-Tereza/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анпілогова Тетяна</title>
+    <id>/A/Anpilohova_Tetiana/index.xml</id>
+    <link href="/A/Anpilohova_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антибиш Д.М.</title>
+    <id>/A/Antybysh_DM/index.xml</id>
+    <link href="/A/Antybysh_DM/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антипенко Іван</title>
+    <id>/A/Antypenko_Ivan/index.xml</id>
+    <link href="/A/Antypenko_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антипенко Ганна</title>
+    <id>/A/Antypenko_Hanna/index.xml</id>
+    <link href="/A/Antypenko_Hanna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антипов Володимир</title>
+    <id>/A/Antypov_Volodymyr/index.xml</id>
+    <link href="/A/Antypov_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антипова Олена</title>
+    <id>/A/Antypova_Olena/index.xml</id>
+    <link href="/A/Antypova_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антипович Тарас</title>
+    <id>/A/Antypovych_Taras/index.xml</id>
+    <link href="/A/Antypovych_Taras/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антипович Костянтин</title>
+    <id>/A/Antypovych_Kostiantyn/index.xml</id>
+    <link href="/A/Antypovych_Kostiantyn/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антків Богдан</title>
+    <id>/A/Antkiv_Bohdan/index.xml</id>
+    <link href="/A/Antkiv_Bohdan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антокольскій Павєл</title>
+    <id>/A/Antokolskii_Paviel/index.xml</id>
+    <link href="/A/Antokolskii_Paviel/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антологія</title>
+    <id>/A/Antolohiia/index.xml</id>
+    <link href="/A/Antolohiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антомонов Олексій</title>
+    <id>/A/Antomonov_Oleksii/index.xml</id>
+    <link href="/A/Antomonov_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоненко М.І.</title>
+    <id>/A/Antonenko_MI/index.xml</id>
+    <link href="/A/Antonenko_MI/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоненко Тетяна</title>
+    <id>/A/Antonenko_Tetiana/index.xml</id>
+    <link href="/A/Antonenko_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоненко Маргарита</title>
+    <id>/A/Antonenko_Marharyta/index.xml</id>
+    <link href="/A/Antonenko_Marharyta/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоненко Н.</title>
+    <id>/A/Antonenko_N/index.xml</id>
+    <link href="/A/Antonenko_N/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоненко Валентина</title>
+    <id>/A/Antonenko_Valentyna/index.xml</id>
+    <link href="/A/Antonenko_Valentyna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоненко Борис Тихонович</title>
+    <id>/A/Antonenko_Borys_Tykhonovych/index.xml</id>
+    <link href="/A/Antonenko_Borys_Tykhonovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоненко-Давидович Борис</title>
+    <id>/A/Antonenko-Davydovych/index.xml</id>
+    <link href="/A/Antonenko-Davydovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонець Наталія</title>
+    <id>/A/Antonets_Nataliia/index.xml</id>
+    <link href="/A/Antonets_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонич Богдан-Ігор</title>
+    <id>/A/Antonych_Bohdan-Ihor/index.xml</id>
+    <link href="/A/Antonych_Bohdan-Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонишин А. П.</title>
+    <id>/A/Antonyshyn_A_P/index.xml</id>
+    <link href="/A/Antonyshyn_A_P/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонишин Світлана</title>
+    <id>/A/Antonyshyn_Svitlana/index.xml</id>
+    <link href="/A/Antonyshyn_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонік В.І.</title>
+    <id>/A/Antonik_VI/index.xml</id>
+    <link href="/A/Antonik_VI/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонік І.П.</title>
+    <id>/A/Antonik_IP/index.xml</id>
+    <link href="/A/Antonik_IP/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонов Ніколай</title>
+    <id>/A/Antonov_Nikolai/index.xml</id>
+    <link href="/A/Antonov_Nikolai/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонов Сєрґєй</title>
+    <id>/A/Antonov_Siergiei/index.xml</id>
+    <link href="/A/Antonov_Siergiei/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонов П.</title>
+    <id>/A/Antonov_P/index.xml</id>
+    <link href="/A/Antonov_P/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонов Олег</title>
+    <id>/A/Antonov_Oleh/index.xml</id>
+    <link href="/A/Antonov_Oleh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонов-Овсєєнко Антон</title>
+    <id>/A/Antonov-Ovsieienko_Anton/index.xml</id>
+    <link href="/A/Antonov-Ovsieienko_Anton/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонова Тетяна</title>
+    <id>/A/Antonova_Tetiana/index.xml</id>
+    <link href="/A/Antonova_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонова Ольга</title>
+    <id>/A/Antonova_Olha/index.xml</id>
+    <link href="/A/Antonova_Olha/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонова Інна</title>
+    <id>/A/Antonova_Inna/index.xml</id>
+    <link href="/A/Antonova_Inna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонова Світлана</title>
+    <id>/A/Antonova_Svitlana/index.xml</id>
+    <link href="/A/Antonova_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Володимир</title>
+    <id>/A/Antonovych/index.xml</id>
+    <link href="/A/Antonovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Марко</title>
+    <id>/A/Antonovych_Marko/index.xml</id>
+    <link href="/A/Antonovych_Marko/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Михайло</title>
+    <id>/A/Antonovych_Mykhailo/index.xml</id>
+    <link href="/A/Antonovych_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Михайло Дмитрович</title>
+    <id>/A/Antonovych_Mykhailo_Dmytrovych/index.xml</id>
+    <link href="/A/Antonovych_Mykhailo_Dmytrovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Дмитро</title>
+    <id>/A/Antonovych_Dmytro/index.xml</id>
+    <link href="/A/Antonovych_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Катерина</title>
+    <id>/A/Antonovych_Kateryna/index.xml</id>
+    <link href="/A/Antonovych_Kateryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Ганна</title>
+    <id>/A/Antonovych_Hanna/index.xml</id>
+    <link href="/A/Antonovych_Hanna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Мирослава</title>
+    <id>/A/Antonovych_Myroslava/index.xml</id>
+    <link href="/A/Antonovych_Myroslava/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Євген</title>
+    <id>/A/Antonovych_Yevhen/index.xml</id>
+    <link href="/A/Antonovych_Yevhen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович П.</title>
+    <id>/A/Antonovych_P/index.xml</id>
+    <link href="/A/Antonovych_P/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович Семен</title>
+    <id>/A/Antonovych_Semen/index.xml</id>
+    <link href="/A/Antonovych_Semen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович-Мельник Катерина</title>
+    <id>/A/Antonovych-Melnyk_Kateryna/index.xml</id>
+    <link href="/A/Antonovych-Melnyk_Kateryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонович-Рудницька Марина</title>
+    <id>/A/Antonovych-Rudnytska_Maryna/index.xml</id>
+    <link href="/A/Antonovych-Rudnytska_Maryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонченко Тетяна</title>
+    <id>/A/Antonchenko_Tetiana/index.xml</id>
+    <link href="/A/Antonchenko_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Зіновій</title>
+    <id>/A/Antoniuk_Zinovii/index.xml</id>
+    <link href="/A/Antoniuk_Zinovii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Ярослав</title>
+    <id>/A/Antoniuk_Yaroslav/index.xml</id>
+    <link href="/A/Antoniuk_Yaroslav/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Сергій</title>
+    <id>/A/Antoniuk_Serhii/index.xml</id>
+    <link href="/A/Antoniuk_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Олександр</title>
+    <id>/A/Antoniuk_Oleksandr/index.xml</id>
+    <link href="/A/Antoniuk_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Поліна</title>
+    <id>/A/Antoniuk_Polina/index.xml</id>
+    <link href="/A/Antoniuk_Polina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Тетяна</title>
+    <id>/A/Antoniuk_Tetiana/index.xml</id>
+    <link href="/A/Antoniuk_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Дмитро</title>
+    <id>/A/Antoniuk_Dmytro/index.xml</id>
+    <link href="/A/Antoniuk_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Катерина</title>
+    <id>/A/Antoniuk_Kateryna/index.xml</id>
+    <link href="/A/Antoniuk_Kateryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Наталія</title>
+    <id>/A/Antoniuk_Nataliia/index.xml</id>
+    <link href="/A/Antoniuk_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Андрій</title>
+    <id>/A/Antoniuk_Andrii/index.xml</id>
+    <link href="/A/Antoniuk_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Микола</title>
+    <id>/A/Antoniuk_Mykola/index.xml</id>
+    <link href="/A/Antoniuk_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк Данило</title>
+    <id>/A/Antoniuk_Danylo/index.xml</id>
+    <link href="/A/Antoniuk_Danylo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонюк-Кисіль Павло</title>
+    <id>/A/Antoniuk-Kysil_Pavlo/index.xml</id>
+    <link href="/A/Antoniuk-Kysil_Pavlo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоняк Божена</title>
+    <id>/A/Antoniak_Bozhena/index.xml</id>
+    <link href="/A/Antoniak_Bozhena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антоняк Ярослав</title>
+    <id>/A/Antoniak_YaYu/index.xml</id>
+    <link href="/A/Antoniak_YaYu/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антонян Арт</title>
+    <id>/A/Antonian_Art/index.xml</id>
+    <link href="/A/Antonian_Art/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антохів-Сколоздра Олеся</title>
+    <id>/A/Antokhiv-Skolozdra_Olesia/index.xml</id>
+    <link href="/A/Antokhiv-Skolozdra_Olesia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антошкіна Лідія</title>
+    <id>/A/Antoshkina_Lidiia/index.xml</id>
+    <link href="/A/Antoshkina_Lidiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антощак Марина</title>
+    <id>/A/Antoschak_Maryna/index.xml</id>
+    <link href="/A/Antoschak_Maryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антощук Андрій</title>
+    <id>/A/Antoschuk_Andrii/index.xml</id>
+    <link href="/A/Antoschuk_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Антюфєєва Юлія</title>
+    <id>/A/Antiufieieva_Yuliia/index.xml</id>
+    <link href="/A/Antiufieieva_Yuliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ануй Жан</title>
+    <id>/A/Jean_Anouilh/index.xml</id>
+    <link href="/A/Jean_Anouilh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ануфрієва Світлана</title>
+    <id>/A/Anufriieva_Svitlana/index.xml</id>
+    <link href="/A/Anufriieva_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ануфрієва Оксана</title>
+    <id>/A/Anufriieva_Oksana/index.xml</id>
+    <link href="/A/Anufriieva_Oksana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анхим Олексій</title>
+    <id>/A/Ankhym_Oleksii/index.xml</id>
+    <link href="/A/Ankhym_Oleksii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Анцишкін Ігор</title>
+    <id>/A/Antsyshkin_I_V/index.xml</id>
+    <link href="/A/Antsyshkin_I_V/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апальков Олександр</title>
+    <id>/A/Apalkov_Oleksandr/index.xml</id>
+    <link href="/A/Apalkov_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апанавічюс Ромуалдас</title>
+    <id>/A/Apanavicius_Romualdas/index.xml</id>
+    <link href="/A/Apanavicius_Romualdas/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апанасенко Галина</title>
+    <id>/A/Apanasenko_Halyna/index.xml</id>
+    <link href="/A/Apanasenko_Halyna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апанович Олена</title>
+    <id>/A/Apanovych/index.xml</id>
+    <link href="/A/Apanovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апатова Наталія</title>
+    <id>/A/Apatova_Nataliia/index.xml</id>
+    <link href="/A/Apatova_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апдайк Джон</title>
+    <id>/A/Apdaik/index.xml</id>
+    <link href="/A/Apdaik/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апель Карл-Отто</title>
+    <id>/A/Apel_Karl-Otto/index.xml</id>
+    <link href="/A/Apel_Karl-Otto/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апітц Бруно</title>
+    <id>/A/Apitts_Bruno/index.xml</id>
+    <link href="/A/Apitts_Bruno/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аполлінер Ґійом</title>
+    <id>/A/Apolliner_Giiom/index.xml</id>
+    <link href="/A/Apolliner_Giiom/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апостол Михайло</title>
+    <id>/A/Apostol_Mykhailo/index.xml</id>
+    <link href="/A/Apostol_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апостолова Галина</title>
+    <id>/A/Apostolova_Halyna/index.xml</id>
+    <link href="/A/Apostolova_Halyna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Априлов Борис</title>
+    <id>/A/Aprylov_Borys/index.xml</id>
+    <link href="/A/Aprylov_Borys/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аптекарєв Володимир</title>
+    <id>/A/Aptekariev_Volodymyr/index.xml</id>
+    <link href="/A/Aptekariev_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аптєкарєв Володимир</title>
+    <id>/A/Aptiekariev_Volodymyr/index.xml</id>
+    <link href="/A/Aptiekariev_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Апутіс Юозас</title>
+    <id>/A/Juozas_Aputis/index.xml</id>
+    <link href="/A/Juozas_Aputis/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ар'є-Сапір Нілі</title>
+    <id>/A/Aryeh-Sapir_Nili/index.xml</id>
+    <link href="/A/Aryeh-Sapir_Nili/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арабаджи Світлана</title>
+    <id>/A/Arabadzhy_Svitlana/index.xml</id>
+    <link href="/A/Arabadzhy_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арабська культура</title>
+    <id>/A/Arabska_kultura/index.xml</id>
+    <link href="/A/Arabska_kultura/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арабулі Гіоргій</title>
+    <id>/A/Arabuli_Hiorhii/index.xml</id>
+    <link href="/A/Arabuli_Hiorhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Араґон Луї</title>
+    <id>/A/Aragon_Louis/index.xml</id>
+    <link href="/A/Aragon_Louis/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аранґо Анхель</title>
+    <id>/A/Arango_Angel/index.xml</id>
+    <link href="/A/Arango_Angel/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арань Янош</title>
+    <id>/A/Arany_Janos/index.xml</id>
+    <link href="/A/Arany_Janos/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арасимович Любов</title>
+    <id>/A/Arasymovych_Liubov/index.xml</id>
+    <link href="/A/Arasymovych_Liubov/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арбо Себастьян Хуан</title>
+    <id>/A/Arbo_Sebastia_Juan/index.xml</id>
+    <link href="/A/Arbo_Sebastia_Juan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аргатюк Сергій</title>
+    <id>/A/Arhatiuk_Serhii/index.xml</id>
+    <link href="/A/Arhatiuk_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арґезі Тудор</title>
+    <id>/A/Arghezi_Tudor/index.xml</id>
+    <link href="/A/Arghezi_Tudor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арґо Г.</title>
+    <id>/A/Argo_H/index.xml</id>
+    <link href="/A/Argo_H/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арґо Абрам</title>
+    <id>/A/Arho_Abram/index.xml</id>
+    <link href="/A/Arho_Abram/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ардаматскій Васілій</title>
+    <id>/A/Ardamatskyi_Vasyl/index.xml</id>
+    <link href="/A/Ardamatskyi_Vasyl/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арден Джон</title>
+    <id>/A/John_Arden/index.xml</id>
+    <link href="/A/John_Arden/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арджіллі Марчелло</title>
+    <id>/A/Ardzhilli_Marchello/index.xml</id>
+    <link href="/A/Ardzhilli_Marchello/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арділа-і-Арділа Рубен</title>
+    <id>/A/Ardila-i-Ardila_Ruben/index.xml</id>
+    <link href="/A/Ardila-i-Ardila_Ruben/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арель Домінік</title>
+    <id>/A/Dominique_Arel/index.xml</id>
+    <link href="/A/Dominique_Arel/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ареналь Умберто</title>
+    <id>/A/Arenal_Humberto/index.xml</id>
+    <link href="/A/Arenal_Humberto/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арендар Ганна</title>
+    <id>/A/Arendar_Hanna/index.xml</id>
+    <link href="/A/Arendar_Hanna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арендт Ганна</title>
+    <id>/A/Arendt_Hanna/index.xml</id>
+    <link href="/A/Arendt_Hanna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арешонков Віталій</title>
+    <id>/A/Areshonkov_Vitalii/index.xml</id>
+    <link href="/A/Areshonkov_Vitalii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арєнєв Володимир</title>
+    <id>/A/Arenev_Volodymyr/index.xml</id>
+    <link href="/A/Arenev_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арєшніков Борис Андрійович</title>
+    <id>/A/Arieshnikov_Borys_Andriiovych/index.xml</id>
+    <link href="/A/Arieshnikov_Borys_Andriiovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аржаковський Антуан</title>
+    <id>/A/Arjakovsky_Antoine/index.xml</id>
+    <link href="/A/Arjakovsky_Antoine/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арзуманова Тетяна</title>
+    <id>/A/Arzumanova_Tetiana/index.xml</id>
+    <link href="/A/Arzumanova_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аринин Іван</title>
+    <id>/A/Arynyn_Ivan/index.xml</id>
+    <link href="/A/Arynyn_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аринін Іван</title>
+    <id>/A/Arynin_Ivan/index.xml</id>
+    <link href="/A/Arynin_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аріосто Лудовіко</title>
+    <id>/A/Ariosto_Ludovico/index.xml</id>
+    <link href="/A/Ariosto_Ludovico/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арісіма Такео</title>
+    <id>/A/Arisima_Takeo/index.xml</id>
+    <link href="/A/Arisima_Takeo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арістов Вадим</title>
+    <id>/A/Aristov_Vadym/index.xml</id>
+    <link href="/A/Aristov_Vadym/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арістова Алла</title>
+    <id>/A/Aristova_Alla/index.xml</id>
+    <link href="/A/Aristova_Alla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арістотель</title>
+    <id>/A/Aristotle/index.xml</id>
+    <link href="/A/Aristotle/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арістофан</title>
+    <id>/A/Aristophanes/index.xml</id>
+    <link href="/A/Aristophanes/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аркас Микола (старший)</title>
+    <id>/A/Arkas_Mykola_st/index.xml</id>
+    <link href="/A/Arkas_Mykola_st/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аркас Микола</title>
+    <id>/A/Arkas_Mykola/index.xml</id>
+    <link href="/A/Arkas_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арквілла Джон</title>
+    <id>/A/John_Arquilla/index.xml</id>
+    <link href="/A/John_Arquilla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арконада Сесар Муньос</title>
+    <id>/A/Arconada_Cesar_Munoz/index.xml</id>
+    <link href="/A/Arconada_Cesar_Munoz/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аркуша Олена</title>
+    <id>/A/Arkusha_Olena/index.xml</id>
+    <link href="/A/Arkusha_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аркушин Григорій</title>
+    <id>/A/Arkushyn_Hryhorii/index.xml</id>
+    <link href="/A/Arkushyn_Hryhorii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арлан Марсель</title>
+    <id>/A/Arlan_Marsel/index.xml</id>
+    <link href="/A/Arlan_Marsel/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арлов Уладзімєр</title>
+    <id>/A/Arlov_Uladzimier/index.xml</id>
+    <link href="/A/Arlov_Uladzimier/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Армас Елена</title>
+    <id>/A/Armas_Elena/index.xml</id>
+    <link href="/A/Armas_Elena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Армен Маруся</title>
+    <id>/A/Armen_Marusia/index.xml</id>
+    <link href="/A/Armen_Marusia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Армен А.</title>
+    <id>/A/Armen_A/index.xml</id>
+    <link href="/A/Armen_A/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Армстронґ Джон</title>
+    <id>/A/Armstrong_John/index.xml</id>
+    <link href="/A/Armstrong_John/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Армстронґ Дж. К.</title>
+    <id>/A/JK_Armstrong/index.xml</id>
+    <link href="/A/JK_Armstrong/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арнасон Девiд</title>
+    <id>/A/Arnason_David/index.xml</id>
+    <link href="/A/Arnason_David/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арнім Беттіна фон</title>
+    <id>/A/Arnim_Bettina_von/index.xml</id>
+    <link href="/A/Arnim_Bettina_von/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арнім Ахім фон</title>
+    <id>/A/Arnim_Achim_von/index.xml</id>
+    <link href="/A/Arnim_Achim_von/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арон Раймон</title>
+    <id>/A/Aron_Raymond/index.xml</id>
+    <link href="/A/Aron_Raymond/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аронов Гелій</title>
+    <id>/A/Helii_Aronov/index.xml</id>
+    <link href="/A/Helii_Aronov/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арот Ф.</title>
+    <id>/A/Arot_F/index.xml</id>
+    <link href="/A/Arot_F/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арофікін Володимир</title>
+    <id>/A/Arofikin_Volodymyr/index.xml</id>
+    <link href="/A/Arofikin_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арполенко Галина</title>
+    <id>/A/Arpolenko_Halyna/index.xml</id>
+    <link href="/A/Arpolenko_Halyna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арсенич Петро</title>
+    <id>/A/Arsenych_Petro/index.xml</id>
+    <link href="/A/Arsenych_Petro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арсеніч Магда</title>
+    <id>/A/Arsenich_Mahda/index.xml</id>
+    <link href="/A/Arsenich_Mahda/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арсєнов Ґєорґій</title>
+    <id>/A/Arsenov_Georgii/index.xml</id>
+    <link href="/A/Arsenov_Georgii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арсєньєв Владімір</title>
+    <id>/A/Arseniev_Volodymyr/index.xml</id>
+    <link href="/A/Arseniev_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артамановська Світлана</title>
+    <id>/A/Artamanovska_Svitlana/index.xml</id>
+    <link href="/A/Artamanovska_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артамонов Олександр</title>
+    <id>/A/Artamonov_Oleksandr/index.xml</id>
+    <link href="/A/Artamonov_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артамонов Михайло</title>
+    <id>/A/Artamonov_Mykhailo/index.xml</id>
+    <link href="/A/Artamonov_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артамонов Владімір</title>
+    <id>/A/Artamonov_Vladimir/index.xml</id>
+    <link href="/A/Artamonov_Vladimir/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артамонова Світлана</title>
+    <id>/A/Artamonova_SS/index.xml</id>
+    <link href="/A/Artamonova_SS/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артамонова Ксенія</title>
+    <id>/A/Artamonova_Kseniia/index.xml</id>
+    <link href="/A/Artamonova_Kseniia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артамонова Віра</title>
+    <id>/A/Artamonova_Vira/index.xml</id>
+    <link href="/A/Artamonova_Vira/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артем’єва Оксана</title>
+    <id>/A/Artemieva_Oksana/index.xml</id>
+    <link href="/A/Artemieva_Oksana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко Володимир</title>
+    <id>/A/Artemenko_Volodymyr/index.xml</id>
+    <link href="/A/Artemenko_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко Юрій</title>
+    <id>/A/Artemenko_Yurii/index.xml</id>
+    <link href="/A/Artemenko_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко Іван</title>
+    <id>/A/Artemenko_Ivan/index.xml</id>
+    <link href="/A/Artemenko_Ivan/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко М.</title>
+    <id>/A/Artemenko_M/index.xml</id>
+    <link href="/A/Artemenko_M/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко Андрій</title>
+    <id>/A/Artemenko_Andrii/index.xml</id>
+    <link href="/A/Artemenko_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко Микола Михайлович</title>
+    <id>/A/Artemenko_Mykola_Mykhailovych/index.xml</id>
+    <link href="/A/Artemenko_Mykola_Mykhailovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко О. О.</title>
+    <id>/A/Artemenko_O_O/index.xml</id>
+    <link href="/A/Artemenko_O_O/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко Марія</title>
+    <id>/A/Artemenko_Mariia/index.xml</id>
+    <link href="/A/Artemenko_Mariia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко Вадим</title>
+    <id>/A/Artemenko_Vadym/index.xml</id>
+    <link href="/A/Artemenko_Vadym/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артеменко Олександр</title>
+    <id>/A/Artemenko_Oleksandr/index.xml</id>
+    <link href="/A/Artemenko_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артемов Володимир</title>
+    <id>/A/Artemov_Volodymyr/index.xml</id>
+    <link href="/A/Artemov_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артемова Людмила</title>
+    <id>/A/Artemova_Liudmyla/index.xml</id>
+    <link href="/A/Artemova_Liudmyla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артемчук Ігор</title>
+    <id>/A/Artemchuk_Ihor/index.xml</id>
+    <link href="/A/Artemchuk_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артимишин Павло</title>
+    <id>/A/Artymyshyn_Pavlo/index.xml</id>
+    <link href="/A/Artymyshyn_Pavlo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артимишин Юлія</title>
+    <id>/A/Artymyshyn_Yuliia/index.xml</id>
+    <link href="/A/Artymyshyn_Yuliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артимович Агенор</title>
+    <id>/A/Artymovych_Ahenor/index.xml</id>
+    <link href="/A/Artymovych_Ahenor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артиш Ольга</title>
+    <id>/A/Artysh_Olha/index.xml</id>
+    <link href="/A/Artysh_Olha/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артізов Андрій</title>
+    <id>/A/Artizov_Andrii/index.xml</id>
+    <link href="/A/Artizov_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артманн Ганс Карл</title>
+    <id>/A/Artmann_Hans_Carl/index.xml</id>
+    <link href="/A/Artmann_Hans_Carl/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артур Роберт</title>
+    <id>/A/Arthur_Robert/index.xml</id>
+    <link href="/A/Arthur_Robert/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюх В'ячеслав</title>
+    <id>/A/Artiukh_Viacheslav/index.xml</id>
+    <link href="/A/Artiukh_Viacheslav/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюх Володимир</title>
+    <id>/A/Artiukh_Volodymyr/index.xml</id>
+    <link href="/A/Artiukh_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюх Лідія</title>
+    <id>/A/Artiukh_Lidiia/index.xml</id>
+    <link href="/A/Artiukh_Lidiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюх Аліна</title>
+    <id>/A/Artiukh_Alina/index.xml</id>
+    <link href="/A/Artiukh_Alina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюх Вадим</title>
+    <id>/A/Artiukh_Vadym/index.xml</id>
+    <link href="/A/Artiukh_Vadym/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюшенко Сергій</title>
+    <id>/A/Artiushenko_Serhii/index.xml</id>
+    <link href="/A/Artiushenko_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюшенко Злата</title>
+    <id>/A/Artiushenko_Zlata/index.xml</id>
+    <link href="/A/Artiushenko_Zlata/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюшенко Микола</title>
+    <id>/A/Artiushenko_Mykola/index.xml</id>
+    <link href="/A/Artiushenko_Mykola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюшенко Микола Матвійович</title>
+    <id>/A/Artiushenko_Mykola_Matviiovych/index.xml</id>
+    <link href="/A/Artiushenko_Mykola_Matviiovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Артюшин Володимир</title>
+    <id>/A/Artiushyn_Volodymyr/index.xml</id>
+    <link href="/A/Artiushyn_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арутюнян Ашот</title>
+    <id>/A/Arutyunian_Ashot/index.xml</id>
+    <link href="/A/Arutyunian_Ashot/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арутюнянц Анатолій</title>
+    <id>/A/Arutiuniants_Anatolii/index.xml</id>
+    <link href="/A/Arutiuniants_Anatolii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архангельська Алла</title>
+    <id>/A/Arkhanhelska_Alla/index.xml</id>
+    <link href="/A/Arkhanhelska_Alla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Археологічні відкриття в Україні</title>
+    <id>/A/Arkheolohichni_vidkryttia_v_Ukraini/index.xml</id>
+    <link href="/A/Arkheolohichni_vidkryttia_v_Ukraini/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архимович Лідія</title>
+    <id>/A/Arkhymovych_Lidiia/index.xml</id>
+    <link href="/A/Arkhymovych_Lidiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архипова Світлана</title>
+    <id>/A/Arkhypova_Svitlana/index.xml</id>
+    <link href="/A/Arkhypova_Svitlana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архипова Єлизавета</title>
+    <id>/A/Arkhypova_Yelyzaveta/index.xml</id>
+    <link href="/A/Arkhypova_Yelyzaveta/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архипчук Володимир</title>
+    <id>/A/Arkhypchuk_Volodymyr/index.xml</id>
+    <link href="/A/Arkhypchuk_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архів Радянської України</title>
+    <id>/A/Arkhiv_Radianskoi_Ukrainy/index.xml</id>
+    <link href="/A/Arkhiv_Radianskoi_Ukrainy/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архів ранньомодерної Української держави</title>
+    <id>/A/Arkhiv_rannomodernoi_Ukrainskoi_derzhavy/index.xml</id>
+    <link href="/A/Arkhiv_rannomodernoi_Ukrainskoi_derzhavy/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архієреєв Сергій</title>
+    <id>/A/Arkhiiereiev_Serhii/index.xml</id>
+    <link href="/A/Arkhiiereiev_Serhii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архілох</title>
+    <id>/A/Archilochus/index.xml</id>
+    <link href="/A/Archilochus/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архімович Олександр</title>
+    <id>/A/Arkhimovych_Oleksandr/index.xml</id>
+    <link href="/A/Arkhimovych_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архіпов Тимофій</title>
+    <id>/A/Arkhipov_Tymofii/index.xml</id>
+    <link href="/A/Arkhipov_Tymofii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архіпова Ірина</title>
+    <id>/A/Arkhipova_Iryna/index.xml</id>
+    <link href="/A/Arkhipova_Iryna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архіпова Єлизавета</title>
+    <id>/A/Arkhipova_Yelyzaveta/index.xml</id>
+    <link href="/A/Arkhipova_Yelyzaveta/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Архірейський Дмитро</title>
+    <id>/A/Arkhireiskyi_Dmytro/index.xml</id>
+    <link href="/A/Arkhireiskyi_Dmytro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арцибашева Тетяна</title>
+    <id>/A/Artsybasheva_Tetiana/index.xml</id>
+    <link href="/A/Artsybasheva_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Арчер Джеффрі</title>
+    <id>/A/Archer_Dzheffri/index.xml</id>
+    <link href="/A/Archer_Dzheffri/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асадчих Оксана</title>
+    <id>/A/Asadchykh_Oksana/index.xml</id>
+    <link href="/A/Asadchykh_Oksana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асанов Ніколай</title>
+    <id>/A/Asanov_Nikolai/index.xml</id>
+    <link href="/A/Asanov_Nikolai/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асаткін О.М.</title>
+    <id>/A/Asatkin_OM/index.xml</id>
+    <link href="/A/Asatkin_OM/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асбйорнсен Петер Крістен</title>
+    <id>/A/Asbjornsen_Peter_Christen/index.xml</id>
+    <link href="/A/Asbjornsen_Peter_Christen/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асеведо Діас Едуардо</title>
+    <id>/A/Asevedo_Diaz_Eduardo/index.xml</id>
+    <link href="/A/Asevedo_Diaz_Eduardo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асєєв Юрій</title>
+    <id>/A/Asieiev_Yurii/index.xml</id>
+    <link href="/A/Asieiev_Yurii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асєєв Станіслав</title>
+    <id>/A/Asieiev_Stanislav/index.xml</id>
+    <link href="/A/Asieiev_Stanislav/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асєєв Ніколай</title>
+    <id>/A/Asieiev_Nikolai/index.xml</id>
+    <link href="/A/Asieiev_Nikolai/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аскерова Людмила</title>
+    <id>/A/Askerova_Liudmyla/index.xml</id>
+    <link href="/A/Askerova_Liudmyla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аслонова Софія</title>
+    <id>/A/Aslonova_Sofiia/index.xml</id>
+    <link href="/A/Aslonova_Sofiia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асман Анжела</title>
+    <id>/A/Asman_Anzhela/index.xml</id>
+    <link href="/A/Asman_Anzhela/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асонов М.</title>
+    <id>/A/Asonov_M/index.xml</id>
+    <link href="/A/Asonov_M/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ассіс Машаду де</title>
+    <id>/A/Assis_Machado_de/index.xml</id>
+    <link href="/A/Assis_Machado_de/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ассман Аляйда</title>
+    <id>/A/Aleida_Assmann/index.xml</id>
+    <link href="/A/Aleida_Assmann/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ассонова Ніна</title>
+    <id>/A/Assonova_Nina/index.xml</id>
+    <link href="/A/Assonova_Nina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ассулін П'єр</title>
+    <id>/A/Assulin_Pier/index.xml</id>
+    <link href="/A/Assulin_Pier/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астапенко Ігор</title>
+    <id>/A/Astapenko_Ihor/index.xml</id>
+    <link href="/A/Astapenko_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астапенко Тетяна</title>
+    <id>/A/Astapenko_Tetiana/index.xml</id>
+    <link href="/A/Astapenko_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астапцева Христина</title>
+    <id>/A/Astaptseva_Khrystyna/index.xml</id>
+    <link href="/A/Astaptseva_Khrystyna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астаф'єв Олександр</title>
+    <id>/A/Astafiev_Oleksandr/index.xml</id>
+    <link href="/A/Astafiev_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астаф'єв Віктор</title>
+    <id>/A/Astafiev_Viktor/index.xml</id>
+    <link href="/A/Astafiev_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астахов Олександр</title>
+    <id>/A/Astakhov_Oleksandr/index.xml</id>
+    <link href="/A/Astakhov_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астахова Наталя</title>
+    <id>/A/Astakhova_Natalia/index.xml</id>
+    <link href="/A/Astakhova_Natalia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асташкін Олег</title>
+    <id>/A/Astashkin_Oleh/index.xml</id>
+    <link href="/A/Astashkin_Oleh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Асташова Олександра</title>
+    <id>/A/Astashova_Oleksandra/index.xml</id>
+    <link href="/A/Astashova_Oleksandra/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астра Лола</title>
+    <id>/A/Astra_Lola/index.xml</id>
+    <link href="/A/Astra_Lola/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астров-Чубенко В'ячеслав</title>
+    <id>/A/Astrov-Chubenko_Viacheslav/index.xml</id>
+    <link href="/A/Astrov-Chubenko_Viacheslav/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астряб Олександр</title>
+    <id>/A/Astriab_Oleksandr/index.xml</id>
+    <link href="/A/Astriab_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Астуріас Мігель Анхель</title>
+    <id>/A/Asturias_Mihel_Ankhel/index.xml</id>
+    <link href="/A/Asturias_Mihel_Ankhel/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>ат-Тантаві Алі</title>
+    <id>/A/at-Tantavi_Ali/index.xml</id>
+    <link href="/A/at-Tantavi_Ali/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаман Олександр</title>
+    <id>/A/Ataman_Oleksandr/index.xml</id>
+    <link href="/A/Ataman_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманенко Віктор</title>
+    <id>/A/Atamanenko_Viktor/index.xml</id>
+    <link href="/A/Atamanenko_Viktor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманенко Алла</title>
+    <id>/A/Atamanenko_Alla/index.xml</id>
+    <link href="/A/Atamanenko_Alla/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманчук Петро</title>
+    <id>/A/Atamanchuk_Petro/index.xml</id>
+    <link href="/A/Atamanchuk_Petro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманчук Вікторія</title>
+    <id>/A/Atamanchuk_Viktoriia/index.xml</id>
+    <link href="/A/Atamanchuk_Viktoriia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманчук Володимир</title>
+    <id>/A/Atamanchuk_Volodymyr/index.xml</id>
+    <link href="/A/Atamanchuk_Volodymyr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманчук Ніна</title>
+    <id>/A/Atamanchuk_Nina/index.xml</id>
+    <link href="/A/Atamanchuk_Nina/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманюк Михайло</title>
+    <id>/A/Atamaniuk_Mykhailo/index.xml</id>
+    <link href="/A/Atamaniuk_Mykhailo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманюк Марія-Тетяна</title>
+    <id>/A/Atamaniuk_Mariia-Tetiana/index.xml</id>
+    <link href="/A/Atamaniuk_Mariia-Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атаманюк Василь Іванович</title>
+    <id>/A/Atamaniuk_Vasyl_Ivanovych/index.xml</id>
+    <link href="/A/Atamaniuk_Vasyl_Ivanovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атамас Петро</title>
+    <id>/A/Atamas_Petro/index.xml</id>
+    <link href="/A/Atamas_Petro/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атамась Наталія</title>
+    <id>/A/Atamas_Nataliia/index.xml</id>
+    <link href="/A/Atamas_Nataliia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атанасов Герчо</title>
+    <id>/A/Atanasov_Hercho/index.xml</id>
+    <link href="/A/Atanasov_Hercho/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атар Тірца</title>
+    <id>/A/Atar_Tirtsa/index.xml</id>
+    <link href="/A/Atar_Tirtsa/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атигаєв Убітай</title>
+    <id>/A/Atyhaiev_Ubitai/index.xml</id>
+    <link href="/A/Atyhaiev_Ubitai/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атіас Ґільєрмо</title>
+    <id>/A/Atias_Guillermo/index.xml</id>
+    <link href="/A/Atias_Guillermo/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аткінсон Кейт</title>
+    <id>/A/Atkinson_Keit/index.xml</id>
+    <link href="/A/Atkinson_Keit/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аткінсон Вільям Вокер</title>
+    <id>/A/William_Walker_Atkinson/index.xml</id>
+    <link href="/A/William_Walker_Atkinson/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атланов Валерій</title>
+    <id>/A/Atlanov_Valerii/index.xml</id>
+    <link href="/A/Atlanov_Valerii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Атос</title>
+    <id>/A/Atos/index.xml</id>
+    <link href="/A/Atos/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ауб Макс</title>
+    <id>/A/Aub_Max/index.xml</id>
+    <link href="/A/Aub_Max/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ауда Джасер</title>
+    <id>/A/Auda_Dzhaser/index.xml</id>
+    <link href="/A/Auda_Dzhaser/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ауезов Мухтар</title>
+    <id>/A/Auezov_Mukhtar/index.xml</id>
+    <link href="/A/Auezov_Mukhtar/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ауербах Ганс</title>
+    <id>/A/Auerbach_Hans/index.xml</id>
+    <link href="/A/Auerbach_Hans/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аукебаєв Есет</title>
+    <id>/A/Aukebaiev_Eset/index.xml</id>
+    <link href="/A/Aukebaiev_Eset/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ауліна Олена</title>
+    <id>/A/Aulina_Olena/index.xml</id>
+    <link href="/A/Aulina_Olena/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ауліх Вітольд</title>
+    <id>/A/Aulikh_VV/index.xml</id>
+    <link href="/A/Aulikh_VV/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ауслендер Роза</title>
+    <id>/A/Auslender_Roza/index.xml</id>
+    <link href="/A/Auslender_Roza/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афанасьєв Олександр Гаврилович</title>
+    <id>/A/Afanasiev_Oleksandr_Havrylovych/index.xml</id>
+    <link href="/A/Afanasiev_Oleksandr_Havrylovych/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афанасьєв Ілля</title>
+    <id>/A/Afanasiev_Illia/index.xml</id>
+    <link href="/A/Afanasiev_Illia/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афанасьєв Олег</title>
+    <id>/A/Afanasiev_Oleh/index.xml</id>
+    <link href="/A/Afanasiev_Oleh/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афанасьєв Василь</title>
+    <id>/A/Afanasiev_Vasyl/index.xml</id>
+    <link href="/A/Afanasiev_Vasyl/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афанасьєв-Чужбинський Олександр</title>
+    <id>/A/Afanasiev-Chuzhbynskyi_Oleksandr/index.xml</id>
+    <link href="/A/Afanasiev-Chuzhbynskyi_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афанасьєва В. Е.</title>
+    <id>/A/Afanasieva_V_E/index.xml</id>
+    <link href="/A/Afanasieva_V_E/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афганський народ</title>
+    <id>/A/Afhanskyi_narod/index.xml</id>
+    <link href="/A/Afhanskyi_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афнер Григорій</title>
+    <id>/A/Afner_Hryhorii/index.xml</id>
+    <link href="/A/Afner_Hryhorii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афонін Едуард</title>
+    <id>/A/Afonin_Eduard/index.xml</id>
+    <link href="/A/Afonin_Eduard/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афонін Олександр</title>
+    <id>/A/Afonin_Oleksandr/index.xml</id>
+    <link href="/A/Afonin_Oleksandr/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Африки народ</title>
+    <id>/A/Afryky_narod/index.xml</id>
+    <link href="/A/Afryky_narod/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Афтанас Андрій</title>
+    <id>/A/Aftanas_Andrii/index.xml</id>
+    <link href="/A/Aftanas_Andrii/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ахеліс Тома</title>
+    <id>/A/Akhelis_Toma/index.xml</id>
+    <link href="/A/Akhelis_Toma/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ахматова Анна</title>
+    <id>/A/Akhmatova_Anna/index.xml</id>
+    <link href="/A/Akhmatova_Anna/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ахмедова Ельвіра</title>
+    <id>/A/Akhmedova_Elvira/index.xml</id>
+    <link href="/A/Akhmedova_Elvira/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ахмедова Ельміра</title>
+    <id>/A/Akhmedova_Elmira/index.xml</id>
+    <link href="/A/Akhmedova_Elmira/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ахметов Абдікарім</title>
+    <id>/A/Akhmetov_Abdikarim/index.xml</id>
+    <link href="/A/Akhmetov_Abdikarim/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ахтарджієв Христо</title>
+    <id>/A/Akhtardzhiiev_Khrysto/index.xml</id>
+    <link href="/A/Akhtardzhiiev_Khrysto/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ачканов Федір</title>
+    <id>/A/Achkanov_Fedir/index.xml</id>
+    <link href="/A/Achkanov_Fedir/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ачкіназі Ігор</title>
+    <id>/A/Achkinazi_Ihor/index.xml</id>
+    <link href="/A/Achkinazi_Ihor/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ачкіназі Борис</title>
+    <id>/A/Achkinazi_B/index.xml</id>
+    <link href="/A/Achkinazi_B/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ашер Джей</title>
+    <id>/A/Asher_Dzhei/index.xml</id>
+    <link href="/A/Asher_Dzhei/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ашур Омар</title>
+    <id>/A/Ashur_Omar/index.xml</id>
+    <link href="/A/Ashur_Omar/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Ащаулова Тетяна</title>
+    <id>/A/Aschaulova_Tetiana/index.xml</id>
+    <link href="/A/Aschaulova_Tetiana/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аяко Соно</title>
+    <id>/A/Ayako_Sono/index.xml</id>
+    <link href="/A/Ayako_Sono/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Аясрах Ахмад Расмі Алі</title>
+    <id>/A/Ayasrah_Ahmad_Rasmi_Ali/index.xml</id>
+    <link href="/A/Ayasrah_Ahmad_Rasmi_Ali/index.xml" rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+</feed>
